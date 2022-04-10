@@ -1,0 +1,177 @@
+[
+    {
+        "Nature": "Adamant",
+        "Increases": "Attack",
+        "Decreases": "Sp. Atk",
+        "Likes_berrie": "Spicy",
+        "Dislikes_berrie": "Dry"
+    },
+    {
+        "Nature": "Bashful",
+        "Increases": "Sp. Atk",
+        "Decreases": "Sp. Atk",
+        "Likes_berrie": "Dry",
+        "Dislikes_berrie": "Dry"
+    },
+    {
+        "Nature": "Bold",
+        "Increases": "Defense",
+        "Decreases": "Attack",
+        "Likes_berrie": "Sour",
+        "Dislikes_berrie": "Spicy"
+    },
+    {
+        "Nature": "Brave",
+        "Increases": "Attack",
+        "Decreases": "Speed",
+        "Likes_berrie": "Spicy",
+        "Dislikes_berrie": "Sweet"
+    },
+    {
+        "Nature": "Calm",
+        "Increases": "Sp. Def",
+        "Decreases": "Attack",
+        "Likes_berrie": "Bitter",
+        "Dislikes_berrie": "Spicy"
+    },
+    {
+        "Nature": "Careful",
+        "Increases": "Sp. Def",
+        "Decreases": "Sp. Atk",
+        "Likes_berrie": "Bitter",
+        "Dislikes_berrie": "Dry"
+    },
+    {
+        "Nature": "Docile",
+        "Increases": "Defense",
+        "Decreases": "Defense",
+        "Likes_berrie": "Sour",
+        "Dislikes_berrie": "Sour"
+    },
+    {
+        "Nature": "Gentle",
+        "Increases": "Sp. Def",
+        "Decreases": "Defense",
+        "Likes_berrie": "Bitter",
+        "Dislikes_berrie": "Sour"
+    },
+    {
+        "Nature": "Hardy",
+        "Increases": "Attack",
+        "Decreases": "Attack",
+        "Likes_berrie": "Spicy",
+        "Dislikes_berrie": "Spicy"
+    },
+    {
+        "Nature": "Hasty",
+        "Increases": "Speed",
+        "Decreases": "Defense",
+        "Likes_berrie": "Sweet",
+        "Dislikes_berrie": "Sour"
+    },
+    {
+        "Nature": "Impish",
+        "Increases": "Defense",
+        "Decreases": "Sp. Atk",
+        "Likes_berrie": "Sour",
+        "Dislikes_berrie": "Dry"
+    },
+    {
+        "Nature": "Jolly",
+        "Increases": "Speed",
+        "Decreases": "Sp. Atk",
+        "Likes_berrie": "Sweet",
+        "Dislikes_berrie": "Dry"
+    },
+    {
+        "Nature": "Lax",
+        "Increases": "Defense",
+        "Decreases": "Sp. Def",
+        "Likes_berrie": "Sour",
+        "Dislikes_berrie": "Bitter"
+    },
+    {
+        "Nature": "Lonely",
+        "Increases": "Attack",
+        "Decreases": "Defense",
+        "Likes_berrie": "Spicy",
+        "Dislikes_berrie": "Sour"
+    },
+    {
+        "Nature": "Mild",
+        "Increases": "Sp. Atk",
+        "Decreases": "Defense",
+        "Likes_berrie": "Dry",
+        "Dislikes_berrie": "Sour"
+    },
+    {
+        "Nature": "Modest",
+        "Increases": "Sp. Atk",
+        "Decreases": "Attack",
+        "Likes_berrie": "Dry",
+        "Dislikes_berrie": "Spicy"
+    },
+    {
+        "Nature": "Naive",
+        "Increases": "Speed",
+        "Decreases": "Sp. Def",
+        "Likes_berrie": "Sweet",
+        "Dislikes_berrie": "Bitter"
+    },
+    {
+        "Nature": "Naughty",
+        "Increases": "Attack",
+        "Decreases": "Sp. Def",
+        "Likes_berrie": "Spicy",
+        "Dislikes_berrie": "Bitter"
+    },
+    {
+        "Nature": "Quiet",
+        "Increases": "Sp. Atk",
+        "Decreases": "Speed",
+        "Likes_berrie": "Dry",
+        "Dislikes_berrie": "Sweet"
+    },
+    {
+        "Nature": "Quirky",
+        "Increases": "Sp. Def",
+        "Decreases": "Sp. Def",
+        "Likes_berrie": "Bitter",
+        "Dislikes_berrie": "Bitter"
+    },
+    {
+        "Nature": "Rash",
+        "Increases": "Sp. Atk",
+        "Decreases": "Sp. Def",
+        "Likes_berrie": "Dry",
+        "Dislikes_berrie": "Bitter"
+    },
+    {
+        "Nature": "Relaxed",
+        "Increases": "Defense",
+        "Decreases": "Speed",
+        "Likes_berrie": "Sour",
+        "Dislikes_berrie": "Sweet"
+    },
+    {
+        "Nature": "Sassy",
+        "Increases": "Sp. Def",
+        "Decreases": "Speed",
+        "Likes_berrie": "Bitter",
+        "Dislikes_berrie": "Sweet"
+    },
+    {
+        "Nature": "Serious",
+        "Increases": "Speed",
+        "Decreases": "Speed",
+        "Likes_berrie": "Sweet",
+        "Dislikes_berrie": "Sweet"
+    },
+    {
+        "Nature": "Timid",
+        "Increases": "Speed",
+        "Decreases": "Attack",
+        "Likes_berrie": "Sweet",
+        "Dislikes_berrie": "Spicy"
+    }
+]
