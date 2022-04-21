@@ -1,0 +1,4722 @@
+[
+    {
+        "Name": "Ability Capsule",
+        "Category": "Hold items",
+        "Effect": "A capsule that allows a Pokémon with two Abilities to switch between these Abilities when it is used."
+    },
+    {
+        "Name": "Ability Patch",
+        "Category": "General items",
+        "Effect": "Changes a Pokémon's ability to its Hidden Ability."
+    },
+    {
+        "Name": "Ability Urge",
+        "Category": "Battle items",
+        "Effect": "When used, it activates the Ability of an ally Pokémon."
+    },
+    {
+        "Name": "Abomasite",
+        "Category": "Hold items",
+        "Effect": "Enables Abomasnow to Mega Evolve during battle."
+    },
+    {
+        "Name": "Absolite",
+        "Category": "Hold items",
+        "Effect": "Enables Absol to Mega Evolve during battle."
+    },
+    {
+        "Name": "Absorb Bulb",
+        "Category": "Hold items",
+        "Effect": "A consumable bulb. If the holder is hit by a Water-type move, its Sp. Atk will rise."
+    },
+    {
+        "Name": "Adamant Crystal",
+        "Category": "Hold items"
+    },
+    {
+        "Name": "Adamant Mint",
+        "Category": "Battle items",
+        "Effect": "Changes the Pokémon's stats to match the Adamant nature."
+    },
+    {
+        "Name": "Adamant Orb",
+        "Category": "Hold items",
+        "Effect": "Increases the power of Dragon- and Steel-type moves when held by Dialga."
+    },
+    {
+        "Name": "Adrenaline Orb",
+        "Category": "Hold items",
+        "Effect": "Using it makes wild Pokémon more likely to call for help. If held by a Pokémon, it boosts Speed when intimidated. It can be used only once."
+    },
+    {
+        "Name": "Aerodactylite",
+        "Category": "Hold items",
+        "Effect": "Enables Aerodactyl to Mega Evolve during battle."
+    },
+    {
+        "Name": "Aggronite",
+        "Category": "Hold items",
+        "Effect": "Enables Aggron to Mega Evolve during battle."
+    },
+    {
+        "Name": "Aguav Berry",
+        "Category": "Berries",
+        "Effect": "Restores HP if it's low, but may cause confusion."
+    },
+    {
+        "Name": "Air Balloon",
+        "Category": "Hold items",
+        "Effect": "When held by a Pokémon, the Pokémon will float into the air. When the holder is attacked, this item will burst."
+    },
+    {
+        "Name": "Alakazite",
+        "Category": "Hold items",
+        "Effect": "Enables Alakazam to Mega Evolve during battle."
+    },
+    {
+        "Name": "Aloraichium Z",
+        "Category": "Hold items",
+        "Effect": "Allows Alolan Raichu to upgrade Thunderbolt to a Z-Move, Stoked Sparksurfer."
+    },
+    {
+        "Name": "Altarianite",
+        "Category": "Hold items",
+        "Effect": "Enables Altaria to Mega Evolve during battle."
+    },
+    {
+        "Name": "Ampharosite",
+        "Category": "Hold items",
+        "Effect": "Enables Ampharos to Mega Evolve during battle."
+    },
+    {
+        "Name": "Amulet Coin",
+        "Category": "Hold items",
+        "Effect": "Doubles prize money if held."
+    },
+    {
+        "Name": "Antidote",
+        "Category": "Medicine",
+        "Effect": "A spray-type medicine. It lifts the effect of poison from one Pokémon."
+    },
+    {
+        "Name": "Apicot Berry",
+        "Category": "Berries",
+        "Effect": "Raises Special Defense when HP is low."
+    },
+    {
+        "Name": "Apricorn",
+        "Category": "General items",
+        "Effect": "A fruit whose shell can be used to form the capsules of all manner of Poké Balls when crafting them from scratch."
+    },
+    {
+        "Name": "Armor Fossil",
+        "Category": "General items",
+        "Effect": "A fossil from a prehistoric Pokémon that lived on the land. It appears to be part of a collar."
+    },
+    {
+        "Name": "Armorite Ore",
+        "Category": "General items"
+    },
+    {
+        "Name": "Aspear Berry",
+        "Category": "Berries",
+        "Effect": "If held by a Pokémon, it defrosts it."
+    },
+    {
+        "Name": "Assault Vest",
+        "Category": "Hold items",
+        "Effect": "Raises Special Defense but prevents the use of status moves."
+    },
+    {
+        "Name": "Audinite",
+        "Category": "Hold items",
+        "Effect": "Enables Audino to Mega Evolve during battle."
+    },
+    {
+        "Name": "Aux Evasion",
+        "Category": "Battle items",
+        "Effect": "Makes moves less likely to strike a Pokémon during a battle."
+    },
+    {
+        "Name": "Aux Guard",
+        "Category": "Battle items",
+        "Effect": "Sharply boosts the defensive stats of a Pokémon during a battle."
+    },
+    {
+        "Name": "Aux Power",
+        "Category": "Battle items",
+        "Effect": "Sharply boosts the offensive stats of a Pokémon during a battle."
+    },
+    {
+        "Name": "Aux Powerguard",
+        "Category": "Battle items",
+        "Effect": "Sharply boosts the offensive and defensive stats of a Pokémon during a battle."
+    },
+    {
+        "Name": "Awakening",
+        "Category": "Medicine",
+        "Effect": "A spray-type medicine. It awakens a Pokémon from the clutches of sleep."
+    },
+    {
+        "Name": "Babiri Berry",
+        "Category": "Berries",
+        "Effect": "Weakens a supereffective Steel-type attack against the holding Pokémon."
+    },
+    {
+        "Name": "Bach's Food Tin",
+        "Category": "General items",
+        "Effect": "One of the many ingredients that can be used for cooking at your camp. The tinned food that Bach sells is curiously popular in Galar."
+    },
+    {
+        "Name": "Ball of Mud",
+        "Category": "General items"
+    },
+    {
+        "Name": "Balm Mushroom",
+        "Category": "General items",
+        "Effect": "A rare mushroom which gives off a nice fragrance. A maniac will buy it for a high price."
+    },
+    {
+        "Name": "Banettite",
+        "Category": "Hold items",
+        "Effect": "Enables Banette to Mega Evolve during battle."
+    },
+    {
+        "Name": "Beach Glass",
+        "Category": "General items",
+        "Effect": "A piece of colored glass. Waves have rounded its edges. It's slightly rough to the touch."
+    },
+    {
+        "Name": "Bean Cake",
+        "Category": "General items"
+    },
+    {
+        "Name": "Beast Ball",
+        "Category": "Pokeballs",
+        "Effect": "A special Poké Ball designed to catch Ultra Beasts. It has a low success rate for catching others."
+    },
+    {
+        "Name": "Beedrillite",
+        "Category": "Hold items",
+        "Effect": "Enables Beedrill to Mega Evolve during battle."
+    },
+    {
+        "Name": "Belue Berry",
+        "Category": "Berries",
+        "Effect": "A Berry which is very rare in the Unova region. A maniac will buy it for a high price."
+    },
+    {
+        "Name": "Berry Juice",
+        "Category": "Medicine",
+        "Effect": "A 100% pure juice made of Berries. It restores the HP of one Pokémon by just 20 points."
+    },
+    {
+        "Name": "Berry Sweet",
+        "Category": "Hold items",
+        "Effect": "Evolves Milcery into Blueberry Flavor Alcremie."
+    },
+    {
+        "Name": "Big Malasada",
+        "Category": "Medicine",
+        "Effect": "Heals all major status conditions."
+    },
+    {
+        "Name": "Big Mushroom",
+        "Category": "General items",
+        "Effect": "A large and rare mushroom. It is sought after by collectors."
+    },
+    {
+        "Name": "Big Nugget",
+        "Category": "General items",
+        "Effect": "A big nugget of pure gold that gives off a lustrous gleam. A maniac will buy it for a high price."
+    },
+    {
+        "Name": "Big Pearl",
+        "Category": "General items",
+        "Effect": "A quite-large pearl that sparkles in a pretty silver color. It can be sold at a high price to shops."
+    },
+    {
+        "Name": "Big Root",
+        "Category": "Hold items",
+        "Effect": "Recovers more HP from HP-stealing moves."
+    },
+    {
+        "Name": "Binding Band",
+        "Category": "Hold items",
+        "Effect": "A band that increases the power of binding moves when held."
+    },
+    {
+        "Name": "Black Apricorn",
+        "Category": "General items",
+        "Effect": "A black Apricorn It has an indescribable scent."
+    },
+    {
+        "Name": "Black Augurite",
+        "Category": "General items",
+        "Effect": "A glassy black stone that produces a sharp cutting edge when split. It’s loved by a certain Pokémon."
+    },
+    {
+        "Name": "Black Belt",
+        "Category": "Hold items",
+        "Effect": "Increases the power of Fighting-type moves."
+    },
+    {
+        "Name": "Black Flute",
+        "Category": "General items",
+        "Effect": "A toy flute made from black glass. A maniac will buy it for a high price."
+    },
+    {
+        "Name": "Black Glasses",
+        "Category": "Hold items",
+        "Effect": "Increases the power of Dark-type moves."
+    },
+    {
+        "Name": "Black Sludge",
+        "Category": "Hold items",
+        "Effect": "A held item that gradually restores the HP of Poison-type Pokémon. It inflicts damage on all other types."
+    },
+    {
+        "Name": "Black Tumblestone",
+        "Category": "General items"
+    },
+    {
+        "Name": "Blank Plate",
+        "Category": "Hold items"
+    },
+    {
+        "Name": "Blastoisinite",
+        "Category": "Hold items",
+        "Effect": "Enables Blastoise to Mega Evolve during battle."
+    },
+    {
+        "Name": "Blazikenite",
+        "Category": "Hold items",
+        "Effect": "Enables Blaziken to Mega Evolve during battle."
+    },
+    {
+        "Name": "Blue Apricorn",
+        "Category": "General items",
+        "Effect": "A blue Apricorn. It smells a bit like grass."
+    },
+    {
+        "Name": "Blue Flute",
+        "Category": "General items",
+        "Effect": "A toy flute made from blue glass. A maniac will buy it for a high price."
+    },
+    {
+        "Name": "Blue Scarf",
+        "Category": "General items",
+        "Effect": "Raises holder's Beauty aspect in a Contest."
+    },
+    {
+        "Name": "Blue Shard",
+        "Category": "General items",
+        "Effect": "A small blue shard. It appears to be from some sort of implement made long ago."
+    },
+    {
+        "Name": "Bluk Berry",
+        "Category": "Berries",
+        "Effect": "A Berry which is very rare in the Unova region. A maniac will buy it for a high price."
+    },
+    {
+        "Name": "Blunder Policy",
+        "Category": "Hold items",
+        "Effect": "Raises Speed sharply if its attack misses."
+    },
+    {
+        "Name": "Bob's Food Tin",
+        "Category": "General items",
+        "Effect": "One of the many ingredients that can be used for cooking at your camp. The tinned food that Bob sells is curiously popular in Galar."
+    },
+    {
+        "Name": "Boiled Egg",
+        "Category": "General items",
+        "Effect": "One of the many ingredients that can be used for cooking at your camp. Even just one boiled egg can really enhance a dish."
+    },
+    {
+        "Name": "Bold Mint",
+        "Category": "Battle items",
+        "Effect": "Changes the Pokémon's stats to match the Bold nature."
+    },
+    {
+        "Name": "Bottle Cap",
+        "Category": "General items",
+        "Effect": "Maximizes one IV stat in Hyper Training."
+    },
+    {
+        "Name": "Brave Mint",
+        "Category": "Battle items",
+        "Effect": "Changes the Pokémon's stats to match the Brave nature."
+    },
+    {
+        "Name": "Bread",
+        "Category": "General items",
+        "Effect": "One of the many ingredients that can be used for cooking at your camp. An indispensable tool for mopping up that extra curry left on your plate."
+    },
+    {
+        "Name": "Bright Powder",
+        "Category": "Hold items",
+        "Effect": "Lowers the opponent's accuracy."
+    },
+    {
+        "Name": "Brittle Bones",
+        "Category": "General items",
+        "Effect": "One of the many ingredients that can be used for cooking at your camp. The taste boiled off from the bones is sure to give a dish a light umami taste."
+    },
+    {
+        "Name": "Bug Gem",
+        "Category": "Hold items",
+        "Effect": "Increases the power of a Bug-type move only once."
+    },
+    {
+        "Name": "Bug Memory",
+        "Category": "Hold items",
+        "Effect": "Changes Silvally and its move Multi-Attack to Bug type."
+    },
+    {
+        "Name": "Buginium Z",
+        "Category": "Hold items",
+        "Effect": "Allows the use of Savage Spin-Out, the Bug type Z-Move."
+    },
+    {
+        "Name": "Bugwort",
+        "Category": "General items"
+    },
+    {
+        "Name": "Burn Drive",
+        "Category": "Hold items",
+        "Effect": "Changes Techno Blast to a Fire-type move when held by Genesect."
+    },
+    {
+        "Name": "Burn Heal",
+        "Category": "Medicine",
+        "Effect": "A spray-type medicine. It heals a single Pokémon that is suffering from a burn."
+    },
+    {
+        "Name": "Cake-Lure Base",
+        "Category": "General items"
+    },
+    {
+        "Name": "Calcium",
+        "Category": "Medicine",
+        "Effect": "Increases Special Attack EVs by 10."
+    },
+    {
+        "Name": "Calm Mint",
+        "Category": "Battle items",
+        "Effect": "Changes the Pokémon's stats to match the Calm nature."
+    },
+    {
+        "Name": "Cameruptite",
+        "Category": "Hold items",
+        "Effect": "Enables Camerupt to Mega Evolve during battle."
+    },
+    {
+        "Name": "Candy Truffle",
+        "Category": "General items"
+    },
+    {
+        "Name": "Carbos",
+        "Category": "Medicine",
+        "Effect": "Increases Speed EVs by 10."
+    },
+    {
+        "Name": "Careful Mint",
+        "Category": "Battle items",
+        "Effect": "Changes the Pokémon's stats to match the Careful nature."
+    },
+    {
+        "Name": "Carrot Seeds",
+        "Category": "General items",
+        "Effect": "Seeds to plant in a field. The kind of carrot you’ll get is determined by which field you plant the seeds in."
+    },
+    {
+        "Name": "Casteliacone",
+        "Category": "Medicine",
+        "Effect": "Heals all major status conditions."
+    },
+    {
+        "Name": "Caster Fern",
+        "Category": "General items"
+    },
+    {
+        "Name": "Cell Battery",
+        "Category": "Hold items",
+        "Effect": "A consumable battery. If the holder is hit by an Electric-type move, its Attack will rise."
+    },
+    {
+        "Name": "Chalky Stone",
+        "Category": "General items",
+        "Effect": "A small whitish stone picked up at the edge of the road."
+    },
+    {
+        "Name": "Charcoal",
+        "Category": "Hold items",
+        "Effect": "Increases the power of Fire-type moves."
+    },
+    {
+        "Name": "Charizardite X",
+        "Category": "Hold items",
+        "Effect": "Enables Charizard to Mega Evolve during battle."
+    },
+    {
+        "Name": "Charizardite Y",
+        "Category": "Hold items",
+        "Effect": "Enables Charizard to Mega Evolve during battle."
+    },
+    {
+        "Name": "Charti Berry",
+        "Category": "Berries",
+        "Effect": "Weakens a supereffective Rock-type attack against the holding Pokémon."
+    },
+    {
+        "Name": "Cheri Berry",
+        "Category": "Berries",
+        "Effect": "If held by a Pokémon, it recovers from paralysis."
+    },
+    {
+        "Name": "Cherish Ball",
+        "Category": "Pokeballs",
+        "Effect": "A quite rare Poké Ball that has been specially crafted to commemorate an occasion of some sort."
+    },
+    {
+        "Name": "Chesto Berry",
+        "Category": "Berries",
+        "Effect": "If held by a Pokémon, it recovers from sleep."
+    },
+    {
+        "Name": "Chilan Berry",
+        "Category": "Berries",
+        "Effect": "Weakens a Normal-type attack against the Pokémon holding this berry."
+    },
+    {
+        "Name": "Chill Drive",
+        "Category": "Hold items",
+        "Effect": "Changes Techno Blast to an Ice-type move when held by Genesect."
+    },
+    {
+        "Name": "Chipped Pot",
+        "Category": "Hold items",
+        "Effect": "Evolves Sinistea into Polteageist."
+    },
+    {
+        "Name": "Choice Band",
+        "Category": "Hold items",
+        "Effect": "Raises Attack, but only one move can be used."
+    },
+    {
+        "Name": "Choice Dumpling",
+        "Category": "General items"
+    },
+    {
+        "Name": "Choice Scarf",
+        "Category": "Hold items",
+        "Effect": "Raises Speed, but only one move can be used."
+    },
+    {
+        "Name": "Choice Specs",
+        "Category": "Hold items",
+        "Effect": "Raises Special Attack, but only one move can be used."
+    },
+    {
+        "Name": "Chople Berry",
+        "Category": "Berries",
+        "Effect": "Weakens a supereffective Fighting-type attack against the holding Pokémon."
+    },
+    {
+        "Name": "Claw Fossil",
+        "Category": "General items",
+        "Effect": "A fossil of an ancient Pokémon that lived in the sea. It appears to be part of a claw."
+    },
+    {
+        "Name": "Cleanse Tag",
+        "Category": "Hold items",
+        "Effect": "An item to be held by a Pokémon. It helps keep wild Pokémon away if the holder is the first one in the party."
+    },
+    {
+        "Name": "Clever Wing",
+        "Category": "Medicine",
+        "Effect": "Increases Special Defense EVs by 1."
+    },
+    {
+        "Name": "Clover Sweet",
+        "Category": "Hold items",
+        "Effect": "Evolves Milcery into Clover Flavor Alcremie."
+    },
+    {
+        "Name": "Coba Berry",
+        "Category": "Berries",
+        "Effect": "Weakens a supereffective Flying-type attack against the holding Pokémon."
+    },
+    {
+        "Name": "Coconut Milk",
+        "Category": "General items",
+        "Effect": "One of the many ingredients that can be used for cooking at your camp. The refined sweetness of this coconut milk makes it quite popular."
+    },
+    {
+        "Name": "Colbur Berry",
+        "Category": "Berries",
+        "Effect": "Weakens a supereffective Dark-type attack against the holding Pokémon."
+    },
+    {
+        "Name": "Comet Shard",
+        "Category": "General items",
+        "Effect": "A shard which fell to the ground when a comet approached. A maniac will buy it for a high price."
+    },
+    {
+        "Name": "Cornn Berry",
+        "Category": "Berries",
+        "Effect": "A Berry which is very rare in the Unova region. A maniac will buy it for a high price."
+    },
+    {
+        "Name": "Courage Candy",
+        "Category": "Medicine",
+        "Effect": "Increases a Pokémon's Special Defense stat by 1."
+    },
+    {
+        "Name": "Courage Candy L",
+        "Category": "Medicine",
+        "Effect": "Increases a Pokémon's Special Defense stat."
+    },
+    {
+        "Name": "Courage Candy XL",
+        "Category": "Medicine",
+        "Effect": "Increases a Pokémon's Special Defense stat."
+    },
+    {
+        "Name": "Cover Fossil",
+        "Category": "General items",
+        "Effect": "A fossil of an ancient Pokémon that lived in the sea in ancient times. It appears to be part of its back."
+    },
+    {
+        "Name": "Cracked Pot",
+        "Category": "Hold items",
+        "Effect": "Evolves Sinistea into Polteageist."
+    },
+    {
+        "Name": "Crafting Kit",
+        "Category": "General items"
+    },
+    {
+        "Name": "Crunchy Salt",
+        "Category": "General items"
+    },
+    {
+        "Name": "Custap Berry",
+        "Category": "Berries",
+        "Effect": "Holder can move first when HP is low."
+    },
+    {
+        "Name": "Damp Mulch",
+        "Category": "General items",
+        "Effect": "A fertilizer to be spread on soft soil in regions where Berries are grown. A maniac will buy it for a high price."
+    },
+    {
+        "Name": "Damp Rock",
+        "Category": "Hold items",
+        "Effect": "A Pokémon held item that extends the duration of the move Rain Dance used by the holder."
+    },
+    {
+        "Name": "Dark Gem",
+        "Category": "Hold items",
+        "Effect": "Increases the power of a Dark-type move only once."
+    },
+    {
+        "Name": "Dark Memory",
+        "Category": "Hold items",
+        "Effect": "Changes Silvally and its move Multi-Attack to Dark type."
+    },
+    {
+        "Name": "Darkinium Z",
+        "Category": "Hold items",
+        "Effect": "Allows the use of Black Hole Eclipse, the Dark type Z-Move."
+    },
+    {
+        "Name": "Dawn Stone",
+        "Category": "General items",
+        "Effect": "Evolves certain species of Pokémon."
+    },
+    {
+        "Name": "Dazzling Honey",
+        "Category": "General items"
+    },
+    {
+        "Name": "Decidium Z",
+        "Category": "Hold items",
+        "Effect": "Allows Decidueye to upgrade Spirit Shackle to a Z-Move, Sinister Arrow Raid."
+    },
+    {
+        "Name": "Deep Sea Scale",
+        "Category": "Hold items",
+        "Effect": "Increases Special Defense when held by Clamperl. Evolves Clamperl when traded holding the item."
+    },
+    {
+        "Name": "Deep Sea Tooth",
+        "Category": "Hold items",
+        "Effect": "Increases Special Attack when held by Clamperl. Evolves Clamperl when traded holding the item."
+    },
+    {
+        "Name": "Destiny Knot",
+        "Category": "Hold items",
+        "Effect": "A long, thin, bright-red string to be held by a Pokémon. If the holder becomes infatuated, the foe does too."
+    },
+    {
+        "Name": "Diancite",
+        "Category": "Hold items",
+        "Effect": "Enables Diancie to Mega Evolve during battle."
+    },
+    {
+        "Name": "Dire Hit",
+        "Category": "Battle items",
+        "Effect": "Raises critical-hit ratio of a Pokémon in battle."
+    },
+    {
+        "Name": "Dire Hit 2",
+        "Category": "Battle items",
+        "Effect": "Raises a Pokémon's critical-hit ratio in battle."
+    },
+    {
+        "Name": "Dire Hit 3",
+        "Category": "Battle items",
+        "Effect": "Greatly raises a Pokémon's critical-hit ratio in battle."
+    },
+    {
+        "Name": "Direshroom",
+        "Category": "General items"
+    },
+    {
+        "Name": "Discount Coupon",
+        "Category": "General items",
+        "Effect": "This special coupon allows you to buy items at a discount when you are shopping at a boutique."
+    },
+    {
+        "Name": "Dive Ball",
+        "Category": "Pokeballs",
+        "Effect": "A somewhat different Poké Ball that works especially well on Pokémon that live underwater."
+    },
+    {
+        "Name": "DNA Splicers",
+        "Category": "General items",
+        "Effect": "A splicer that fuses Kyurem and a certain Pokémon. They are said to have been one in the beginning."
+    },
+    {
+        "Name": "Dome Fossil",
+        "Category": "General items",
+        "Effect": "A fossil of an ancient Pokémon that lived in the sea. It appears to be part of a shell."
+    },
+    {
+        "Name": "Doppel Bonnets",
+        "Category": "General items"
+    },
+    {
+        "Name": "Douse Drive",
+        "Category": "Hold items",
+        "Effect": "Changes Techno Blast to a Water-type move when held by Genesect."
+    },
+    {
+        "Name": "Draco Plate",
+        "Category": "Hold items",
+        "Effect": "Increases power of Dragon-type moves. Changes Arceus' type to Dragon."
+    },
+    {
+        "Name": "Dragon Fang",
+        "Category": "Hold items",
+        "Effect": "Increases the power of Dragon-type moves."
+    },
+    {
+        "Name": "Dragon Gem",
+        "Category": "Hold items",
+        "Effect": "Increases the power of a Dragon-type move only once."
+    },
+    {
+        "Name": "Dragon Memory",
+        "Category": "Hold items",
+        "Effect": "Changes Silvally and its move Multi-Attack to Dragon type."
+    },
+    {
+        "Name": "Dragon Scale",
+        "Category": "General items",
+        "Effect": "Evolves Seadra when traded holding the item."
+    },
+    {
+        "Name": "Dragonium Z",
+        "Category": "Hold items",
+        "Effect": "Allows the use of Devastating Drake, the Dragon type Z-Move."
+    },
+    {
+        "Name": "Dread Plate",
+        "Category": "Hold items",
+        "Effect": "Increases power of Dark-type moves. Changes Arceus' type to Dark."
+    },
+    {
+        "Name": "Dream Ball",
+        "Category": "Pokeballs",
+        "Effect": "A special Poké Ball that appears out of nowhere in a bag at the Entree Forest. It can catch any Pokémon."
+    },
+    {
+        "Name": "Dropped Item",
+        "Category": "Hold items",
+        "Effect": "The Xtransceiver found at the Nimbasa City amusement park. It seems it belongs to a boy."
+    },
+    {
+        "Name": "Dubious Disc",
+        "Category": "General items",
+        "Effect": "Evolves Porygon2 when traded holding the item."
+    },
+    {
+        "Name": "Durin Berry",
+        "Category": "Berries",
+        "Effect": "A Berry which is very rare in the Unova region. A maniac will buy it for a high price."
+    },
+    {
+        "Name": "Dusk Ball",
+        "Category": "Pokeballs",
+        "Effect": "A somewhat different Poké Ball that makes it easier to catch wild Pokémon at night or in dark places like caves."
+    },
+    {
+        "Name": "Dusk Stone",
+        "Category": "General items",
+        "Effect": "Evolves certain species of Pokémon."
+    },
+    {
+        "Name": "Dynamax Candy",
+        "Category": "Medicine",
+        "Effect": "Raises Dynamax Level."
+    },
+    {
+        "Name": "Dynite Ore",
+        "Category": "General items",
+        "Effect": "Mysterious ore that can be obtained in the Max Lair. Something good will happen if you give it to a collector in the Crown Tundra."
+    },
+    {
+        "Name": "Earth Plate",
+        "Category": "Hold items",
+        "Effect": "Increases power of Ground-type moves. Changes Arceus' type to Ground."
+    },
+    {
+        "Name": "Eevium Z",
+        "Category": "Hold items",
+        "Effect": "Allows Eevee to upgrade Last Resort to a Z-Move, Extreme Evoboost."
+    },
+    {
+        "Name": "Eject Button",
+        "Category": "Hold items",
+        "Effect": "If the holder is hit by an attack, it will switch with another Pokémon in your party."
+    },
+    {
+        "Name": "Eject Pack",
+        "Category": "Hold items",
+        "Effect": "The Pokémon switches out if its stats are lowered."
+    },
+    {
+        "Name": "Electirizer",
+        "Category": "General items",
+        "Effect": "Evolves Electabuzz when traded holding the item."
+    },
+    {
+        "Name": "Electric Gem",
+        "Category": "Hold items",
+        "Effect": "Increases the power of an Electric-type move only once."
+    },
+    {
+        "Name": "Electric Memory",
+        "Category": "Hold items",
+        "Effect": "Changes Silvally and its move Multi-Attack to Electric type."
+    },
+    {
+        "Name": "Electric Seed",
+        "Category": "Hold items",
+        "Effect": "An item to be held by a Pokémon. It boosts Defense on Electric Terrain. It can only be used once."
+    },
+    {
+        "Name": "Electrium Z",
+        "Category": "Hold items",
+        "Effect": "Allows the use of Gigavolt Havoc, the Electric type Z-Move."
+    },
+    {
+        "Name": "Elevator Key",
+        "Category": "Hold items",
+        "Effect": "A card key that activates the elevator in Lysandre Labs. It is emblazoned with Team Flare's logo."
+    },
+    {
+        "Name": "Elixir",
+        "Category": "Medicine",
+        "Effect": "It restores the PP of all the moves learned by the targeted Pokémon by 10 points each."
+    },
+    {
+        "Name": "Energy Powder",
+        "Category": "Medicine",
+        "Effect": "Restores 60 HP but lowers Friendship."
+    },
+    {
+        "Name": "Energy Root",
+        "Category": "Medicine",
+        "Effect": "Restores 120 HP but lowers Friendship."
+    },
+    {
+        "Name": "Enigma Berry",
+        "Category": "Berries",
+        "Effect": "If held by a Pokémon, it restores its HP if it is hit by any supereffective attack."
+    },
+    {
+        "Name": "Escape Rope",
+        "Category": "General items",
+        "Effect": "A long, durable rope. Use it to escape instantly from a cave or a dungeon."
+    },
+    {
+        "Name": "Ether",
+        "Category": "Medicine",
+        "Effect": "It restores the PP of a Pokémon's selected move by a maximum of 10 points."
+    },
+    {
+        "Name": "Everstone",
+        "Category": "Hold items",
+        "Effect": "An item to be held by a Pokémon. The Pokémon holding this peculiar stone is prevented from evolving."
+    },
+    {
+        "Name": "Eviolite",
+        "Category": "Hold items",
+        "Effect": "A mysterious evolutionary lump. When held, it raises the Defense and Sp. Def of a Pokémon that can still evolve."
+    },
+    {
+        "Name": "Exp. Candy L",
+        "Category": "Medicine"
+    },
+    {
+        "Name": "Exp. Candy M",
+        "Category": "Medicine"
+    },
+    {
+        "Name": "Exp. Candy S",
+        "Category": "Medicine"
+    },
+    {
+        "Name": "Exp. Candy XL",
+        "Category": "Medicine",
+        "Effect": "Increases the Pokémon's Exp points by 30,000."
+    },
+    {
+        "Name": "Exp. Candy XS",
+        "Category": "Medicine"
+    },
+    {
+        "Name": "Exp. Share",
+        "Category": "Hold items",
+        "Effect": "An item to be held by a Pokémon. The holder gets a share of a battle's Exp. Points without battling."
+    },
+    {
+        "Name": "Expert Belt",
+        "Category": "Hold items",
+        "Effect": "Increases the power of super-effective moves."
+    },
+    {
+        "Name": "Fairium Z",
+        "Category": "Hold items",
+        "Effect": "Allows the use of Twinkle Tackle, the Fairy type Z-Move."
+    },
+    {
+        "Name": "Fairy Gem",
+        "Category": "General items",
+        "Effect": "Increases the power of a Fairy-type move only once."
+    },
+    {
+        "Name": "Fairy Memory",
+        "Category": "Hold items",
+        "Effect": "Changes Silvally and its move Multi-Attack to Fairy type."
+    },
+    {
+        "Name": "Fancy Apple",
+        "Category": "General items",
+        "Effect": "One of the many ingredients that can be used for cooking at your camp. An apple chosen above others. It has spectacular form and a brilliant sheen."
+    },
+    {
+        "Name": "Fast Ball",
+        "Category": "Pokeballs",
+        "Effect": "A Poké Ball that makes it easier to catch Pokémon which are quick to run away."
+    },
+    {
+        "Name": "Feather Ball",
+        "Category": "Pokeballs"
+    },
+    {
+        "Name": "Festival Ticket",
+        "Category": "General items",
+        "Effect": "A ticket that allows you to host a mission in Festival Plaza."
+    },
+    {
+        "Name": "Fighting Gem",
+        "Category": "Hold items",
+        "Effect": "Increases the power of a Fighting-type move only once."
+    },
+    {
+        "Name": "Fighting Memory",
+        "Category": "Hold items",
+        "Effect": "Changes Silvally and its move Multi-Attack to Fighting type."
+    },
+    {
+        "Name": "Fightinium Z",
+        "Category": "Hold items",
+        "Effect": "Allows the use of All-Out Pummeling, the Fighting type Z-Move."
+    },
+    {
+        "Name": "Figy Berry",
+        "Category": "Berries",
+        "Effect": "Restores HP if it's low, but may cause confusion."
+    },
+    {
+        "Name": "Fine Remedy",
+        "Category": "Medicine"
+    },
+    {
+        "Name": "Fire Gem",
+        "Category": "Hold items",
+        "Effect": "Increases the power of a Fire-type move only once."
+    },
+    {
+        "Name": "Fire Memory",
+        "Category": "Hold items",
+        "Effect": "Changes Silvally and its move Multi-Attack to Fire type."
+    },
+    {
+        "Name": "Fire Stone",
+        "Category": "General items",
+        "Effect": "Evolves certain species of Pokémon."
+    },
+    {
+        "Name": "Firium Z",
+        "Category": "Hold items",
+        "Effect": "Allows the use of Inferno Overdrive, the Fire type Z-Move."
+    },
+    {
+        "Name": "Fist Plate",
+        "Category": "Hold items",
+        "Effect": "Increases power of Fighting-type moves. Changes Arceus' type to Fighting."
+    },
+    {
+        "Name": "Flame Orb",
+        "Category": "Hold items",
+        "Effect": "An item to be held by a Pokémon. It is a bizarre orb that inflicts a burn on the holder in battle."
+    },
+    {
+        "Name": "Flame Plate",
+        "Category": "Hold items",
+        "Effect": "Increases power of Fire-type moves. Changes Arceus' type to Fire."
+    },
+    {
+        "Name": "Float Stone",
+        "Category": "Hold items",
+        "Effect": "A very light stone. It reduces the weight of a Pokémon when held."
+    },
+    {
+        "Name": "Flower Sweet",
+        "Category": "Hold items",
+        "Effect": "Evolves Milcery into Flower Flavor Alcremie."
+    },
+    {
+        "Name": "Fluffy Tail",
+        "Category": "General items",
+        "Effect": "An item that attracts Pokémon. Use it to flee from any battle with a wild Pokémon."
+    },
+    {
+        "Name": "Flying Gem",
+        "Category": "Hold items",
+        "Effect": "Increases the power of a Flying-type move only once."
+    },
+    {
+        "Name": "Flying Memory",
+        "Category": "Hold items",
+        "Effect": "Changes Silvally and its move Multi-Attack to Flying type."
+    },
+    {
+        "Name": "Flyinium Z",
+        "Category": "Hold items",
+        "Effect": "Allows the use of Supersonic Skystrike, the Flying type Z-Move."
+    },
+    {
+        "Name": "Focus Band",
+        "Category": "Hold items",
+        "Effect": "An item to be held by a Pokémon. The holder may endure a potential KO attack, leaving it with just 1 HP."
+    },
+    {
+        "Name": "Focus Sash",
+        "Category": "Hold items",
+        "Effect": "An item to be held by a Pokémon. If it has full HP, the holder will endure one potential KO attack, leaving 1 HP."
+    },
+    {
+        "Name": "Fossilized Bird",
+        "Category": "General items",
+        "Effect": "The fossil of an ancient Pokémon that once soared through the sky. What it looked like is a mystery."
+    },
+    {
+        "Name": "Fossilized Dino",
+        "Category": "General items",
+        "Effect": "The fossil of an ancient Pokémon that once lived in the sea. What it looked like is a mystery."
+    },
+    {
+        "Name": "Fossilized Drake",
+        "Category": "General items",
+        "Effect": "The fossil of an ancient Pokémon that once roamed the land. What it looked like is a mystery."
+    },
+    {
+        "Name": "Fossilized Fish",
+        "Category": "General items",
+        "Effect": "The fossil of an ancient Pokémon that once lived in the sea. What it looked like is a mystery."
+    },
+    {
+        "Name": "Fresh Cream",
+        "Category": "General items",
+        "Effect": "One of the many ingredients that can be used for cooking at your camp. Add some whipped cream to a spicy curry to give it some sweetness."
+    },
+    {
+        "Name": "Fresh Water",
+        "Category": "Medicine",
+        "Effect": "Restores 30 HP."
+    },
+    {
+        "Name": "Fried Food",
+        "Category": "General items",
+        "Effect": "One of the many ingredients that can be used for cooking at your camp. It’s been a while since it was fried, so it’s gotten greasy."
+    },
+    {
+        "Name": "Friend Ball",
+        "Category": "Pokeballs",
+        "Effect": "A Poké Ball that makes caught Pokémon more friendly."
+    },
+    {
+        "Name": "Fruit Bunch",
+        "Category": "General items",
+        "Effect": "One of the many ingredients that can be used for cooking at your camp. The syrupy fruits give off a strong tropical feel."
+    },
+    {
+        "Name": "Full Heal",
+        "Category": "Medicine",
+        "Effect": "A spray-type medicine. It heals all the status problems of a single Pokémon."
+    },
+    {
+        "Name": "Full Incense",
+        "Category": "Hold items",
+        "Effect": "Holder always attacks last. Breeding Snorlax produces Munchlax when held."
+    },
+    {
+        "Name": "Full Restore",
+        "Category": "Medicine",
+        "Effect": "A medicine that fully restores the HP and heals any status problems of a single Pokémon."
+    },
+    {
+        "Name": "Galarica Cuff",
+        "Category": "General items",
+        "Effect": "Evolves Galarian Slowpoke into Galarian Slowbro."
+    },
+    {
+        "Name": "Galarica Twig",
+        "Category": "General items"
+    },
+    {
+        "Name": "Galarica Wreath",
+        "Category": "General items",
+        "Effect": "Evolves Galarian Slowpoke into Galarian Slowking."
+    },
+    {
+        "Name": "Galladite",
+        "Category": "Hold items",
+        "Effect": "Enables Gallade to Mega Evolve during battle."
+    },
+    {
+        "Name": "Ganlon Berry",
+        "Category": "Berries",
+        "Effect": "Raises Defense when HP is low."
+    },
+    {
+        "Name": "Garchompite",
+        "Category": "Hold items",
+        "Effect": "Enables Garchomp to Mega Evolve during battle."
+    },
+    {
+        "Name": "Gardevoirite",
+        "Category": "Hold items",
+        "Effect": "Enables Gardevoir to Mega Evolve during battle."
+    },
+    {
+        "Name": "Gengarite",
+        "Category": "Hold items",
+        "Effect": "Enables Gengar to Mega Evolve during battle."
+    },
+    {
+        "Name": "Genius Wing",
+        "Category": "Medicine",
+        "Effect": "Increases Special Attack EVs by 1."
+    },
+    {
+        "Name": "Gentle Mint",
+        "Category": "Battle items",
+        "Effect": "Changes the Pokémon's stats to match the Gentle nature."
+    },
+    {
+        "Name": "Ghost Gem",
+        "Category": "Hold items",
+        "Effect": "Increases the power of a Ghost-type move only once."
+    },
+    {
+        "Name": "Ghost Memory",
+        "Category": "Hold items",
+        "Effect": "Changes Silvally and its move Multi-Attack to Ghost type."
+    },
+    {
+        "Name": "Ghostium Z",
+        "Category": "Hold items",
+        "Effect": "Allows the use of Never-Ending Nightmare, the Ghost type Z-Move."
+    },
+    {
+        "Name": "Gigantamix",
+        "Category": "General items",
+        "Effect": "One of the many ingredients that can be used for cooking at your camp. A mysterious spice. Even a tiny sprinkle is sure to make a curry gigantic."
+    },
+    {
+        "Name": "Gigaton Ball",
+        "Category": "Pokeballs"
+    },
+    {
+        "Name": "Glalitite",
+        "Category": "Hold items",
+        "Effect": "Enables Glalie to Mega Evolve during battle."
+    },
+    {
+        "Name": "Gold Bottle Cap",
+        "Category": "General items",
+        "Effect": "Maximizes all of a Pokémon's IV stats in Hyper Training."
+    },
+    {
+        "Name": "Gold Leaf",
+        "Category": "General items"
+    },
+    {
+        "Name": "Golden Nanab Berry",
+        "Category": "Berries",
+        "Effect": "Drastically calms a Pokémon in battle, in Let's Go Pikachu/Eevee."
+    },
+    {
+        "Name": "Golden Pinap Berry",
+        "Category": "Berries",
+        "Effect": "Drastically increases chance of getting items when a Pokémon is caught, in Pokémon Let's Go."
+    },
+    {
+        "Name": "Golden Razz Berry",
+        "Category": "Berries",
+        "Effect": "Makes a Pokémon easier to catch in Pokémon Let's Go."
+    },
+    {
+        "Name": "Gooey Mulch",
+        "Category": "General items",
+        "Effect": "A fertilizer to be spread on soft soil in regions where Berries are grown. A maniac will buy it for a high price."
+    },
+    {
+        "Name": "Grain Cake",
+        "Category": "General items"
+    },
+    {
+        "Name": "Grass Gem",
+        "Category": "Hold items",
+        "Effect": "Increases the power of a Grass-type move only once."
+    },
+    {
+        "Name": "Grass Memory",
+        "Category": "Hold items",
+        "Effect": "Changes Silvally and its move Multi-Attack to Grass type."
+    },
+    {
+        "Name": "Grassium Z",
+        "Category": "Hold items",
+        "Effect": "Allows the use of Bloom Doom, the Grass type Z-Move."
+    },
+    {
+        "Name": "Grassy Seed",
+        "Category": "Hold items",
+        "Effect": "An item to be held by a Pokémon. It boosts Defense on Grassy Terrain. It can only be used once."
+    },
+    {
+        "Name": "Great Ball",
+        "Category": "Pokeballs",
+        "Effect": "A good, high-performance Ball that provides a higher Pokémon catch rate than a standard Poké Ball."
+    },
+    {
+        "Name": "Green Apricorn",
+        "Category": "General items",
+        "Effect": "A green Apricorn. It has a mysterious, aromatic scent."
+    },
+    {
+        "Name": "Green Scarf",
+        "Category": "General items",
+        "Effect": "Raises holder's Smart aspect in a Contest."
+    },
+    {
+        "Name": "Green Shard",
+        "Category": "General items",
+        "Effect": "A small green shard. It appears to be from some sort of implement made long ago."
+    },
+    {
+        "Name": "Grepa Berry",
+        "Category": "Berries",
+        "Effect": "Increases Friendship but lowers Special Defense EVs."
+    },
+    {
+        "Name": "Grip Claw",
+        "Category": "Hold items",
+        "Effect": "A Pokémon held item that extends the duration of multiturn attacks like Bind and Wrap."
+    },
+    {
+        "Name": "Griseous Core",
+        "Category": "Hold items"
+    },
+    {
+        "Name": "Griseous Orb",
+        "Category": "Hold items",
+        "Effect": "Increases the power of Dragon- and Ghost-type moves when held by Giratina, and changes it to Origin Forme."
+    },
+    {
+        "Name": "Grit Dust",
+        "Category": "Hold items"
+    },
+    {
+        "Name": "Grit Gravel",
+        "Category": "Hold items"
+    },
+    {
+        "Name": "Grit Pebble",
+        "Category": "Hold items"
+    },
+    {
+        "Name": "Grit Rock",
+        "Category": "Hold items"
+    },
+    {
+        "Name": "Ground Gem",
+        "Category": "Hold items",
+        "Effect": "Increases the power of a Ground-type move only once."
+    },
+    {
+        "Name": "Ground Memory",
+        "Category": "Hold items",
+        "Effect": "Changes Silvally and its move Multi-Attack to Ground type."
+    },
+    {
+        "Name": "Groundium Z",
+        "Category": "Hold items",
+        "Effect": "Allows the use of Tectonic Rage, the Ground type Z-Move."
+    },
+    {
+        "Name": "Growth Mulch",
+        "Category": "General items",
+        "Effect": "A fertilizer to be spread on soft soil in regions where Berries are grown. A maniac will buy it for a high price."
+    },
+    {
+        "Name": "Grubby Hanky",
+        "Category": "Hold items",
+        "Effect": "A handkerchief dropped by a regular at Café Warehouse. It smells faintly like a Pokémon."
+    },
+    {
+        "Name": "Guard Spec.",
+        "Category": "Battle items",
+        "Effect": "Prevents stat reduction for five turns."
+    },
+    {
+        "Name": "Gyaradosite",
+        "Category": "Hold items",
+        "Effect": "Enables Gyarados to Mega Evolve during battle."
+    },
+    {
+        "Name": "Haban Berry",
+        "Category": "Berries",
+        "Effect": "Weakens a supereffective Dragon-type attack against the holding Pokémon."
+    },
+    {
+        "Name": "Hard Stone",
+        "Category": "Hold items",
+        "Effect": "Increases the power of Rock-type moves."
+    },
+    {
+        "Name": "Hasty Mint",
+        "Category": "Battle items",
+        "Effect": "Changes the Pokémon's stats to match the Hasty nature."
+    },
+    {
+        "Name": "Heal Ball",
+        "Category": "Pokeballs",
+        "Effect": "A remedial Poké Ball that restores the caught Pokémon's HP and eliminates any status problem."
+    },
+    {
+        "Name": "Heal Powder",
+        "Category": "Medicine",
+        "Effect": "Heals all status problems, but lowers Friendship."
+    },
+    {
+        "Name": "Health Candy",
+        "Category": "Medicine",
+        "Effect": "Increases a Pokémon's HP stat by 1."
+    },
+    {
+        "Name": "Health Candy L",
+        "Category": "Medicine",
+        "Effect": "Increases a Pokémon's HP stat."
+    },
+    {
+        "Name": "Health Candy XL",
+        "Category": "Medicine",
+        "Effect": "Increases a Pokémon's HP stat."
+    },
+    {
+        "Name": "Health Wing",
+        "Category": "Medicine",
+        "Effect": "Increases HP EVs by 1."
+    },
+    {
+        "Name": "Heart Scale",
+        "Category": "General items",
+        "Effect": "A pretty, heart-shaped scale that is extremely rare. It glows faintly in the colors of the rainbow."
+    },
+    {
+        "Name": "Hearty Grains",
+        "Category": "General items"
+    },
+    {
+        "Name": "Heat Rock",
+        "Category": "Hold items",
+        "Effect": "A Pokémon held item that extends the duration of the move Sunny Day used by the holder."
+    },
+    {
+        "Name": "Heavy Ball",
+        "Category": "Pokeballs",
+        "Effect": "A Poké Ball for catching very heavy Pokémon."
+    },
+    {
+        "Name": "Heavy-Duty Boots",
+        "Category": "Hold items",
+        "Effect": "Protects the holder from traps set on the battlefield."
+    },
+    {
+        "Name": "Helix Fossil",
+        "Category": "General items",
+        "Effect": "A fossil of an ancient Pokémon that lived in the sea. It appears to be part of a seashell."
+    },
+    {
+        "Name": "Heracronite",
+        "Category": "Hold items",
+        "Effect": "Enables Heracross to Mega Evolve during battle."
+    },
+    {
+        "Name": "Hi-tech Earbuds",
+        "Category": "Hold items",
+        "Effect": "Strange earbuds that allow you to freely control the volume of various sounds."
+    },
+    {
+        "Name": "HM01",
+        "Category": "Machines",
+        "Effect": "Teaches the move Cut."
+    },
+    {
+        "Name": "HM02",
+        "Category": "Machines",
+        "Effect": "Teaches the move Fly."
+    },
+    {
+        "Name": "HM03",
+        "Category": "Machines",
+        "Effect": "Teaches the move Surf."
+    },
+    {
+        "Name": "HM04",
+        "Category": "Machines",
+        "Effect": "Teaches the move Strength."
+    },
+    {
+        "Name": "HM05",
+        "Category": "Machines",
+        "Effect": "Teaches the move Flash/Defog/Whirlpool/Waterfall."
+    },
+    {
+        "Name": "HM06",
+        "Category": "Machines",
+        "Effect": "Teaches the move Whirlpool/Rock Smash/Dive."
+    },
+    {
+        "Name": "HM07",
+        "Category": "Machines",
+        "Effect": "Teaches the move Waterfall."
+    },
+    {
+        "Name": "HM08",
+        "Category": "Machines",
+        "Effect": "Teaches the move Dive/Rock Climb."
+    },
+    {
+        "Name": "Hometown Muffin",
+        "Category": "General items"
+    },
+    {
+        "Name": "Hondew Berry",
+        "Category": "Berries",
+        "Effect": "Increases Friendship but lowers Special Attack EVs."
+    },
+    {
+        "Name": "Honey",
+        "Category": "General items",
+        "Effect": "A sweet honey with a lush aroma that attracts wild Pokémon when it is used in grass, caves, or on special trees."
+    },
+    {
+        "Name": "Honey Cake",
+        "Category": "General items"
+    },
+    {
+        "Name": "Honor Of Kalos",
+        "Category": "Hold items",
+        "Effect": "A precious symbol that is awarded only to an individual who has done great things for the Kalos region."
+    },
+    {
+        "Name": "Hopo Berry",
+        "Category": "General items",
+        "Effect": "A Berry that can be fed to a Pokémon to restore its PP. If a wild Pokémon eats one of these Berries, that Pokémon’s reactions will be dulled."
+    },
+    {
+        "Name": "Houndoominite",
+        "Category": "Hold items",
+        "Effect": "Enables Houndoom to Mega Evolve during battle."
+    },
+    {
+        "Name": "HP Up",
+        "Category": "Medicine",
+        "Effect": "Increases HP EVs by 10."
+    },
+    {
+        "Name": "Hyper Potion",
+        "Category": "Medicine",
+        "Effect": "Restores 120 HP."
+    },
+    {
+        "Name": "Iapapa Berry",
+        "Category": "Berries",
+        "Effect": "Restores HP if it's low, but may cause confusion."
+    },
+    {
+        "Name": "Ice Gem",
+        "Category": "Hold items",
+        "Effect": "Increases the power of an Ice-type move only once."
+    },
+    {
+        "Name": "Ice Heal",
+        "Category": "Medicine",
+        "Effect": "A spray-type medicine. It defrosts a Pokémon that has been frozen solid."
+    },
+    {
+        "Name": "Ice Memory",
+        "Category": "Hold items",
+        "Effect": "Changes Silvally and its move Multi-Attack to Ice type."
+    },
+    {
+        "Name": "Ice Stone",
+        "Category": "General items",
+        "Effect": "Evolves certain species of Pokémon."
+    },
+    {
+        "Name": "Iceroot Carrot",
+        "Category": "General items",
+        "Effect": "Produce that the King of Bountiful Harvests’ beloved steed likes to eat. It grew in a field covered in snow."
+    },
+    {
+        "Name": "Icicle Plate",
+        "Category": "Hold items",
+        "Effect": "Increases power of Ice-type moves. Changes Arceus' type to Ice."
+    },
+    {
+        "Name": "Icium Z",
+        "Category": "Hold items",
+        "Effect": "Allows the use of Subzero Slammer, the Ice type Z-Move."
+    },
+    {
+        "Name": "Icy Rock",
+        "Category": "Hold items",
+        "Effect": "A Pokémon held item that extends the duration of the move Hail used by the holder."
+    },
+    {
+        "Name": "Impish Mint",
+        "Category": "Battle items",
+        "Effect": "Changes the Pokémon's stats to match the Impish nature."
+    },
+    {
+        "Name": "Incinium Z",
+        "Category": "Hold items",
+        "Effect": "Allows Incineroar to upgrade Darkest Lariat to a Z-Move, Malicious Moonsault."
+    },
+    {
+        "Name": "Insect Plate",
+        "Category": "Hold items",
+        "Effect": "Increases power of Bug-type moves. Changes Arceus' type to Bug."
+    },
+    {
+        "Name": "Instant Noodles",
+        "Category": "General items",
+        "Effect": "One of the many ingredients that can be used for cooking at your camp. It has a junk-food sort of taste, but it goes well with curry."
+    },
+    {
+        "Name": "Intriguing Stone",
+        "Category": "Hold items",
+        "Effect": "A rather curious stone that might appear to be valuable to some. It's all in the eye of the beholder."
+    },
+    {
+        "Name": "Iron",
+        "Category": "Medicine",
+        "Effect": "Increases Defense EVs by 10."
+    },
+    {
+        "Name": "Iron Ball",
+        "Category": "Hold items",
+        "Effect": "A Pokémon held item that cuts Speed. It makes Flying-type and levitating holders susceptible to Ground moves."
+    },
+    {
+        "Name": "Iron Barktongue",
+        "Category": "General items"
+    },
+    {
+        "Name": "Iron Chunk",
+        "Category": "General items"
+    },
+    {
+        "Name": "Iron Plate",
+        "Category": "Hold items",
+        "Effect": "Increases power of Steel-type moves. Changes Arceus' type to Steel."
+    },
+    {
+        "Name": "Item Drop",
+        "Category": "Battle items",
+        "Effect": "When used, it causes an ally Pokémon to drop a held item."
+    },
+    {
+        "Name": "Item Urge",
+        "Category": "Battle items",
+        "Effect": "When used, it causes an ally Pokémon to use its held item."
+    },
+    {
+        "Name": "Jaboca Berry",
+        "Category": "Berries",
+        "Effect": "If held by a Pokémon and a physical attack lands, the attacker also takes damage."
+    },
+    {
+        "Name": "Jet Ball",
+        "Category": "Pokeballs"
+    },
+    {
+        "Name": "Jolly Mint",
+        "Category": "Battle items",
+        "Effect": "Changes the Pokémon's stats to match the Jolly nature."
+    },
+    {
+        "Name": "Jubilife Muffin",
+        "Category": "General items"
+    },
+    {
+        "Name": "Kangaskhanite",
+        "Category": "Hold items",
+        "Effect": "Enables Kangaskhan to Mega Evolve during battle."
+    },
+    {
+        "Name": "Kasib Berry",
+        "Category": "Berries",
+        "Effect": "Weakens a supereffective Ghost-type attack against the holding Pokémon."
+    },
+    {
+        "Name": "Kebia Berry",
+        "Category": "Berries",
+        "Effect": "Weakens a supereffective Poison-type attack against the holding Pokémon."
+    },
+    {
+        "Name": "Kee Berry",
+        "Category": "Berries",
+        "Effect": "If held by a Pokémon, this Berry will increase the holder's Defense if it's hit with a physical move."
+    },
+    {
+        "Name": "Kelpsy Berry",
+        "Category": "Berries",
+        "Effect": "Increases Friendship but lowers Attack EVs."
+    },
+    {
+        "Name": "King’s Leaf",
+        "Category": "General items"
+    },
+    {
+        "Name": "King's Rock",
+        "Category": "Hold items",
+        "Effect": "May cause opponent to flinch. Evolves Poliwhirl and Slowpoke when traded holding the item."
+    },
+    {
+        "Name": "Kommonium Z",
+        "Category": "Hold items",
+        "Effect": "Allows Kommo-o to upgrade Clanging Scales to a Z-Move, Clangorous Soulblaze."
+    },
+    {
+        "Name": "Lagging Tail",
+        "Category": "Hold items",
+        "Effect": "Holder always attacks last."
+    },
+    {
+        "Name": "Lansat Berry",
+        "Category": "Berries",
+        "Effect": "Increases critical-hit ratio when HP is low."
+    },
+    {
+        "Name": "Large Leek",
+        "Category": "General items",
+        "Effect": "One of the many ingredients that can be used for cooking at your camp. Whether this is the kind of vegetable stalk that Farfetch’d like is unknown."
+    },
+    {
+        "Name": "Latiasite",
+        "Category": "Hold items",
+        "Effect": "Enables Latias to Mega Evolve during battle."
+    },
+    {
+        "Name": "Latiosite",
+        "Category": "Hold items",
+        "Effect": "Enables Latios to Mega Evolve during battle."
+    },
+    {
+        "Name": "Lava Cookie",
+        "Category": "Medicine",
+        "Effect": "Heals all major status conditions."
+    },
+    {
+        "Name": "Lax Incense",
+        "Category": "Hold items",
+        "Effect": "Lowers the opponent's accuracy. Breeding Wobbuffet produces Wynaut when held."
+    },
+    {
+        "Name": "Lax Mint",
+        "Category": "Battle items",
+        "Effect": "Changes the Pokémon's stats to match the Lax nature."
+    },
+    {
+        "Name": "Leaden Ball",
+        "Category": "Pokeballs"
+    },
+    {
+        "Name": "Leaf Letter",
+        "Category": "General items",
+        "Effect": "A letter written on a leaf. Something is written using Eevee's footprints."
+    },
+    {
+        "Name": "Leaf Stone",
+        "Category": "General items",
+        "Effect": "Evolves certain species of Pokémon."
+    },
+    {
+        "Name": "Leek",
+        "Category": "Hold items",
+        "Effect": "Increases critical-hit ratio when held by Farfetch'd."
+    },
+    {
+        "Name": "Leftovers",
+        "Category": "Hold items",
+        "Effect": "An item to be held by a Pokémon. The holder's HP is gradually restored during battle."
+    },
+    {
+        "Name": "Legend Plate",
+        "Category": "Hold items"
+    },
+    {
+        "Name": "Lemonade",
+        "Category": "Medicine",
+        "Effect": "Restores 70 HP."
+    },
+    {
+        "Name": "Leppa Berry",
+        "Category": "Berries",
+        "Effect": "If held by a Pokémon, it restores a move's PP by 10."
+    },
+    {
+        "Name": "Level Ball",
+        "Category": "Pokeballs",
+        "Effect": "A Poké Ball for catching Pokémon that are a lower level than your own."
+    },
+    {
+        "Name": "Liechi Berry",
+        "Category": "Berries",
+        "Effect": "Raises Attack when HP is low."
+    },
+    {
+        "Name": "Life Orb",
+        "Category": "Hold items",
+        "Effect": "Increases the power of moves, but loses HP each turn."
+    },
+    {
+        "Name": "Light Ball",
+        "Category": "Hold items",
+        "Effect": "An item to be held by PIKACHU. It is a puzzling orb that raises the Attack and Sp. Atk stat."
+    },
+    {
+        "Name": "Light Clay",
+        "Category": "Hold items",
+        "Effect": "A Pokémon held item that extends the duration of barrier moves like Light Screen and Reflect used by the holder."
+    },
+    {
+        "Name": "Linking Cord",
+        "Category": "General items",
+        "Effect": "A string exuding a mysterious energy that makes you feel a strange sense of connection. It’s loved by certain Pokémon."
+    },
+    {
+        "Name": "Lone Earring",
+        "Category": "General items"
+    },
+    {
+        "Name": "Lonely Mint",
+        "Category": "Battle items",
+        "Effect": "Changes the Pokémon's stats to match the Lonely nature."
+    },
+    {
+        "Name": "Looker Ticket",
+        "Category": "Hold items",
+        "Effect": "A ticket that was handmade by Looker. It's decorated with a liberal amount of glittery paint."
+    },
+    {
+        "Name": "Lopunnite",
+        "Category": "Hold items",
+        "Effect": "Enables Lopunny to Mega Evolve during battle."
+    },
+    {
+        "Name": "Lost Satchel",
+        "Category": "General items"
+    },
+    {
+        "Name": "Love Ball",
+        "Category": "Pokeballs",
+        "Effect": "Poké Ball for catching Pokémon that are the opposite gender of your Pokémon."
+    },
+    {
+        "Name": "Love Sweet",
+        "Category": "Hold items",
+        "Effect": "Evolves Milcery into Heart Flavor Alcremie."
+    },
+    {
+        "Name": "Lucarionite",
+        "Category": "Hold items",
+        "Effect": "Enables Lucario to Mega Evolve during battle."
+    },
+    {
+        "Name": "Luck Incense",
+        "Category": "Hold items",
+        "Effect": "Doubles prize money if held. Breeding Chansey or Blissey produces Happiny when held."
+    },
+    {
+        "Name": "Lucky Egg",
+        "Category": "Hold items",
+        "Effect": "An item to be held by a Pokémon. It is an egg filled with happiness that earns extra Exp. Points in battle."
+    },
+    {
+        "Name": "Lucky Punch",
+        "Category": "Hold items",
+        "Effect": "Increases critical-hit ratio when held by Chansey."
+    },
+    {
+        "Name": "Lum Berry",
+        "Category": "Berries",
+        "Effect": "If held by a Pokémon, it recovers from any status problem."
+    },
+    {
+        "Name": "Luminous Moss",
+        "Category": "Hold items",
+        "Effect": "Raises Special Defense if hit by a Water-type move."
+    },
+    {
+        "Name": "Lumiose Galette",
+        "Category": "Medicine",
+        "Effect": "Heals all major status conditions."
+    },
+    {
+        "Name": "Lunalium Z",
+        "Category": "Hold items",
+        "Effect": "Allows Lunala to upgrade Moongeist Beam to a Z-Move, Menacing Moonraze Maelstrom."
+    },
+    {
+        "Name": "Lure",
+        "Category": "General items",
+        "Effect": "Attracts Pokémon in the wild."
+    },
+    {
+        "Name": "Lure Ball",
+        "Category": "Pokeballs",
+        "Effect": "A Poké Ball for catching Pokémon hooked by a Rod when fishing."
+    },
+    {
+        "Name": "Lustrous Globe",
+        "Category": "Hold items"
+    },
+    {
+        "Name": "Lustrous Orb",
+        "Category": "Hold items",
+        "Effect": "Increases the power of Dragon- and Water-type moves when held by Palkia."
+    },
+    {
+        "Name": "Luxury Ball",
+        "Category": "Pokeballs",
+        "Effect": "A comfortable Poké Ball that makes a caught wild Pokémon quickly grow friendly."
+    },
+    {
+        "Name": "Lycanium Z",
+        "Category": "Hold items",
+        "Effect": "Allows Lycanroc to upgrade Stone Edge to a Z-Move, Splintered Stormshards."
+    },
+    {
+        "Name": "Macho Brace",
+        "Category": "Hold items",
+        "Effect": "An item to be held by a Pokémon. It is a stiff and heavy brace that promotes strong growth but lowers Speed."
+    },
+    {
+        "Name": "Magmarizer",
+        "Category": "General items",
+        "Effect": "Evolves Magmar when traded holding the item."
+    },
+    {
+        "Name": "Magnet",
+        "Category": "Hold items",
+        "Effect": "Increases the power of Electric-type moves."
+    },
+    {
+        "Name": "Mago Berry",
+        "Category": "Berries",
+        "Effect": "Restores HP if it's low, but may cause confusion."
+    },
+    {
+        "Name": "Magost Berry",
+        "Category": "Berries",
+        "Effect": "A Berry which is very rare in the Unova region. A maniac will buy it for a high price."
+    },
+    {
+        "Name": "Manectite",
+        "Category": "Hold items",
+        "Effect": "Enables Manectric to Mega Evolve during battle."
+    },
+    {
+        "Name": "Maranga Berry",
+        "Category": "Berries",
+        "Effect": "If held by a Pokémon, this Berry will increase the holder's Sp. Def if it's hit with a special move."
+    },
+    {
+        "Name": "Marble",
+        "Category": "General items"
+    },
+    {
+        "Name": "Marsh Balm",
+        "Category": "General items"
+    },
+    {
+        "Name": "Marshadium Z",
+        "Category": "Hold items",
+        "Effect": "Allows Marshadow to upgrade Spectral Thief to a Z-Move, Soul-Stealing 7-Star Strike."
+    },
+    {
+        "Name": "Master Ball",
+        "Category": "Pokeballs",
+        "Effect": "The best Ball with the ultimate level of performance. It will catch any wild Pokémon without fail."
+    },
+    {
+        "Name": "Mawilite",
+        "Category": "Hold items",
+        "Effect": "Enables Mawile to Mega Evolve during battle."
+    },
+    {
+        "Name": "Max Elixir",
+        "Category": "Medicine",
+        "Effect": "It fully restores the PP of all the moves learned by the targeted Pokémon."
+    },
+    {
+        "Name": "Max Ether",
+        "Category": "Medicine",
+        "Effect": "It fully restores the PP of a single selected move that has been learned by the target Pokémon."
+    },
+    {
+        "Name": "Max Honey",
+        "Category": "General items"
+    },
+    {
+        "Name": "Max Lure",
+        "Category": "General items",
+        "Effect": "Attracts Pokémon in the wild."
+    },
+    {
+        "Name": "Max Mushrooms",
+        "Category": "General items"
+    },
+    {
+        "Name": "Max Potion",
+        "Category": "Medicine",
+        "Effect": "Fully restores HP."
+    },
+    {
+        "Name": "Max Repel",
+        "Category": "General items",
+        "Effect": "An item that prevents weak wild Pokémon from appearing for 250 steps after its use."
+    },
+    {
+        "Name": "Max Revive",
+        "Category": "Medicine",
+        "Effect": "A medicine that revives a fainted Pokémon. It fully restores the Pokémon's HP."
+    },
+    {
+        "Name": "Meadow Plate",
+        "Category": "Hold items",
+        "Effect": "Increases power of Grass-type moves. Changes Arceus' type to Grass."
+    },
+    {
+        "Name": "Medichamite",
+        "Category": "Hold items",
+        "Effect": "Enables Medicham to Mega Evolve during battle."
+    },
+    {
+        "Name": "Medicinal Leek",
+        "Category": "General items"
+    },
+    {
+        "Name": "Mental Herb",
+        "Category": "Hold items",
+        "Effect": "An item to be held by a Pokémon. It snaps the holder out of infatuation. It can be used only once."
+    },
+    {
+        "Name": "Metagrossite",
+        "Category": "Hold items",
+        "Effect": "Enables Metagross to Mega Evolve during battle."
+    },
+    {
+        "Name": "Metal Coat",
+        "Category": "Hold items",
+        "Effect": "Increases the power of Steel-type moves. Evolves Onix and Scyther when traded holding the item."
+    },
+    {
+        "Name": "Metal Powder",
+        "Category": "Hold items",
+        "Effect": "Increases Defense when held by Ditto."
+    },
+    {
+        "Name": "Metronome",
+        "Category": "Hold items",
+        "Effect": "Increases the power of moves used consecutively."
+    },
+    {
+        "Name": "Mewnium Z",
+        "Category": "Hold items",
+        "Effect": "Allows Mew to upgrade Psychic to a Z-Move, Genesis Supernova."
+    },
+    {
+        "Name": "Mewtwonite X",
+        "Category": "Hold items",
+        "Effect": "Enables Mewtwo to Mega Evolve during battle."
+    },
+    {
+        "Name": "Mewtwonite Y",
+        "Category": "Hold items",
+        "Effect": "Enables Mewtwo to Mega Evolve during battle."
+    },
+    {
+        "Name": "Micle Berry",
+        "Category": "Berries",
+        "Effect": "Increases a move's accuracy when HP is low."
+    },
+    {
+        "Name": "Mighty Candy",
+        "Category": "Medicine",
+        "Effect": "Increases a Pokémon's Attack stat by 1."
+    },
+    {
+        "Name": "Mighty Candy L",
+        "Category": "Medicine",
+        "Effect": "Increases a Pokémon's Attack stat."
+    },
+    {
+        "Name": "Mighty Candy XL",
+        "Category": "Medicine",
+        "Effect": "Increases a Pokémon's Attack stat."
+    },
+    {
+        "Name": "Mild Mint",
+        "Category": "Battle items",
+        "Effect": "Changes the Pokémon's stats to match the Mild nature."
+    },
+    {
+        "Name": "Mimikium Z",
+        "Category": "Hold items",
+        "Effect": "Allows Mimikyu to upgrade Play Rough to a Z-Move, Let's Snuggle Forever."
+    },
+    {
+        "Name": "Mind Plate",
+        "Category": "Hold items",
+        "Effect": "Increases power of Psychic-type moves. Changes Arceus' type to Psychic."
+    },
+    {
+        "Name": "Miracle Seed",
+        "Category": "Hold items",
+        "Effect": "Increases the power of Grass-type moves."
+    },
+    {
+        "Name": "Misty Seed",
+        "Category": "Hold items",
+        "Effect": "An item to be held by a Pokémon. It boosts Sp. Def on Misty Terrain. It can only be used once."
+    },
+    {
+        "Name": "Mixed Mushrooms",
+        "Category": "General items",
+        "Effect": "One of the many ingredients that can be used for cooking at your camp. The chewy texture of the mushrooms transforms any dish they’re added to."
+    },
+    {
+        "Name": "Modest Mint",
+        "Category": "Battle items",
+        "Effect": "Changes the Pokémon's stats to match the Modest nature."
+    },
+    {
+        "Name": "Moomoo Cheese",
+        "Category": "General items",
+        "Effect": "One of the many ingredients that can be used for cooking at your camp. Melted cheese can really give a curry some richness."
+    },
+    {
+        "Name": "Moomoo Milk",
+        "Category": "Medicine",
+        "Effect": "Milk with a very high nutrition content. It restores the HP of one Pokémon by 100 points."
+    },
+    {
+        "Name": "Moon Ball",
+        "Category": "Pokeballs",
+        "Effect": "A Poké Ball for catching Pokémon that evolve using the Moon Stone."
+    },
+    {
+        "Name": "Moon Stone",
+        "Category": "General items",
+        "Effect": "Evolves certain species of Pokémon."
+    },
+    {
+        "Name": "Muscle Band",
+        "Category": "Hold items",
+        "Effect": "Increases the power of Physical-category moves."
+    },
+    {
+        "Name": "Muscle Wing",
+        "Category": "Medicine",
+        "Effect": "Increases Attack EVs by 1."
+    },
+    {
+        "Name": "Mushroom Cake",
+        "Category": "General items"
+    },
+    {
+        "Name": "Mystic Water",
+        "Category": "Hold items",
+        "Effect": "Increases the power of Water-type moves."
+    },
+    {
+        "Name": "Naive Mint",
+        "Category": "Battle items",
+        "Effect": "Changes the Pokémon's stats to match the Naive nature."
+    },
+    {
+        "Name": "Nanab Berry",
+        "Category": "Berries",
+        "Effect": "A Berry to be used in cooking. Calms a Pokémon in battle, in Let's Go Pikachu/Eevee."
+    },
+    {
+        "Name": "Naughty Mint",
+        "Category": "Battle items",
+        "Effect": "Changes the Pokémon's stats to match the Naughty nature."
+    },
+    {
+        "Name": "Nest Ball",
+        "Category": "Pokeballs",
+        "Effect": "A somewhat different Poké Ball that works especially well on weaker Pokémon in the wild."
+    },
+    {
+        "Name": "Net Ball",
+        "Category": "Pokeballs",
+        "Effect": "A somewhat different Poké Ball that works especially well on Water- and Bug-type Pokémon."
+    },
+    {
+        "Name": "Never-Melt Ice",
+        "Category": "Hold items",
+        "Effect": "Increases the power of Ice-type moves."
+    },
+    {
+        "Name": "Nomel Berry",
+        "Category": "Berries",
+        "Effect": "A Berry which is very rare in the Unova region. A maniac will buy it for a high price."
+    },
+    {
+        "Name": "Normal Gem",
+        "Category": "Hold items",
+        "Effect": "Increases the power of a Normal-type move only once."
+    },
+    {
+        "Name": "Normalium Z",
+        "Category": "Hold items",
+        "Effect": "Allows the use of Breakneck Blitz, the Normal type Z-Move."
+    },
+    {
+        "Name": "Nugget",
+        "Category": "General items",
+        "Effect": "A nugget of pure gold that gives off a lustrous gleam. It can be sold at a high price to shops."
+    },
+    {
+        "Name": "Occa Berry",
+        "Category": "Berries",
+        "Effect": "Weakens a supereffective Fire-type attack against the holding Pokémon."
+    },
+    {
+        "Name": "Odd Incense",
+        "Category": "Hold items",
+        "Effect": "Increases the power of Psychic-type moves. Breeding Mr. Mime produces Mime Jr. when held."
+    },
+    {
+        "Name": "Odd Keystone",
+        "Category": "General items",
+        "Effect": "A vital item that is needed to keep a stone tower from collapsing. Voices can be heard from it occasionally."
+    },
+    {
+        "Name": "Old Amber",
+        "Category": "General items",
+        "Effect": "A piece of amber that contains the genetic material of an ancient Pokémon. It is clear with a reddish tint."
+    },
+    {
+        "Name": "Old Gateau",
+        "Category": "Medicine",
+        "Effect": "Heals all major status conditions."
+    },
+    {
+        "Name": "Oran Berry",
+        "Category": "Berries",
+        "Effect": "If held by a Pokémon, it heals the user by just 10 HP."
+    },
+    {
+        "Name": "Origin Ball",
+        "Category": "Pokeballs"
+    },
+    {
+        "Name": "Origin Ore",
+        "Category": "General items"
+    },
+    {
+        "Name": "Oval Charm",
+        "Category": "General items",
+        "Effect": "An oval charm said to increase the chance of Pokémon Eggs being found at the Day Care."
+    },
+    {
+        "Name": "Oval Stone",
+        "Category": "General items",
+        "Effect": "Evolves Happiny when held."
+    },
+    {
+        "Name": "Pack of Potatoes",
+        "Category": "General items",
+        "Effect": "One of the many ingredients that can be used for cooking at your camp. Potatoes help mellow out a spicy taste, to make a dish more mild."
+    },
+    {
+        "Name": "Packaged Curry",
+        "Category": "General items",
+        "Effect": "One of the many ingredients that can be used for cooking at your camp. Using packaged curry helps make sure there are no slipups when cooking."
+    },
+    {
+        "Name": "Pamtre Berry",
+        "Category": "Berries",
+        "Effect": "A Berry which is very rare in the Unova region. A maniac will buy it for a high price."
+    },
+    {
+        "Name": "Paralyze Heal",
+        "Category": "Medicine",
+        "Effect": "A spray-type medicine. It eliminates paralysis from a single Pokémon."
+    },
+    {
+        "Name": "Park Ball",
+        "Category": "Pokeballs",
+        "Effect": "A special Poké Ball for the Pal Park."
+    },
+    {
+        "Name": "Pass Orb",
+        "Category": "Hold items",
+        "Effect": "A mysterious orb containing the power of the Unova region, to be used when generating Pass Power."
+    },
+    {
+        "Name": "Passho Berry",
+        "Category": "Berries",
+        "Effect": "Weakens a supereffective Water-type attack against the holding Pokémon."
+    },
+    {
+        "Name": "Pasta",
+        "Category": "General items",
+        "Effect": "One of the many ingredients that can be used for cooking at your camp. These flour noodles make for a surprisingly good match with curry."
+    },
+    {
+        "Name": "Payapa Berry",
+        "Category": "Berries",
+        "Effect": "Weakens a supereffective Psychic-type attack against the holding Pokémon."
+    },
+    {
+        "Name": "Pearl",
+        "Category": "General items",
+        "Effect": "A somewhat-small pearl that sparkles in a pretty silver color. It can be sold cheaply to shops."
+    },
+    {
+        "Name": "Pearl String",
+        "Category": "General items",
+        "Effect": "Very large pearls that sparkle in a pretty silver color. A maniac will buy them for a high price."
+    },
+    {
+        "Name": "Peat Block",
+        "Category": "General items",
+        "Effect": "A block of muddy material that can be used as fuel for burning when it is dried. It’s loved by a certain Pokémon."
+    },
+    {
+        "Name": "Pecha Berry",
+        "Category": "Berries",
+        "Effect": "If held by a Pokémon, it recovers from poison."
+    },
+    {
+        "Name": "Pep-Up Plant",
+        "Category": "General items"
+    },
+    {
+        "Name": "Permit",
+        "Category": "General items",
+        "Effect": "A permit that is needed to enter the Nature Preserve. Not many know about it."
+    },
+    {
+        "Name": "Persim Berry",
+        "Category": "Berries",
+        "Effect": "If held by a Pokémon, it recovers from confusion."
+    },
+    {
+        "Name": "Petaya Berry",
+        "Category": "Berries",
+        "Effect": "Raises Special Attack when HP is low."
+    },
+    {
+        "Name": "Pewter Crunchies",
+        "Category": "Medicine",
+        "Effect": "Heals all major status conditions."
+    },
+    {
+        "Name": "Pidgeotite",
+        "Category": "Hold items",
+        "Effect": "Enables Pidgeot to Mega Evolve during battle."
+    },
+    {
+        "Name": "Pikanium Z",
+        "Category": "Hold items",
+        "Effect": "Allows Pikachu to upgrade Volt Tackle to a Z-Move, Catastropika."
+    },
+    {
+        "Name": "Pikashunium Z",
+        "Category": "Hold items",
+        "Effect": "Allows Pikachu in a cap to upgrade Thunderbolt to a Z-Move, 10,000,000 Volt Thunderbolt."
+    },
+    {
+        "Name": "Pinap Berry",
+        "Category": "Berries",
+        "Effect": "A Berry to be used in cooking. Increases chances of getting items when a Pokémon is caught, in Pokémon Let's Go."
+    },
+    {
+        "Name": "Pink Apricorn",
+        "Category": "General items",
+        "Effect": "A pink Apricorn. It has a nice, sweet scent."
+    },
+    {
+        "Name": "Pink Nectar",
+        "Category": "Hold items",
+        "Effect": "The flower nectar obtained at the flowering shrubs on Royal Avenue. It changes the form of certain species of Pokémon."
+    },
+    {
+        "Name": "Pink Scarf",
+        "Category": "General items",
+        "Effect": "Raises holder's Cute aspect in a Contest."
+    },
+    {
+        "Name": "Pinsirite",
+        "Category": "Hold items",
+        "Effect": "Enables Pinsir to Mega Evolve during battle."
+    },
+    {
+        "Name": "Pixie Plate",
+        "Category": "Hold items",
+        "Effect": "Increases power of Fairy-type moves. Changes Arceus' type to Fairy."
+    },
+    {
+        "Name": "Plasma Card",
+        "Category": "Hold items",
+        "Effect": "A card key needed to enter the password inside the Plasma Frigate."
+    },
+    {
+        "Name": "Plume Fossil",
+        "Category": "General items",
+        "Effect": "A fossil of an ancient Pokémon that flew in the sky in ancient times. It appears to be part of its wing."
+    },
+    {
+        "Name": "Plump Beans",
+        "Category": "General items"
+    },
+    {
+        "Name": "Poison Barb",
+        "Category": "Hold items",
+        "Effect": "Increases the power of Poison-type moves."
+    },
+    {
+        "Name": "Poison Gem",
+        "Category": "Hold items",
+        "Effect": "Increases the power of a Poison-type move only once."
+    },
+    {
+        "Name": "Poison Memory",
+        "Category": "Hold items",
+        "Effect": "Changes Silvally and its move Multi-Attack to Poison type."
+    },
+    {
+        "Name": "Poisonium Z",
+        "Category": "Hold items",
+        "Effect": "Allows the use of Acid Downpour, the Poison type Z-Move."
+    },
+    {
+        "Name": "Poké Ball",
+        "Category": "Pokeballs",
+        "Effect": "A device for catching wild Pokémon. It is thrown like a ball at the target. It is designed as a capsule system."
+    },
+    {
+        "Name": "Poké Doll",
+        "Category": "General items",
+        "Effect": "A doll that attracts Pokémon. Use it to flee from any battle with a wild Pokémon."
+    },
+    {
+        "Name": "Poké Toy",
+        "Category": "General items",
+        "Effect": "An item that attracts Pokémon. Use it to flee from any battle with a wild Pokémon."
+    },
+    {
+        "Name": "Polished Mud Ball",
+        "Category": "General items"
+    },
+    {
+        "Name": "Pomeg Berry",
+        "Category": "Berries",
+        "Effect": "Increases Friendship but lowers HP EVs."
+    },
+    {
+        "Name": "Pop Pod",
+        "Category": "General items"
+    },
+    {
+        "Name": "Potion",
+        "Category": "Medicine",
+        "Effect": "Restores 20 HP."
+    },
+    {
+        "Name": "Power Anklet",
+        "Category": "Hold items",
+        "Effect": "A Pokémon held item that promotes Speed gain on leveling, but reduces the Speed stat."
+    },
+    {
+        "Name": "Power Band",
+        "Category": "Hold items",
+        "Effect": "A Pokémon held item that promotes Sp. Def gain on leveling, but reduces the Speed stat."
+    },
+    {
+        "Name": "Power Belt",
+        "Category": "Hold items",
+        "Effect": "A Pokémon held item that promotes Defense gain on leveling, but reduces the Speed stat."
+    },
+    {
+        "Name": "Power Bracer",
+        "Category": "Hold items",
+        "Effect": "A Pokémon held item that promotes Attack gain on leveling, but reduces the Speed stat."
+    },
+    {
+        "Name": "Power Herb",
+        "Category": "Hold items",
+        "Effect": "A single-use item to be held by a Pokémon. It allows the immediate use of a move that charges on the first turn."
+    },
+    {
+        "Name": "Power Lens",
+        "Category": "Hold items",
+        "Effect": "A Pokémon held item that promotes Sp. Atk gain on leveling, but reduces the Speed stat."
+    },
+    {
+        "Name": "Power Plant Pass",
+        "Category": "Hold items",
+        "Effect": "This pass serves as an ID card for gaining access to the power plant that lies along Route 13."
+    },
+    {
+        "Name": "Power Weight",
+        "Category": "Hold items",
+        "Effect": "A Pokémon held item that promotes HP gain on leveling, but reduces the Speed stat."
+    },
+    {
+        "Name": "PP Max",
+        "Category": "Medicine",
+        "Effect": "It maximally raises the top PP of a selected move that has been learned by the target Pokémon."
+    },
+    {
+        "Name": "PP Up",
+        "Category": "Medicine",
+        "Effect": "It slightly raises the maximum PP of a selected move that has been learned by the target Pokémon."
+    },
+    {
+        "Name": "Precooked Burger",
+        "Category": "General items",
+        "Effect": "One of the many ingredients that can be used for cooking at your camp. If you’re unsure about what to cook, you can’t go wrong with some burger."
+    },
+    {
+        "Name": "Premier Ball",
+        "Category": "Pokeballs",
+        "Effect": "A somewhat rare Poké Ball that has been specially made to commemorate an event of some sort."
+    },
+    {
+        "Name": "Pretty Wing",
+        "Category": "General items",
+        "Effect": "Though this feather is beautiful, it's just a regular feather and has no effect on Pokémon."
+    },
+    {
+        "Name": "Primarium Z",
+        "Category": "Hold items",
+        "Effect": "Allows Primarina to upgrade Sparkling Aria to a Z-Move, Oceanic Operetta."
+    },
+    {
+        "Name": "Prism Scale",
+        "Category": "General items",
+        "Effect": "Evolves Feebas when traded holding the item."
+    },
+    {
+        "Name": "Prison Bottle",
+        "Category": "Hold items",
+        "Effect": "Transforms Hoopa Confined to Hoopa Unbound."
+    },
+    {
+        "Name": "Prof's Letter",
+        "Category": "Hold items",
+        "Effect": "A letter that Professor Sycamore wrote to your mother. A faint but pleasant perfume seems to cling to the paper."
+    },
+    {
+        "Name": "Protective Pads",
+        "Category": "Hold items",
+        "Effect": "An item to be held by a Pokémon. These pads protect the holder from effects caused by making direct contact with the target."
+    },
+    {
+        "Name": "Protector",
+        "Category": "General items",
+        "Effect": "Evolves Rhydon when traded holding the item."
+    },
+    {
+        "Name": "Protein",
+        "Category": "Medicine",
+        "Effect": "Increases Attack EVs by 10."
+    },
+    {
+        "Name": "Psychic Gem",
+        "Category": "Hold items",
+        "Effect": "Increases the power of a Psychic-type move only once."
+    },
+    {
+        "Name": "Psychic Memory",
+        "Category": "Hold items",
+        "Effect": "Changes Silvally and its move Multi-Attack to Psychic type."
+    },
+    {
+        "Name": "Psychic Seed",
+        "Category": "Hold items",
+        "Effect": "An item to be held by a Pokémon. It boosts Sp. Def on Psychic Terrain. It can only be used once."
+    },
+    {
+        "Name": "Psychium Z",
+        "Category": "Hold items",
+        "Effect": "Allows the use of Shattered Psyche, the Psychic type Z-Move."
+    },
+    {
+        "Name": "Pungent Root",
+        "Category": "General items",
+        "Effect": "One of the many ingredients that can be used for cooking at your camp. Though carelessly picked, these herbs can add a fragrant accent to a dish."
+    },
+    {
+        "Name": "Pure Incense",
+        "Category": "Hold items",
+        "Effect": "Descreases the likelihood of meeting wild Pokémon. Breeding Chimecho produces Chingling when held."
+    },
+    {
+        "Name": "Purple Nectar",
+        "Category": "Hold items",
+        "Effect": "A flower nectar obtained at Poni Meadow. It changes the form of certain species of Pokémon."
+    },
+    {
+        "Name": "Qualot Berry",
+        "Category": "Berries",
+        "Effect": "Increases Friendship but lowers Defense EVs."
+    },
+    {
+        "Name": "Quick Ball",
+        "Category": "Pokeballs",
+        "Effect": "A somewhat different Poké Ball that provides a better catch rate if it is used at the start of a wild encounter."
+    },
+    {
+        "Name": "Quick Candy",
+        "Category": "Medicine",
+        "Effect": "Increases a Pokémon's Speed stat by 1."
+    },
+    {
+        "Name": "Quick Candy L",
+        "Category": "Medicine",
+        "Effect": "Increases a Pokémon's Speed stat."
+    },
+    {
+        "Name": "Quick Candy XL",
+        "Category": "Medicine",
+        "Effect": "Increases a Pokémon's Speed stat."
+    },
+    {
+        "Name": "Quick Claw",
+        "Category": "Hold items",
+        "Effect": "An item to be held by a Pokémon. A light, sharp claw that lets the bearer move first occasionally."
+    },
+    {
+        "Name": "Quick Powder",
+        "Category": "Hold items",
+        "Effect": "Increases Speed when held by Ditto."
+    },
+    {
+        "Name": "Quiet Mint",
+        "Category": "Battle items",
+        "Effect": "Changes the Pokémon's stats to match the Quiet nature."
+    },
+    {
+        "Name": "Rabuta Berry",
+        "Category": "Berries",
+        "Effect": "A Berry which is very rare in the Unova region. A maniac will buy it for a high price."
+    },
+    {
+        "Name": "Rage Candy Bar",
+        "Category": "Medicine",
+        "Effect": "Heals all major status conditions."
+    },
+    {
+        "Name": "Rare Bone",
+        "Category": "General items",
+        "Effect": "A bone that is extremely valuable for Pokémon archeology. It can be sold for a high price to shops."
+    },
+    {
+        "Name": "Rare Candy",
+        "Category": "Medicine",
+        "Effect": "A candy that is packed with energy. It raises the level of a single Pokémon by one."
+    },
+    {
+        "Name": "Rash Mint",
+        "Category": "Battle items",
+        "Effect": "Changes the Pokémon's stats to match the Rash nature."
+    },
+    {
+        "Name": "Rawst Berry",
+        "Category": "Berries",
+        "Effect": "If held by a Pokémon, it recovers from a burn."
+    },
+    {
+        "Name": "Razor Claw",
+        "Category": "Hold items",
+        "Effect": "Increases critical-hit ratio. Evolves Sneasel when held at night."
+    },
+    {
+        "Name": "Razor Fang",
+        "Category": "Hold items",
+        "Effect": "May cause opponent to flinch. Evolves Gligar when held at night."
+    },
+    {
+        "Name": "Razz Berry",
+        "Category": "Berries",
+        "Effect": "A Berry which is very rare in the Unova region. A maniac will buy it for a high price."
+    },
+    {
+        "Name": "Reaper Cloth",
+        "Category": "General items",
+        "Effect": "Evolves Dusclops when traded holding the item."
+    },
+    {
+        "Name": "Red Apricorn",
+        "Category": "General items",
+        "Effect": "A red Apricorn. It assails your nostrils."
+    },
+    {
+        "Name": "Red Card",
+        "Category": "Hold items",
+        "Effect": "A card with a mysterious power. When the holder is struck by a foe, the attacker is removed from battle."
+    },
+    {
+        "Name": "Red Flute",
+        "Category": "General items",
+        "Effect": "A toy flute made from red glass. A maniac will buy it for a high price."
+    },
+    {
+        "Name": "Red Nectar",
+        "Category": "Hold items",
+        "Effect": "A flower nectar obtained at Ula'ula Meadow. It changes the form of certain species of Pokémon."
+    },
+    {
+        "Name": "Red Scarf",
+        "Category": "General items",
+        "Effect": "Raises holder's Cool aspect in a Contest."
+    },
+    {
+        "Name": "Red Shard",
+        "Category": "General items",
+        "Effect": "A small red shard. It appears to be from some sort of implement made long ago."
+    },
+    {
+        "Name": "Relaxed Mint",
+        "Category": "Battle items",
+        "Effect": "Changes the Pokémon's stats to match the Relaxed nature."
+    },
+    {
+        "Name": "Relic Band",
+        "Category": "General items",
+        "Effect": "A bracelet made in a civilization about 3,000 years ago. A maniac will buy it for a high price."
+    },
+    {
+        "Name": "Relic Copper",
+        "Category": "General items",
+        "Effect": "A copper coin used in a civilization about 3,000 years ago. A maniac will buy it for a high price."
+    },
+    {
+        "Name": "Relic Crown",
+        "Category": "General items",
+        "Effect": "A crown made in a civilization about 3,000 years ago. A maniac will buy it for a high price."
+    },
+    {
+        "Name": "Relic Gold",
+        "Category": "General items",
+        "Effect": "A gold coin used in a civilization about 3,000 years ago. A maniac will buy it for a high price."
+    },
+    {
+        "Name": "Relic Silver",
+        "Category": "General items",
+        "Effect": "A silver coin used in a civilization about 3,000 years ago. A maniac will buy it for a high price."
+    },
+    {
+        "Name": "Relic Statue",
+        "Category": "General items",
+        "Effect": "A stone figure made in a civilization about 3,000 years ago. A maniac will buy it for a high price."
+    },
+    {
+        "Name": "Relic Vase",
+        "Category": "General items",
+        "Effect": "A vase made in a civilization about 3,000 years ago. A maniac will buy it for a high price."
+    },
+    {
+        "Name": "Remedy",
+        "Category": "Medicine"
+    },
+    {
+        "Name": "Repeat Ball",
+        "Category": "Pokeballs",
+        "Effect": "A somewhat different Poké Ball that works especially well on Pokémon species that were previously caught."
+    },
+    {
+        "Name": "Repel",
+        "Category": "General items",
+        "Effect": "An item that prevents weak wild Pokémon from appearing for 100 steps after its use."
+    },
+    {
+        "Name": "Reset Urge",
+        "Category": "Battle items",
+        "Effect": "When used, it restores any stat changes of an ally Pokémon."
+    },
+    {
+        "Name": "Resist Wing",
+        "Category": "Medicine",
+        "Effect": "Increases Defense EVs by 1."
+    },
+    {
+        "Name": "Reveal Glass",
+        "Category": "General items",
+        "Effect": "A looking glass that reveals the truth. It's a mysterious glass that returns a Pokémon to its original shape."
+    },
+    {
+        "Name": "Revival Herb",
+        "Category": "Medicine",
+        "Effect": "Revives a Pokémon to max HP, but lowers Friendship."
+    },
+    {
+        "Name": "Revive",
+        "Category": "Medicine",
+        "Effect": "A medicine that revives a fainted Pokémon. It restores half the Pokémon's maximum HP."
+    },
+    {
+        "Name": "Ribbon Sweet",
+        "Category": "Hold items",
+        "Effect": "Evolves Milcery into Ribbon Flavor Alcremie."
+    },
+    {
+        "Name": "Rindo Berry",
+        "Category": "Berries",
+        "Effect": "Weakens a supereffective Grass-type attack against the holding Pokémon."
+    },
+    {
+        "Name": "Ring Target",
+        "Category": "Hold items",
+        "Effect": "Moves that would otherwise have no effect will land on the Pokémon that holds it."
+    },
+    {
+        "Name": "Rock Gem",
+        "Category": "Hold items",
+        "Effect": "Increases the power of a Rock-type move only once."
+    },
+    {
+        "Name": "Rock Incense",
+        "Category": "Hold items",
+        "Effect": "Increases the power of Rock-type moves. Breeding Sudowoodo produces Bonsly when held."
+    },
+    {
+        "Name": "Rock Memory",
+        "Category": "Hold items",
+        "Effect": "Changes Silvally and its move Multi-Attack to Rock type."
+    },
+    {
+        "Name": "Rockium Z",
+        "Category": "Hold items",
+        "Effect": "Allows the use of Continental Crush, the Rock type Z-Move."
+    },
+    {
+        "Name": "Rocky Helmet",
+        "Category": "Hold items",
+        "Effect": "If the holder of this item takes damage, the attacker will also be damaged upon contact."
+    },
+    {
+        "Name": "Roller Skates",
+        "Category": "General items",
+        "Effect": "Attaches roller skates to the bottom of your shoes, allowing you to glide quickly around and perform tricks."
+    },
+    {
+        "Name": "Room Service",
+        "Category": "Hold items",
+        "Effect": "Lowers the Pokémon's speed during Trick Room."
+    },
+    {
+        "Name": "Root Fossil",
+        "Category": "General items",
+        "Effect": "A fossil of an ancient Pokémon that lived in the sea. It appears to be part of a plant root."
+    },
+    {
+        "Name": "Rose Incense",
+        "Category": "Hold items",
+        "Effect": "Increases the power of Grass-type moves. Breeding Roselia or Roserade produces Budew when held."
+    },
+    {
+        "Name": "Roseli Berry",
+        "Category": "Berries",
+        "Effect": "If held by a Pokémon, this Berry will lessen the damage taken from one supereffective Fairy-type attack."
+    },
+    {
+        "Name": "Roto Bargain",
+        "Category": "Battle items",
+        "Effect": "Reduces the prices of products at Poké Marts by half."
+    },
+    {
+        "Name": "Roto Boost",
+        "Category": "Battle items",
+        "Effect": "Raises all stats of your battling Pokémon."
+    },
+    {
+        "Name": "Roto Catch",
+        "Category": "Battle items",
+        "Effect": "Increases the chance to catch Pokémon a lot."
+    },
+    {
+        "Name": "Roto Encounter",
+        "Category": "Battle items",
+        "Effect": "Increases the chance of encountering high-level wild Pokémon a lot for a certain period of time."
+    },
+    {
+        "Name": "Roto Exp. Points",
+        "Category": "Battle items",
+        "Effect": "Increases the Exp. Points your Pokémon receive after battle a little."
+    },
+    {
+        "Name": "Roto Friendship",
+        "Category": "Battle items",
+        "Effect": "Helps Pokémon in your party grow friendly faster."
+    },
+    {
+        "Name": "Roto Hatch",
+        "Category": "Battle items",
+        "Effect": "Helps Eggs hatch faster."
+    },
+    {
+        "Name": "Roto HP Restore",
+        "Category": "Battle items",
+        "Effect": "Fully restores the HP of your battling Pokémon."
+    },
+    {
+        "Name": "Roto PP Restore",
+        "Category": "Battle items",
+        "Effect": "Fully restores the PP of your battling Pokémon."
+    },
+    {
+        "Name": "Roto Prize Money",
+        "Category": "Battle items",
+        "Effect": "Triples the prize money you receive after battle."
+    },
+    {
+        "Name": "Roto Stealth",
+        "Category": "Battle items",
+        "Effect": "Prevents you from encountering wild Pokémon for a certain period of time."
+    },
+    {
+        "Name": "Rowap Berry",
+        "Category": "Berries",
+        "Effect": "If held by a Pokémon and a special attack lands, the attacker also takes damage."
+    },
+    {
+        "Name": "Sablenite",
+        "Category": "Hold items",
+        "Effect": "Enables Sableye to Mega Evolve during battle."
+    },
+    {
+        "Name": "Sachet",
+        "Category": "General items",
+        "Effect": "Evolves Spritzee when traded holding the item."
+    },
+    {
+        "Name": "Sacred Ash",
+        "Category": "Medicine",
+        "Effect": "It revives all fainted Pokémon. In doing so, it also fully restores their HP."
+    },
+    {
+        "Name": "Safari Ball",
+        "Category": "Pokeballs",
+        "Effect": "A special Poké Ball that is used only in the Great Marsh. It is decorated in a camouflage pattern."
+    },
+    {
+        "Name": "Safety Goggles",
+        "Category": "Hold items",
+        "Effect": "Prevents damage from weather and powder."
+    },
+    {
+        "Name": "Salac Berry",
+        "Category": "Berries",
+        "Effect": "Raises Speed when HP is low."
+    },
+    {
+        "Name": "Salad Mix",
+        "Category": "General items",
+        "Effect": "One of the many ingredients that can be used for cooking at your camp. The assortment of vegetables looks quite appealing and healthy."
+    },
+    {
+        "Name": "Salamencite",
+        "Category": "Hold items",
+        "Effect": "Enables Salamence to Mega Evolve during battle."
+    },
+    {
+        "Name": "Salt Cake",
+        "Category": "General items"
+    },
+    {
+        "Name": "Sand Radish",
+        "Category": "General items"
+    },
+    {
+        "Name": "Sassy Mint",
+        "Category": "Battle items",
+        "Effect": "Changes the Pokémon's stats to match the Sassy nature."
+    },
+    {
+        "Name": "Sausages",
+        "Category": "General items",
+        "Effect": "One of the many ingredients that can be used for cooking at your camp. These sausages should be boiled before eating."
+    },
+    {
+        "Name": "Scatter Bang",
+        "Category": "General items"
+    },
+    {
+        "Name": "Sceptilite",
+        "Category": "Hold items",
+        "Effect": "Enables Sceptile to Mega Evolve during battle."
+    },
+    {
+        "Name": "Scizorite",
+        "Category": "Hold items",
+        "Effect": "Enables Scizor to Mega Evolve during battle."
+    },
+    {
+        "Name": "Scope Lens",
+        "Category": "Hold items",
+        "Effect": "Increases critical-hit ratio."
+    },
+    {
+        "Name": "Sea Incense",
+        "Category": "Hold items",
+        "Effect": "Increases the power of Water-type moves. Breeding Marill or Azumarill produces Azurill when held."
+    },
+    {
+        "Name": "Seed of Mastery",
+        "Category": "General items"
+    },
+    {
+        "Name": "Serious Mint",
+        "Category": "Battle items",
+        "Effect": "Changes the Pokémon's stats to match a neutral nature."
+    },
+    {
+        "Name": "Shaderoot Carrot",
+        "Category": "General items",
+        "Effect": "Produce that the King of Bountiful Harvests’ beloved steed likes to eat. It grew in a gloomy field."
+    },
+    {
+        "Name": "Shalour Sable",
+        "Category": "Medicine",
+        "Effect": "Heals all major status conditions."
+    },
+    {
+        "Name": "Sharp Beak",
+        "Category": "Hold items",
+        "Effect": "Increases the power of Flying-type moves."
+    },
+    {
+        "Name": "Sharpedonite",
+        "Category": "Hold items",
+        "Effect": "Enables Sharpedo to Mega Evolve during battle."
+    },
+    {
+        "Name": "Shed Shell",
+        "Category": "Hold items",
+        "Effect": "A tough, discarded carapace to be held by a Pokémon. It enables the holder to switch with a waiting Pokémon in battle."
+    },
+    {
+        "Name": "Shell Bell",
+        "Category": "Hold items",
+        "Effect": "An item to be held by a Pokémon. The holder's HP is restored a little every time it inflicts damage."
+    },
+    {
+        "Name": "Shiny Charm",
+        "Category": "General items",
+        "Effect": "A shiny charm said to increase the chance of finding a Shiny Pokémon in the wild."
+    },
+    {
+        "Name": "Shiny Stone",
+        "Category": "General items",
+        "Effect": "Evolves certain species of Pokémon."
+    },
+    {
+        "Name": "Shoal Salt",
+        "Category": "General items",
+        "Effect": "Pure salt that can be discovered deep inside the Shoal Cave. A maniac will buy it for a high price."
+    },
+    {
+        "Name": "Shoal Shell",
+        "Category": "General items",
+        "Effect": "A pretty seashell that can be found deep inside the Shoal Cave. A maniac will buy it for a high price."
+    },
+    {
+        "Name": "Shock Drive",
+        "Category": "Hold items",
+        "Effect": "Changes Techno Blast to an Electric-type move when held by Genesect."
+    },
+    {
+        "Name": "Shuca Berry",
+        "Category": "Berries",
+        "Effect": "Weakens a supereffective Ground-type attack against the holding Pokémon."
+    },
+    {
+        "Name": "Silk Scarf",
+        "Category": "Hold items",
+        "Effect": "Increases the power of Normal-type moves."
+    },
+    {
+        "Name": "Silver Leaf",
+        "Category": "General items"
+    },
+    {
+        "Name": "Silver Nanab Berry",
+        "Category": "Berries",
+        "Effect": "Greatly calms a Pokémon in battle, in Let's Go Pikachu/Eevee."
+    },
+    {
+        "Name": "Silver Pinap Berry",
+        "Category": "Berries",
+        "Effect": "Greatly increases chance of getting items when a Pokémon is caught, in Pokémon Let's Go."
+    },
+    {
+        "Name": "Silver Powder",
+        "Category": "Hold items",
+        "Effect": "Increases the power of Bug-type moves."
+    },
+    {
+        "Name": "Silver Razz Berry",
+        "Category": "Berries",
+        "Effect": "Makes a Pokémon easier to catch in Pokémon Let's Go."
+    },
+    {
+        "Name": "Sitrus Berry",
+        "Category": "Berries",
+        "Effect": "If held by a Pokémon, it heals the user's HP a little."
+    },
+    {
+        "Name": "Skull Fossil",
+        "Category": "General items",
+        "Effect": "A fossil from a prehistoric Pokémon that lived on the land. It appears to be part of a head."
+    },
+    {
+        "Name": "Sky Plate",
+        "Category": "Hold items",
+        "Effect": "Increases power of Flying-type moves. Changes Arceus' type to Flying."
+    },
+    {
+        "Name": "Sky Tumblestone",
+        "Category": "General items"
+    },
+    {
+        "Name": "Slowbronite",
+        "Category": "Hold items",
+        "Effect": "Enables Slowbro to Mega Evolve during battle."
+    },
+    {
+        "Name": "Small Bouquet",
+        "Category": "General items"
+    },
+    {
+        "Name": "Smart Candy",
+        "Category": "Medicine",
+        "Effect": "Increases a Pokémon's Special Attack stat by 1."
+    },
+    {
+        "Name": "Smart Candy L",
+        "Category": "Medicine",
+        "Effect": "Increases a Pokémon's Special Attack stat."
+    },
+    {
+        "Name": "Smart Candy XL",
+        "Category": "Medicine",
+        "Effect": "Increases a Pokémon's Special Attack stat."
+    },
+    {
+        "Name": "Smoke Ball",
+        "Category": "Hold items",
+        "Effect": "An item to be held by a Pokémon. It enables the holder to flee from any wild Pokémon without fail."
+    },
+    {
+        "Name": "Smoke Bomb",
+        "Category": "General items"
+    },
+    {
+        "Name": "Smoke-Poke Tail",
+        "Category": "General items",
+        "Effect": "One of the many ingredients that can be used for cooking at your camp. When a Slowpoke’s tail falls off, it grows back quickly."
+    },
+    {
+        "Name": "Smooth Rock",
+        "Category": "Hold items",
+        "Effect": "A Pokémon held item that extends the duration of the move Sandstorm used by the holder."
+    },
+    {
+        "Name": "Snorlium Z",
+        "Category": "Hold items",
+        "Effect": "Allows Snorlax to upgrade Giga Impact to a Z-Move, Pulverizing Pancake."
+    },
+    {
+        "Name": "Snowball",
+        "Category": "Hold items",
+        "Effect": "Raises Attack if hit by an Ice-type move."
+    },
+    {
+        "Name": "Soda Pop",
+        "Category": "Medicine",
+        "Effect": "Restores 50 HP."
+    },
+    {
+        "Name": "Soft Sand",
+        "Category": "Hold items",
+        "Effect": "Increases the power of Ground-type moves."
+    },
+    {
+        "Name": "Solganium Z",
+        "Category": "Hold items",
+        "Effect": "Allows Solgaleo to upgrade Sunsteel Strike to a Z-Move, Searing Sunraze Smash."
+    },
+    {
+        "Name": "Sootfoot Root",
+        "Category": "General items"
+    },
+    {
+        "Name": "Soothe Bell",
+        "Category": "Hold items",
+        "Effect": "An item to be held by a Pokémon. It is a bell with a comforting chime that calms the holder and makes it friendly."
+    },
+    {
+        "Name": "Soul Dew",
+        "Category": "Hold items",
+        "Effect": "Increases the power of Psychic- and Dragon-type moves when held by Latios or Latias. Increases Sp.Atk/Sp.Def prior to Gen 7."
+    },
+    {
+        "Name": "Spell Tag",
+        "Category": "Hold items",
+        "Effect": "Increases the power of Ghost-type moves."
+    },
+    {
+        "Name": "Spelon Berry",
+        "Category": "Berries",
+        "Effect": "A Berry which is very rare in the Unova region. A maniac will buy it for a high price."
+    },
+    {
+        "Name": "Spice Mix",
+        "Category": "General items",
+        "Effect": "One of the many ingredients that can be used for cooking at your camp. There are over fifty spices contained within this ingredient’s hot flavor."
+    },
+    {
+        "Name": "Splash Plate",
+        "Category": "Hold items",
+        "Effect": "Increases power of Water-type moves. Changes Arceus' type to Water."
+    },
+    {
+        "Name": "Spoiled Apricorn",
+        "Category": "General items"
+    },
+    {
+        "Name": "Spooky Plate",
+        "Category": "Hold items",
+        "Effect": "Increases power of Ghost-type moves. Changes Arceus' type to Ghost."
+    },
+    {
+        "Name": "Sport Ball",
+        "Category": "Pokeballs",
+        "Effect": "A special Poké Ball for the Bug-Catching Contest."
+    },
+    {
+        "Name": "Springy Mushroom",
+        "Category": "General items"
+    },
+    {
+        "Name": "Sprinklotad",
+        "Category": "General items",
+        "Effect": "A watering can shaped like a Lotad. It helps promote the healthy growth of any Berries planted in good, soft soil."
+    },
+    {
+        "Name": "Stable Mulch",
+        "Category": "General items",
+        "Effect": "A fertilizer to be spread on soft soil in regions where Berries are grown. A maniac will buy it for a high price."
+    },
+    {
+        "Name": "Star Piece",
+        "Category": "General items",
+        "Effect": "A shard of a pretty gem that sparkles in a red color. It can be sold at a high price to shops."
+    },
+    {
+        "Name": "Star Sweet",
+        "Category": "Hold items",
+        "Effect": "Evolves Milcery into Star Flavor Alcremie."
+    },
+    {
+        "Name": "Stardust",
+        "Category": "General items",
+        "Effect": "Lovely, red-colored sand with a loose, silky feel. It can be sold at a high price to shops."
+    },
+    {
+        "Name": "Starf Berry",
+        "Category": "Berries",
+        "Effect": "Sharply raises a random stat when HP is low."
+    },
+    {
+        "Name": "Stealth Spray",
+        "Category": "General items"
+    },
+    {
+        "Name": "Steel Gem",
+        "Category": "Hold items",
+        "Effect": "Increases the power of a Steel-type move only once."
+    },
+    {
+        "Name": "Steel Memory",
+        "Category": "Hold items",
+        "Effect": "Changes Silvally and its move Multi-Attack to Steel type."
+    },
+    {
+        "Name": "Steelium Z",
+        "Category": "Hold items",
+        "Effect": "Allows the use of Corkscrew Crash, the Steel type Z-Move."
+    },
+    {
+        "Name": "Steelixite",
+        "Category": "Hold items",
+        "Effect": "Enables Steelix to Mega Evolve during battle."
+    },
+    {
+        "Name": "Sticky Barb",
+        "Category": "Hold items",
+        "Effect": "A held item that damages the holder on every turn. It may latch on to foes and allies that touch the holder."
+    },
+    {
+        "Name": "Sticky Glob",
+        "Category": "General items"
+    },
+    {
+        "Name": "Stone Plate",
+        "Category": "Hold items",
+        "Effect": "Increases power of Rock-type moves. Changes Arceus' type to Rock."
+    },
+    {
+        "Name": "Strange Ball",
+        "Category": "Pokeballs"
+    },
+    {
+        "Name": "Strange Souvenir",
+        "Category": "General items",
+        "Effect": "An ornament depicting a Pokémon that is venerated as a protector in some region far from Kalos."
+    },
+    {
+        "Name": "Strawberry Sweet",
+        "Category": "Hold items",
+        "Effect": "Evolves Milcery into Strawberry Flavor Alcremie."
+    },
+    {
+        "Name": "Stretchy Spring",
+        "Category": "General items"
+    },
+    {
+        "Name": "Sun Stone",
+        "Category": "General items",
+        "Effect": "Evolves certain species of Pokémon."
+    },
+    {
+        "Name": "Super Lure",
+        "Category": "General items",
+        "Effect": "Attracts Pokémon in the wild."
+    },
+    {
+        "Name": "Super Potion",
+        "Category": "Medicine",
+        "Effect": "Restores 60 HP."
+    },
+    {
+        "Name": "Super Repel",
+        "Category": "General items",
+        "Effect": "An item that prevents weak wild Pokémon from appearing for 200 steps after its use."
+    },
+    {
+        "Name": "Swampertite",
+        "Category": "Hold items",
+        "Effect": "Enables Swampert to Mega Evolve during battle."
+    },
+    {
+        "Name": "Swap Snack",
+        "Category": "General items"
+    },
+    {
+        "Name": "Sweet Apple",
+        "Category": "Hold items",
+        "Effect": "Evolves Applin into Appletun."
+    },
+    {
+        "Name": "Sweet Heart",
+        "Category": "Medicine",
+        "Effect": "Very sweet chocolate. It restores the HP of one Pokémon by only 20 points."
+    },
+    {
+        "Name": "Swift Wing",
+        "Category": "Medicine",
+        "Effect": "Increases Speed EVs by 1."
+    },
+    {
+        "Name": "Swordcap",
+        "Category": "General items"
+    },
+    {
+        "Name": "Tamato Berry",
+        "Category": "Berries",
+        "Effect": "Increases Friendship but lowers Speed EVs."
+    },
+    {
+        "Name": "Tanga Berry",
+        "Category": "Berries",
+        "Effect": "Weakens a supereffective Bug-type attack against the holding Pokémon."
+    },
+    {
+        "Name": "Tapunium Z",
+        "Category": "Hold items",
+        "Effect": "Allows the Tapus to upgrade Nature's Madness to a Z-Move, Guardian of Alola."
+    },
+    {
+        "Name": "Tart Apple",
+        "Category": "Hold items",
+        "Effect": "Evolves Applin into Flapple."
+    },
+    {
+        "Name": "Terrain Extender",
+        "Category": "Hold items",
+        "Effect": "An item to be held by a Pokémon. It extends the duration of the terrain caused by the holder's move or Ability."
+    },
+    {
+        "Name": "Thick Club",
+        "Category": "Hold items",
+        "Effect": "Increases Attack when held by Cubone or Marowak."
+    },
+    {
+        "Name": "Throat Spray",
+        "Category": "Hold items",
+        "Effect": "Raises Sp. Atk when a sound-based move is used."
+    },
+    {
+        "Name": "Thunder Stone",
+        "Category": "General items",
+        "Effect": "Evolves certain species of Pokémon."
+    },
+    {
+        "Name": "Timer Ball",
+        "Category": "Pokeballs",
+        "Effect": "A somewhat different BALL that becomes progressively better the more turns there are in a battle."
+    },
+    {
+        "Name": "Timid Mint",
+        "Category": "Battle items",
+        "Effect": "Changes the Pokémon's stats to match the Timid nature."
+    },
+    {
+        "Name": "Tin of Beans",
+        "Category": "General items",
+        "Effect": "One of the many ingredients that can be used for cooking at your camp. When simmered, the beans suffuse a dish with their mild flavor."
+    },
+    {
+        "Name": "Tiny Mushroom",
+        "Category": "General items",
+        "Effect": "A small and rare mushroom. It is sought after by collectors."
+    },
+    {
+        "Name": "TM00",
+        "Category": "Machines",
+        "Effect": "Teaches the move Mega Punch."
+    },
+    {
+        "Name": "TM01",
+        "Category": "Machines",
+        "Effect": "Teaches the move Mega Punch/Dynamic Punch/Focus Punch/Hone Claws/Work Up/Headbutt/Mega Kick."
+    },
+    {
+        "Name": "TM02",
+        "Category": "Machines",
+        "Effect": "Teaches the move Razor Wind/Headbutt/Dragon Claw/Taunt/Pay Day."
+    },
+    {
+        "Name": "TM03",
+        "Category": "Machines",
+        "Effect": "Teaches the move Swords Dance/Curse/Water Pulse/Psyshock/Helping Hand/Fire Punch."
+    },
+    {
+        "Name": "TM04",
+        "Category": "Machines",
+        "Effect": "Teaches the move Whirlwind/Rollout/Calm Mind/Teleport/Ice Punch."
+    },
+    {
+        "Name": "TM05",
+        "Category": "Machines",
+        "Effect": "Teaches the move Mega Kick/Roar/Rest/Thunder Punch."
+    },
+    {
+        "Name": "TM06",
+        "Category": "Machines",
+        "Effect": "Teaches the move Toxic/Light Screen/Fly."
+    },
+    {
+        "Name": "TM07",
+        "Category": "Machines",
+        "Effect": "Teaches the move Horn Drill/Zap Cannon/Hail/Protect/Pin Missile."
+    },
+    {
+        "Name": "TM08",
+        "Category": "Machines",
+        "Effect": "Teaches the move Body Slam/Rock Smash/Bulk Up/Substitute/Hyper Beam."
+    },
+    {
+        "Name": "TM09",
+        "Category": "Machines",
+        "Effect": "Teaches the move Take Down/Psych Up/Bullet Seed/Venoshock/Reflect/Giga Impact."
+    },
+    {
+        "Name": "TM10",
+        "Category": "Machines",
+        "Effect": "Teaches the move Double-Edge/Hidden Power/Dig/Magical Leaf/Work Up."
+    },
+    {
+        "Name": "TM100",
+        "Category": "Machines",
+        "Effect": "Teaches the move Confide/Rock Climb."
+    },
+    {
+        "Name": "TM11",
+        "Category": "Machines",
+        "Effect": "Teaches the move BubbleBeam/Sunny Day/Will-O-Wisp/Solar Beam."
+    },
+    {
+        "Name": "TM12",
+        "Category": "Machines",
+        "Effect": "Teaches the move Water Gun/Sweet Scent/Taunt/Facade/Solar Blade."
+    },
+    {
+        "Name": "TM13",
+        "Category": "Machines",
+        "Effect": "Teaches the move Ice Beam/Snore/Brick Break/Fire Spin."
+    },
+    {
+        "Name": "TM14",
+        "Category": "Machines",
+        "Effect": "Teaches the move Blizzard/Fly/Thunder Wave."
+    },
+    {
+        "Name": "TM15",
+        "Category": "Machines",
+        "Effect": "Teaches the move Hyper Beam/Seismic Toss/Dig."
+    },
+    {
+        "Name": "TM16",
+        "Category": "Machines",
+        "Effect": "Teaches the move Pay Day/Icy Wind/Light Screen/Thunder Wave/Screech."
+    },
+    {
+        "Name": "TM17",
+        "Category": "Machines",
+        "Effect": "Teaches the move Submission/Protect/Dragon Tail/Light Screen."
+    },
+    {
+        "Name": "TM18",
+        "Category": "Machines",
+        "Effect": "Teaches the move Counter/Rain Dance/U-turn/Reflect."
+    },
+    {
+        "Name": "TM19",
+        "Category": "Machines",
+        "Effect": "Teaches the move Seismic Toss/Giga Drain/Telekinesis/Roost/Iron Tail/Safeguard."
+    },
+    {
+        "Name": "TM20",
+        "Category": "Machines",
+        "Effect": "Teaches the move Rage/Endure/Safeguard/Dark Pulse/Self-Destruct."
+    },
+    {
+        "Name": "TM21",
+        "Category": "Machines",
+        "Effect": "Teaches the move Mega Drain/Frustration/Foul Play/Rest/Dazzling Gleam."
+    },
+    {
+        "Name": "TM22",
+        "Category": "Machines",
+        "Effect": "Teaches the move SolarBeam/Rock Slide."
+    },
+    {
+        "Name": "TM23",
+        "Category": "Machines",
+        "Effect": "Teaches the move Dragon Rage/Iron Tail/Smack Down/Thunder Punch/Thief."
+    },
+    {
+        "Name": "TM24",
+        "Category": "Machines",
+        "Effect": "Teaches the move Thunderbolt/DragonBreath/X-Scissor/Snore."
+    },
+    {
+        "Name": "TM25",
+        "Category": "Machines",
+        "Effect": "Teaches the move Thunder/Waterfall/Protect."
+    },
+    {
+        "Name": "TM26",
+        "Category": "Machines",
+        "Effect": "Teaches the move Earthquake/Poison Jab/Scary Face."
+    },
+    {
+        "Name": "TM27",
+        "Category": "Machines",
+        "Effect": "Teaches the move Fissure/Return/Toxic/Icy Wind/Low Sweep."
+    },
+    {
+        "Name": "TM28",
+        "Category": "Machines",
+        "Effect": "Teaches the move Dig/Leech Life/Tri Attack/Giga Drain."
+    },
+    {
+        "Name": "TM29",
+        "Category": "Machines",
+        "Effect": "Teaches the move Psychic/Scald/Charm."
+    },
+    {
+        "Name": "TM30",
+        "Category": "Machines",
+        "Effect": "Teaches the move Teleport/Shadow Ball/Bulk Up/Steel Wing."
+    },
+    {
+        "Name": "TM31",
+        "Category": "Machines",
+        "Effect": "Teaches the move Mimic/Mud-Slap/Brick Break/Fire Punch/Attract."
+    },
+    {
+        "Name": "TM32",
+        "Category": "Machines",
+        "Effect": "Teaches the move Double Team/Dazzling Gleam/Sandstorm."
+    },
+    {
+        "Name": "TM33",
+        "Category": "Machines",
+        "Effect": "Teaches the move Ice Punch/Reflect/Calm Mind/Rain Dance."
+    },
+    {
+        "Name": "TM34",
+        "Category": "Machines",
+        "Effect": "Teaches the move Bide/Swagger/Shock Wave/Sludge Wave/Dragon Pulse/Sunny Day."
+    },
+    {
+        "Name": "TM35",
+        "Category": "Machines",
+        "Effect": "Teaches the move Metronome/Sleep Talk/Flamethrower/Ice Punch/Hail."
+    },
+    {
+        "Name": "TM36",
+        "Category": "Machines",
+        "Effect": "Teaches the move Self-Destruct/Sludge Bomb/Thunderbolt/Whirlpool."
+    },
+    {
+        "Name": "TM37",
+        "Category": "Machines",
+        "Effect": "Teaches the move Egg Bomb/Sandstorm/Flamethrower/Beat Up."
+    },
+    {
+        "Name": "TM38",
+        "Category": "Machines",
+        "Effect": "Teaches the move Fire Blast/Thunder/Will-O-Wisp."
+    },
+    {
+        "Name": "TM39",
+        "Category": "Machines",
+        "Effect": "Teaches the move Swift/Rock Tomb/Outrage/Facade."
+    },
+    {
+        "Name": "TM40",
+        "Category": "Machines",
+        "Effect": "Teaches the move Skull Bash/Defense Curl/Aerial Ace/Psychic/Swift."
+    },
+    {
+        "Name": "TM41",
+        "Category": "Machines",
+        "Effect": "Teaches the move Softboiled/Thunder Punch/Torment/Earthquake/Helping Hand."
+    },
+    {
+        "Name": "TM42",
+        "Category": "Machines",
+        "Effect": "Teaches the move Dream Eater/Facade/Self-Destruct/Revenge."
+    },
+    {
+        "Name": "TM43",
+        "Category": "Machines",
+        "Effect": "Teaches the move Sky Attack/Detect/Secret Power/Flame Charge/Shadow Ball/Brick Break/Volt Switch."
+    },
+    {
+        "Name": "TM44",
+        "Category": "Machines",
+        "Effect": "Teaches the move Rest/Play Rough/Imprison."
+    },
+    {
+        "Name": "TM45",
+        "Category": "Machines",
+        "Effect": "Teaches the move Thunder Wave/Attract/Solar Beam/Dive."
+    },
+    {
+        "Name": "TM46",
+        "Category": "Machines",
+        "Effect": "Teaches the move Psywave/Thief/Fire Blast/Weather Ball."
+    },
+    {
+        "Name": "TM47",
+        "Category": "Machines",
+        "Effect": "Teaches the move Explosion/Steel Wing/Low Sweep/Surf/Fake Tears."
+    },
+    {
+        "Name": "TM48",
+        "Category": "Machines",
+        "Effect": "Teaches the move Rock Slide/Fire Punch/Skill Swap/Round/Hyper Beam/Rock Tomb."
+    },
+    {
+        "Name": "TM49",
+        "Category": "Machines",
+        "Effect": "Teaches the move Tri Attack/Fury Cutter/Snatch/Echoed Voice/Superpower/Sand Tomb/Scald."
+    },
+    {
+        "Name": "TM50",
+        "Category": "Machines",
+        "Effect": "Teaches the move Substitute/Nightmare/Overheat/Roost/Bullet Seed."
+    },
+    {
+        "Name": "TM51",
+        "Category": "Machines",
+        "Effect": "Teaches the move Roost/Ally Switch/Steel Wing/Blizzard/Icicle Spear."
+    },
+    {
+        "Name": "TM52",
+        "Category": "Machines",
+        "Effect": "Teaches the move Focus Blast/Sludge Bomb/Bounce."
+    },
+    {
+        "Name": "TM53",
+        "Category": "Machines",
+        "Effect": "Teaches the move Energy Ball/Mega Drain/Mud Shot."
+    },
+    {
+        "Name": "TM54",
+        "Category": "Machines",
+        "Effect": "Teaches the move False Swipe/Flash Cannon/Rock Blast."
+    },
+    {
+        "Name": "TM55",
+        "Category": "Machines",
+        "Effect": "Teaches the move Brine/Scald/Ice Beam."
+    },
+    {
+        "Name": "TM56",
+        "Category": "Machines",
+        "Effect": "Teaches the move Fling/Stealth Rock/U-turn."
+    },
+    {
+        "Name": "TM57",
+        "Category": "Machines",
+        "Effect": "Teaches the move Charge Beam/Pay Day/Payback."
+    },
+    {
+        "Name": "TM58",
+        "Category": "Machines",
+        "Effect": "Teaches the move Endure/Sky Drop/Drill Run/Assurance."
+    },
+    {
+        "Name": "TM59",
+        "Category": "Machines",
+        "Effect": "Teaches the move Dragon Pulse/Incinerate/Brutal Swing/Dream Eater/Fling."
+    },
+    {
+        "Name": "TM60",
+        "Category": "Machines",
+        "Effect": "Teaches the move Drain Punch/Quash/Megahorn/Power Swap."
+    },
+    {
+        "Name": "TM61",
+        "Category": "Machines",
+        "Effect": "Teaches the move Will-O-Wisp/Guard Swap."
+    },
+    {
+        "Name": "TM62",
+        "Category": "Machines",
+        "Effect": "Teaches the move Silver Wind/Acrobatics/Speed Swap/Bug Buzz."
+    },
+    {
+        "Name": "TM63",
+        "Category": "Machines",
+        "Effect": "Teaches the move Embargo/Drain Punch/Nasty Plot."
+    },
+    {
+        "Name": "TM64",
+        "Category": "Machines",
+        "Effect": "Teaches the move Explosion/Avalanche."
+    },
+    {
+        "Name": "TM65",
+        "Category": "Machines",
+        "Effect": "Teaches the move Shadow Claw."
+    },
+    {
+        "Name": "TM66",
+        "Category": "Machines",
+        "Effect": "Teaches the move Payback/Thunder Fang."
+    },
+    {
+        "Name": "TM67",
+        "Category": "Machines",
+        "Effect": "Teaches the move Recycle/Retaliate/Smart Strike/Ice Fang."
+    },
+    {
+        "Name": "TM68",
+        "Category": "Machines",
+        "Effect": "Teaches the move Giga Impact/Fire Fang."
+    },
+    {
+        "Name": "TM69",
+        "Category": "Machines",
+        "Effect": "Teaches the move Rock Polish/Psycho Cut."
+    },
+    {
+        "Name": "TM70",
+        "Category": "Machines",
+        "Effect": "Teaches the move Flash/Aurora Veil/Trick Room."
+    },
+    {
+        "Name": "TM71",
+        "Category": "Machines",
+        "Effect": "Teaches the move Stone Edge/Wonder Room."
+    },
+    {
+        "Name": "TM72",
+        "Category": "Machines",
+        "Effect": "Teaches the move Avalanche/Volt Switch/Magic Room."
+    },
+    {
+        "Name": "TM73",
+        "Category": "Machines",
+        "Effect": "Teaches the move Thunder Wave/Cross Poison."
+    },
+    {
+        "Name": "TM74",
+        "Category": "Machines",
+        "Effect": "Teaches the move Gyro Ball/Venoshock."
+    },
+    {
+        "Name": "TM75",
+        "Category": "Machines",
+        "Effect": "Teaches the move Swords Dance/Low Sweep."
+    },
+    {
+        "Name": "TM76",
+        "Category": "Machines",
+        "Effect": "Teaches the move Stealth Rock/Struggle Bug/Fly/Round."
+    },
+    {
+        "Name": "TM77",
+        "Category": "Machines",
+        "Effect": "Teaches the move Psych Up/Hex."
+    },
+    {
+        "Name": "TM78",
+        "Category": "Machines",
+        "Effect": "Teaches the move Captivate/Bulldoze/Acrobatics/Snarl."
+    },
+    {
+        "Name": "TM79",
+        "Category": "Machines",
+        "Effect": "Teaches the move Dark Pulse/Frost Breath/Retaliate."
+    },
+    {
+        "Name": "TM80",
+        "Category": "Machines",
+        "Effect": "Teaches the move Rock Slide/Volt Switch."
+    },
+    {
+        "Name": "TM81",
+        "Category": "Machines",
+        "Effect": "Teaches the move X-Scissor/Bulldoze."
+    },
+    {
+        "Name": "TM82",
+        "Category": "Machines",
+        "Effect": "Teaches the move Sleep Talk/Dragon Tail/Electroweb."
+    },
+    {
+        "Name": "TM83",
+        "Category": "Machines",
+        "Effect": "Teaches the move Natural Gift/Work Up/Infestation/Razor Shell/Bulldoze."
+    },
+    {
+        "Name": "TM84",
+        "Category": "Machines",
+        "Effect": "Teaches the move Poison Jab/Tail Slap."
+    },
+    {
+        "Name": "TM85",
+        "Category": "Machines",
+        "Effect": "Teaches the move Dream Eater/Snarl."
+    },
+    {
+        "Name": "TM86",
+        "Category": "Machines",
+        "Effect": "Teaches the move Grass Knot/Phantom Force."
+    },
+    {
+        "Name": "TM87",
+        "Category": "Machines",
+        "Effect": "Teaches the move Swagger/Draining Kiss."
+    },
+    {
+        "Name": "TM88",
+        "Category": "Machines",
+        "Effect": "Teaches the move Pluck/Sleep Talk/Grassy Terrain."
+    },
+    {
+        "Name": "TM89",
+        "Category": "Machines",
+        "Effect": "Teaches the move U-turn/Misty Terrain."
+    },
+    {
+        "Name": "TM90",
+        "Category": "Machines",
+        "Effect": "Teaches the move Substitute/Electric Terrain."
+    },
+    {
+        "Name": "TM91",
+        "Category": "Machines",
+        "Effect": "Teaches the move Flash Cannon/Psychic Terrain."
+    },
+    {
+        "Name": "TM92",
+        "Category": "Machines",
+        "Effect": "Teaches the move Trick Room/Mystical Fire."
+    },
+    {
+        "Name": "TM93",
+        "Category": "Machines",
+        "Effect": "Teaches the move Wild Charge/Eerie Impulse/Cut."
+    },
+    {
+        "Name": "TM94",
+        "Category": "Machines",
+        "Effect": "Teaches the move Rock Smash/Surf/False Swipe/Fly."
+    },
+    {
+        "Name": "TM95",
+        "Category": "Machines",
+        "Effect": "Teaches the move Snarl/Air Slash/Surf."
+    },
+    {
+        "Name": "TM96",
+        "Category": "Machines",
+        "Effect": "Teaches the move Nature Power/Smart Strike/Strength."
+    },
+    {
+        "Name": "TM97",
+        "Category": "Machines",
+        "Effect": "Teaches the move Dark Pulse/Brutal Swing/Defog."
+    },
+    {
+        "Name": "TM98",
+        "Category": "Machines",
+        "Effect": "Teaches the move Power-Up Punch/Waterfall/Stomping Tantrum/Rock Smash."
+    },
+    {
+        "Name": "TM99",
+        "Category": "Machines",
+        "Effect": "Teaches the move Dazzling Gleam/Breaking Swipe/Waterfall."
+    },
+    {
+        "Name": "TMV Pass",
+        "Category": "General items",
+        "Effect": "A commuter pass that allows the holder to ride the TMV between Lumiose City and Kiloude City at any time."
+    },
+    {
+        "Name": "Tough Candy",
+        "Category": "Medicine",
+        "Effect": "Increases a Pokémon's Defense stat by 1."
+    },
+    {
+        "Name": "Tough Candy L",
+        "Category": "Medicine",
+        "Effect": "Increases a Pokémon's Defense stat."
+    },
+    {
+        "Name": "Tough Candy XL",
+        "Category": "Medicine",
+        "Effect": "Increases a Pokémon's Defense stat."
+    },
+    {
+        "Name": "Toxic Orb",
+        "Category": "Hold items",
+        "Effect": "An item to be held by a Pokémon. It is a bizarre orb that badly poisons the holder in battle."
+    },
+    {
+        "Name": "Toxic Plate",
+        "Category": "Hold items",
+        "Effect": "Increases power of Poison-type moves. Changes Arceus' type to Poison."
+    },
+    {
+        "Name": "TR00",
+        "Category": "Machines",
+        "Effect": "Teaches the move Swords Dance."
+    },
+    {
+        "Name": "TR01",
+        "Category": "Machines",
+        "Effect": "Teaches the move Body Slam."
+    },
+    {
+        "Name": "TR02",
+        "Category": "Machines",
+        "Effect": "Teaches the move Flamethrower."
+    },
+    {
+        "Name": "TR03",
+        "Category": "Machines",
+        "Effect": "Teaches the move Hydro Pump."
+    },
+    {
+        "Name": "TR04",
+        "Category": "Machines",
+        "Effect": "Teaches the move Surf."
+    },
+    {
+        "Name": "TR05",
+        "Category": "Machines",
+        "Effect": "Teaches the move Ice Beam."
+    },
+    {
+        "Name": "TR06",
+        "Category": "Machines",
+        "Effect": "Teaches the move Blizzard."
+    },
+    {
+        "Name": "TR07",
+        "Category": "Machines",
+        "Effect": "Teaches the move Low Kick."
+    },
+    {
+        "Name": "TR08",
+        "Category": "Machines",
+        "Effect": "Teaches the move Thunderbolt."
+    },
+    {
+        "Name": "TR09",
+        "Category": "Machines",
+        "Effect": "Teaches the move Thunder."
+    },
+    {
+        "Name": "TR10",
+        "Category": "Machines",
+        "Effect": "Teaches the move Earthquake."
+    },
+    {
+        "Name": "TR11",
+        "Category": "Machines",
+        "Effect": "Teaches the move Psychic."
+    },
+    {
+        "Name": "TR12",
+        "Category": "Machines",
+        "Effect": "Teaches the move Agility."
+    },
+    {
+        "Name": "TR13",
+        "Category": "Machines",
+        "Effect": "Teaches the move Focus Energy."
+    },
+    {
+        "Name": "TR14",
+        "Category": "Machines",
+        "Effect": "Teaches the move Metronome."
+    },
+    {
+        "Name": "TR15",
+        "Category": "Machines",
+        "Effect": "Teaches the move Fire Blast."
+    },
+    {
+        "Name": "TR16",
+        "Category": "Machines",
+        "Effect": "Teaches the move Waterfall."
+    },
+    {
+        "Name": "TR17",
+        "Category": "Machines",
+        "Effect": "Teaches the move Amnesia."
+    },
+    {
+        "Name": "TR18",
+        "Category": "Machines",
+        "Effect": "Teaches the move Leech Life."
+    },
+    {
+        "Name": "TR19",
+        "Category": "Machines",
+        "Effect": "Teaches the move Tri Attack."
+    },
+    {
+        "Name": "TR20",
+        "Category": "Machines",
+        "Effect": "Teaches the move Substitute."
+    },
+    {
+        "Name": "TR21",
+        "Category": "Machines",
+        "Effect": "Teaches the move Reversal."
+    },
+    {
+        "Name": "TR22",
+        "Category": "Machines",
+        "Effect": "Teaches the move Sludge Bomb."
+    },
+    {
+        "Name": "TR23",
+        "Category": "Machines",
+        "Effect": "Teaches the move Spikes."
+    },
+    {
+        "Name": "TR24",
+        "Category": "Machines",
+        "Effect": "Teaches the move Outrage."
+    },
+    {
+        "Name": "TR25",
+        "Category": "Machines",
+        "Effect": "Teaches the move Psyshock."
+    },
+    {
+        "Name": "TR26",
+        "Category": "Machines",
+        "Effect": "Teaches the move Endure."
+    },
+    {
+        "Name": "TR27",
+        "Category": "Machines",
+        "Effect": "Teaches the move Sleep Talk."
+    },
+    {
+        "Name": "TR28",
+        "Category": "Machines",
+        "Effect": "Teaches the move Megahorn."
+    },
+    {
+        "Name": "TR29",
+        "Category": "Machines",
+        "Effect": "Teaches the move Baton Pass."
+    },
+    {
+        "Name": "TR30",
+        "Category": "Machines",
+        "Effect": "Teaches the move Encore."
+    },
+    {
+        "Name": "TR31",
+        "Category": "Machines",
+        "Effect": "Teaches the move Iron Tail."
+    },
+    {
+        "Name": "TR32",
+        "Category": "Machines",
+        "Effect": "Teaches the move Crunch."
+    },
+    {
+        "Name": "TR33",
+        "Category": "Machines",
+        "Effect": "Teaches the move Shadow Ball."
+    },
+    {
+        "Name": "TR34",
+        "Category": "Machines",
+        "Effect": "Teaches the move Future Sight."
+    },
+    {
+        "Name": "TR35",
+        "Category": "Machines",
+        "Effect": "Teaches the move Uproar."
+    },
+    {
+        "Name": "TR36",
+        "Category": "Machines",
+        "Effect": "Teaches the move Heat Wave."
+    },
+    {
+        "Name": "TR37",
+        "Category": "Machines",
+        "Effect": "Teaches the move Taunt."
+    },
+    {
+        "Name": "TR38",
+        "Category": "Machines",
+        "Effect": "Teaches the move Trick."
+    },
+    {
+        "Name": "TR39",
+        "Category": "Machines",
+        "Effect": "Teaches the move Superpower."
+    },
+    {
+        "Name": "TR40",
+        "Category": "Machines",
+        "Effect": "Teaches the move Skill Swap."
+    },
+    {
+        "Name": "TR41",
+        "Category": "Machines",
+        "Effect": "Teaches the move Blaze Kick."
+    },
+    {
+        "Name": "TR42",
+        "Category": "Machines",
+        "Effect": "Teaches the move Hyper Voice."
+    },
+    {
+        "Name": "TR43",
+        "Category": "Machines",
+        "Effect": "Teaches the move Overheat."
+    },
+    {
+        "Name": "TR44",
+        "Category": "Machines",
+        "Effect": "Teaches the move Cosmic Power."
+    },
+    {
+        "Name": "TR45",
+        "Category": "Machines",
+        "Effect": "Teaches the move Muddy Water."
+    },
+    {
+        "Name": "TR46",
+        "Category": "Machines",
+        "Effect": "Teaches the move Iron Defense."
+    },
+    {
+        "Name": "TR47",
+        "Category": "Machines",
+        "Effect": "Teaches the move Dragon Claw."
+    },
+    {
+        "Name": "TR48",
+        "Category": "Machines",
+        "Effect": "Teaches the move Bulk Up."
+    },
+    {
+        "Name": "TR49",
+        "Category": "Machines",
+        "Effect": "Teaches the move Calm Mind."
+    },
+    {
+        "Name": "TR50",
+        "Category": "Machines",
+        "Effect": "Teaches the move Leaf Blade."
+    },
+    {
+        "Name": "TR51",
+        "Category": "Machines",
+        "Effect": "Teaches the move Dragon Dance."
+    },
+    {
+        "Name": "TR52",
+        "Category": "Machines",
+        "Effect": "Teaches the move Gyro Ball."
+    },
+    {
+        "Name": "TR53",
+        "Category": "Machines",
+        "Effect": "Teaches the move Close Combat."
+    },
+    {
+        "Name": "TR54",
+        "Category": "Machines",
+        "Effect": "Teaches the move Toxic Spikes."
+    },
+    {
+        "Name": "TR55",
+        "Category": "Machines",
+        "Effect": "Teaches the move Flare Blitz."
+    },
+    {
+        "Name": "TR56",
+        "Category": "Machines",
+        "Effect": "Teaches the move Aura Sphere."
+    },
+    {
+        "Name": "TR57",
+        "Category": "Machines",
+        "Effect": "Teaches the move Poison Jab."
+    },
+    {
+        "Name": "TR58",
+        "Category": "Machines",
+        "Effect": "Teaches the move Dark Pulse."
+    },
+    {
+        "Name": "TR59",
+        "Category": "Machines",
+        "Effect": "Teaches the move Seed Bomb."
+    },
+    {
+        "Name": "TR60",
+        "Category": "Machines",
+        "Effect": "Teaches the move X-Scissor."
+    },
+    {
+        "Name": "TR61",
+        "Category": "Machines",
+        "Effect": "Teaches the move Bug Buzz."
+    },
+    {
+        "Name": "TR62",
+        "Category": "Machines",
+        "Effect": "Teaches the move Dragon Pulse."
+    },
+    {
+        "Name": "TR63",
+        "Category": "Machines",
+        "Effect": "Teaches the move Power Gem."
+    },
+    {
+        "Name": "TR64",
+        "Category": "Machines",
+        "Effect": "Teaches the move Focus Blast."
+    },
+    {
+        "Name": "TR65",
+        "Category": "Machines",
+        "Effect": "Teaches the move Energy Ball."
+    },
+    {
+        "Name": "TR66",
+        "Category": "Machines",
+        "Effect": "Teaches the move Brave Bird."
+    },
+    {
+        "Name": "TR67",
+        "Category": "Machines",
+        "Effect": "Teaches the move Earth Power."
+    },
+    {
+        "Name": "TR68",
+        "Category": "Machines",
+        "Effect": "Teaches the move Nasty Plot."
+    },
+    {
+        "Name": "TR69",
+        "Category": "Machines",
+        "Effect": "Teaches the move Zen Headbutt."
+    },
+    {
+        "Name": "TR70",
+        "Category": "Machines",
+        "Effect": "Teaches the move Flash Cannon."
+    },
+    {
+        "Name": "TR71",
+        "Category": "Machines",
+        "Effect": "Teaches the move Leaf Storm."
+    },
+    {
+        "Name": "TR72",
+        "Category": "Machines",
+        "Effect": "Teaches the move Power Whip."
+    },
+    {
+        "Name": "TR73",
+        "Category": "Machines",
+        "Effect": "Teaches the move Gunk Shot."
+    },
+    {
+        "Name": "TR74",
+        "Category": "Machines",
+        "Effect": "Teaches the move Iron Head."
+    },
+    {
+        "Name": "TR75",
+        "Category": "Machines",
+        "Effect": "Teaches the move Stone Edge."
+    },
+    {
+        "Name": "TR76",
+        "Category": "Machines",
+        "Effect": "Teaches the move Stealth Rock."
+    },
+    {
+        "Name": "TR77",
+        "Category": "Machines",
+        "Effect": "Teaches the move Grass Knot."
+    },
+    {
+        "Name": "TR78",
+        "Category": "Machines",
+        "Effect": "Teaches the move Sludge Wave."
+    },
+    {
+        "Name": "TR79",
+        "Category": "Machines",
+        "Effect": "Teaches the move Heavy Slam."
+    },
+    {
+        "Name": "TR80",
+        "Category": "Machines",
+        "Effect": "Teaches the move Electro Ball."
+    },
+    {
+        "Name": "TR81",
+        "Category": "Machines",
+        "Effect": "Teaches the move Foul Play."
+    },
+    {
+        "Name": "TR82",
+        "Category": "Machines",
+        "Effect": "Teaches the move Stored Power."
+    },
+    {
+        "Name": "TR83",
+        "Category": "Machines",
+        "Effect": "Teaches the move Ally Switch."
+    },
+    {
+        "Name": "TR84",
+        "Category": "Machines",
+        "Effect": "Teaches the move Scald."
+    },
+    {
+        "Name": "TR85",
+        "Category": "Machines",
+        "Effect": "Teaches the move Work Up."
+    },
+    {
+        "Name": "TR86",
+        "Category": "Machines",
+        "Effect": "Teaches the move Wild Charge."
+    },
+    {
+        "Name": "TR87",
+        "Category": "Machines",
+        "Effect": "Teaches the move Drill Run."
+    },
+    {
+        "Name": "TR88",
+        "Category": "Machines",
+        "Effect": "Teaches the move Heat Crash."
+    },
+    {
+        "Name": "TR89",
+        "Category": "Machines",
+        "Effect": "Teaches the move Hurricane."
+    },
+    {
+        "Name": "TR90",
+        "Category": "Machines",
+        "Effect": "Teaches the move Play Rough."
+    },
+    {
+        "Name": "TR91",
+        "Category": "Machines",
+        "Effect": "Teaches the move Venom Drench."
+    },
+    {
+        "Name": "TR92",
+        "Category": "Machines",
+        "Effect": "Teaches the move Dazzling Gleam."
+    },
+    {
+        "Name": "TR93",
+        "Category": "Machines",
+        "Effect": "Teaches the move Darkest Lariat."
+    },
+    {
+        "Name": "TR94",
+        "Category": "Machines",
+        "Effect": "Teaches the move High Horsepower."
+    },
+    {
+        "Name": "TR95",
+        "Category": "Machines",
+        "Effect": "Teaches the move Throat Chop."
+    },
+    {
+        "Name": "TR96",
+        "Category": "Machines",
+        "Effect": "Teaches the move Pollen Puff."
+    },
+    {
+        "Name": "TR97",
+        "Category": "Machines",
+        "Effect": "Teaches the move Psychic Fangs."
+    },
+    {
+        "Name": "TR98",
+        "Category": "Machines",
+        "Effect": "Teaches the move Liquidation."
+    },
+    {
+        "Name": "TR99",
+        "Category": "Machines",
+        "Effect": "Teaches the move Body Press."
+    },
+    {
+        "Name": "Tropical Shell",
+        "Category": "General items"
+    },
+    {
+        "Name": "Tumblestone",
+        "Category": "General items"
+    },
+    {
+        "Name": "Twice-Spiced Radish",
+        "Category": "General items"
+    },
+    {
+        "Name": "Twisted Spoon",
+        "Category": "Hold items",
+        "Effect": "Increases the power of Psychic-type moves."
+    },
+    {
+        "Name": "Tyranitarite",
+        "Category": "Hold items",
+        "Effect": "Enables Tyranitar to Mega Evolve during battle."
+    },
+    {
+        "Name": "Ultra Ball",
+        "Category": "Pokeballs",
+        "Effect": "An ultra-performance Ball that provides a higher Pokémon catch rate than a Great Ball."
+    },
+    {
+        "Name": "Ultranecrozium Z",
+        "Category": "Hold items",
+        "Effect": "Allows Ultra Necrozma to upgrade Photon Geyser to a Z-Move, Light That Burns the Sky."
+    },
+    {
+        "Name": "Upgrade",
+        "Category": "General items",
+        "Effect": "Evolves Porygon when traded holding the item."
+    },
+    {
+        "Name": "Utility Umbrella",
+        "Category": "Hold items",
+        "Effect": "An item to be held by a Pokémon. This sturdy umbrella protects the holder from the effects of weather."
+    },
+    {
+        "Name": "Venusaurite",
+        "Category": "Hold items",
+        "Effect": "Enables Venusaur to Mega Evolve during battle."
+    },
+    {
+        "Name": "Vivichoke",
+        "Category": "General items"
+    },
+    {
+        "Name": "Wacan Berry",
+        "Category": "Berries",
+        "Effect": "Weakens a supereffective Electric-type attack against the holding Pokémon."
+    },
+    {
+        "Name": "Water Gem",
+        "Category": "Hold items",
+        "Effect": "Increases the power of a Water-type move only once."
+    },
+    {
+        "Name": "Water Memory",
+        "Category": "Hold items",
+        "Effect": "Changes Silvally and its move Multi-Attack to Water type."
+    },
+    {
+        "Name": "Water Stone",
+        "Category": "General items",
+        "Effect": "Evolves certain species of Pokémon."
+    },
+    {
+        "Name": "Waterium Z",
+        "Category": "Hold items",
+        "Effect": "Allows the use of Hydro Vortex, the Water type Z-Move."
+    },
+    {
+        "Name": "Watmel Berry",
+        "Category": "Berries",
+        "Effect": "A Berry which is very rare in the Unova region. A maniac will buy it for a high price."
+    },
+    {
+        "Name": "Wave Incense",
+        "Category": "Hold items",
+        "Effect": "Increases the power of Water-type moves. Breeding Mantine produces Mantyke when held."
+    },
+    {
+        "Name": "Weakness Policy",
+        "Category": "Hold items",
+        "Effect": "Sharply raises Attack and Special Attack if hit by a super-effective move."
+    },
+    {
+        "Name": "Wepear Berry",
+        "Category": "Berries",
+        "Effect": "A Berry which is very rare in the Unova region. A maniac will buy it for a high price."
+    },
+    {
+        "Name": "Whipped Dream",
+        "Category": "General items",
+        "Effect": "Evolves Swirlix when traded holding the item."
+    },
+    {
+        "Name": "White Apricorn",
+        "Category": "General items",
+        "Effect": "A white Apricorn. It doesn't smell like anything."
+    },
+    {
+        "Name": "White Flute",
+        "Category": "General items",
+        "Effect": "A toy flute made from white glass. A maniac will buy it for a high price."
+    },
+    {
+        "Name": "White Herb",
+        "Category": "Hold items",
+        "Effect": "An item to be held by a POKéMON. It restores any lowered stat in battle. It can be used only once."
+    },
+    {
+        "Name": "Wide Lens",
+        "Category": "Hold items",
+        "Effect": "Increases the accuracy of moves."
+    },
+    {
+        "Name": "Wiki Berry",
+        "Category": "Berries",
+        "Effect": "Restores HP if it's low, but may cause confusion."
+    },
+    {
+        "Name": "Wing Ball",
+        "Category": "Pokeballs"
+    },
+    {
+        "Name": "Wise Glasses",
+        "Category": "Hold items",
+        "Effect": "Increases the power of Special-category moves."
+    },
+    {
+        "Name": "Wishing Piece",
+        "Category": "General items",
+        "Effect": "Activates a Pokémon Den for a Max Raid Battle."
+    },
+    {
+        "Name": "Wood",
+        "Category": "General items"
+    },
+    {
+        "Name": "X Accuracy",
+        "Category": "Battle items",
+        "Effect": "Raises Accuracy of a Pokémon in battle."
+    },
+    {
+        "Name": "X Accuracy 2",
+        "Category": "Battle items",
+        "Effect": "Sharply raises Accuracy of a Pokémon in battle."
+    },
+    {
+        "Name": "X Accuracy 3",
+        "Category": "Battle items",
+        "Effect": "Drastically raises Accuracy of a Pokémon in battle."
+    },
+    {
+        "Name": "X Accuracy 6",
+        "Category": "Battle items",
+        "Effect": "Immensely raises Accuracy of a Pokémon in battle."
+    },
+    {
+        "Name": "X Attack",
+        "Category": "Battle items",
+        "Effect": "Raises Attack of a Pokémon in battle."
+    },
+    {
+        "Name": "X Attack 2",
+        "Category": "Battle items",
+        "Effect": "Sharply raises Attack of a Pokémon in battle."
+    },
+    {
+        "Name": "X Attack 3",
+        "Category": "Battle items",
+        "Effect": "Drastically raises Attack of a Pokémon in battle."
+    },
+    {
+        "Name": "X Attack 6",
+        "Category": "Battle items",
+        "Effect": "Immensely raises Attack of a Pokémon in battle."
+    },
+    {
+        "Name": "X Defense",
+        "Category": "Battle items",
+        "Effect": "Raises Defense of a Pokémon in battle."
+    },
+    {
+        "Name": "X Defense 2",
+        "Category": "Battle items",
+        "Effect": "Sharply raises Defense of a Pokémon in battle."
+    },
+    {
+        "Name": "X Defense 3",
+        "Category": "Battle items",
+        "Effect": "Drastically raises Defense of a Pokémon in battle."
+    },
+    {
+        "Name": "X Defense 6",
+        "Category": "Battle items",
+        "Effect": "Immensely raises Defense of a Pokémon in battle."
+    },
+    {
+        "Name": "X Sp. Atk",
+        "Category": "Battle items",
+        "Effect": "Raises Special Attack of a Pokémon in battle."
+    },
+    {
+        "Name": "X Sp. Atk 2",
+        "Category": "Battle items",
+        "Effect": "Sharply raises Special Attack of a Pokémon in battle."
+    },
+    {
+        "Name": "X Sp. Atk 3",
+        "Category": "Battle items",
+        "Effect": "Drastically raises Special Attack of a Pokémon in battle."
+    },
+    {
+        "Name": "X Sp. Atk 6",
+        "Category": "Battle items",
+        "Effect": "Immensely raises Special Attack of a Pokémon in battle."
+    },
+    {
+        "Name": "X Sp. Def",
+        "Category": "Battle items",
+        "Effect": "Raises Special Defense of a Pokémon in battle."
+    },
+    {
+        "Name": "X Sp. Def 2",
+        "Category": "Battle items",
+        "Effect": "Sharply raises Special Defense of a Pokémon in battle."
+    },
+    {
+        "Name": "X Sp. Def 3",
+        "Category": "Battle items",
+        "Effect": "Drastically raises Special Defense of a Pokémon in battle."
+    },
+    {
+        "Name": "X Sp. Def 6",
+        "Category": "Battle items",
+        "Effect": "Immensely raises Special Defense of a Pokémon in battle."
+    },
+    {
+        "Name": "X Speed",
+        "Category": "Battle items",
+        "Effect": "Raises Speed of a Pokémon in battle."
+    },
+    {
+        "Name": "X Speed 2",
+        "Category": "Battle items",
+        "Effect": "Sharply raises Speed of a Pokémon in battle."
+    },
+    {
+        "Name": "X Speed 3",
+        "Category": "Battle items",
+        "Effect": "Drastically raises Speed of a Pokémon in battle."
+    },
+    {
+        "Name": "X Speed 6",
+        "Category": "Battle items",
+        "Effect": "Immensely raises Speed of a Pokémon in battle."
+    },
+    {
+        "Name": "Yache Berry",
+        "Category": "Berries",
+        "Effect": "Weakens a supereffective Ice-type attack against the holding Pokémon."
+    },
+    {
+        "Name": "Yellow Apricorn",
+        "Category": "General items",
+        "Effect": "A yellow Apricorn. It has an invigorating scent."
+    },
+    {
+        "Name": "Yellow Flute",
+        "Category": "General items",
+        "Effect": "A toy flute made from yellow glass. A maniac will buy it for a high price."
+    },
+    {
+        "Name": "Yellow Nectar",
+        "Category": "Hold items",
+        "Effect": "A flower nectar obtained at Melemele Meadow. It changes the form of certain species of Pokémon."
+    },
+    {
+        "Name": "Yellow Scarf",
+        "Category": "General items",
+        "Effect": "Raises holder's Tough aspect in a Contest."
+    },
+    {
+        "Name": "Yellow Shard",
+        "Category": "General items",
+        "Effect": "A small yellow shard. It appears to be from some sort of implement made long ago."
+    },
+    {
+        "Name": "Zap Plate",
+        "Category": "Hold items",
+        "Effect": "Increases power of Electric-type moves. Changes Arceus' type to Electric."
+    },
+    {
+        "Name": "Zinc",
+        "Category": "Medicine",
+        "Effect": "Increases Special Defense EVs by 10."
+    },
+    {
+        "Name": "Zoom Lens",
+        "Category": "Hold items",
+        "Effect": "Raises a move's accuracy if the holder moves after its target."
+    }
+]

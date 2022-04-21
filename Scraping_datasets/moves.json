@@ -1,0 +1,7795 @@
+[
+    {
+        "Name": "10,000,000 Volt Thunderbolt",
+        "Type": "Electric",
+        "Power": "195",
+        "Acc.": "—",
+        "PP": "1",
+        "Effect": "Pikachu-exclusive Z-Move. High critical hit ratio.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Absorb",
+        "Type": "Grass",
+        "Power": "20",
+        "Acc.": "100",
+        "PP": "25",
+        "Effect": "User recovers half the HP inflicted on opponent.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Accelerock",
+        "Type": "Rock",
+        "Power": "40",
+        "Acc.": "100",
+        "PP": "20",
+        "Effect": "User attacks first.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Acid",
+        "Type": "Poison",
+        "Power": "40",
+        "Acc.": "100",
+        "PP": "30",
+        "Effect": "May lower opponent's Special Defense.",
+        "Prob. (%)": "10"
+    },
+    {
+        "Name": "Acid Armor",
+        "Type": "Poison",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "20",
+        "Effect": "Sharply raises user's Defense.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Acid Downpour",
+        "Type": "Poison",
+        "Cat.": "—",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "1",
+        "Effect": "Poison type Z-Move.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Acid Spray",
+        "Type": "Poison",
+        "Power": "40",
+        "Acc.": "100",
+        "PP": "20",
+        "Effect": "Sharply lowers opponent's Special Defense.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "Acrobatics",
+        "Type": "Flying",
+        "Power": "55",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "Stronger when the user does not have a held item.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Acupressure",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "30",
+        "Effect": "Sharply raises a random stat.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Aerial Ace",
+        "Type": "Flying",
+        "Power": "60",
+        "Acc.": "∞",
+        "PP": "20",
+        "Effect": "Ignores Accuracy and Evasiveness.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Aeroblast",
+        "Type": "Flying",
+        "Power": "100",
+        "Acc.": "95",
+        "PP": "5",
+        "Effect": "High critical hit ratio.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "After You",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "15",
+        "Effect": "Gives target priority in the next turn.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Agility",
+        "Type": "Psychic",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "30",
+        "Effect": "Sharply raises user's Speed.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Air Cutter",
+        "Type": "Flying",
+        "Power": "60",
+        "Acc.": "95",
+        "PP": "25",
+        "Effect": "High critical hit ratio.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Air Slash",
+        "Type": "Flying",
+        "Power": "75",
+        "Acc.": "95",
+        "PP": "15",
+        "Effect": "May cause flinching.",
+        "Prob. (%)": "30"
+    },
+    {
+        "Name": "All-Out Pummeling",
+        "Type": "Fighting",
+        "Cat.": "—",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "1",
+        "Effect": "Fighting type Z-Move.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Ally Switch",
+        "Type": "Psychic",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "15",
+        "Effect": "User switches with opposite teammate.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Amnesia",
+        "Type": "Psychic",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "20",
+        "Effect": "Sharply raises user's Special Defense.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Anchor Shot",
+        "Type": "Steel",
+        "Power": "80",
+        "Acc.": "100",
+        "PP": "20",
+        "Effect": "The user entangles the target with its anchor chain while attacking. The target becomes unable to flee.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Ancient Power",
+        "Type": "Rock",
+        "Power": "60",
+        "Acc.": "100",
+        "PP": "5",
+        "Effect": "May raise all user's stats at once.",
+        "Prob. (%)": "10"
+    },
+    {
+        "Name": "Apple Acid",
+        "Type": "Grass",
+        "Power": "80",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "Lowers target's Special Defense.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "Aqua Jet",
+        "Type": "Water",
+        "Power": "40",
+        "Acc.": "100",
+        "PP": "20",
+        "Effect": "User attacks first.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Aqua Ring",
+        "Type": "Water",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "20",
+        "Effect": "Restores a little HP each turn.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Aqua Tail",
+        "Type": "Water",
+        "Power": "90",
+        "Acc.": "90",
+        "PP": "10",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Arm Thrust",
+        "Type": "Fighting",
+        "Power": "15",
+        "Acc.": "100",
+        "PP": "20",
+        "Effect": "Hits 2-5 times in one turn.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Aromatherapy",
+        "Type": "Grass",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "5",
+        "Effect": "Cures all status problems in your party.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Aromatic Mist",
+        "Type": "Fairy",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "20",
+        "Effect": "Raises Special Defense of an ally.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Assist",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "20",
+        "Effect": "User performs a move known by its allies at random.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Assurance",
+        "Type": "Dark",
+        "Power": "60",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "Power doubles if opponent already took damage in the same turn.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Astonish",
+        "Type": "Ghost",
+        "Power": "30",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "May cause flinching.",
+        "Prob. (%)": "30"
+    },
+    {
+        "Name": "Astral Barrage",
+        "Type": "Ghost",
+        "Power": "120",
+        "Acc.": "100",
+        "PP": "5",
+        "Effect": "The user attacks by sending a frightful amount of small ghosts at opposing Pokémon.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Attack Order",
+        "Type": "Bug",
+        "Power": "90",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "High critical hit ratio.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Attract",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "If opponent is the opposite gender, it's less likely to attack.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Aura Sphere",
+        "Type": "Fighting",
+        "Power": "80",
+        "Acc.": "∞",
+        "PP": "20",
+        "Effect": "Ignores Accuracy and Evasiveness.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Aura Wheel",
+        "Type": "Electric",
+        "Power": "110",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "Changes type based on Morpeko's Mode.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "Aurora Beam",
+        "Type": "Ice",
+        "Power": "65",
+        "Acc.": "100",
+        "PP": "20",
+        "Effect": "May lower opponent's Attack.",
+        "Prob. (%)": "10"
+    },
+    {
+        "Name": "Aurora Veil",
+        "Type": "Ice",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "20",
+        "Effect": "Halves damage from Physical and Special attacks for five turns.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Autotomize",
+        "Type": "Steel",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "15",
+        "Effect": "Reduces weight and sharply raises Speed.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Avalanche",
+        "Type": "Ice",
+        "Power": "60",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "Power doubles if user took damage first.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Baby-Doll Eyes",
+        "Type": "Fairy",
+        "Power": "—",
+        "Acc.": "100",
+        "PP": "30",
+        "Effect": "Always goes first. Lowers the target's attack.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Baddy Bad",
+        "Type": "Dark",
+        "Power": "90",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "Reduces damage from Physical attacks.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Baneful Bunker",
+        "Type": "Poison",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "10",
+        "Effect": "Protects the user and poisons opponent on contact.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Barb Barrage",
+        "Type": "Poison",
+        "Power": "60",
+        "Acc.": "100",
+        "PP": "15",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Barrage",
+        "Type": "Normal",
+        "Power": "15",
+        "Acc.": "85",
+        "PP": "20",
+        "Effect": "Hits 2-5 times in one turn.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Barrier",
+        "Type": "Psychic",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "20",
+        "Effect": "Sharply raises user's Defense.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Baton Pass",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "40",
+        "Effect": "User switches out and gives stat changes to the incoming Pokémon.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Beak Blast",
+        "Type": "Flying",
+        "Power": "100",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "The user first heats up its beak, and then it attacks the target. Making direct contact with the Pokémon while it's heating up its beak results in a burn.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Beat Up",
+        "Type": "Dark",
+        "Power": "—",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "Each Pokémon in user's party attacks.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Behemoth Bash",
+        "Type": "Steel",
+        "Power": "100",
+        "Acc.": "100",
+        "PP": "5",
+        "Effect": "Damage doubles if target is Dynamaxed.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Behemoth Blade",
+        "Type": "Steel",
+        "Power": "100",
+        "Acc.": "100",
+        "PP": "5",
+        "Effect": "Damage doubles if target is Dynamaxed.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Belch",
+        "Type": "Poison",
+        "Power": "120",
+        "Acc.": "90",
+        "PP": "10",
+        "Effect": "User must have consumed a Berry.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Belly Drum",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "10",
+        "Effect": "User loses 50% of its max HP, but Attack raises to maximum.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Bestow",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "15",
+        "Effect": "Gives the user's held item to the target.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Bide",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "10",
+        "Effect": "User takes damage for two turns then strikes back double.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Bind",
+        "Type": "Normal",
+        "Power": "15",
+        "Acc.": "85",
+        "PP": "20",
+        "Effect": "Traps opponent, damaging them for 4-5 turns.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "Bite",
+        "Type": "Dark",
+        "Power": "60",
+        "Acc.": "100",
+        "PP": "25",
+        "Effect": "May cause flinching.",
+        "Prob. (%)": "30"
+    },
+    {
+        "Name": "Bitter Malice",
+        "Type": "Ghost",
+        "Power": "60",
+        "Acc.": "100",
+        "PP": "15",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Black Hole Eclipse",
+        "Type": "Dark",
+        "Cat.": "—",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "1",
+        "Effect": "Dark type Z-Move.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Blast Burn",
+        "Type": "Fire",
+        "Power": "150",
+        "Acc.": "90",
+        "PP": "5",
+        "Effect": "User must recharge next turn.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Blaze Kick",
+        "Type": "Fire",
+        "Power": "85",
+        "Acc.": "90",
+        "PP": "10",
+        "Effect": "High critical hit ratio. May burn opponent.",
+        "Prob. (%)": "10"
+    },
+    {
+        "Name": "Bleakwind Storm",
+        "Type": "Ice",
+        "Power": "95",
+        "Acc.": "80",
+        "PP": "5",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Blizzard",
+        "Type": "Ice",
+        "Power": "110",
+        "Acc.": "70",
+        "PP": "5",
+        "Effect": "May freeze opponent.",
+        "Prob. (%)": "10"
+    },
+    {
+        "Name": "Block",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "5",
+        "Effect": "Opponent cannot flee or switch.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Bloom Doom",
+        "Type": "Grass",
+        "Cat.": "—",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "1",
+        "Effect": "Grass type Z-Move.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Blue Flare",
+        "Type": "Fire",
+        "Power": "130",
+        "Acc.": "85",
+        "PP": "5",
+        "Effect": "May burn opponent.",
+        "Prob. (%)": "20"
+    },
+    {
+        "Name": "Body Press",
+        "Type": "Fighting",
+        "Power": "80",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "The higher the user's Defense, the stronger the attack.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Body Slam",
+        "Type": "Normal",
+        "Power": "85",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "May paralyze opponent.",
+        "Prob. (%)": "30"
+    },
+    {
+        "Name": "Bolt Beak",
+        "Type": "Electric",
+        "Power": "85",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "If the user attacks before the target, the power of this move is doubled.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Bolt Strike",
+        "Type": "Electric",
+        "Power": "130",
+        "Acc.": "85",
+        "PP": "5",
+        "Effect": "May paralyze opponent.",
+        "Prob. (%)": "20"
+    },
+    {
+        "Name": "Bone Club",
+        "Type": "Ground",
+        "Power": "65",
+        "Acc.": "85",
+        "PP": "20",
+        "Effect": "May cause flinching.",
+        "Prob. (%)": "10"
+    },
+    {
+        "Name": "Bone Rush",
+        "Type": "Ground",
+        "Power": "25",
+        "Acc.": "90",
+        "PP": "10",
+        "Effect": "Hits 2-5 times in one turn.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Bonemerang",
+        "Type": "Ground",
+        "Power": "50",
+        "Acc.": "90",
+        "PP": "10",
+        "Effect": "Hits twice in one turn.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Boomburst",
+        "Type": "Normal",
+        "Power": "140",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "Hits all adjacent Pokémon.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Bounce",
+        "Type": "Flying",
+        "Power": "85",
+        "Acc.": "85",
+        "PP": "5",
+        "Effect": "Springs up on first turn, attacks on second. May paralyze opponent.",
+        "Prob. (%)": "30"
+    },
+    {
+        "Name": "Bouncy Bubble",
+        "Type": "Water",
+        "Power": "90",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "User recovers half the HP inflicted on opponent.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Branch Poke",
+        "Type": "Grass",
+        "Power": "40",
+        "Acc.": "100",
+        "PP": "40",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Brave Bird",
+        "Type": "Flying",
+        "Power": "120",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "User receives recoil damage.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Breaking Swipe",
+        "Type": "Dragon",
+        "Power": "60",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "Hits multiple opponents and lowers their attack.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "Breakneck Blitz",
+        "Type": "Normal",
+        "Cat.": "—",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "1",
+        "Effect": "Normal type Z-Move.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Brick Break",
+        "Type": "Fighting",
+        "Power": "75",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "Breaks through Reflect and Light Screen barriers.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Brine",
+        "Type": "Water",
+        "Power": "65",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "Power doubles if opponent's HP is less than 50%.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Brutal Swing",
+        "Type": "Dark",
+        "Power": "60",
+        "Acc.": "100",
+        "PP": "20",
+        "Effect": "The user swings its body around violently to inflict damage on everything in its vicinity.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Bubble",
+        "Type": "Water",
+        "Power": "40",
+        "Acc.": "100",
+        "PP": "30",
+        "Effect": "May lower opponent's Speed.",
+        "Prob. (%)": "10"
+    },
+    {
+        "Name": "Bubble Beam",
+        "Type": "Water",
+        "Power": "65",
+        "Acc.": "100",
+        "PP": "20",
+        "Effect": "May lower opponent's Speed.",
+        "Prob. (%)": "10"
+    },
+    {
+        "Name": "Bug Bite",
+        "Type": "Bug",
+        "Power": "60",
+        "Acc.": "100",
+        "PP": "20",
+        "Effect": "Receives the effect from the opponent's held berry.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Bug Buzz",
+        "Type": "Bug",
+        "Power": "90",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "May lower opponent's Special Defense.",
+        "Prob. (%)": "10"
+    },
+    {
+        "Name": "Bulk Up",
+        "Type": "Fighting",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "20",
+        "Effect": "Raises user's Attack and Defense.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Bulldoze",
+        "Type": "Ground",
+        "Power": "60",
+        "Acc.": "100",
+        "PP": "20",
+        "Effect": "Lowers opponent's Speed.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "Bullet Punch",
+        "Type": "Steel",
+        "Power": "40",
+        "Acc.": "100",
+        "PP": "30",
+        "Effect": "User attacks first.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Bullet Seed",
+        "Type": "Grass",
+        "Power": "25",
+        "Acc.": "100",
+        "PP": "30",
+        "Effect": "Hits 2-5 times in one turn.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Burn Up",
+        "Type": "Fire",
+        "Power": "130",
+        "Acc.": "100",
+        "PP": "5",
+        "Effect": "To inflict massive damage, the user burns itself out. After using this move, the user will no longer be Fire type.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Burning Jealousy",
+        "Type": "Fire",
+        "Power": "70",
+        "Acc.": "100",
+        "PP": "5",
+        "Effect": "Hits all opponents, and burns any that have had their stats boosted.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Buzzy Buzz",
+        "Type": "Electric",
+        "Power": "90",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "Paralyzes the opponent.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "Calm Mind",
+        "Type": "Psychic",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "20",
+        "Effect": "Raises user's Special Attack and Special Defense.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Camouflage",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "20",
+        "Effect": "Changes user's type according to the location.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Captivate",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "100",
+        "PP": "20",
+        "Effect": "Sharply lowers opponent's Special Attack if opposite gender.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Catastropika",
+        "Type": "Electric",
+        "Power": "210",
+        "Acc.": "—",
+        "PP": "1",
+        "Effect": "Pikachu-exclusive Z-Move.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Ceaseless Edge",
+        "Type": "Dark",
+        "Power": "65",
+        "Acc.": "90",
+        "PP": "15",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Celebrate",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "40",
+        "Effect": "The Pokémon congratulates you on your special day. No battle effect.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Charge",
+        "Type": "Electric",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "20",
+        "Effect": "Raises user's Special Defense and next Electric move's power increases.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Charge Beam",
+        "Type": "Electric",
+        "Power": "50",
+        "Acc.": "90",
+        "PP": "10",
+        "Effect": "May raise user's Special Attack.",
+        "Prob. (%)": "70"
+    },
+    {
+        "Name": "Charm",
+        "Type": "Fairy",
+        "Power": "—",
+        "Acc.": "100",
+        "PP": "20",
+        "Effect": "Sharply lowers opponent's Attack.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Chatter",
+        "Type": "Flying",
+        "Power": "65",
+        "Acc.": "100",
+        "PP": "20",
+        "Effect": "Confuses opponent.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "Chip Away",
+        "Type": "Normal",
+        "Power": "70",
+        "Acc.": "100",
+        "PP": "20",
+        "Effect": "Ignores opponent's stat changes.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Chloroblast",
+        "Type": "Grass",
+        "Power": "120",
+        "Acc.": "95",
+        "PP": "5",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Circle Throw",
+        "Type": "Fighting",
+        "Power": "60",
+        "Acc.": "90",
+        "PP": "10",
+        "Effect": "In battles, the opponent switches. In the wild, the Pokémon runs.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Clamp",
+        "Type": "Water",
+        "Power": "35",
+        "Acc.": "85",
+        "PP": "15",
+        "Effect": "Traps opponent, damaging them for 4-5 turns.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "Clanging Scales",
+        "Type": "Dragon",
+        "Power": "110",
+        "Acc.": "100",
+        "PP": "5",
+        "Effect": "Lowers user's Defense.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "Clangorous Soul",
+        "Type": "Dragon",
+        "Power": "—",
+        "Acc.": "100",
+        "PP": "5",
+        "Effect": "Raises all user's stats but loses HP.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "Clangorous Soulblaze",
+        "Type": "Dragon",
+        "Power": "185",
+        "Acc.": "—",
+        "PP": "1",
+        "Effect": "Kommo-o exclusive Z-Move.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Clear Smog",
+        "Type": "Poison",
+        "Power": "50",
+        "Acc.": "—",
+        "PP": "15",
+        "Effect": "Removes all of the target's stat changes.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Close Combat",
+        "Type": "Fighting",
+        "Power": "120",
+        "Acc.": "100",
+        "PP": "5",
+        "Effect": "Lowers user's Defense and Special Defense.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "Coaching",
+        "Type": "Fighting",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "10",
+        "Effect": "Boosts Attack and Defense of a teammate.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Coil",
+        "Type": "Poison",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "20",
+        "Effect": "Raises user's Attack, Defense and Accuracy.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Comet Punch",
+        "Type": "Normal",
+        "Power": "18",
+        "Acc.": "85",
+        "PP": "15",
+        "Effect": "Hits 2-5 times in one turn.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Confide",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "20",
+        "Effect": "Lowers opponent's Special Attack.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "Confuse Ray",
+        "Type": "Ghost",
+        "Power": "—",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "Confuses opponent.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Confusion",
+        "Type": "Psychic",
+        "Power": "50",
+        "Acc.": "100",
+        "PP": "25",
+        "Effect": "May confuse opponent.",
+        "Prob. (%)": "10"
+    },
+    {
+        "Name": "Constrict",
+        "Type": "Normal",
+        "Power": "10",
+        "Acc.": "100",
+        "PP": "35",
+        "Effect": "May lower opponent's Speed by one stage.",
+        "Prob. (%)": "10"
+    },
+    {
+        "Name": "Continental Crush",
+        "Type": "Rock",
+        "Cat.": "—",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "1",
+        "Effect": "Rock type Z-Move.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Conversion",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "30",
+        "Effect": "Changes user's type to that of its first move.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Conversion 2",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "30",
+        "Effect": "User changes type to become resistant to opponent's last move.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Copycat",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "20",
+        "Effect": "Copies opponent's last move.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Core Enforcer",
+        "Type": "Dragon",
+        "Power": "100",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "Suppresses the target's ability if the target has already moved.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Corkscrew Crash",
+        "Type": "Steel",
+        "Cat.": "—",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "1",
+        "Effect": "Steel type Z-Move.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Corrosive Gas",
+        "Type": "Poison",
+        "Power": "—",
+        "Acc.": "100",
+        "PP": "40",
+        "Effect": "Removes opponent's items.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Cosmic Power",
+        "Type": "Psychic",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "20",
+        "Effect": "Raises user's Defense and Special Defense.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Cotton Guard",
+        "Type": "Grass",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "10",
+        "Effect": "Drastically raises user's Defense.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Cotton Spore",
+        "Type": "Grass",
+        "Power": "—",
+        "Acc.": "100",
+        "PP": "40",
+        "Effect": "Sharply lowers opponent's Speed.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Counter",
+        "Type": "Fighting",
+        "Power": "—",
+        "Acc.": "100",
+        "PP": "20",
+        "Effect": "When hit by a Physical Attack, user strikes back with 2x power.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Court Change",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "Swaps the effects on either side of the field.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Covet",
+        "Type": "Normal",
+        "Power": "60",
+        "Acc.": "100",
+        "PP": "25",
+        "Effect": "Opponent's item is stolen by the user.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Crabhammer",
+        "Type": "Water",
+        "Power": "100",
+        "Acc.": "90",
+        "PP": "10",
+        "Effect": "High critical hit ratio.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Crafty Shield",
+        "Type": "Fairy",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "10",
+        "Effect": "Protects the Pokémon from status moves.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Cross Chop",
+        "Type": "Fighting",
+        "Power": "100",
+        "Acc.": "80",
+        "PP": "5",
+        "Effect": "High critical hit ratio.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Cross Poison",
+        "Type": "Poison",
+        "Power": "70",
+        "Acc.": "100",
+        "PP": "20",
+        "Effect": "High critical hit ratio. May poison opponent.",
+        "Prob. (%)": "10"
+    },
+    {
+        "Name": "Crunch",
+        "Type": "Dark",
+        "Power": "80",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "May lower opponent's Defense.",
+        "Prob. (%)": "20"
+    },
+    {
+        "Name": "Crush Claw",
+        "Type": "Normal",
+        "Power": "75",
+        "Acc.": "95",
+        "PP": "10",
+        "Effect": "May lower opponent's Defense.",
+        "Prob. (%)": "50"
+    },
+    {
+        "Name": "Crush Grip",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "100",
+        "PP": "5",
+        "Effect": "More powerful when opponent has higher HP.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Curse",
+        "Type": "Ghost",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "10",
+        "Effect": "Ghosts lose 50% of max HP and curse the opponent; Non-Ghosts raise Attack, Defense and lower Speed.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Cut",
+        "Type": "Normal",
+        "Power": "50",
+        "Acc.": "95",
+        "PP": "30",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Dark Pulse",
+        "Type": "Dark",
+        "Power": "80",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "May cause flinching.",
+        "Prob. (%)": "20"
+    },
+    {
+        "Name": "Dark Void",
+        "Type": "Dark",
+        "Power": "—",
+        "Acc.": "50",
+        "PP": "10",
+        "Effect": "Puts all adjacent opponents to sleep.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Darkest Lariat",
+        "Type": "Dark",
+        "Power": "85",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "Ignores opponent's stat changes.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Dazzling Gleam",
+        "Type": "Fairy",
+        "Power": "80",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "Hits all adjacent opponents.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Decorate",
+        "Type": "Fairy",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "15",
+        "Effect": "Sharply raises target's Attack and Special Attack.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "Defend Order",
+        "Type": "Bug",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "10",
+        "Effect": "Raises user's Defense and Special Defense.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Defense Curl",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "40",
+        "Effect": "Raises user's Defense.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Defog",
+        "Type": "Flying",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "15",
+        "Effect": "Lowers opponent's Evasiveness and clears fog.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Destiny Bond",
+        "Type": "Ghost",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "5",
+        "Effect": "If the user faints, the opponent also faints.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Detect",
+        "Type": "Fighting",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "5",
+        "Effect": "Protects the user, but may fail if used consecutively.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Devastating Drake",
+        "Type": "Dragon",
+        "Cat.": "—",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "1",
+        "Effect": "Dragon type Z-Move.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Diamond Storm",
+        "Type": "Rock",
+        "Power": "100",
+        "Acc.": "95",
+        "PP": "5",
+        "Effect": "May sharply raise user's Defense.",
+        "Prob. (%)": "50"
+    },
+    {
+        "Name": "Dig",
+        "Type": "Ground",
+        "Power": "80",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "Digs underground on first turn, attacks on second. Can also escape from caves.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Dire Claw",
+        "Power": "60",
+        "Acc.": "100",
+        "PP": "15",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Disable",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "100",
+        "PP": "20",
+        "Effect": "Opponent can't use its last attack for a few turns.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Disarming Voice",
+        "Type": "Fairy",
+        "Power": "40",
+        "Acc.": "∞",
+        "PP": "15",
+        "Effect": "Ignores Accuracy and Evasiveness.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Discharge",
+        "Type": "Electric",
+        "Power": "80",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "May paralyze opponent.",
+        "Prob. (%)": "30"
+    },
+    {
+        "Name": "Dive",
+        "Type": "Water",
+        "Power": "80",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "Dives underwater on first turn, attacks on second turn.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Dizzy Punch",
+        "Type": "Normal",
+        "Power": "70",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "May confuse opponent.",
+        "Prob. (%)": "20"
+    },
+    {
+        "Name": "Doom Desire",
+        "Type": "Steel",
+        "Power": "140",
+        "Acc.": "100",
+        "PP": "5",
+        "Effect": "Damage occurs 2 turns later.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Double Hit",
+        "Type": "Normal",
+        "Power": "35",
+        "Acc.": "90",
+        "PP": "10",
+        "Effect": "Hits twice in one turn.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Double Iron Bash",
+        "Type": "Steel",
+        "Power": "60",
+        "Acc.": "100",
+        "PP": "5",
+        "Effect": "Hits twice in one turn; may cause flinching.",
+        "Prob. (%)": "30"
+    },
+    {
+        "Name": "Double Kick",
+        "Type": "Fighting",
+        "Power": "30",
+        "Acc.": "100",
+        "PP": "30",
+        "Effect": "Hits twice in one turn.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Double Slap",
+        "Type": "Normal",
+        "Power": "15",
+        "Acc.": "85",
+        "PP": "10",
+        "Effect": "Hits 2-5 times in one turn.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Double Team",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "15",
+        "Effect": "Raises user's Evasiveness.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Double-Edge",
+        "Type": "Normal",
+        "Power": "120",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "User receives recoil damage.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Draco Meteor",
+        "Type": "Dragon",
+        "Power": "130",
+        "Acc.": "90",
+        "PP": "5",
+        "Effect": "Sharply lowers user's Special Attack.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "Dragon Ascent",
+        "Type": "Flying",
+        "Power": "120",
+        "Acc.": "100",
+        "PP": "5",
+        "Effect": "Lowers user's Defense and Special Defense.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "Dragon Breath",
+        "Type": "Dragon",
+        "Power": "60",
+        "Acc.": "100",
+        "PP": "20",
+        "Effect": "May paralyze opponent.",
+        "Prob. (%)": "30"
+    },
+    {
+        "Name": "Dragon Claw",
+        "Type": "Dragon",
+        "Power": "80",
+        "Acc.": "100",
+        "PP": "15",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Dragon Dance",
+        "Type": "Dragon",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "20",
+        "Effect": "Raises user's Attack and Speed.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Dragon Darts",
+        "Type": "Dragon",
+        "Power": "50",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "User attacks twice.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Dragon Energy",
+        "Type": "Dragon",
+        "Power": "150",
+        "Acc.": "100",
+        "PP": "5",
+        "Effect": "The higher the user's HP, the higher the power.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Dragon Hammer",
+        "Type": "Dragon",
+        "Power": "90",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "The user uses its body like a hammer to attack the target and inflict damage.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Dragon Pulse",
+        "Type": "Dragon",
+        "Power": "85",
+        "Acc.": "100",
+        "PP": "10",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Dragon Rage",
+        "Type": "Dragon",
+        "Power": "—",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "Always inflicts 40 HP.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Dragon Rush",
+        "Type": "Dragon",
+        "Power": "100",
+        "Acc.": "75",
+        "PP": "10",
+        "Effect": "May cause flinching.",
+        "Prob. (%)": "20"
+    },
+    {
+        "Name": "Dragon Tail",
+        "Type": "Dragon",
+        "Power": "60",
+        "Acc.": "90",
+        "PP": "10",
+        "Effect": "In battles, the opponent switches. In the wild, the Pokémon runs.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Drain Punch",
+        "Type": "Fighting",
+        "Power": "75",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "User recovers half the HP inflicted on opponent.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Draining Kiss",
+        "Type": "Fairy",
+        "Power": "50",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "User recovers most the HP inflicted on opponent.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Dream Eater",
+        "Type": "Psychic",
+        "Power": "100",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "User recovers half the HP inflicted on a sleeping opponent.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Drill Peck",
+        "Type": "Flying",
+        "Power": "80",
+        "Acc.": "100",
+        "PP": "20",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Drill Run",
+        "Type": "Ground",
+        "Power": "80",
+        "Acc.": "95",
+        "PP": "10",
+        "Effect": "High critical hit ratio.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Drum Beating",
+        "Type": "Grass",
+        "Power": "80",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "Lowers opponent's Speed.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "Dual Chop",
+        "Type": "Dragon",
+        "Power": "40",
+        "Acc.": "90",
+        "PP": "15",
+        "Effect": "Hits twice in one turn.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Dual Wingbeat",
+        "Type": "Flying",
+        "Power": "40",
+        "Acc.": "90",
+        "PP": "10",
+        "Effect": "The user slams the target with its wings. The target is hit twice in a row.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Dynamax Cannon",
+        "Type": "Dragon",
+        "Power": "100",
+        "Acc.": "100",
+        "PP": "5",
+        "Effect": "Damage doubles if opponent is Dynamaxed.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Dynamic Punch",
+        "Type": "Fighting",
+        "Power": "100",
+        "Acc.": "50",
+        "PP": "5",
+        "Effect": "Confuses opponent.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "Earth Power",
+        "Type": "Ground",
+        "Power": "90",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "May lower opponent's Special Defense.",
+        "Prob. (%)": "10"
+    },
+    {
+        "Name": "Earthquake",
+        "Type": "Ground",
+        "Power": "100",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "Power is doubled if opponent is underground from using Dig.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Echoed Voice",
+        "Type": "Normal",
+        "Power": "40",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "Power increases each turn.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Eerie Impulse",
+        "Type": "Electric",
+        "Power": "—",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "Sharply lowers opponent's Special Attack.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Eerie Spell",
+        "Type": "Psychic",
+        "Power": "80",
+        "Acc.": "100",
+        "PP": "5",
+        "Effect": "Deals damage and reduces opponent's PP.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Egg Bomb",
+        "Type": "Normal",
+        "Power": "100",
+        "Acc.": "75",
+        "PP": "10",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Electric Terrain",
+        "Type": "Electric",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "10",
+        "Effect": "Prevents all Pokémon from falling asleep for 5 turns.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Electrify",
+        "Type": "Electric",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "20",
+        "Effect": "Changes the target's move to Electric type.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Electro Ball",
+        "Type": "Electric",
+        "Power": "—",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "The faster the user, the stronger the attack.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Electroweb",
+        "Type": "Electric",
+        "Power": "55",
+        "Acc.": "95",
+        "PP": "15",
+        "Effect": "Lowers opponent's Speed.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "Embargo",
+        "Type": "Dark",
+        "Power": "—",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "Opponent cannot use items.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Ember",
+        "Type": "Fire",
+        "Power": "40",
+        "Acc.": "100",
+        "PP": "25",
+        "Effect": "May burn opponent.",
+        "Prob. (%)": "10"
+    },
+    {
+        "Name": "Encore",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "100",
+        "PP": "5",
+        "Effect": "Forces opponent to keep using its last move for 3 turns.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Endeavor",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "100",
+        "PP": "5",
+        "Effect": "Reduces opponent's HP to same as user's.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Endure",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "10",
+        "Effect": "Always left with at least 1 HP, but may fail if used consecutively.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Energy Ball",
+        "Type": "Grass",
+        "Power": "90",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "May lower opponent's Special Defense.",
+        "Prob. (%)": "10"
+    },
+    {
+        "Name": "Entrainment",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "Makes target's ability same as user's.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Eruption",
+        "Type": "Fire",
+        "Power": "150",
+        "Acc.": "100",
+        "PP": "5",
+        "Effect": "Stronger when the user's HP is higher.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Esper Wing",
+        "Power": "75",
+        "Acc.": "90",
+        "PP": "10",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Eternabeam",
+        "Type": "Dragon",
+        "Power": "160",
+        "Acc.": "90",
+        "PP": "5",
+        "Effect": "User can't move on the next turn.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Expanding Force",
+        "Type": "Psychic",
+        "Power": "80",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "Increases power and hits all opponents on Psychic Terrain.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Explosion",
+        "Type": "Normal",
+        "Power": "250",
+        "Acc.": "100",
+        "PP": "5",
+        "Effect": "User faints.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Extrasensory",
+        "Type": "Psychic",
+        "Power": "80",
+        "Acc.": "100",
+        "PP": "20",
+        "Effect": "May cause flinching.",
+        "Prob. (%)": "10"
+    },
+    {
+        "Name": "Extreme Evoboost",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "1",
+        "Effect": "Eevee-exclusive Z-Move. Sharply raises all stats.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "Extreme Speed",
+        "Type": "Normal",
+        "Power": "80",
+        "Acc.": "100",
+        "PP": "5",
+        "Effect": "User attacks first.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Facade",
+        "Type": "Normal",
+        "Power": "70",
+        "Acc.": "100",
+        "PP": "20",
+        "Effect": "Power doubles if user is burned, poisoned, or paralyzed.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Fairy Lock",
+        "Type": "Fairy",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "10",
+        "Effect": "Prevents fleeing in the next turn.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Fairy Wind",
+        "Type": "Fairy",
+        "Power": "40",
+        "Acc.": "100",
+        "PP": "30",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Fake Out",
+        "Type": "Normal",
+        "Power": "40",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "User attacks first, foe flinches. Only usable on first turn.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "Fake Tears",
+        "Type": "Dark",
+        "Power": "—",
+        "Acc.": "100",
+        "PP": "20",
+        "Effect": "Sharply lowers opponent's Special Defense.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "False Surrender",
+        "Type": "Dark",
+        "Power": "80",
+        "Acc.": "∞",
+        "PP": "10",
+        "Effect": "Ignores Accuracy and Evasiveness.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "False Swipe",
+        "Type": "Normal",
+        "Power": "40",
+        "Acc.": "100",
+        "PP": "40",
+        "Effect": "Always leaves opponent with at least 1 HP.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Feather Dance",
+        "Type": "Flying",
+        "Power": "—",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "Sharply lowers opponent's Attack.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Feint",
+        "Type": "Normal",
+        "Power": "30",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "Only hits if opponent uses Protect or Detect in the same turn.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Feint Attack",
+        "Type": "Dark",
+        "Power": "60",
+        "Acc.": "∞",
+        "PP": "20",
+        "Effect": "Ignores Accuracy and Evasiveness.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Fell Stinger",
+        "Type": "Bug",
+        "Power": "50",
+        "Acc.": "100",
+        "PP": "25",
+        "Effect": "Drastically raises user's Attack if target is KO'd.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Fiery Dance",
+        "Type": "Fire",
+        "Power": "80",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "May raise user's Special Attack.",
+        "Prob. (%)": "50"
+    },
+    {
+        "Name": "Fiery Wrath",
+        "Type": "Dark",
+        "Power": "90",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "May cause flinching.",
+        "Prob. (%)": "20"
+    },
+    {
+        "Name": "Final Gambit",
+        "Type": "Fighting",
+        "Power": "—",
+        "Acc.": "100",
+        "PP": "5",
+        "Effect": "Inflicts damage equal to the user's remaining HP. User faints.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Fire Blast",
+        "Type": "Fire",
+        "Power": "110",
+        "Acc.": "85",
+        "PP": "5",
+        "Effect": "May burn opponent.",
+        "Prob. (%)": "10"
+    },
+    {
+        "Name": "Fire Fang",
+        "Type": "Fire",
+        "Power": "65",
+        "Acc.": "95",
+        "PP": "15",
+        "Effect": "May cause flinching and/or burn opponent.",
+        "Prob. (%)": "10"
+    },
+    {
+        "Name": "Fire Lash",
+        "Type": "Fire",
+        "Power": "80",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "The user strikes the target with a burning lash. This also lowers the target's Defense stat.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "Fire Pledge",
+        "Type": "Fire",
+        "Power": "80",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "Added effects appear if combined with Grass Pledge or Water Pledge.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Fire Punch",
+        "Type": "Fire",
+        "Power": "75",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "May burn opponent.",
+        "Prob. (%)": "10"
+    },
+    {
+        "Name": "Fire Spin",
+        "Type": "Fire",
+        "Power": "35",
+        "Acc.": "85",
+        "PP": "15",
+        "Effect": "Traps opponent, damaging them for 4-5 turns.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "First Impression",
+        "Type": "Bug",
+        "Power": "90",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "Although this move has great power, it only works the first turn the user is in battle.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Fishious Rend",
+        "Type": "Water",
+        "Power": "85",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "If the user attacks before the target, the power of this move is doubled.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Fissure",
+        "Type": "Ground",
+        "Power": "—",
+        "Acc.": "30",
+        "PP": "5",
+        "Effect": "One-Hit-KO, if it hits.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Flail",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "The lower the user's HP, the higher the power.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Flame Burst",
+        "Type": "Fire",
+        "Power": "70",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "May also injure nearby Pokémon.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Flame Charge",
+        "Type": "Fire",
+        "Power": "50",
+        "Acc.": "100",
+        "PP": "20",
+        "Effect": "Raises user's Speed.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "Flame Wheel",
+        "Type": "Fire",
+        "Power": "60",
+        "Acc.": "100",
+        "PP": "25",
+        "Effect": "May burn opponent.",
+        "Prob. (%)": "10"
+    },
+    {
+        "Name": "Flamethrower",
+        "Type": "Fire",
+        "Power": "90",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "May burn opponent.",
+        "Prob. (%)": "10"
+    },
+    {
+        "Name": "Flare Blitz",
+        "Type": "Fire",
+        "Power": "120",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "User receives recoil damage. May burn opponent.",
+        "Prob. (%)": "10"
+    },
+    {
+        "Name": "Flash",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "100",
+        "PP": "20",
+        "Effect": "Lowers opponent's Accuracy.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Flash Cannon",
+        "Type": "Steel",
+        "Power": "80",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "May lower opponent's Special Defense.",
+        "Prob. (%)": "10"
+    },
+    {
+        "Name": "Flatter",
+        "Type": "Dark",
+        "Power": "—",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "Confuses opponent, but raises its Special Attack.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Fleur Cannon",
+        "Type": "Fairy",
+        "Power": "130",
+        "Acc.": "90",
+        "PP": "5",
+        "Effect": "Sharply lowers user's Special Attack.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "Fling",
+        "Type": "Dark",
+        "Power": "—",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "Power depends on held item.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Flip Turn",
+        "Type": "Water",
+        "Power": "60",
+        "Acc.": "100",
+        "PP": "20",
+        "Effect": "After making its attack, the user rushes back to switch places with a party Pokémon in waiting.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Floaty Fall",
+        "Type": "Flying",
+        "Power": "90",
+        "Acc.": "95",
+        "PP": "15",
+        "Effect": "May cause flinching.",
+        "Prob. (%)": "30"
+    },
+    {
+        "Name": "Floral Healing",
+        "Type": "Fairy",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "10",
+        "Effect": "The user restores the target's HP by up to half of its max HP. It restores more HP when the terrain is grass.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Flower Shield",
+        "Type": "Fairy",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "10",
+        "Effect": "Sharply raises Defense of all Grass-type Pokémon on the field.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "Fly",
+        "Type": "Flying",
+        "Power": "90",
+        "Acc.": "95",
+        "PP": "15",
+        "Effect": "Flies up on first turn, attacks on second turn.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Flying Press",
+        "Type": "Fighting",
+        "Power": "100",
+        "Acc.": "95",
+        "PP": "10",
+        "Effect": "Deals Fighting and Flying type damage.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Focus Blast",
+        "Type": "Fighting",
+        "Power": "120",
+        "Acc.": "70",
+        "PP": "5",
+        "Effect": "May lower opponent's Special Defense.",
+        "Prob. (%)": "10"
+    },
+    {
+        "Name": "Focus Energy",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "30",
+        "Effect": "Increases critical hit ratio.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Focus Punch",
+        "Type": "Fighting",
+        "Power": "150",
+        "Acc.": "100",
+        "PP": "20",
+        "Effect": "If the user is hit before attacking, it flinches instead.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Follow Me",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "20",
+        "Effect": "In Double Battle, the user takes all the attacks.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Force Palm",
+        "Type": "Fighting",
+        "Power": "60",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "May paralyze opponent.",
+        "Prob. (%)": "30"
+    },
+    {
+        "Name": "Foresight",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "40",
+        "Effect": "Resets opponent's Evasiveness, Normal-type and Fighting-type attacks can now hit Ghosts, and Ghost-type attacks hit Normal.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Forest's Curse",
+        "Type": "Grass",
+        "Power": "—",
+        "Acc.": "100",
+        "PP": "20",
+        "Effect": "Adds Grass type to opponent.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Foul Play",
+        "Type": "Dark",
+        "Power": "95",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "Uses the opponent's Attack stat.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Freeze Shock",
+        "Type": "Ice",
+        "Power": "140",
+        "Acc.": "90",
+        "PP": "5",
+        "Effect": "Charges on first turn, attacks on second. May paralyze opponent.",
+        "Prob. (%)": "30"
+    },
+    {
+        "Name": "Freeze-Dry",
+        "Type": "Ice",
+        "Power": "70",
+        "Acc.": "100",
+        "PP": "20",
+        "Effect": "May freeze opponent. Super-effective against Water types.",
+        "Prob. (%)": "10"
+    },
+    {
+        "Name": "Freezing Glare",
+        "Type": "Psychic",
+        "Power": "90",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "May freeze opponent.",
+        "Prob. (%)": "10"
+    },
+    {
+        "Name": "Freezy Frost",
+        "Type": "Ice",
+        "Power": "90",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "Resets all stat changes.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Frenzy Plant",
+        "Type": "Grass",
+        "Power": "150",
+        "Acc.": "90",
+        "PP": "5",
+        "Effect": "User must recharge next turn.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Frost Breath",
+        "Type": "Ice",
+        "Power": "60",
+        "Acc.": "90",
+        "PP": "10",
+        "Effect": "Always results in a critical hit.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "Frustration",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "100",
+        "PP": "20",
+        "Effect": "Power decreases with higher Friendship.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Fury Attack",
+        "Type": "Normal",
+        "Power": "15",
+        "Acc.": "85",
+        "PP": "20",
+        "Effect": "Hits 2-5 times in one turn.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Fury Cutter",
+        "Type": "Bug",
+        "Power": "40",
+        "Acc.": "95",
+        "PP": "20",
+        "Effect": "Power increases each turn.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Fury Swipes",
+        "Type": "Normal",
+        "Power": "18",
+        "Acc.": "80",
+        "PP": "15",
+        "Effect": "Hits 2-5 times in one turn.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Fusion Bolt",
+        "Type": "Electric",
+        "Power": "100",
+        "Acc.": "100",
+        "PP": "5",
+        "Effect": "Power increases if Fusion Flare is used in the same turn.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Fusion Flare",
+        "Type": "Fire",
+        "Power": "100",
+        "Acc.": "100",
+        "PP": "5",
+        "Effect": "Power increases if Fusion Bolt is used in the same turn.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Future Sight",
+        "Type": "Psychic",
+        "Power": "120",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "Damage occurs 2 turns later.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "G-Max Befuddle",
+        "Type": "Bug",
+        "Cat.": "—",
+        "Power": "—",
+        "Acc.": "∞",
+        "PP": "5",
+        "Effect": "Butterfree-exclusive G-Max Move. Poisons, paralyzes, or puts opponent to sleep.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "G-Max Cannonade",
+        "Type": "Water",
+        "Cat.": "—",
+        "Power": "—",
+        "Acc.": "∞",
+        "PP": "10",
+        "Effect": "Blastoise-exclusive G-Max Move. Damages non-Water types for 4 turns.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "G-Max Centiferno",
+        "Type": "Fire",
+        "Cat.": "—",
+        "Power": "—",
+        "Acc.": "∞",
+        "PP": "5",
+        "Effect": "Centiskorch-exclusive G-Max Move. Traps opponents for 4-5 turns.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "G-Max Chi Strike",
+        "Type": "Fighting",
+        "Cat.": "—",
+        "Power": "—",
+        "Acc.": "∞",
+        "PP": "5",
+        "Effect": "Machamp-exclusive G-Max Move. Increases critical hit ratio.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "G-Max Cuddle",
+        "Type": "Normal",
+        "Cat.": "—",
+        "Power": "—",
+        "Acc.": "∞",
+        "PP": "5",
+        "Effect": "Eevee-exclusive G-Max Move. Infatuates opponents.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "G-Max Depletion",
+        "Type": "Dragon",
+        "Cat.": "—",
+        "Power": "—",
+        "Acc.": "∞",
+        "PP": "5",
+        "Effect": "Duraludon-exclusive G-Max Move. Reduces opponent's PP.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "G-Max Drum Solo",
+        "Type": "Grass",
+        "Cat.": "—",
+        "Power": "—",
+        "Acc.": "∞",
+        "PP": "5",
+        "Effect": "Rillaboom-exclusive G-Max Move. Ignores target's ability.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "G-Max Finale",
+        "Type": "Fairy",
+        "Cat.": "—",
+        "Power": "—",
+        "Acc.": "∞",
+        "PP": "5",
+        "Effect": "Alcremie-exclusive G-Max Move. Heals the user's team.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "G-Max Fireball",
+        "Type": "Fire",
+        "Cat.": "—",
+        "Power": "—",
+        "Acc.": "∞",
+        "PP": "5",
+        "Effect": "Cinderace-exclusive G-Max Move. Ignores target's ability.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "G-Max Foam Burst",
+        "Type": "Water",
+        "Cat.": "—",
+        "Power": "—",
+        "Acc.": "∞",
+        "PP": "5",
+        "Effect": "Kingler-exclusive G-Max Move. Harshly lowers opponents' Speed.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "G-Max Gold Rush",
+        "Type": "Normal",
+        "Cat.": "—",
+        "Power": "—",
+        "Acc.": "∞",
+        "PP": "5",
+        "Effect": "Meowth-exclusive G-Max Move. Confuses opponents and earns more money.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "G-Max Gravitas",
+        "Type": "Psychic",
+        "Cat.": "—",
+        "Power": "—",
+        "Acc.": "∞",
+        "PP": "5",
+        "Effect": "Orbeetle-exclusive G-Max Move. Summons Gravity for 5 turns.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "G-Max Hydrosnipe",
+        "Type": "Water",
+        "Cat.": "—",
+        "Power": "—",
+        "Acc.": "∞",
+        "PP": "5",
+        "Effect": "Inteleon-exclusive G-Max Move. Ignores target's ability.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "G-Max Malodor",
+        "Type": "Poison",
+        "Cat.": "—",
+        "Power": "—",
+        "Acc.": "∞",
+        "PP": "5",
+        "Effect": "Garbodor-exclusive G-Max Move. Poisons opponents.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "G-Max Meltdown",
+        "Type": "Steel",
+        "Cat.": "—",
+        "Power": "—",
+        "Acc.": "∞",
+        "PP": "5",
+        "Effect": "Melmetal-exclusive G-Max Move. Prevents opponents using the same move twice in a row.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "G-Max One Blow",
+        "Type": "Dark",
+        "Cat.": "—",
+        "Power": "—",
+        "Acc.": "∞",
+        "PP": "5",
+        "Effect": "Urshifu Single-Strike Style-exclusive G-Max Move. Strikes through Max Guard and Protect.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "G-Max Rapid Flow",
+        "Type": "Water",
+        "Cat.": "—",
+        "Power": "—",
+        "Acc.": "∞",
+        "PP": "5",
+        "Effect": "Urshifu Rapid-Strike Style-exclusive G-Max Move. Strikes through Max Guard and Protect.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "G-Max Replenish",
+        "Type": "Normal",
+        "Cat.": "—",
+        "Power": "—",
+        "Acc.": "∞",
+        "PP": "5",
+        "Effect": "Snorlax-exclusive G-Max Move. Recycles Berries.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "G-Max Resonance",
+        "Type": "Ice",
+        "Cat.": "—",
+        "Power": "—",
+        "Acc.": "∞",
+        "PP": "5",
+        "Effect": "Lapras-exclusive G-Max Move. Reduces damage for 5 turns.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "G-Max Sandblast",
+        "Type": "Ground",
+        "Cat.": "—",
+        "Power": "—",
+        "Acc.": "∞",
+        "PP": "5",
+        "Effect": "Sandaconda-exclusive G-Max Move. Traps opponents for 4-5 turns.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "G-Max Smite",
+        "Type": "Fairy",
+        "Cat.": "—",
+        "Power": "—",
+        "Acc.": "∞",
+        "PP": "5",
+        "Effect": "Hatterene-exclusive G-Max Move. Confuses opponents.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "G-Max Snooze",
+        "Type": "Dark",
+        "Cat.": "—",
+        "Power": "—",
+        "Acc.": "∞",
+        "PP": "5",
+        "Effect": "Grimmsnarl-exclusive G-Max Move. Makes opponents drowsy.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "G-Max Steelsurge",
+        "Type": "Steel",
+        "Cat.": "—",
+        "Power": "—",
+        "Acc.": "∞",
+        "PP": "5",
+        "Effect": "Copperajah-exclusive G-Max Move. Sets up Spikes on the field.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "G-Max Stonesurge",
+        "Type": "Water",
+        "Cat.": "—",
+        "Power": "—",
+        "Acc.": "∞",
+        "PP": "5",
+        "Effect": "Drednaw-exclusive G-Max Move. Sets up Stealth Rock.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "G-Max Stun Shock",
+        "Type": "Electric",
+        "Cat.": "—",
+        "Power": "—",
+        "Acc.": "∞",
+        "PP": "10",
+        "Effect": "Toxtricity-exclusive G-Max Move. Poisons or paralyzes opponents.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "G-Max Sweetness",
+        "Type": "Grass",
+        "Cat.": "—",
+        "Power": "—",
+        "Acc.": "∞",
+        "PP": "10",
+        "Effect": "Appletun-exclusive G-Max Move. Heals status conditions of user's team.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "G-Max Tartness",
+        "Type": "Grass",
+        "Cat.": "—",
+        "Power": "—",
+        "Acc.": "∞",
+        "PP": "10",
+        "Effect": "Flapple-exclusive G-Max Move. Reduces opponents' evasiveness.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "G-Max Terror",
+        "Type": "Ghost",
+        "Cat.": "—",
+        "Power": "—",
+        "Acc.": "∞",
+        "PP": "10",
+        "Effect": "Gengar-exclusive G-Max Move. Prevents opponent from switching out.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "G-Max Vine Lash",
+        "Type": "Grass",
+        "Cat.": "—",
+        "Power": "—",
+        "Acc.": "∞",
+        "PP": "10",
+        "Effect": "Venusaur-exclusive G-Max Move. Damages non-Grass types for 4 turns.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "G-Max Volcalith",
+        "Type": "Rock",
+        "Cat.": "—",
+        "Power": "—",
+        "Acc.": "∞",
+        "PP": "10",
+        "Effect": "Coalossal-exclusive G-Max Move. Deals damage for 4 turns.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "G-Max Volt Crash",
+        "Type": "Electric",
+        "Cat.": "—",
+        "Power": "—",
+        "Acc.": "∞",
+        "PP": "10",
+        "Effect": "Pikachu-exclusive G-Max Move. Paralyzes opponents.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "G-Max Wildfire",
+        "Type": "Fire",
+        "Cat.": "—",
+        "Power": "—",
+        "Acc.": "∞",
+        "PP": "10",
+        "Effect": "Charizard-exclusive G-Max Move. Damages non-Fire types for 4 turns.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "G-Max Wind Rage",
+        "Type": "Flying",
+        "Cat.": "—",
+        "Power": "—",
+        "Acc.": "∞",
+        "PP": "10",
+        "Effect": "Corviknight-exclusive G-Max Move. Removes battlefield hazards.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Gastro Acid",
+        "Type": "Poison",
+        "Power": "—",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "Cancels out the effect of the opponent's Ability.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Gear Grind",
+        "Type": "Steel",
+        "Power": "50",
+        "Acc.": "85",
+        "PP": "15",
+        "Effect": "Hits twice in one turn.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Gear Up",
+        "Type": "Steel",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "20",
+        "Effect": "The user engages its gears to raise the Attack and Sp. Atk stats of ally Pokémon with the Plus or Minus Ability.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Genesis Supernova",
+        "Type": "Psychic",
+        "Power": "185",
+        "Acc.": "—",
+        "PP": "1",
+        "Effect": "Mew-exclusive Z-Move.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Geomancy",
+        "Type": "Fairy",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "10",
+        "Effect": "Charges on first turn, sharply raises user's Sp. Attack, Sp. Defense and Speed on the second.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Giga Drain",
+        "Type": "Grass",
+        "Power": "75",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "User recovers half the HP inflicted on opponent.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Giga Impact",
+        "Type": "Normal",
+        "Power": "150",
+        "Acc.": "90",
+        "PP": "5",
+        "Effect": "User must recharge next turn.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Gigavolt Havoc",
+        "Type": "Electric",
+        "Cat.": "—",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "1",
+        "Effect": "Electric type Z-Move.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Glacial Lance",
+        "Type": "Ice",
+        "Power": "130",
+        "Acc.": "100",
+        "PP": "5",
+        "Effect": "The user attacks by hurling a blizzard-cloaked icicle lance at opposing Pokémon.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Glaciate",
+        "Type": "Ice",
+        "Power": "65",
+        "Acc.": "95",
+        "PP": "10",
+        "Effect": "Lowers opponent's Speed.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "Glare",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "100",
+        "PP": "30",
+        "Effect": "Paralyzes opponent.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Glitzy Glow",
+        "Type": "Psychic",
+        "Power": "90",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "Reduces damage from Special attacks.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Grass Knot",
+        "Type": "Grass",
+        "Power": "—",
+        "Acc.": "100",
+        "PP": "20",
+        "Effect": "The heavier the opponent, the stronger the attack.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Grass Pledge",
+        "Type": "Grass",
+        "Power": "80",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "Added effects appear if preceded by Water Pledge or succeeded by Fire Pledge.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Grass Whistle",
+        "Type": "Grass",
+        "Power": "—",
+        "Acc.": "55",
+        "PP": "15",
+        "Effect": "Puts opponent to sleep.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Grassy Glide",
+        "Type": "Grass",
+        "Power": "70",
+        "Acc.": "100",
+        "PP": "20",
+        "Effect": "High priority during Grassy Terrain.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Grassy Terrain",
+        "Type": "Grass",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "10",
+        "Effect": "Restores a little HP of all Pokémon for 5 turns.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Grav Apple",
+        "Type": "Grass",
+        "Power": "80",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "Lowers the opponent's Defense stat.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "Gravity",
+        "Type": "Psychic",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "5",
+        "Effect": "Prevents moves like Fly and Bounce and the Ability Levitate for 5 turns.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Growl",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "100",
+        "PP": "40",
+        "Effect": "Lowers opponent's Attack.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Growth",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "20",
+        "Effect": "Raises user's Attack and Special Attack.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Grudge",
+        "Type": "Ghost",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "5",
+        "Effect": "If the users faints after using this move, the PP for the opponent's last move is depleted.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Guard Split",
+        "Type": "Psychic",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "10",
+        "Effect": "Averages Defense and Special Defense with the target.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Guard Swap",
+        "Type": "Psychic",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "10",
+        "Effect": "User and opponent swap Defense and Special Defense.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Guardian of Alola",
+        "Type": "Fairy",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "1",
+        "Effect": "Tapu-exclusive Z-move. Cuts opponent's HP by 75%.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Guillotine",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "30",
+        "PP": "5",
+        "Effect": "One-Hit-KO, if it hits.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Gunk Shot",
+        "Type": "Poison",
+        "Power": "120",
+        "Acc.": "80",
+        "PP": "5",
+        "Effect": "May poison opponent.",
+        "Prob. (%)": "30"
+    },
+    {
+        "Name": "Gust",
+        "Type": "Flying",
+        "Power": "40",
+        "Acc.": "100",
+        "PP": "35",
+        "Effect": "Hits Pokémon using Fly/Bounce with double power.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Gyro Ball",
+        "Type": "Steel",
+        "Power": "—",
+        "Acc.": "100",
+        "PP": "5",
+        "Effect": "The slower the user, the stronger the attack.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Hail",
+        "Type": "Ice",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "10",
+        "Effect": "Non-Ice types are damaged for 5 turns.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Hammer Arm",
+        "Type": "Fighting",
+        "Power": "100",
+        "Acc.": "90",
+        "PP": "10",
+        "Effect": "Lowers user's Speed.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "Happy Hour",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "30",
+        "Effect": "Doubles prize money from trainer battles.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Harden",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "30",
+        "Effect": "Raises user's Defense.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Haze",
+        "Type": "Ice",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "30",
+        "Effect": "Resets all stat changes.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Head Charge",
+        "Type": "Normal",
+        "Power": "120",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "User receives recoil damage.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Head Smash",
+        "Type": "Rock",
+        "Power": "150",
+        "Acc.": "80",
+        "PP": "5",
+        "Effect": "User receives recoil damage.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Headbutt",
+        "Type": "Normal",
+        "Power": "70",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "May cause flinching.",
+        "Prob. (%)": "30"
+    },
+    {
+        "Name": "Headlong Rush",
+        "Power": "100",
+        "Acc.": "100",
+        "PP": "5",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Heal Bell",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "5",
+        "Effect": "Heals the user's party's status conditions.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Heal Block",
+        "Type": "Psychic",
+        "Power": "—",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "Prevents the opponent from restoring HP for 5 turns.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Heal Order",
+        "Type": "Bug",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "10",
+        "Effect": "User recovers half its max HP.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Heal Pulse",
+        "Type": "Psychic",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "10",
+        "Effect": "Restores half the target's max HP.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Healing Wish",
+        "Type": "Psychic",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "10",
+        "Effect": "The user faints and the next Pokémon released is fully healed.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Heart Stamp",
+        "Type": "Psychic",
+        "Power": "60",
+        "Acc.": "100",
+        "PP": "25",
+        "Effect": "May cause flinching.",
+        "Prob. (%)": "30"
+    },
+    {
+        "Name": "Heart Swap",
+        "Type": "Psychic",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "10",
+        "Effect": "Stat changes are swapped with the opponent.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Heat Crash",
+        "Type": "Fire",
+        "Power": "—",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "The heavier the user, the stronger the attack.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Heat Wave",
+        "Type": "Fire",
+        "Power": "95",
+        "Acc.": "90",
+        "PP": "10",
+        "Effect": "May burn opponent.",
+        "Prob. (%)": "10"
+    },
+    {
+        "Name": "Heavy Slam",
+        "Type": "Steel",
+        "Power": "—",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "The heavier the user, the stronger the attack.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Helping Hand",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "20",
+        "Effect": "In Double Battles, boosts the power of the partner's move.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Hex",
+        "Type": "Ghost",
+        "Power": "65",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "Inflicts more damage if the target has a status condition.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Hidden Power",
+        "Type": "Normal",
+        "Power": "60",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "Type and power depends on user's IVs.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "High Horsepower",
+        "Type": "Ground",
+        "Power": "95",
+        "Acc.": "95",
+        "PP": "10",
+        "Effect": "The user fiercely attacks the target using its entire body.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "High Jump Kick",
+        "Type": "Fighting",
+        "Power": "130",
+        "Acc.": "90",
+        "PP": "10",
+        "Effect": "If it misses, the user loses half their HP.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Hold Back",
+        "Type": "Normal",
+        "Power": "40",
+        "Acc.": "100",
+        "PP": "40",
+        "Effect": "Always leaves opponent with at least 1 HP.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Hold Hands",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "40",
+        "Effect": "Makes the user and an ally very happy.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Hone Claws",
+        "Type": "Dark",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "15",
+        "Effect": "Raises user's Attack and Accuracy.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Horn Attack",
+        "Type": "Normal",
+        "Power": "65",
+        "Acc.": "100",
+        "PP": "25",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Horn Drill",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "30",
+        "PP": "5",
+        "Effect": "One-Hit-KO, if it hits.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Horn Leech",
+        "Type": "Grass",
+        "Power": "75",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "User recovers half the HP inflicted on opponent.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Howl",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "40",
+        "Effect": "Raises Attack of allies.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Hurricane",
+        "Type": "Flying",
+        "Power": "110",
+        "Acc.": "70",
+        "PP": "10",
+        "Effect": "May confuse opponent.",
+        "Prob. (%)": "30"
+    },
+    {
+        "Name": "Hydro Cannon",
+        "Type": "Water",
+        "Power": "150",
+        "Acc.": "90",
+        "PP": "5",
+        "Effect": "User must recharge next turn.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Hydro Pump",
+        "Type": "Water",
+        "Power": "110",
+        "Acc.": "80",
+        "PP": "5",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Hydro Vortex",
+        "Type": "Water",
+        "Cat.": "—",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "1",
+        "Effect": "Water type Z-Move.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Hyper Beam",
+        "Type": "Normal",
+        "Power": "150",
+        "Acc.": "90",
+        "PP": "5",
+        "Effect": "User must recharge next turn.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Hyper Fang",
+        "Type": "Normal",
+        "Power": "80",
+        "Acc.": "90",
+        "PP": "15",
+        "Effect": "May cause flinching.",
+        "Prob. (%)": "10"
+    },
+    {
+        "Name": "Hyper Voice",
+        "Type": "Normal",
+        "Power": "90",
+        "Acc.": "100",
+        "PP": "10",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Hyperspace Fury",
+        "Type": "Dark",
+        "Power": "100",
+        "Acc.": "∞",
+        "PP": "5",
+        "Effect": "Lowers user's Defense. Can strike through Protect/Detect.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "Hyperspace Hole",
+        "Type": "Psychic",
+        "Power": "80",
+        "Acc.": "∞",
+        "PP": "5",
+        "Effect": "Can strike through Protect/Detect.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Hypnosis",
+        "Type": "Psychic",
+        "Power": "—",
+        "Acc.": "60",
+        "PP": "20",
+        "Effect": "Puts opponent to sleep.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Ice Ball",
+        "Type": "Ice",
+        "Power": "30",
+        "Acc.": "90",
+        "PP": "20",
+        "Effect": "Doubles in power each turn for 5 turns.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Ice Beam",
+        "Type": "Ice",
+        "Power": "90",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "May freeze opponent.",
+        "Prob. (%)": "10"
+    },
+    {
+        "Name": "Ice Burn",
+        "Type": "Ice",
+        "Power": "140",
+        "Acc.": "90",
+        "PP": "5",
+        "Effect": "Charges on first turn, attacks on second. May burn opponent.",
+        "Prob. (%)": "30"
+    },
+    {
+        "Name": "Ice Fang",
+        "Type": "Ice",
+        "Power": "65",
+        "Acc.": "95",
+        "PP": "15",
+        "Effect": "May cause flinching and/or freeze opponent.",
+        "Prob. (%)": "10"
+    },
+    {
+        "Name": "Ice Hammer",
+        "Type": "Ice",
+        "Power": "100",
+        "Acc.": "90",
+        "PP": "10",
+        "Effect": "The user swings and hits with its strong, heavy fist. It lowers the user's Speed, however.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "Ice Punch",
+        "Type": "Ice",
+        "Power": "75",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "May freeze opponent.",
+        "Prob. (%)": "10"
+    },
+    {
+        "Name": "Ice Shard",
+        "Type": "Ice",
+        "Power": "40",
+        "Acc.": "100",
+        "PP": "30",
+        "Effect": "User attacks first.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Icicle Crash",
+        "Type": "Ice",
+        "Power": "85",
+        "Acc.": "90",
+        "PP": "10",
+        "Effect": "May cause flinching.",
+        "Prob. (%)": "30"
+    },
+    {
+        "Name": "Icicle Spear",
+        "Type": "Ice",
+        "Power": "25",
+        "Acc.": "100",
+        "PP": "30",
+        "Effect": "Hits 2-5 times in one turn.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Icy Wind",
+        "Type": "Ice",
+        "Power": "55",
+        "Acc.": "95",
+        "PP": "15",
+        "Effect": "Lowers opponent's Speed.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "Imprison",
+        "Type": "Psychic",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "10",
+        "Effect": "Opponent is unable to use moves that the user also knows.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Incinerate",
+        "Type": "Fire",
+        "Power": "60",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "Destroys the target's held berry.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Infernal Parade",
+        "Type": "Ghost",
+        "Power": "60",
+        "Acc.": "100",
+        "PP": "15",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Inferno",
+        "Type": "Fire",
+        "Power": "100",
+        "Acc.": "50",
+        "PP": "5",
+        "Effect": "Burns opponent.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "Inferno Overdrive",
+        "Type": "Fire",
+        "Cat.": "—",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "1",
+        "Effect": "Fire type Z-Move.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Infestation",
+        "Type": "Bug",
+        "Power": "20",
+        "Acc.": "100",
+        "PP": "20",
+        "Effect": "Traps opponent, damaging them for 4-5 turns.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "Ingrain",
+        "Type": "Grass",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "20",
+        "Effect": "User restores HP each turn. User cannot escape/switch.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Instruct",
+        "Type": "Psychic",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "15",
+        "Effect": "Allows an ally to use a move instead.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Ion Deluge",
+        "Type": "Electric",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "25",
+        "Effect": "Changes Normal-type moves to Electric-type.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Iron Defense",
+        "Type": "Steel",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "15",
+        "Effect": "Sharply raises user's Defense.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Iron Head",
+        "Type": "Steel",
+        "Power": "80",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "May cause flinching.",
+        "Prob. (%)": "30"
+    },
+    {
+        "Name": "Iron Tail",
+        "Type": "Steel",
+        "Power": "100",
+        "Acc.": "75",
+        "PP": "15",
+        "Effect": "May lower opponent's Defense.",
+        "Prob. (%)": "30"
+    },
+    {
+        "Name": "Jaw Lock",
+        "Type": "Dark",
+        "Power": "80",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "Prevents user and opponent from switching out.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Judgment",
+        "Type": "Normal",
+        "Power": "100",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "Type depends on the Arceus Plate being held.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Jump Kick",
+        "Type": "Fighting",
+        "Power": "100",
+        "Acc.": "95",
+        "PP": "10",
+        "Effect": "If it misses, the user loses half their HP.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Jungle Healing",
+        "Type": "Grass",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "10",
+        "Effect": "Restores team's HP and cures status conditions.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Karate Chop",
+        "Type": "Fighting",
+        "Power": "50",
+        "Acc.": "100",
+        "PP": "25",
+        "Effect": "High critical hit ratio.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Kinesis",
+        "Type": "Psychic",
+        "Power": "—",
+        "Acc.": "80",
+        "PP": "15",
+        "Effect": "Lowers opponent's Accuracy.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "King's Shield",
+        "Type": "Steel",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "10",
+        "Effect": "Protects the user and lowers opponent's Attack on contact.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Knock Off",
+        "Type": "Dark",
+        "Power": "65",
+        "Acc.": "100",
+        "PP": "20",
+        "Effect": "Removes opponent's held item for the rest of the battle.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Land's Wrath",
+        "Type": "Ground",
+        "Power": "90",
+        "Acc.": "100",
+        "PP": "10",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Laser Focus",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "30",
+        "Effect": "User's next attack is guaranteed to result in a critical hit.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Lash Out",
+        "Type": "Dark",
+        "Power": "75",
+        "Acc.": "100",
+        "PP": "5",
+        "Effect": "Double power if stats were lowered during the turn.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Last Resort",
+        "Type": "Normal",
+        "Power": "140",
+        "Acc.": "100",
+        "PP": "5",
+        "Effect": "Can only be used after all other moves are used.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Lava Plume",
+        "Type": "Fire",
+        "Power": "80",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "May burn opponent.",
+        "Prob. (%)": "30"
+    },
+    {
+        "Name": "Leaf Blade",
+        "Type": "Grass",
+        "Power": "90",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "High critical hit ratio.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Leaf Storm",
+        "Type": "Grass",
+        "Power": "130",
+        "Acc.": "90",
+        "PP": "5",
+        "Effect": "Sharply lowers user's Special Attack.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "Leaf Tornado",
+        "Type": "Grass",
+        "Power": "65",
+        "Acc.": "90",
+        "PP": "10",
+        "Effect": "May lower opponent's Accuracy.",
+        "Prob. (%)": "50"
+    },
+    {
+        "Name": "Leafage",
+        "Type": "Grass",
+        "Power": "40",
+        "Acc.": "100",
+        "PP": "40",
+        "Effect": "Strikes opponent with leaves.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Leech Life",
+        "Type": "Bug",
+        "Power": "80",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "User recovers half the HP inflicted on opponent.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Leech Seed",
+        "Type": "Grass",
+        "Power": "—",
+        "Acc.": "90",
+        "PP": "10",
+        "Effect": "Drains HP from opponent each turn.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Leer",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "100",
+        "PP": "30",
+        "Effect": "Lowers opponent's Defense.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "Let's Snuggle Forever",
+        "Type": "Fairy",
+        "Power": "190",
+        "Acc.": "—",
+        "PP": "1",
+        "Effect": "Mimikyu-exclusive Z-Move.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Lick",
+        "Type": "Ghost",
+        "Power": "30",
+        "Acc.": "100",
+        "PP": "30",
+        "Effect": "May paralyze opponent.",
+        "Prob. (%)": "30"
+    },
+    {
+        "Name": "Life Dew",
+        "Type": "Water",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "10",
+        "Effect": "User and teammates recover HP.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Light of Ruin",
+        "Type": "Fairy",
+        "Power": "140",
+        "Acc.": "90",
+        "PP": "5",
+        "Effect": "User receives recoil damage.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Light Screen",
+        "Type": "Psychic",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "30",
+        "Effect": "Halves damage from Special attacks for 5 turns.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Light That Burns the Sky",
+        "Type": "Psychic",
+        "Power": "200",
+        "Acc.": "—",
+        "PP": "1",
+        "Effect": "Ultra Necrozma-exclusive Z-Move. Ignores target's ability; uses highest Attack stat.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Liquidation",
+        "Type": "Water",
+        "Power": "85",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "May lower opponent's Defense.",
+        "Prob. (%)": "20"
+    },
+    {
+        "Name": "Lock-On",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "5",
+        "Effect": "User's next attack is guaranteed to hit.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Lovely Kiss",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "75",
+        "PP": "10",
+        "Effect": "Puts opponent to sleep.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Low Kick",
+        "Type": "Fighting",
+        "Power": "—",
+        "Acc.": "100",
+        "PP": "20",
+        "Effect": "The heavier the opponent, the stronger the attack.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Low Sweep",
+        "Type": "Fighting",
+        "Power": "65",
+        "Acc.": "100",
+        "PP": "20",
+        "Effect": "Lowers opponent's Speed.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "Lucky Chant",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "30",
+        "Effect": "Opponent cannot land critical hits for 5 turns.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Lunar Blessing",
+        "Power": "—",
+        "Acc.": "∞",
+        "PP": "10",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Lunar Dance",
+        "Type": "Psychic",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "10",
+        "Effect": "The user faints but the next Pokémon released is fully healed.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Lunge",
+        "Type": "Bug",
+        "Power": "80",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "The user makes a lunge at the target, attacking with full force. This also lowers the target's Attack stat.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "Luster Purge",
+        "Type": "Psychic",
+        "Power": "70",
+        "Acc.": "100",
+        "PP": "5",
+        "Effect": "May lower opponent's Special Defense.",
+        "Prob. (%)": "50"
+    },
+    {
+        "Name": "Mach Punch",
+        "Type": "Fighting",
+        "Power": "40",
+        "Acc.": "100",
+        "PP": "30",
+        "Effect": "User attacks first.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Magic Coat",
+        "Type": "Psychic",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "15",
+        "Effect": "Reflects moves that cause status conditions back to the attacker.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Magic Powder",
+        "Type": "Psychic",
+        "Power": "—",
+        "Acc.": "100",
+        "PP": "20",
+        "Effect": "Changes target's type to Psychic.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Magic Room",
+        "Type": "Psychic",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "10",
+        "Effect": "Suppresses the effects of held items for five turns.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Magical Leaf",
+        "Type": "Grass",
+        "Power": "60",
+        "Acc.": "∞",
+        "PP": "20",
+        "Effect": "Ignores Accuracy and Evasiveness.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Magma Storm",
+        "Type": "Fire",
+        "Power": "100",
+        "Acc.": "75",
+        "PP": "5",
+        "Effect": "Traps opponent, damaging them for 4-5 turns.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "Magnet Bomb",
+        "Type": "Steel",
+        "Power": "60",
+        "Acc.": "∞",
+        "PP": "20",
+        "Effect": "Ignores Accuracy and Evasiveness.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Magnet Rise",
+        "Type": "Electric",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "10",
+        "Effect": "User becomes immune to Ground-type moves for 5 turns.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Magnetic Flux",
+        "Type": "Electric",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "20",
+        "Effect": "Raises Defense and Sp. Defense of Plus/Minus Pokémon.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Magnitude",
+        "Type": "Ground",
+        "Power": "—",
+        "Acc.": "100",
+        "PP": "30",
+        "Effect": "Hits with random power.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Malicious Moonsault",
+        "Type": "Dark",
+        "Power": "180",
+        "Acc.": "—",
+        "PP": "1",
+        "Effect": "Incineroar-exclusive Z-Move.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Mat Block",
+        "Type": "Fighting",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "10",
+        "Effect": "Protects teammates from damaging moves.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Max Airstream",
+        "Type": "Flying",
+        "Cat.": "—",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "—",
+        "Effect": "Flying type Dynamax move. Raises the team's Speed.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "Max Darkness",
+        "Type": "Dark",
+        "Cat.": "—",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "—",
+        "Effect": "Dark type Dynamax move. Lowers the target's Special Defense.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "Max Flare",
+        "Type": "Fire",
+        "Cat.": "—",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "—",
+        "Effect": "Fire type Dynamax move. Summons harsh sunlight.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Max Flutterby",
+        "Type": "Bug",
+        "Cat.": "—",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "—",
+        "Effect": "Bug type Dynamax move. Lowers the target's Special Attack.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "Max Geyser",
+        "Type": "Water",
+        "Cat.": "—",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "—",
+        "Effect": "Water type Dynamax move. Summons heavy rain.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Max Guard",
+        "Type": "Normal",
+        "Cat.": "—",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "—",
+        "Effect": "Status category Dynamax move. Protects the user.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Max Hailstorm",
+        "Type": "Ice",
+        "Cat.": "—",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "—",
+        "Effect": "Ice type Dynamax move. Summons hail.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Max Knuckle",
+        "Type": "Fighting",
+        "Cat.": "—",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "—",
+        "Effect": "Fighting type Dynamax move. Increases the team's Attack.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "Max Lightning",
+        "Type": "Electric",
+        "Cat.": "—",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "—",
+        "Effect": "Electric type Dynamax move. Summons Electric Terrain.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Max Mindstorm",
+        "Type": "Psychic",
+        "Cat.": "—",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "—",
+        "Effect": "Psychic type Dynamax move. Summons Psychic Terrain.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Max Ooze",
+        "Type": "Poison",
+        "Cat.": "—",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "—",
+        "Effect": "Poison type Dynamax move. Increases the team's Special Attack.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "Max Overgrowth",
+        "Type": "Grass",
+        "Cat.": "—",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "—",
+        "Effect": "Grass type Dynamax move. Summons Grassy Terrain.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Max Phantasm",
+        "Type": "Ghost",
+        "Cat.": "—",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "—",
+        "Effect": "Ghost type Dynamax move. Lowers the target's Defense.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "Max Quake",
+        "Type": "Ground",
+        "Cat.": "—",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "—",
+        "Effect": "Ground type Dynamax move. Increases the team's Special Defense.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "Max Rockfall",
+        "Type": "Rock",
+        "Cat.": "—",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "—",
+        "Effect": "Rock type Dynamax move. Summons a sandstorm.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Max Starfall",
+        "Type": "Fairy",
+        "Cat.": "—",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "—",
+        "Effect": "Fairy type Dynamax move. Summons Misty Terrain.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Max Steelspike",
+        "Type": "Steel",
+        "Cat.": "—",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "—",
+        "Effect": "Steel type Dynamax move. Raises the team's Defense.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "Max Strike",
+        "Type": "Normal",
+        "Cat.": "—",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "—",
+        "Effect": "Normal type Dynamax move. Lowers the target's Speed.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "Max Wyrmwind",
+        "Type": "Dragon",
+        "Cat.": "—",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "—",
+        "Effect": "Dragon type Dynamax move. Lowers the target's Attack.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "Me First",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "20",
+        "Effect": "User copies the opponent's attack with 1.5× power.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Mean Look",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "5",
+        "Effect": "Opponent cannot flee or switch.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Meditate",
+        "Type": "Psychic",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "40",
+        "Effect": "Raises user's Attack.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Mega Drain",
+        "Type": "Grass",
+        "Power": "40",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "User recovers half the HP inflicted on opponent.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Mega Kick",
+        "Type": "Normal",
+        "Power": "120",
+        "Acc.": "75",
+        "PP": "5",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Mega Punch",
+        "Type": "Normal",
+        "Power": "80",
+        "Acc.": "85",
+        "PP": "20",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Megahorn",
+        "Type": "Bug",
+        "Power": "120",
+        "Acc.": "85",
+        "PP": "10",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Memento",
+        "Type": "Dark",
+        "Power": "—",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "User faints, sharply lowers opponent's Attack and Special Attack.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Menacing Moonraze Maelstrom",
+        "Type": "Ghost",
+        "Power": "200",
+        "Acc.": "—",
+        "PP": "1",
+        "Effect": "Lunala-exclusive Z-Move.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Metal Burst",
+        "Type": "Steel",
+        "Power": "—",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "Deals damage equal to 1.5x opponent's attack.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Metal Claw",
+        "Type": "Steel",
+        "Power": "50",
+        "Acc.": "95",
+        "PP": "35",
+        "Effect": "May raise user's Attack.",
+        "Prob. (%)": "10"
+    },
+    {
+        "Name": "Metal Sound",
+        "Type": "Steel",
+        "Power": "—",
+        "Acc.": "85",
+        "PP": "40",
+        "Effect": "Sharply lowers opponent's Special Defense.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Meteor Assault",
+        "Type": "Fighting",
+        "Power": "150",
+        "Acc.": "100",
+        "PP": "5",
+        "Effect": "User must recharge next turn.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Meteor Beam",
+        "Type": "Rock",
+        "Power": "120",
+        "Acc.": "90",
+        "PP": "10",
+        "Effect": "User gathers space power and boosts its Sp. Atk stat, then attacks the target on the next turn.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Meteor Mash",
+        "Type": "Steel",
+        "Power": "90",
+        "Acc.": "90",
+        "PP": "10",
+        "Effect": "May raise user's Attack.",
+        "Prob. (%)": "20"
+    },
+    {
+        "Name": "Metronome",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "10",
+        "Effect": "User performs almost any move in the game at random.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Milk Drink",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "10",
+        "Effect": "User recovers half its max HP.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Mimic",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "10",
+        "Effect": "Copies the opponent's last move.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Mind Blown",
+        "Type": "Fire",
+        "Power": "150",
+        "Acc.": "100",
+        "PP": "5",
+        "Effect": "User receives recoil damage.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Mind Reader",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "5",
+        "Effect": "User's next attack is guaranteed to hit.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Minimize",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "10",
+        "Effect": "Sharply raises user's Evasiveness.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Miracle Eye",
+        "Type": "Psychic",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "40",
+        "Effect": "Resets opponent's Evasiveness, removes Dark's Psychic immunity.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Mirror Coat",
+        "Type": "Psychic",
+        "Power": "—",
+        "Acc.": "100",
+        "PP": "20",
+        "Effect": "When hit by a Special Attack, user strikes back with 2x power.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Mirror Move",
+        "Type": "Flying",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "20",
+        "Effect": "User performs the opponent's last move.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Mirror Shot",
+        "Type": "Steel",
+        "Power": "65",
+        "Acc.": "85",
+        "PP": "10",
+        "Effect": "May lower opponent's Accuracy.",
+        "Prob. (%)": "30"
+    },
+    {
+        "Name": "Mist",
+        "Type": "Ice",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "30",
+        "Effect": "User's stats cannot be changed for a period of time.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Mist Ball",
+        "Type": "Psychic",
+        "Power": "70",
+        "Acc.": "100",
+        "PP": "5",
+        "Effect": "May lower opponent's Special Attack.",
+        "Prob. (%)": "50"
+    },
+    {
+        "Name": "Misty Explosion",
+        "Type": "Fairy",
+        "Power": "100",
+        "Acc.": "100",
+        "PP": "5",
+        "Effect": "Power increases on Misty Terrain.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Misty Terrain",
+        "Type": "Fairy",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "10",
+        "Effect": "Protects the field from status conditions for 5 turns.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Moonblast",
+        "Type": "Fairy",
+        "Power": "95",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "May lower opponent's Special Attack.",
+        "Prob. (%)": "30"
+    },
+    {
+        "Name": "Moongeist Beam",
+        "Type": "Ghost",
+        "Power": "100",
+        "Acc.": "100",
+        "PP": "5",
+        "Effect": "Ignores the target's ability.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Moonlight",
+        "Type": "Fairy",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "5",
+        "Effect": "User recovers HP. Amount varies with the weather.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Morning Sun",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "5",
+        "Effect": "User recovers HP. Amount varies with the weather.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Mountain Gale",
+        "Type": "Ice",
+        "Power": "100",
+        "Acc.": "85",
+        "PP": "5",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Mud Bomb",
+        "Type": "Ground",
+        "Power": "65",
+        "Acc.": "85",
+        "PP": "10",
+        "Effect": "May lower opponent's Accuracy.",
+        "Prob. (%)": "30"
+    },
+    {
+        "Name": "Mud Shot",
+        "Type": "Ground",
+        "Power": "55",
+        "Acc.": "95",
+        "PP": "15",
+        "Effect": "Lowers opponent's Speed.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "Mud Sport",
+        "Type": "Ground",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "15",
+        "Effect": "Weakens the power of Electric-type moves.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Mud-Slap",
+        "Type": "Ground",
+        "Power": "20",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "Lowers opponent's Accuracy.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "Muddy Water",
+        "Type": "Water",
+        "Power": "90",
+        "Acc.": "85",
+        "PP": "10",
+        "Effect": "May lower opponent's Accuracy.",
+        "Prob. (%)": "30"
+    },
+    {
+        "Name": "Multi-Attack",
+        "Type": "Normal",
+        "Power": "120",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "Type matches Memory item held.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Mystical Fire",
+        "Type": "Fire",
+        "Power": "75",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "Lowers opponent's Special Attack.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "Mystical Power",
+        "Power": "70",
+        "Acc.": "90",
+        "PP": "10",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Nasty Plot",
+        "Type": "Dark",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "20",
+        "Effect": "Sharply raises user's Special Attack.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Natural Gift",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "Power and type depend on the user's held berry.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Nature Power",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "20",
+        "Effect": "Uses a certain move based on the current terrain.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Nature's Madness",
+        "Type": "Fairy",
+        "Power": "—",
+        "Acc.": "90",
+        "PP": "10",
+        "Effect": "Halves the foe's HP.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Needle Arm",
+        "Type": "Grass",
+        "Power": "60",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "May cause flinching.",
+        "Prob. (%)": "30"
+    },
+    {
+        "Name": "Never-Ending Nightmare",
+        "Type": "Ghost",
+        "Cat.": "—",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "1",
+        "Effect": "Ghost type Z-Move.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Night Daze",
+        "Type": "Dark",
+        "Power": "85",
+        "Acc.": "95",
+        "PP": "10",
+        "Effect": "May lower opponent's Accuracy.",
+        "Prob. (%)": "40"
+    },
+    {
+        "Name": "Night Shade",
+        "Type": "Ghost",
+        "Power": "—",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "Inflicts damage equal to user's level.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Night Slash",
+        "Type": "Dark",
+        "Power": "70",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "High critical hit ratio.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Nightmare",
+        "Type": "Ghost",
+        "Power": "—",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "The sleeping opponent loses 25% of its max HP each turn.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "No Retreat",
+        "Type": "Fighting",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "5",
+        "Effect": "Raises all stats but user cannot switch out.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "Noble Roar",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "100",
+        "PP": "30",
+        "Effect": "Lowers opponent's Attack and Special Attack.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "Nuzzle",
+        "Type": "Electric",
+        "Power": "20",
+        "Acc.": "100",
+        "PP": "20",
+        "Effect": "Paralyzes opponent.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "Oblivion Wing",
+        "Type": "Flying",
+        "Power": "80",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "User recovers most of the HP inflicted on opponent.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Obstruct",
+        "Type": "Dark",
+        "Power": "—",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "Protects the user and sharply lowers Defence on contact.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Oceanic Operetta",
+        "Type": "Water",
+        "Power": "195",
+        "Acc.": "—",
+        "PP": "1",
+        "Effect": "Primarina-exclusive Z-Move.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Octazooka",
+        "Type": "Water",
+        "Power": "65",
+        "Acc.": "85",
+        "PP": "10",
+        "Effect": "May lower opponent's Accuracy.",
+        "Prob. (%)": "50"
+    },
+    {
+        "Name": "Octolock",
+        "Type": "Fighting",
+        "Power": "—",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "Lowers opponent's Defense and Special Defense every turn, and they cannot flee or switch out.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Odor Sleuth",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "40",
+        "Effect": "Resets opponent's Evasiveness, Normal-type and Fighting-type attacks can now hit Ghosts, and Ghost-type attacks hit Normal.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Ominous Wind",
+        "Type": "Ghost",
+        "Power": "60",
+        "Acc.": "100",
+        "PP": "5",
+        "Effect": "May raise all user's stats at once.",
+        "Prob. (%)": "10"
+    },
+    {
+        "Name": "Origin Pulse",
+        "Type": "Water",
+        "Power": "110",
+        "Acc.": "85",
+        "PP": "10",
+        "Effect": "Hits all adjacent opponents.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Outrage",
+        "Type": "Dragon",
+        "Power": "120",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "User attacks for 2-3 turns but then becomes confused.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Overdrive",
+        "Type": "Electric",
+        "Power": "80",
+        "Acc.": "100",
+        "PP": "10",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Overheat",
+        "Type": "Fire",
+        "Power": "130",
+        "Acc.": "90",
+        "PP": "5",
+        "Effect": "Sharply lowers user's Special Attack.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "Pain Split",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "20",
+        "Effect": "The user's and opponent's HP becomes the average of both.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Parabolic Charge",
+        "Type": "Electric",
+        "Power": "65",
+        "Acc.": "100",
+        "PP": "20",
+        "Effect": "User recovers half the HP inflicted on opponent.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Parting Shot",
+        "Type": "Dark",
+        "Power": "—",
+        "Acc.": "100",
+        "PP": "20",
+        "Effect": "Lowers opponent's Attack and Special Attack then switches out.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "Pay Day",
+        "Type": "Normal",
+        "Power": "40",
+        "Acc.": "100",
+        "PP": "20",
+        "Effect": "A small amount of money is gained after the battle resolves.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Payback",
+        "Type": "Dark",
+        "Power": "50",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "Power doubles if the user was attacked first.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Peck",
+        "Type": "Flying",
+        "Power": "35",
+        "Acc.": "100",
+        "PP": "35",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Perish Song",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "5",
+        "Effect": "Any Pokémon in play when this attack is used faints in 3 turns.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Petal Blizzard",
+        "Type": "Grass",
+        "Power": "90",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "Hits all adjacent Pokémon.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Petal Dance",
+        "Type": "Grass",
+        "Power": "120",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "User attacks for 2-3 turns but then becomes confused.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Phantom Force",
+        "Type": "Ghost",
+        "Power": "90",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "Disappears on first turn, attacks on second. Can strike through Protect/Detect.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Photon Geyser",
+        "Type": "Psychic",
+        "Power": "100",
+        "Acc.": "100",
+        "PP": "5",
+        "Effect": "Uses Attack or Special Attack stat, whichever is higher.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Pika Papow",
+        "Type": "Electric",
+        "Power": "—",
+        "Acc.": "∞",
+        "PP": "20",
+        "Effect": "Power increases when player's bond is stronger.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Pin Missile",
+        "Type": "Bug",
+        "Power": "25",
+        "Acc.": "95",
+        "PP": "20",
+        "Effect": "Hits 2-5 times in one turn.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Plasma Fists",
+        "Type": "Electric",
+        "Power": "100",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "Changes Normal-type moves to Electric-type moves.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Play Nice",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "20",
+        "Effect": "Lowers opponent's Attack. Always hits.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "Play Rough",
+        "Type": "Fairy",
+        "Power": "90",
+        "Acc.": "90",
+        "PP": "10",
+        "Effect": "May lower opponent's Attack.",
+        "Prob. (%)": "10"
+    },
+    {
+        "Name": "Pluck",
+        "Type": "Flying",
+        "Power": "60",
+        "Acc.": "100",
+        "PP": "20",
+        "Effect": "If the opponent is holding a berry, its effect is stolen by user.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Poison Fang",
+        "Type": "Poison",
+        "Power": "50",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "May badly poison opponent.",
+        "Prob. (%)": "50"
+    },
+    {
+        "Name": "Poison Gas",
+        "Type": "Poison",
+        "Power": "—",
+        "Acc.": "90",
+        "PP": "40",
+        "Effect": "Poisons opponent.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Poison Jab",
+        "Type": "Poison",
+        "Power": "80",
+        "Acc.": "100",
+        "PP": "20",
+        "Effect": "May poison the opponent.",
+        "Prob. (%)": "30"
+    },
+    {
+        "Name": "Poison Powder",
+        "Type": "Poison",
+        "Power": "—",
+        "Acc.": "75",
+        "PP": "35",
+        "Effect": "Poisons opponent.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Poison Sting",
+        "Type": "Poison",
+        "Power": "15",
+        "Acc.": "100",
+        "PP": "35",
+        "Effect": "May poison the opponent.",
+        "Prob. (%)": "30"
+    },
+    {
+        "Name": "Poison Tail",
+        "Type": "Poison",
+        "Power": "50",
+        "Acc.": "100",
+        "PP": "25",
+        "Effect": "High critical hit ratio. May poison opponent.",
+        "Prob. (%)": "10"
+    },
+    {
+        "Name": "Pollen Puff",
+        "Type": "Bug",
+        "Power": "90",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "Deals damage to opponent or restores HP of teammate.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Poltergeist",
+        "Type": "Ghost",
+        "Power": "110",
+        "Acc.": "90",
+        "PP": "5",
+        "Effect": "Fails if the target doesn’t have an item.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Pound",
+        "Type": "Normal",
+        "Power": "40",
+        "Acc.": "100",
+        "PP": "35",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Powder",
+        "Type": "Bug",
+        "Power": "—",
+        "Acc.": "100",
+        "PP": "20",
+        "Effect": "Damages Pokémon using Fire type moves.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Powder Snow",
+        "Type": "Ice",
+        "Power": "40",
+        "Acc.": "100",
+        "PP": "25",
+        "Effect": "May freeze opponent.",
+        "Prob. (%)": "10"
+    },
+    {
+        "Name": "Power Gem",
+        "Type": "Rock",
+        "Power": "80",
+        "Acc.": "100",
+        "PP": "20",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Power Shift",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "∞",
+        "PP": "10",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Power Split",
+        "Type": "Psychic",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "10",
+        "Effect": "Averages Attack and Special Attack with the target.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Power Swap",
+        "Type": "Psychic",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "10",
+        "Effect": "User and opponent swap Attack and Special Attack.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Power Trick",
+        "Type": "Psychic",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "10",
+        "Effect": "User's own Attack and Defense switch.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Power Trip",
+        "Type": "Dark",
+        "Power": "20",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "The user boasts its strength and attacks the target. The more the user's stats are raised, the greater the move's power.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Power Whip",
+        "Type": "Grass",
+        "Power": "120",
+        "Acc.": "85",
+        "PP": "10",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Power-Up Punch",
+        "Type": "Fighting",
+        "Power": "40",
+        "Acc.": "100",
+        "PP": "20",
+        "Effect": "Raises Attack.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "Precipice Blades",
+        "Type": "Ground",
+        "Power": "120",
+        "Acc.": "85",
+        "PP": "10",
+        "Effect": "Hits all adjacent opponents.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Present",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "90",
+        "PP": "15",
+        "Effect": "Either deals damage or heals.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Prismatic Laser",
+        "Type": "Psychic",
+        "Power": "160",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "The user shoots powerful lasers using the power of a prism. The user can't move on the next turn.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Protect",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "10",
+        "Effect": "Protects the user, but may fail if used consecutively.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Psybeam",
+        "Type": "Psychic",
+        "Power": "65",
+        "Acc.": "100",
+        "PP": "20",
+        "Effect": "May confuse opponent.",
+        "Prob. (%)": "10"
+    },
+    {
+        "Name": "Psych Up",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "10",
+        "Effect": "Copies the opponent's stat changes.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Psychic",
+        "Type": "Psychic",
+        "Power": "90",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "May lower opponent's Special Defense.",
+        "Prob. (%)": "10"
+    },
+    {
+        "Name": "Psychic Fangs",
+        "Type": "Psychic",
+        "Power": "85",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "The user bites the target with its psychic capabilities. This can also destroy Light Screen and Reflect.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Psychic Terrain",
+        "Type": "Psychic",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "10",
+        "Effect": "Prevents priority moves from being used for 5 turns.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Psycho Boost",
+        "Type": "Psychic",
+        "Power": "140",
+        "Acc.": "90",
+        "PP": "5",
+        "Effect": "Sharply lowers user's Special Attack.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "Psycho Cut",
+        "Type": "Psychic",
+        "Power": "70",
+        "Acc.": "100",
+        "PP": "20",
+        "Effect": "High critical hit ratio.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Psycho Shift",
+        "Type": "Psychic",
+        "Power": "—",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "Transfers user's status condition to the opponent.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Psyshield Bash",
+        "Type": "Psychic",
+        "Power": "70",
+        "Acc.": "90",
+        "PP": "10",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Psyshock",
+        "Type": "Psychic",
+        "Power": "80",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "Inflicts damage based on the target's Defense, not Special Defense.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Psystrike",
+        "Type": "Psychic",
+        "Power": "100",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "Inflicts damage based on the target's Defense, not Special Defense.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Psywave",
+        "Type": "Psychic",
+        "Power": "—",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "Inflicts damage 50-150% of user's level.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Pulverizing Pancake",
+        "Type": "Normal",
+        "Power": "210",
+        "Acc.": "—",
+        "PP": "1",
+        "Effect": "Snorlax-exclusive Normal type Z-Move.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Punishment",
+        "Type": "Dark",
+        "Power": "—",
+        "Acc.": "100",
+        "PP": "5",
+        "Effect": "Power increases when opponent's stats have been raised.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Purify",
+        "Type": "Poison",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "20",
+        "Effect": "The user heals the target's status condition. If the move succeeds, it also restores the user's own HP.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Pursuit",
+        "Type": "Dark",
+        "Power": "40",
+        "Acc.": "100",
+        "PP": "20",
+        "Effect": "Double power if the opponent is switching out.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Pyro Ball",
+        "Type": "Fire",
+        "Power": "120",
+        "Acc.": "90",
+        "PP": "5",
+        "Effect": "May burn opponent.",
+        "Prob. (%)": "10"
+    },
+    {
+        "Name": "Quash",
+        "Type": "Dark",
+        "Power": "—",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "Makes the target act last this turn.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Quick Attack",
+        "Type": "Normal",
+        "Power": "40",
+        "Acc.": "100",
+        "PP": "30",
+        "Effect": "User attacks first.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Quick Guard",
+        "Type": "Fighting",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "15",
+        "Effect": "Protects the user's team from high-priority moves.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Quiver Dance",
+        "Type": "Bug",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "20",
+        "Effect": "Raises user's Special Attack, Special Defense and Speed.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Rage",
+        "Type": "Normal",
+        "Power": "20",
+        "Acc.": "100",
+        "PP": "20",
+        "Effect": "Raises user's Attack when hit.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Rage Powder",
+        "Type": "Bug",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "20",
+        "Effect": "Forces attacks to hit user, not team-mates.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Raging Fury",
+        "Type": "Fire",
+        "Power": "90",
+        "Acc.": "85",
+        "PP": "10",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Rain Dance",
+        "Type": "Water",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "5",
+        "Effect": "Makes it rain for 5 turns.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Rapid Spin",
+        "Type": "Normal",
+        "Power": "50",
+        "Acc.": "100",
+        "PP": "40",
+        "Effect": "Raises user's Speed and removes entry hazards and trap move effects.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "Razor Leaf",
+        "Type": "Grass",
+        "Power": "55",
+        "Acc.": "95",
+        "PP": "25",
+        "Effect": "High critical hit ratio.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Razor Shell",
+        "Type": "Water",
+        "Power": "75",
+        "Acc.": "95",
+        "PP": "10",
+        "Effect": "May lower opponent's Defense.",
+        "Prob. (%)": "50"
+    },
+    {
+        "Name": "Razor Wind",
+        "Type": "Normal",
+        "Power": "80",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "Charges on first turn, attacks on second. High critical hit ratio.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Recover",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "10",
+        "Effect": "User recovers half its max HP.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Recycle",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "10",
+        "Effect": "User's used hold item is restored.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Reflect",
+        "Type": "Psychic",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "20",
+        "Effect": "Halves damage from Physical attacks for 5 turns.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Reflect Type",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "15",
+        "Effect": "User becomes the target's type.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Refresh",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "20",
+        "Effect": "Cures paralysis, poison, and burns.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Relic Song",
+        "Type": "Normal",
+        "Power": "75",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "May put the target to sleep.",
+        "Prob. (%)": "10"
+    },
+    {
+        "Name": "Rest",
+        "Type": "Psychic",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "10",
+        "Effect": "User sleeps for 2 turns, but user is fully healed.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Retaliate",
+        "Type": "Normal",
+        "Power": "70",
+        "Acc.": "100",
+        "PP": "5",
+        "Effect": "Inflicts double damage if a teammate fainted on the last turn.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Return",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "100",
+        "PP": "20",
+        "Effect": "Power increases with higher Friendship.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Revelation Dance",
+        "Type": "Normal",
+        "Power": "90",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "Type changes based on Oricorio's form.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Revenge",
+        "Type": "Fighting",
+        "Power": "60",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "Power increases if user was hit first.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Reversal",
+        "Type": "Fighting",
+        "Power": "—",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "The lower the user's HP, the higher the power.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Rising Voltage",
+        "Type": "Electric",
+        "Power": "70",
+        "Acc.": "100",
+        "PP": "20",
+        "Effect": "Power doubles on Electric Terrain.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Roar",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "20",
+        "Effect": "In battles, the opponent switches. In the wild, the Pokémon runs.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Roar of Time",
+        "Type": "Dragon",
+        "Power": "150",
+        "Acc.": "90",
+        "PP": "5",
+        "Effect": "User must recharge next turn.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Rock Blast",
+        "Type": "Rock",
+        "Power": "25",
+        "Acc.": "90",
+        "PP": "10",
+        "Effect": "Hits 2-5 times in one turn.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Rock Climb",
+        "Type": "Normal",
+        "Power": "90",
+        "Acc.": "85",
+        "PP": "20",
+        "Effect": "May confuse opponent.",
+        "Prob. (%)": "20"
+    },
+    {
+        "Name": "Rock Polish",
+        "Type": "Rock",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "20",
+        "Effect": "Sharply raises user's Speed.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Rock Slide",
+        "Type": "Rock",
+        "Power": "75",
+        "Acc.": "90",
+        "PP": "10",
+        "Effect": "May cause flinching.",
+        "Prob. (%)": "30"
+    },
+    {
+        "Name": "Rock Smash",
+        "Type": "Fighting",
+        "Power": "40",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "May lower opponent's Defense.",
+        "Prob. (%)": "50"
+    },
+    {
+        "Name": "Rock Throw",
+        "Type": "Rock",
+        "Power": "50",
+        "Acc.": "90",
+        "PP": "15",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Rock Tomb",
+        "Type": "Rock",
+        "Power": "60",
+        "Acc.": "95",
+        "PP": "15",
+        "Effect": "Lowers opponent's Speed.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "Rock Wrecker",
+        "Type": "Rock",
+        "Power": "150",
+        "Acc.": "90",
+        "PP": "5",
+        "Effect": "User must recharge next turn.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Role Play",
+        "Type": "Psychic",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "10",
+        "Effect": "User copies the opponent's Ability.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Rolling Kick",
+        "Type": "Fighting",
+        "Power": "60",
+        "Acc.": "85",
+        "PP": "15",
+        "Effect": "May cause flinching.",
+        "Prob. (%)": "30"
+    },
+    {
+        "Name": "Rollout",
+        "Type": "Rock",
+        "Power": "30",
+        "Acc.": "90",
+        "PP": "20",
+        "Effect": "Doubles in power each turn for 5 turns.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Roost",
+        "Type": "Flying",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "10",
+        "Effect": "User recovers half of its max HP and loses the Flying type temporarily.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Rototiller",
+        "Type": "Ground",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "10",
+        "Effect": "Raises Attack and Special Attack of Grass-types.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "Round",
+        "Type": "Normal",
+        "Power": "60",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "Power increases if teammates use it in the same turn.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Sacred Fire",
+        "Type": "Fire",
+        "Power": "100",
+        "Acc.": "95",
+        "PP": "5",
+        "Effect": "May burn opponent.",
+        "Prob. (%)": "50"
+    },
+    {
+        "Name": "Sacred Sword",
+        "Type": "Fighting",
+        "Power": "90",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "Ignores opponent's stat changes.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Safeguard",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "25",
+        "Effect": "The user's party is protected from status conditions.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Sand Attack",
+        "Type": "Ground",
+        "Power": "—",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "Lowers opponent's Accuracy.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Sand Tomb",
+        "Type": "Ground",
+        "Power": "35",
+        "Acc.": "85",
+        "PP": "15",
+        "Effect": "Traps opponent, damaging them for 4-5 turns.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "Sandsear Storm",
+        "Type": "Ground",
+        "Power": "95",
+        "Acc.": "80",
+        "PP": "5",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Sandstorm",
+        "Type": "Rock",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "10",
+        "Effect": "Creates a sandstorm for 5 turns.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Sappy Seed",
+        "Type": "Grass",
+        "Power": "90",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "Drains HP from opponent each turn.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "Savage Spin-Out",
+        "Type": "Bug",
+        "Cat.": "—",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "1",
+        "Effect": "Bug type Z-Move.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Scald",
+        "Type": "Water",
+        "Power": "80",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "May burn opponent.",
+        "Prob. (%)": "30"
+    },
+    {
+        "Name": "Scale Shot",
+        "Type": "Dragon",
+        "Power": "25",
+        "Acc.": "90",
+        "PP": "20",
+        "Effect": "Hits 2-5 times in one turn. Boosts user's Speed but lowers its Defense.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Scary Face",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "Sharply lowers opponent's Speed.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Scorching Sands",
+        "Type": "Ground",
+        "Power": "70",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "May burn the target.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Scratch",
+        "Type": "Normal",
+        "Power": "40",
+        "Acc.": "100",
+        "PP": "35",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Screech",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "85",
+        "PP": "40",
+        "Effect": "Sharply lowers opponent's Defense.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Searing Shot",
+        "Type": "Fire",
+        "Power": "100",
+        "Acc.": "100",
+        "PP": "5",
+        "Effect": "May burn opponent.",
+        "Prob. (%)": "30"
+    },
+    {
+        "Name": "Searing Sunraze Smash",
+        "Type": "Steel",
+        "Power": "200",
+        "Acc.": "—",
+        "PP": "1",
+        "Effect": "Solgaleo-exclusive Z-Move.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Secret Power",
+        "Type": "Normal",
+        "Power": "70",
+        "Acc.": "100",
+        "PP": "20",
+        "Effect": "Effects of the attack vary with the location.",
+        "Prob. (%)": "30"
+    },
+    {
+        "Name": "Secret Sword",
+        "Type": "Fighting",
+        "Power": "85",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "Inflicts damage based on the target's Defense, not Special Defense.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Seed Bomb",
+        "Type": "Grass",
+        "Power": "80",
+        "Acc.": "100",
+        "PP": "15",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Seed Flare",
+        "Type": "Grass",
+        "Power": "120",
+        "Acc.": "85",
+        "PP": "5",
+        "Effect": "May lower opponent's Special Defense.",
+        "Prob. (%)": "40"
+    },
+    {
+        "Name": "Seismic Toss",
+        "Type": "Fighting",
+        "Power": "—",
+        "Acc.": "100",
+        "PP": "20",
+        "Effect": "Inflicts damage equal to user's level.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Self-Destruct",
+        "Type": "Normal",
+        "Power": "200",
+        "Acc.": "100",
+        "PP": "5",
+        "Effect": "User faints.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Shadow Ball",
+        "Type": "Ghost",
+        "Power": "80",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "May lower opponent's Special Defense.",
+        "Prob. (%)": "20"
+    },
+    {
+        "Name": "Shadow Bone",
+        "Type": "Ghost",
+        "Power": "85",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "May lower opponent's Defense.",
+        "Prob. (%)": "20"
+    },
+    {
+        "Name": "Shadow Claw",
+        "Type": "Ghost",
+        "Power": "70",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "High critical hit ratio.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Shadow Force",
+        "Type": "Ghost",
+        "Power": "120",
+        "Acc.": "100",
+        "PP": "5",
+        "Effect": "Disappears on first turn, attacks on second. Can strike through Protect/Detect.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Shadow Punch",
+        "Type": "Ghost",
+        "Power": "60",
+        "Acc.": "∞",
+        "PP": "20",
+        "Effect": "Ignores Accuracy and Evasiveness.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Shadow Sneak",
+        "Type": "Ghost",
+        "Power": "40",
+        "Acc.": "100",
+        "PP": "30",
+        "Effect": "User attacks first.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Sharpen",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "30",
+        "Effect": "Raises user's Attack.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Shattered Psyche",
+        "Type": "Psychic",
+        "Cat.": "—",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "1",
+        "Effect": "Psychic type Z-Move.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Sheer Cold",
+        "Type": "Ice",
+        "Power": "—",
+        "Acc.": "30",
+        "PP": "5",
+        "Effect": "One-Hit-KO, if it hits.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Shell Side Arm",
+        "Type": "Poison",
+        "Power": "90",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "May poison opponent. Inflicts either Special or Physical damage, whichever is better.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Shell Smash",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "15",
+        "Effect": "Sharply raises user's Attack, Special Attack and Speed but lowers Defense and Special Defense.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Shell Trap",
+        "Type": "Fire",
+        "Power": "150",
+        "Acc.": "100",
+        "PP": "5",
+        "Effect": "Deals more damage to opponent if hit by a Physical move.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Shelter",
+        "Type": "Steel",
+        "Power": "—",
+        "Acc.": "∞",
+        "PP": "10",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Shift Gear",
+        "Type": "Steel",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "10",
+        "Effect": "Raises user's Attack and sharply raises Speed.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Shock Wave",
+        "Type": "Electric",
+        "Power": "60",
+        "Acc.": "∞",
+        "PP": "20",
+        "Effect": "Ignores Accuracy and Evasiveness.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Shore Up",
+        "Type": "Ground",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "10",
+        "Effect": "The user regains up to half of its max HP. It restores more HP in a sandstorm.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Signal Beam",
+        "Type": "Bug",
+        "Power": "75",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "May confuse opponent.",
+        "Prob. (%)": "10"
+    },
+    {
+        "Name": "Silver Wind",
+        "Type": "Bug",
+        "Power": "60",
+        "Acc.": "100",
+        "PP": "5",
+        "Effect": "May raise all stats of user at once.",
+        "Prob. (%)": "10"
+    },
+    {
+        "Name": "Simple Beam",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "Changes target's ability to Simple.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Sing",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "55",
+        "PP": "15",
+        "Effect": "Puts opponent to sleep.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Sinister Arrow Raid",
+        "Type": "Ghost",
+        "Power": "180",
+        "Acc.": "—",
+        "PP": "1",
+        "Effect": "Decidueye-exclusive Z-Move.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Sizzly Slide",
+        "Type": "Fire",
+        "Power": "90",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "Burns the opponent.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "Sketch",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "1",
+        "Effect": "Permanently copies the opponent's last move.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Skill Swap",
+        "Type": "Psychic",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "10",
+        "Effect": "The user swaps Abilities with the opponent.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Skitter Smack",
+        "Type": "Bug",
+        "Power": "70",
+        "Acc.": "90",
+        "PP": "10",
+        "Effect": "Lowers opponent's Sp. Attack.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Skull Bash",
+        "Type": "Normal",
+        "Power": "130",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "Raises Defense on first turn, attacks on second.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "Sky Attack",
+        "Type": "Flying",
+        "Power": "140",
+        "Acc.": "90",
+        "PP": "5",
+        "Effect": "Charges on first turn, attacks on second. May cause flinching. High critical hit ratio.",
+        "Prob. (%)": "30"
+    },
+    {
+        "Name": "Sky Drop",
+        "Type": "Flying",
+        "Power": "60",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "Takes opponent into the air on first turn, drops them on second turn.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Sky Uppercut",
+        "Type": "Fighting",
+        "Power": "85",
+        "Acc.": "90",
+        "PP": "15",
+        "Effect": "Hits the opponent, even during Fly.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Slack Off",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "10",
+        "Effect": "User recovers half its max HP.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Slam",
+        "Type": "Normal",
+        "Power": "80",
+        "Acc.": "75",
+        "PP": "20",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Slash",
+        "Type": "Normal",
+        "Power": "70",
+        "Acc.": "100",
+        "PP": "20",
+        "Effect": "High critical hit ratio.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Sleep Powder",
+        "Type": "Grass",
+        "Power": "—",
+        "Acc.": "75",
+        "PP": "15",
+        "Effect": "Puts opponent to sleep.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Sleep Talk",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "10",
+        "Effect": "User performs one of its own moves while sleeping.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Sludge",
+        "Type": "Poison",
+        "Power": "65",
+        "Acc.": "100",
+        "PP": "20",
+        "Effect": "May poison opponent.",
+        "Prob. (%)": "30"
+    },
+    {
+        "Name": "Sludge Bomb",
+        "Type": "Poison",
+        "Power": "90",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "May poison opponent.",
+        "Prob. (%)": "30"
+    },
+    {
+        "Name": "Sludge Wave",
+        "Type": "Poison",
+        "Power": "95",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "May poison opponent.",
+        "Prob. (%)": "10"
+    },
+    {
+        "Name": "Smack Down",
+        "Type": "Rock",
+        "Power": "50",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "Makes Flying-type Pokémon vulnerable to Ground moves.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "Smart Strike",
+        "Type": "Steel",
+        "Power": "70",
+        "Acc.": "—",
+        "PP": "10",
+        "Effect": "The user stabs the target with a sharp horn. This attack never misses.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Smelling Salts",
+        "Type": "Normal",
+        "Power": "70",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "Power doubles if opponent is paralyzed, but cures it.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Smog",
+        "Type": "Poison",
+        "Power": "30",
+        "Acc.": "70",
+        "PP": "20",
+        "Effect": "May poison opponent.",
+        "Prob. (%)": "40"
+    },
+    {
+        "Name": "Smokescreen",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "100",
+        "PP": "20",
+        "Effect": "Lowers opponent's Accuracy.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Snap Trap",
+        "Type": "Grass",
+        "Power": "35",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "Traps opponent, damaging them for 4-5 turns.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "Snarl",
+        "Type": "Dark",
+        "Power": "55",
+        "Acc.": "95",
+        "PP": "15",
+        "Effect": "Lowers opponent's Special Attack.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "Snatch",
+        "Type": "Dark",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "10",
+        "Effect": "Steals the effects of the opponent's next move.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Snipe Shot",
+        "Type": "Water",
+        "Power": "80",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "Ignores moves and abilities that draw in moves. High critical hit ratio.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Snore",
+        "Type": "Normal",
+        "Power": "50",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "Can only be used if asleep. May cause flinching.",
+        "Prob. (%)": "30"
+    },
+    {
+        "Name": "Soak",
+        "Type": "Water",
+        "Power": "—",
+        "Acc.": "100",
+        "PP": "20",
+        "Effect": "Changes the target's type to water.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Soft-Boiled",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "10",
+        "Effect": "User recovers half its max HP.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Solar Beam",
+        "Type": "Grass",
+        "Power": "120",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "Charges on first turn, attacks on second.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Solar Blade",
+        "Type": "Grass",
+        "Power": "125",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "Charges on first turn, attacks on second.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Sonic Boom",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "90",
+        "PP": "20",
+        "Effect": "Always inflicts 20 HP.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Soul-Stealing 7-Star Strike",
+        "Type": "Ghost",
+        "Power": "195",
+        "Acc.": "—",
+        "PP": "1",
+        "Effect": "Marshadow-exclusive Z-Move.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Spacial Rend",
+        "Type": "Dragon",
+        "Power": "100",
+        "Acc.": "95",
+        "PP": "5",
+        "Effect": "High critical hit ratio.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Spark",
+        "Type": "Electric",
+        "Power": "65",
+        "Acc.": "100",
+        "PP": "20",
+        "Effect": "May paralyze opponent.",
+        "Prob. (%)": "30"
+    },
+    {
+        "Name": "Sparkling Aria",
+        "Type": "Water",
+        "Power": "90",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "Heals the burns of its target.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Sparkly Swirl",
+        "Type": "Fairy",
+        "Power": "90",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "Cures all status problems in the party Pokémon.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Spectral Thief",
+        "Type": "Ghost",
+        "Power": "90",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "The user hides in the target's shadow, steals the target's stat boosts, and then attacks.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Speed Swap",
+        "Type": "Psychic",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "10",
+        "Effect": "The user exchanges Speed stats with the target.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Spider Web",
+        "Type": "Bug",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "10",
+        "Effect": "Opponent cannot escape/switch.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Spike Cannon",
+        "Type": "Normal",
+        "Power": "20",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "Hits 2-5 times in one turn.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Spikes",
+        "Type": "Ground",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "20",
+        "Effect": "Hurts opponents when they switch into battle.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Spiky Shield",
+        "Type": "Grass",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "10",
+        "Effect": "Protects the user and inflicts damage on contact.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Spirit Break",
+        "Type": "Fairy",
+        "Power": "75",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "Lowers opponent's Special Attack.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "Spirit Shackle",
+        "Type": "Ghost",
+        "Power": "80",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "Prevents the opponent from switching out.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Spit Up",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "Power depends on how many times the user performed Stockpile.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Spite",
+        "Type": "Ghost",
+        "Power": "—",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "The opponent's last move loses 2-5 PP.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Splash",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "40",
+        "Effect": "Doesn't do ANYTHING.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Splintered Stormshards",
+        "Type": "Rock",
+        "Power": "190",
+        "Acc.": "—",
+        "PP": "1",
+        "Effect": "Lycanroc-exclusive Z-Move.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Splishy Splash",
+        "Type": "Water",
+        "Power": "90",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "May paralyze opponent.",
+        "Prob. (%)": "30"
+    },
+    {
+        "Name": "Spore",
+        "Type": "Grass",
+        "Power": "—",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "Puts opponent to sleep.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Spotlight",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "15",
+        "Effect": "The user shines a spotlight on the target so that only the target will be attacked during the turn.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Springtide Storm",
+        "Type": "Fairy",
+        "Power": "95",
+        "Acc.": "80",
+        "PP": "5",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Stealth Rock",
+        "Type": "Rock",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "20",
+        "Effect": "Damages opponent switching into battle.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Steam Eruption",
+        "Type": "Water",
+        "Power": "110",
+        "Acc.": "95",
+        "PP": "5",
+        "Effect": "May burn opponent.",
+        "Prob. (%)": "30"
+    },
+    {
+        "Name": "Steamroller",
+        "Type": "Bug",
+        "Power": "65",
+        "Acc.": "100",
+        "PP": "20",
+        "Effect": "May cause flinching.",
+        "Prob. (%)": "30"
+    },
+    {
+        "Name": "Steel Beam",
+        "Type": "Steel",
+        "Power": "140",
+        "Acc.": "95",
+        "PP": "5",
+        "Effect": "User loses 50% of its HP.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Steel Roller",
+        "Type": "Steel",
+        "Power": "130",
+        "Acc.": "100",
+        "PP": "5",
+        "Effect": "Fails if no Terrain in effect.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Steel Wing",
+        "Type": "Steel",
+        "Power": "70",
+        "Acc.": "90",
+        "PP": "25",
+        "Effect": "May raise user's Defense.",
+        "Prob. (%)": "10"
+    },
+    {
+        "Name": "Sticky Web",
+        "Type": "Bug",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "20",
+        "Effect": "Lowers opponent's Speed when switching into battle.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Stockpile",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "20",
+        "Effect": "Stores energy for use with Spit Up and Swallow.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Stoked Sparksurfer",
+        "Type": "Electric",
+        "Power": "175",
+        "Acc.": "—",
+        "PP": "1",
+        "Effect": "Alolan Raichu-exclusive Electric type Z-Move.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "Stomp",
+        "Type": "Normal",
+        "Power": "65",
+        "Acc.": "100",
+        "PP": "20",
+        "Effect": "May cause flinching.",
+        "Prob. (%)": "30"
+    },
+    {
+        "Name": "Stomping Tantrum",
+        "Type": "Ground",
+        "Power": "75",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "Driven by frustration, the user attacks the target. If the user's previous move has failed, the power of this move doubles.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Stone Axe",
+        "Type": "Rock",
+        "Power": "65",
+        "Acc.": "90",
+        "PP": "15",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Stone Edge",
+        "Type": "Rock",
+        "Power": "100",
+        "Acc.": "80",
+        "PP": "5",
+        "Effect": "High critical hit ratio.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Stored Power",
+        "Type": "Psychic",
+        "Power": "20",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "Power increases when user's stats have been raised.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Storm Throw",
+        "Type": "Fighting",
+        "Power": "60",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "Always results in a critical hit.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "Strange Steam",
+        "Type": "Fairy",
+        "Power": "90",
+        "Acc.": "95",
+        "PP": "10",
+        "Effect": "May confuse opponent.",
+        "Prob. (%)": "20"
+    },
+    {
+        "Name": "Strength",
+        "Type": "Normal",
+        "Power": "80",
+        "Acc.": "100",
+        "PP": "15",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Strength Sap",
+        "Type": "Grass",
+        "Power": "—",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "The user restores its HP by the same amount as the target's Attack stat. It also lowers the target's Attack stat.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "String Shot",
+        "Type": "Bug",
+        "Power": "—",
+        "Acc.": "95",
+        "PP": "40",
+        "Effect": "Sharply lowers opponent's Speed.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Struggle",
+        "Type": "Normal",
+        "Power": "50",
+        "Acc.": "—",
+        "PP": "—",
+        "Effect": "Only usable when all PP are gone. Hurts the user.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Struggle Bug",
+        "Type": "Bug",
+        "Power": "50",
+        "Acc.": "100",
+        "PP": "20",
+        "Effect": "Lowers opponent's Special Attack.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "Stuff Cheeks",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "10",
+        "Effect": "The user eats its held Berry, then sharply raises its Defense stat.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "Stun Spore",
+        "Type": "Grass",
+        "Power": "—",
+        "Acc.": "75",
+        "PP": "30",
+        "Effect": "Paralyzes opponent.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Submission",
+        "Type": "Fighting",
+        "Power": "80",
+        "Acc.": "80",
+        "PP": "20",
+        "Effect": "User receives recoil damage.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Substitute",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "10",
+        "Effect": "Uses HP to creates a decoy that takes hits.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Subzero Slammer",
+        "Type": "Ice",
+        "Cat.": "—",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "1",
+        "Effect": "Ice type Z-Move.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Sucker Punch",
+        "Type": "Dark",
+        "Power": "70",
+        "Acc.": "100",
+        "PP": "5",
+        "Effect": "User attacks first, but only works if opponent is readying an attack.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Sunny Day",
+        "Type": "Fire",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "5",
+        "Effect": "Makes it sunny for 5 turns.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Sunsteel Strike",
+        "Type": "Steel",
+        "Power": "100",
+        "Acc.": "100",
+        "PP": "5",
+        "Effect": "Ignores the target's ability.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Super Fang",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "90",
+        "PP": "10",
+        "Effect": "Always takes off half of the opponent's HP.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Superpower",
+        "Type": "Fighting",
+        "Power": "120",
+        "Acc.": "100",
+        "PP": "5",
+        "Effect": "Lowers user's Attack and Defense.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "Supersonic",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "55",
+        "PP": "20",
+        "Effect": "Confuses opponent.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Supersonic Skystrike",
+        "Type": "Flying",
+        "Cat.": "—",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "1",
+        "Effect": "Flying type Z-Move.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Surf",
+        "Type": "Water",
+        "Power": "90",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "Hits all adjacent Pokémon.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Surging Strikes",
+        "Type": "Water",
+        "Power": "25",
+        "Acc.": "100",
+        "PP": "5",
+        "Effect": "Always results in a critical hit and ignores stat changes.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Swagger",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "85",
+        "PP": "15",
+        "Effect": "Confuses opponent, but sharply raises its Attack.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Swallow",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "10",
+        "Effect": "The more times the user has performed Stockpile, the more HP is recovered.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Sweet Kiss",
+        "Type": "Fairy",
+        "Power": "—",
+        "Acc.": "75",
+        "PP": "10",
+        "Effect": "Confuses opponent.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Sweet Scent",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "100",
+        "PP": "20",
+        "Effect": "Lowers opponent's Evasiveness.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Swift",
+        "Type": "Normal",
+        "Power": "60",
+        "Acc.": "∞",
+        "PP": "20",
+        "Effect": "Ignores Accuracy and Evasiveness.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Switcheroo",
+        "Type": "Dark",
+        "Power": "—",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "Swaps held items with the opponent.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Swords Dance",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "20",
+        "Effect": "Sharply raises user's Attack.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Synchronoise",
+        "Type": "Psychic",
+        "Power": "120",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "Hits any Pokémon that shares a type with the user.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Synthesis",
+        "Type": "Grass",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "5",
+        "Effect": "User recovers HP. Amount varies with the weather.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Tackle",
+        "Type": "Normal",
+        "Power": "40",
+        "Acc.": "100",
+        "PP": "35",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Tail Glow",
+        "Type": "Bug",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "20",
+        "Effect": "Drastically raises user's Special Attack.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Tail Slap",
+        "Type": "Normal",
+        "Power": "25",
+        "Acc.": "85",
+        "PP": "10",
+        "Effect": "Hits 2-5 times in one turn.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Tail Whip",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "100",
+        "PP": "30",
+        "Effect": "Lowers opponent's Defense.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Tailwind",
+        "Type": "Flying",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "15",
+        "Effect": "Doubles Speed for 4 turns.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Take Down",
+        "Type": "Normal",
+        "Power": "90",
+        "Acc.": "85",
+        "PP": "20",
+        "Effect": "User receives recoil damage.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Take Heart",
+        "Power": "—",
+        "Acc.": "∞",
+        "PP": "10",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Tar Shot",
+        "Type": "Rock",
+        "Power": "—",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "Lowers the opponent's Speed and makes them weaker to Fire-type moves.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "Taunt",
+        "Type": "Dark",
+        "Power": "—",
+        "Acc.": "100",
+        "PP": "20",
+        "Effect": "Opponent can only use moves that attack.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Tearful Look",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "20",
+        "Effect": "The user gets teary eyed to make the target lose its combative spirit. This lowers the target's Attack and Sp. Atk stats.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "Teatime",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "10",
+        "Effect": "Forces all Pokémon on the field to eat their berries.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Techno Blast",
+        "Type": "Normal",
+        "Power": "120",
+        "Acc.": "100",
+        "PP": "5",
+        "Effect": "Type depends on the Drive being held.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Tectonic Rage",
+        "Type": "Ground",
+        "Cat.": "—",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "1",
+        "Effect": "Ground type Z-Move.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Teeter Dance",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "100",
+        "PP": "20",
+        "Effect": "Confuses all Pokémon.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Telekinesis",
+        "Type": "Psychic",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "15",
+        "Effect": "Ignores opponent's Evasiveness for three turns, add Ground immunity.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Teleport",
+        "Type": "Psychic",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "20",
+        "Effect": "Allows user to flee wild battles; also warps player to last PokéCenter.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Terrain Pulse",
+        "Type": "Normal",
+        "Power": "50",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "Type and power change depending on the Terrain in effect.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Thief",
+        "Type": "Dark",
+        "Power": "60",
+        "Acc.": "100",
+        "PP": "25",
+        "Effect": "Also steals opponent's held item.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Thousand Arrows",
+        "Type": "Ground",
+        "Power": "90",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "Makes Flying-type Pokémon vulnerable to Ground moves.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Thousand Waves",
+        "Type": "Ground",
+        "Power": "90",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "Opponent cannot flee or switch.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Thrash",
+        "Type": "Normal",
+        "Power": "120",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "User attacks for 2-3 turns but then becomes confused.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Throat Chop",
+        "Type": "Dark",
+        "Power": "80",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "Prevents use of sound moves for two turns.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "Thunder",
+        "Type": "Electric",
+        "Power": "110",
+        "Acc.": "70",
+        "PP": "10",
+        "Effect": "May paralyze opponent.",
+        "Prob. (%)": "30"
+    },
+    {
+        "Name": "Thunder Cage",
+        "Type": "Electric",
+        "Power": "80",
+        "Acc.": "90",
+        "PP": "15",
+        "Effect": "Deals damage and traps opponent, damaging them for 4-5 turns.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Thunder Fang",
+        "Type": "Electric",
+        "Power": "65",
+        "Acc.": "95",
+        "PP": "15",
+        "Effect": "May cause flinching and/or paralyze opponent.",
+        "Prob. (%)": "10"
+    },
+    {
+        "Name": "Thunder Punch",
+        "Type": "Electric",
+        "Power": "75",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "May paralyze opponent.",
+        "Prob. (%)": "10"
+    },
+    {
+        "Name": "Thunder Shock",
+        "Type": "Electric",
+        "Power": "40",
+        "Acc.": "100",
+        "PP": "30",
+        "Effect": "May paralyze opponent.",
+        "Prob. (%)": "10"
+    },
+    {
+        "Name": "Thunder Wave",
+        "Type": "Electric",
+        "Power": "—",
+        "Acc.": "90",
+        "PP": "20",
+        "Effect": "Paralyzes opponent.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Thunderbolt",
+        "Type": "Electric",
+        "Power": "90",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "May paralyze opponent.",
+        "Prob. (%)": "10"
+    },
+    {
+        "Name": "Thunderous Kick",
+        "Type": "Fighting",
+        "Power": "90",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "Lowers opponent's Defense.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "Tickle",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "100",
+        "PP": "20",
+        "Effect": "Lowers opponent's Attack and Defense.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Topsy-Turvy",
+        "Type": "Dark",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "20",
+        "Effect": "Reverses stat changes of opponent.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Torment",
+        "Type": "Dark",
+        "Power": "—",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "Opponent cannot use the same move in a row.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Toxic",
+        "Type": "Poison",
+        "Power": "—",
+        "Acc.": "90",
+        "PP": "10",
+        "Effect": "Badly poisons opponent.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Toxic Spikes",
+        "Type": "Poison",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "20",
+        "Effect": "Poisons opponents when they switch into battle.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Toxic Thread",
+        "Type": "Poison",
+        "Power": "—",
+        "Acc.": "100",
+        "PP": "20",
+        "Effect": "Lowers target's Speed.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "Transform",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "10",
+        "Effect": "User takes on the form and attacks of the opponent.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Tri Attack",
+        "Type": "Normal",
+        "Power": "80",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "May paralyze, burn or freeze opponent.",
+        "Prob. (%)": "20"
+    },
+    {
+        "Name": "Trick",
+        "Type": "Psychic",
+        "Power": "—",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "Swaps held items with the opponent.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Trick Room",
+        "Type": "Psychic",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "5",
+        "Effect": "Slower Pokémon move first in the turn for 5 turns.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Trick-or-Treat",
+        "Type": "Ghost",
+        "Power": "—",
+        "Acc.": "100",
+        "PP": "20",
+        "Effect": "Adds Ghost type to opponent.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Triple Arrows",
+        "Type": "Fighting",
+        "Power": "50",
+        "Acc.": "100",
+        "PP": "15",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Triple Axel",
+        "Type": "Ice",
+        "Power": "20",
+        "Acc.": "90",
+        "PP": "10",
+        "Effect": "Attacks thrice with more power each time.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Triple Kick",
+        "Type": "Fighting",
+        "Power": "10",
+        "Acc.": "90",
+        "PP": "10",
+        "Effect": "Hits thrice in one turn at increasing power.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Trop Kick",
+        "Type": "Grass",
+        "Power": "70",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "Lowers opponent's Attack.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "Trump Card",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "∞",
+        "PP": "5",
+        "Effect": "The lower the PP, the higher the power.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Twineedle",
+        "Type": "Bug",
+        "Power": "25",
+        "Acc.": "100",
+        "PP": "20",
+        "Effect": "Hits twice in one turn. May poison opponent.",
+        "Prob. (%)": "20"
+    },
+    {
+        "Name": "Twinkle Tackle",
+        "Type": "Fairy",
+        "Cat.": "—",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "1",
+        "Effect": "Fairy type Z-Move.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Twister",
+        "Type": "Dragon",
+        "Power": "40",
+        "Acc.": "100",
+        "PP": "20",
+        "Effect": "May cause flinching. Hits Pokémon using Fly/Bounce with double power.",
+        "Prob. (%)": "20"
+    },
+    {
+        "Name": "U-turn",
+        "Type": "Bug",
+        "Power": "70",
+        "Acc.": "100",
+        "PP": "20",
+        "Effect": "User switches out immediately after attacking.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Uproar",
+        "Type": "Normal",
+        "Power": "90",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "User attacks for 3 turns and prevents sleep.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "V-create",
+        "Type": "Fire",
+        "Power": "180",
+        "Acc.": "95",
+        "PP": "5",
+        "Effect": "Lowers user's Defense, Special Defense and Speed.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "Vacuum Wave",
+        "Type": "Fighting",
+        "Power": "40",
+        "Acc.": "100",
+        "PP": "30",
+        "Effect": "User attacks first.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Veevee Volley",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "∞",
+        "PP": "20",
+        "Effect": "Power increases when player's bond is stronger.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Venom Drench",
+        "Type": "Poison",
+        "Power": "—",
+        "Acc.": "100",
+        "PP": "20",
+        "Effect": "Lowers poisoned opponent's Special Attack and Speed.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "Venoshock",
+        "Type": "Poison",
+        "Power": "65",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "Inflicts double damage if the target is poisoned.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Victory Dance",
+        "Power": "—",
+        "Acc.": "∞",
+        "PP": "10",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Vine Whip",
+        "Type": "Grass",
+        "Power": "45",
+        "Acc.": "100",
+        "PP": "25",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Vise Grip",
+        "Type": "Normal",
+        "Power": "55",
+        "Acc.": "100",
+        "PP": "30",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Vital Throw",
+        "Type": "Fighting",
+        "Power": "70",
+        "Acc.": "∞",
+        "PP": "10",
+        "Effect": "User attacks last, but ignores Accuracy and Evasiveness.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Volt Switch",
+        "Type": "Electric",
+        "Power": "70",
+        "Acc.": "100",
+        "PP": "20",
+        "Effect": "User must switch out after attacking.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Volt Tackle",
+        "Type": "Electric",
+        "Power": "120",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "User receives recoil damage. May paralyze opponent.",
+        "Prob. (%)": "10"
+    },
+    {
+        "Name": "Wake-Up Slap",
+        "Type": "Fighting",
+        "Power": "70",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "Power doubles if opponent is asleep, but wakes it up.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Water Gun",
+        "Type": "Water",
+        "Power": "40",
+        "Acc.": "100",
+        "PP": "25",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Water Pledge",
+        "Type": "Water",
+        "Power": "80",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "Added effects appear if preceded by Fire Pledge or succeeded by Grass Pledge.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Water Pulse",
+        "Type": "Water",
+        "Power": "60",
+        "Acc.": "100",
+        "PP": "20",
+        "Effect": "May confuse opponent.",
+        "Prob. (%)": "20"
+    },
+    {
+        "Name": "Water Shuriken",
+        "Type": "Water",
+        "Power": "15",
+        "Acc.": "100",
+        "PP": "20",
+        "Effect": "Hits 2-5 times in one turn.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Water Sport",
+        "Type": "Water",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "15",
+        "Effect": "Weakens the power of Fire-type moves.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Water Spout",
+        "Type": "Water",
+        "Power": "150",
+        "Acc.": "100",
+        "PP": "5",
+        "Effect": "The higher the user's HP, the higher the damage caused.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Waterfall",
+        "Type": "Water",
+        "Power": "80",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "May cause flinching.",
+        "Prob. (%)": "20"
+    },
+    {
+        "Name": "Wave Crash",
+        "Type": "Water",
+        "Power": "75",
+        "Acc.": "100",
+        "PP": "10",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Weather Ball",
+        "Type": "Normal",
+        "Power": "50",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "Move's power and type changes with the weather.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Whirlpool",
+        "Type": "Water",
+        "Power": "35",
+        "Acc.": "85",
+        "PP": "15",
+        "Effect": "Traps opponent, damaging them for 4-5 turns.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "Whirlwind",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "20",
+        "Effect": "In battles, the opponent switches. In the wild, the Pokémon runs.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Wicked Blow",
+        "Type": "Dark",
+        "Power": "80",
+        "Acc.": "100",
+        "PP": "5",
+        "Effect": "Always results in a critical hit and ignores stat changes.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Wide Guard",
+        "Type": "Rock",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "10",
+        "Effect": "Protects the user's team from multi-target attacks.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Wild Charge",
+        "Type": "Electric",
+        "Power": "90",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "User receives recoil damage.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Wildbolt Storm",
+        "Type": "Electric",
+        "Power": "95",
+        "Acc.": "80",
+        "PP": "5",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Will-O-Wisp",
+        "Type": "Fire",
+        "Power": "—",
+        "Acc.": "85",
+        "PP": "15",
+        "Effect": "Burns opponent.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Wing Attack",
+        "Type": "Flying",
+        "Power": "60",
+        "Acc.": "100",
+        "PP": "35",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Wish",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "10",
+        "Effect": "The user recovers HP in the following turn.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Withdraw",
+        "Type": "Water",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "40",
+        "Effect": "Raises user's Defense.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Wonder Room",
+        "Type": "Psychic",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "10",
+        "Effect": "Swaps every Pokémon's Defense and Special Defense for 5 turns.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Wood Hammer",
+        "Type": "Grass",
+        "Power": "120",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "User receives recoil damage.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Work Up",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "30",
+        "Effect": "Raises user's Attack and Special Attack.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Worry Seed",
+        "Type": "Grass",
+        "Power": "—",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "Changes the opponent's Ability to Insomnia.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Wrap",
+        "Type": "Normal",
+        "Power": "15",
+        "Acc.": "90",
+        "PP": "20",
+        "Effect": "Traps opponent, damaging them for 4-5 turns.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "Wring Out",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "100",
+        "PP": "5",
+        "Effect": "The higher the opponent's HP, the higher the damage.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "X-Scissor",
+        "Type": "Bug",
+        "Power": "80",
+        "Acc.": "100",
+        "PP": "15",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Yawn",
+        "Type": "Normal",
+        "Power": "—",
+        "Acc.": "—",
+        "PP": "10",
+        "Effect": "Puts opponent to sleep in the next turn.",
+        "Prob. (%)": "—"
+    },
+    {
+        "Name": "Zap Cannon",
+        "Type": "Electric",
+        "Power": "120",
+        "Acc.": "50",
+        "PP": "5",
+        "Effect": "Paralyzes opponent.",
+        "Prob. (%)": "100"
+    },
+    {
+        "Name": "Zen Headbutt",
+        "Type": "Psychic",
+        "Power": "80",
+        "Acc.": "90",
+        "PP": "15",
+        "Effect": "May cause flinching.",
+        "Prob. (%)": "20"
+    },
+    {
+        "Name": "Zing Zap",
+        "Type": "Electric",
+        "Power": "80",
+        "Acc.": "100",
+        "PP": "10",
+        "Effect": "May cause flinching.",
+        "Prob. (%)": "30"
+    },
+    {
+        "Name": "Zippy Zap",
+        "Type": "Electric",
+        "Power": "50",
+        "Acc.": "100",
+        "PP": "15",
+        "Effect": "Always results in a critical hit.",
+        "Prob. (%)": "100"
+    }
+]
