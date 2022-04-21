@@ -1,0 +1,3867 @@
+[
+    {
+        "Pokemon": "Zacian-Crowned",
+        "Ability": "Intrepid Sword",
+        "Use_Percentage (%)": "100.000%"
+    },
+    {
+        "Pokemon": "Incineroar",
+        "Ability": "Intimidate",
+        "Use_Percentage (%)": "99.927%"
+    },
+    {
+        "Pokemon": "Incineroar",
+        "Ability": "Blaze",
+        "Use_Percentage (%)": "0.073%"
+    },
+    {
+        "Pokemon": "Kyogre",
+        "Ability": "Drizzle",
+        "Use_Percentage (%)": "100.000%"
+    },
+    {
+        "Pokemon": "Grimmsnarl",
+        "Ability": "Prankster",
+        "Use_Percentage (%)": "99.959%"
+    },
+    {
+        "Pokemon": "Grimmsnarl",
+        "Ability": "Frisk",
+        "Use_Percentage (%)": "0.037%"
+    },
+    {
+        "Pokemon": "Grimmsnarl",
+        "Ability": "Pickpocket",
+        "Use_Percentage (%)": "0.004%"
+    },
+    {
+        "Pokemon": "Regieleki",
+        "Ability": "Transistor",
+        "Use_Percentage (%)": "100.000%"
+    },
+    {
+        "Pokemon": "Rillaboom",
+        "Ability": "Grassy Surge",
+        "Use_Percentage (%)": "99.847%"
+    },
+    {
+        "Pokemon": "Rillaboom",
+        "Ability": "Overgrow",
+        "Use_Percentage (%)": "0.153%"
+    },
+    {
+        "Pokemon": "Groudon",
+        "Ability": "Drought",
+        "Use_Percentage (%)": "100.000%"
+    },
+    {
+        "Pokemon": "Thundurus",
+        "Ability": "Defiant",
+        "Use_Percentage (%)": "73.775%"
+    },
+    {
+        "Pokemon": "Thundurus",
+        "Ability": "Prankster",
+        "Use_Percentage (%)": "26.225%"
+    },
+    {
+        "Pokemon": "Landorus-Therian",
+        "Ability": "Intimidate",
+        "Use_Percentage (%)": "100.000%"
+    },
+    {
+        "Pokemon": "Gastrodon",
+        "Ability": "Storm Drain",
+        "Use_Percentage (%)": "99.593%"
+    },
+    {
+        "Pokemon": "Gastrodon",
+        "Ability": "Sticky Hold",
+        "Use_Percentage (%)": "0.403%"
+    },
+    {
+        "Pokemon": "Gastrodon",
+        "Ability": "Sand Force",
+        "Use_Percentage (%)": "0.004%"
+    },
+    {
+        "Pokemon": "Charizard",
+        "Ability": "Solar Power",
+        "Use_Percentage (%)": "99.348%"
+    },
+    {
+        "Pokemon": "Charizard",
+        "Ability": "Blaze",
+        "Use_Percentage (%)": "0.652%"
+    },
+    {
+        "Pokemon": "Amoonguss",
+        "Ability": "Regenerator",
+        "Use_Percentage (%)": "97.913%"
+    },
+    {
+        "Pokemon": "Amoonguss",
+        "Ability": "Effect Spore",
+        "Use_Percentage (%)": "2.087%"
+    },
+    {
+        "Pokemon": "Indeedee-F",
+        "Ability": "Psychic Surge",
+        "Use_Percentage (%)": "98.790%"
+    },
+    {
+        "Pokemon": "Indeedee-F",
+        "Ability": "Synchronize",
+        "Use_Percentage (%)": "0.888%"
+    },
+    {
+        "Pokemon": "Indeedee-F",
+        "Ability": "Own Tempo",
+        "Use_Percentage (%)": "0.322%"
+    },
+    {
+        "Pokemon": "Whimsicott",
+        "Ability": "Prankster",
+        "Use_Percentage (%)": "99.894%"
+    },
+    {
+        "Pokemon": "Whimsicott",
+        "Ability": "Chlorophyll",
+        "Use_Percentage (%)": "0.103%"
+    },
+    {
+        "Pokemon": "Whimsicott",
+        "Ability": "Infiltrator",
+        "Use_Percentage (%)": "0.003%"
+    },
+    {
+        "Pokemon": "Yveltal",
+        "Ability": "Dark Aura",
+        "Use_Percentage (%)": "100.000%"
+    },
+    {
+        "Pokemon": "Palkia",
+        "Ability": "Pressure",
+        "Use_Percentage (%)": "85.103%"
+    },
+    {
+        "Pokemon": "Palkia",
+        "Ability": "Telepathy",
+        "Use_Percentage (%)": "14.897%"
+    },
+    {
+        "Pokemon": "Porygon2",
+        "Ability": "Download",
+        "Use_Percentage (%)": "50.905%"
+    },
+    {
+        "Pokemon": "Porygon2",
+        "Ability": "Trace",
+        "Use_Percentage (%)": "28.727%"
+    },
+    {
+        "Pokemon": "Porygon2",
+        "Ability": "Analytic",
+        "Use_Percentage (%)": "20.368%"
+    },
+    {
+        "Pokemon": "Tornadus",
+        "Ability": "Prankster",
+        "Use_Percentage (%)": "99.884%"
+    },
+    {
+        "Pokemon": "Tornadus",
+        "Ability": "Defiant",
+        "Use_Percentage (%)": "0.116%"
+    },
+    {
+        "Pokemon": "Zapdos",
+        "Ability": "Static",
+        "Use_Percentage (%)": "93.843%"
+    },
+    {
+        "Pokemon": "Zapdos",
+        "Ability": "Pressure",
+        "Use_Percentage (%)": "6.157%"
+    },
+    {
+        "Pokemon": "Kartana",
+        "Ability": "Beast Boost",
+        "Use_Percentage (%)": "100.000%"
+    },
+    {
+        "Pokemon": "Blastoise",
+        "Ability": "Torrent",
+        "Use_Percentage (%)": "86.365%"
+    },
+    {
+        "Pokemon": "Blastoise",
+        "Ability": "Rain Dish",
+        "Use_Percentage (%)": "13.635%"
+    },
+    {
+        "Pokemon": "Venusaur",
+        "Ability": "Chlorophyll",
+        "Use_Percentage (%)": "97.599%"
+    },
+    {
+        "Pokemon": "Venusaur",
+        "Ability": "Overgrow",
+        "Use_Percentage (%)": "2.401%"
+    },
+    {
+        "Pokemon": "Ferrothorn",
+        "Ability": "Iron Barbs",
+        "Use_Percentage (%)": "99.799%"
+    },
+    {
+        "Pokemon": "Ferrothorn",
+        "Ability": "Anticipation",
+        "Use_Percentage (%)": "0.201%"
+    },
+    {
+        "Pokemon": "Ditto",
+        "Ability": "Imposter",
+        "Use_Percentage (%)": "99.969%"
+    },
+    {
+        "Pokemon": "Ditto",
+        "Ability": "Limber",
+        "Use_Percentage (%)": "0.031%"
+    },
+    {
+        "Pokemon": "Urshifu",
+        "Ability": "Unseen Fist",
+        "Use_Percentage (%)": "100.000%"
+    },
+    {
+        "Pokemon": "Xerneas",
+        "Ability": "Fairy Aura",
+        "Use_Percentage (%)": "100.000%"
+    },
+    {
+        "Pokemon": "Dialga",
+        "Ability": "Pressure",
+        "Use_Percentage (%)": "58.210%"
+    },
+    {
+        "Pokemon": "Dialga",
+        "Ability": "Telepathy",
+        "Use_Percentage (%)": "41.790%"
+    },
+    {
+        "Pokemon": "Shedinja",
+        "Ability": "Wonder Guard",
+        "Use_Percentage (%)": "100.000%"
+    },
+    {
+        "Pokemon": "Solgaleo",
+        "Ability": "Full Metal Body",
+        "Use_Percentage (%)": "100.000%"
+    },
+    {
+        "Pokemon": "Dusclops",
+        "Ability": "Frisk",
+        "Use_Percentage (%)": "98.723%"
+    },
+    {
+        "Pokemon": "Dusclops",
+        "Ability": "Pressure",
+        "Use_Percentage (%)": "1.277%"
+    },
+    {
+        "Pokemon": "Torkoal",
+        "Ability": "Drought",
+        "Use_Percentage (%)": "99.988%"
+    },
+    {
+        "Pokemon": "Torkoal",
+        "Ability": "White Smoke",
+        "Use_Percentage (%)": "0.012%"
+    },
+    {
+        "Pokemon": "Torkoal",
+        "Ability": "Shell Armor",
+        "Use_Percentage (%)": "0.000%"
+    },
+    {
+        "Pokemon": "Kingdra",
+        "Ability": "Swift Swim",
+        "Use_Percentage (%)": "99.999%"
+    },
+    {
+        "Pokemon": "Kingdra",
+        "Ability": "Sniper",
+        "Use_Percentage (%)": "0.001%"
+    },
+    {
+        "Pokemon": "Kingdra",
+        "Ability": "Damp",
+        "Use_Percentage (%)": "0.000%"
+    },
+    {
+        "Pokemon": "Raichu",
+        "Ability": "Lightning Rod",
+        "Use_Percentage (%)": "99.067%"
+    },
+    {
+        "Pokemon": "Raichu",
+        "Ability": "Static",
+        "Use_Percentage (%)": "0.933%"
+    },
+    {
+        "Pokemon": "Weezing",
+        "Ability": "Neutralizing Gas",
+        "Use_Percentage (%)": "99.696%"
+    },
+    {
+        "Pokemon": "Weezing",
+        "Ability": "Levitate",
+        "Use_Percentage (%)": "0.304%"
+    },
+    {
+        "Pokemon": "Weezing",
+        "Ability": "Stench",
+        "Use_Percentage (%)": "0.000%"
+    },
+    {
+        "Pokemon": "Entei",
+        "Ability": "Inner Focus",
+        "Use_Percentage (%)": "99.878%"
+    },
+    {
+        "Pokemon": "Entei",
+        "Ability": "Pressure",
+        "Use_Percentage (%)": "0.122%"
+    },
+    {
+        "Pokemon": "Lunala",
+        "Ability": "Shadow Shield",
+        "Use_Percentage (%)": "100.000%"
+    },
+    {
+        "Pokemon": "Kyurem-White",
+        "Ability": "Turboblaze",
+        "Use_Percentage (%)": "100.000%"
+    },
+    {
+        "Pokemon": "Tapu Fini",
+        "Ability": "Misty Surge",
+        "Use_Percentage (%)": "99.929%"
+    },
+    {
+        "Pokemon": "Tapu Fini",
+        "Ability": "Telepathy",
+        "Use_Percentage (%)": "0.071%"
+    },
+    {
+        "Pokemon": "Sableye",
+        "Ability": "Prankster",
+        "Use_Percentage (%)": "99.777%"
+    },
+    {
+        "Pokemon": "Sableye",
+        "Ability": "Keen Eye",
+        "Use_Percentage (%)": "0.223%"
+    },
+    {
+        "Pokemon": "Sableye",
+        "Ability": "Stall",
+        "Use_Percentage (%)": "0.000%"
+    },
+    {
+        "Pokemon": "Urshifu-Rapid-Strike",
+        "Ability": "Unseen Fist",
+        "Use_Percentage (%)": "100.000%"
+    },
+    {
+        "Pokemon": "Tapu Lele",
+        "Ability": "Psychic Surge",
+        "Use_Percentage (%)": "100.000%"
+    },
+    {
+        "Pokemon": "Tapu Lele",
+        "Ability": "Telepathy",
+        "Use_Percentage (%)": "0.000%"
+    },
+    {
+        "Pokemon": "Mimikyu",
+        "Ability": "Disguise",
+        "Use_Percentage (%)": "100.000%"
+    },
+    {
+        "Pokemon": "Gothitelle",
+        "Ability": "Shadow Tag",
+        "Use_Percentage (%)": "99.614%"
+    },
+    {
+        "Pokemon": "Gothitelle",
+        "Ability": "Competitive",
+        "Use_Percentage (%)": "0.385%"
+    },
+    {
+        "Pokemon": "Gothitelle",
+        "Ability": "Frisk",
+        "Use_Percentage (%)": "0.000%"
+    },
+    {
+        "Pokemon": "Seismitoad",
+        "Ability": "Swift Swim",
+        "Use_Percentage (%)": "99.187%"
+    },
+    {
+        "Pokemon": "Seismitoad",
+        "Ability": "Water Absorb",
+        "Use_Percentage (%)": "0.813%"
+    },
+    {
+        "Pokemon": "Seismitoad",
+        "Ability": "Poison Touch",
+        "Use_Percentage (%)": "0.000%"
+    },
+    {
+        "Pokemon": "Ho-Oh",
+        "Ability": "Regenerator",
+        "Use_Percentage (%)": "97.028%"
+    },
+    {
+        "Pokemon": "Ho-Oh",
+        "Ability": "Pressure",
+        "Use_Percentage (%)": "2.972%"
+    },
+    {
+        "Pokemon": "Rotom-Heat",
+        "Ability": "Levitate",
+        "Use_Percentage (%)": "100.000%"
+    },
+    {
+        "Pokemon": "Eternatus",
+        "Ability": "Pressure",
+        "Use_Percentage (%)": "100.000%"
+    },
+    {
+        "Pokemon": "Regigigas",
+        "Ability": "Slow Start",
+        "Use_Percentage (%)": "100.000%"
+    },
+    {
+        "Pokemon": "Cinderace",
+        "Ability": "Libero",
+        "Use_Percentage (%)": "99.701%"
+    },
+    {
+        "Pokemon": "Cinderace",
+        "Ability": "Blaze",
+        "Use_Percentage (%)": "0.299%"
+    },
+    {
+        "Pokemon": "Bronzong",
+        "Ability": "Levitate",
+        "Use_Percentage (%)": "99.369%"
+    },
+    {
+        "Pokemon": "Bronzong",
+        "Ability": "Heatproof",
+        "Use_Percentage (%)": "0.625%"
+    },
+    {
+        "Pokemon": "Bronzong",
+        "Ability": "Heavy Metal",
+        "Use_Percentage (%)": "0.006%"
+    },
+    {
+        "Pokemon": "Togekiss",
+        "Ability": "Super Luck",
+        "Use_Percentage (%)": "76.429%"
+    },
+    {
+        "Pokemon": "Togekiss",
+        "Ability": "Serene Grace",
+        "Use_Percentage (%)": "21.832%"
+    },
+    {
+        "Pokemon": "Togekiss",
+        "Ability": "Hustle",
+        "Use_Percentage (%)": "1.740%"
+    },
+    {
+        "Pokemon": "Coalossal",
+        "Ability": "Steam Engine",
+        "Use_Percentage (%)": "99.731%"
+    },
+    {
+        "Pokemon": "Coalossal",
+        "Ability": "Flame Body",
+        "Use_Percentage (%)": "0.209%"
+    },
+    {
+        "Pokemon": "Coalossal",
+        "Ability": "Flash Fire",
+        "Use_Percentage (%)": "0.060%"
+    },
+    {
+        "Pokemon": "Dragapult",
+        "Ability": "Clear Body",
+        "Use_Percentage (%)": "96.639%"
+    },
+    {
+        "Pokemon": "Dragapult",
+        "Ability": "Infiltrator",
+        "Use_Percentage (%)": "1.730%"
+    },
+    {
+        "Pokemon": "Dragapult",
+        "Ability": "Cursed Body",
+        "Use_Percentage (%)": "1.631%"
+    },
+    {
+        "Pokemon": "Umbreon",
+        "Ability": "Inner Focus",
+        "Use_Percentage (%)": "98.123%"
+    },
+    {
+        "Pokemon": "Umbreon",
+        "Ability": "Synchronize",
+        "Use_Percentage (%)": "1.877%"
+    },
+    {
+        "Pokemon": "Indeedee",
+        "Ability": "Psychic Surge",
+        "Use_Percentage (%)": "99.230%"
+    },
+    {
+        "Pokemon": "Indeedee",
+        "Ability": "Inner Focus",
+        "Use_Percentage (%)": "0.680%"
+    },
+    {
+        "Pokemon": "Indeedee",
+        "Ability": "Synchronize",
+        "Use_Percentage (%)": "0.090%"
+    },
+    {
+        "Pokemon": "Comfey",
+        "Ability": "Triage",
+        "Use_Percentage (%)": "99.754%"
+    },
+    {
+        "Pokemon": "Comfey",
+        "Ability": "Flower Veil",
+        "Use_Percentage (%)": "0.245%"
+    },
+    {
+        "Pokemon": "Comfey",
+        "Ability": "Natural Cure",
+        "Use_Percentage (%)": "0.001%"
+    },
+    {
+        "Pokemon": "Lapras",
+        "Ability": "Water Absorb",
+        "Use_Percentage (%)": "89.324%"
+    },
+    {
+        "Pokemon": "Lapras",
+        "Ability": "Shell Armor",
+        "Use_Percentage (%)": "8.678%"
+    },
+    {
+        "Pokemon": "Lapras",
+        "Ability": "Hydration",
+        "Use_Percentage (%)": "1.998%"
+    },
+    {
+        "Pokemon": "Rayquaza",
+        "Ability": "Air Lock",
+        "Use_Percentage (%)": "100.000%"
+    },
+    {
+        "Pokemon": "Spectrier",
+        "Ability": "Grim Neigh",
+        "Use_Percentage (%)": "100.000%"
+    },
+    {
+        "Pokemon": "Reshiram",
+        "Ability": "Turboblaze",
+        "Use_Percentage (%)": "100.000%"
+    },
+    {
+        "Pokemon": "Zygarde",
+        "Ability": "Power Construct",
+        "Use_Percentage (%)": "98.383%"
+    },
+    {
+        "Pokemon": "Zygarde",
+        "Ability": "Aura Break",
+        "Use_Percentage (%)": "1.617%"
+    },
+    {
+        "Pokemon": "Mamoswine",
+        "Ability": "Oblivious",
+        "Use_Percentage (%)": "99.774%"
+    },
+    {
+        "Pokemon": "Mamoswine",
+        "Ability": "Thick Fat",
+        "Use_Percentage (%)": "0.225%"
+    },
+    {
+        "Pokemon": "Mamoswine",
+        "Ability": "Snow Cloak",
+        "Use_Percentage (%)": "0.002%"
+    },
+    {
+        "Pokemon": "Necrozma-Dawn-Wings",
+        "Ability": "Prism Armor",
+        "Use_Percentage (%)": "100.000%"
+    },
+    {
+        "Pokemon": "Barraskewda",
+        "Ability": "Swift Swim",
+        "Use_Percentage (%)": "94.017%"
+    },
+    {
+        "Pokemon": "Barraskewda",
+        "Ability": "Propeller Tail",
+        "Use_Percentage (%)": "5.983%"
+    },
+    {
+        "Pokemon": "Celesteela",
+        "Ability": "Beast Boost",
+        "Use_Percentage (%)": "100.000%"
+    },
+    {
+        "Pokemon": "Metagross",
+        "Ability": "Clear Body",
+        "Use_Percentage (%)": "99.996%"
+    },
+    {
+        "Pokemon": "Metagross",
+        "Ability": "Light Metal",
+        "Use_Percentage (%)": "0.004%"
+    },
+    {
+        "Pokemon": "Araquanid",
+        "Ability": "Water Bubble",
+        "Use_Percentage (%)": "99.627%"
+    },
+    {
+        "Pokemon": "Araquanid",
+        "Ability": "Water Absorb",
+        "Use_Percentage (%)": "0.373%"
+    },
+    {
+        "Pokemon": "Pheromosa",
+        "Ability": "Beast Boost",
+        "Use_Percentage (%)": "100.000%"
+    },
+    {
+        "Pokemon": "Arcanine",
+        "Ability": "Intimidate",
+        "Use_Percentage (%)": "94.350%"
+    },
+    {
+        "Pokemon": "Arcanine",
+        "Ability": "Justified",
+        "Use_Percentage (%)": "5.489%"
+    },
+    {
+        "Pokemon": "Arcanine",
+        "Ability": "Flash Fire",
+        "Use_Percentage (%)": "0.161%"
+    },
+    {
+        "Pokemon": "Zamazenta-Crowned",
+        "Ability": "Dauntless Shield",
+        "Use_Percentage (%)": "100.000%"
+    },
+    {
+        "Pokemon": "Clefairy",
+        "Ability": "Friend Guard",
+        "Use_Percentage (%)": "99.864%"
+    },
+    {
+        "Pokemon": "Clefairy",
+        "Ability": "Cute Charm",
+        "Use_Percentage (%)": "0.111%"
+    },
+    {
+        "Pokemon": "Clefairy",
+        "Ability": "Magic Guard",
+        "Use_Percentage (%)": "0.026%"
+    },
+    {
+        "Pokemon": "Mienshao",
+        "Ability": "Inner Focus",
+        "Use_Percentage (%)": "99.828%"
+    },
+    {
+        "Pokemon": "Mienshao",
+        "Ability": "Regenerator",
+        "Use_Percentage (%)": "0.109%"
+    },
+    {
+        "Pokemon": "Mienshao",
+        "Ability": "Reckless",
+        "Use_Percentage (%)": "0.063%"
+    },
+    {
+        "Pokemon": "Lugia",
+        "Ability": "Multiscale",
+        "Use_Percentage (%)": "99.900%"
+    },
+    {
+        "Pokemon": "Lugia",
+        "Ability": "Pressure",
+        "Use_Percentage (%)": "0.100%"
+    },
+    {
+        "Pokemon": "Chansey",
+        "Ability": "Natural Cure",
+        "Use_Percentage (%)": "57.598%"
+    },
+    {
+        "Pokemon": "Chansey",
+        "Ability": "Healer",
+        "Use_Percentage (%)": "31.382%"
+    },
+    {
+        "Pokemon": "Chansey",
+        "Ability": "Serene Grace",
+        "Use_Percentage (%)": "11.020%"
+    },
+    {
+        "Pokemon": "Suicune",
+        "Ability": "Inner Focus",
+        "Use_Percentage (%)": "97.747%"
+    },
+    {
+        "Pokemon": "Suicune",
+        "Ability": "Pressure",
+        "Use_Percentage (%)": "2.253%"
+    },
+    {
+        "Pokemon": "Landorus",
+        "Ability": "Sheer Force",
+        "Use_Percentage (%)": "98.745%"
+    },
+    {
+        "Pokemon": "Landorus",
+        "Ability": "Sand Force",
+        "Use_Percentage (%)": "1.255%"
+    },
+    {
+        "Pokemon": "Necrozma-Dusk-Mane",
+        "Ability": "Prism Armor",
+        "Use_Percentage (%)": "100.000%"
+    },
+    {
+        "Pokemon": "Alcremie",
+        "Ability": "Aroma Veil",
+        "Use_Percentage (%)": "70.927%"
+    },
+    {
+        "Pokemon": "Alcremie",
+        "Ability": "Sweet Veil",
+        "Use_Percentage (%)": "29.073%"
+    },
+    {
+        "Pokemon": "Tapu Koko",
+        "Ability": "Electric Surge",
+        "Use_Percentage (%)": "99.958%"
+    },
+    {
+        "Pokemon": "Tapu Koko",
+        "Ability": "Telepathy",
+        "Use_Percentage (%)": "0.042%"
+    },
+    {
+        "Pokemon": "Liepard",
+        "Ability": "Prankster",
+        "Use_Percentage (%)": "99.998%"
+    },
+    {
+        "Pokemon": "Liepard",
+        "Ability": "Limber",
+        "Use_Percentage (%)": "0.001%"
+    },
+    {
+        "Pokemon": "Liepard",
+        "Ability": "Unburden",
+        "Use_Percentage (%)": "0.001%"
+    },
+    {
+        "Pokemon": "Hydreigon",
+        "Ability": "Levitate",
+        "Use_Percentage (%)": "100.000%"
+    },
+    {
+        "Pokemon": "Weavile",
+        "Ability": "Pressure",
+        "Use_Percentage (%)": "96.005%"
+    },
+    {
+        "Pokemon": "Weavile",
+        "Ability": "Pickpocket",
+        "Use_Percentage (%)": "3.995%"
+    },
+    {
+        "Pokemon": "Tsareena",
+        "Ability": "Queenly Majesty",
+        "Use_Percentage (%)": "96.983%"
+    },
+    {
+        "Pokemon": "Tsareena",
+        "Ability": "Sweet Veil",
+        "Use_Percentage (%)": "2.643%"
+    },
+    {
+        "Pokemon": "Tsareena",
+        "Ability": "Leaf Guard",
+        "Use_Percentage (%)": "0.373%"
+    },
+    {
+        "Pokemon": "Glastrier",
+        "Ability": "Chilling Neigh",
+        "Use_Percentage (%)": "100.000%"
+    },
+    {
+        "Pokemon": "Dracovish",
+        "Ability": "Strong Jaw",
+        "Use_Percentage (%)": "85.684%"
+    },
+    {
+        "Pokemon": "Dracovish",
+        "Ability": "Sand Rush",
+        "Use_Percentage (%)": "7.501%"
+    },
+    {
+        "Pokemon": "Dracovish",
+        "Ability": "Water Absorb",
+        "Use_Percentage (%)": "6.815%"
+    },
+    {
+        "Pokemon": "Hitmontop",
+        "Ability": "Intimidate",
+        "Use_Percentage (%)": "99.935%"
+    },
+    {
+        "Pokemon": "Hitmontop",
+        "Ability": "Technician",
+        "Use_Percentage (%)": "0.065%"
+    },
+    {
+        "Pokemon": "Hitmontop",
+        "Ability": "Steadfast",
+        "Use_Percentage (%)": "0.000%"
+    },
+    {
+        "Pokemon": "Darmanitan-Galar",
+        "Ability": "Gorilla Tactics",
+        "Use_Percentage (%)": "99.777%"
+    },
+    {
+        "Pokemon": "Darmanitan-Galar",
+        "Ability": "Zen Mode",
+        "Use_Percentage (%)": "0.223%"
+    },
+    {
+        "Pokemon": "Zekrom",
+        "Ability": "Teravolt",
+        "Use_Percentage (%)": "100.000%"
+    },
+    {
+        "Pokemon": "Shuckle",
+        "Ability": "Sturdy",
+        "Use_Percentage (%)": "99.619%"
+    },
+    {
+        "Pokemon": "Shuckle",
+        "Ability": "Contrary",
+        "Use_Percentage (%)": "0.350%"
+    },
+    {
+        "Pokemon": "Shuckle",
+        "Ability": "Gluttony",
+        "Use_Percentage (%)": "0.031%"
+    },
+    {
+        "Pokemon": "Zapdos-Galar",
+        "Ability": "Defiant",
+        "Use_Percentage (%)": "100.000%"
+    },
+    {
+        "Pokemon": "Volcarona",
+        "Ability": "Flame Body",
+        "Use_Percentage (%)": "99.713%"
+    },
+    {
+        "Pokemon": "Volcarona",
+        "Ability": "Swarm",
+        "Use_Percentage (%)": "0.287%"
+    },
+    {
+        "Pokemon": "Meowstic",
+        "Ability": "Prankster",
+        "Use_Percentage (%)": "99.520%"
+    },
+    {
+        "Pokemon": "Meowstic",
+        "Ability": "Keen Eye",
+        "Use_Percentage (%)": "0.462%"
+    },
+    {
+        "Pokemon": "Meowstic",
+        "Ability": "Competitive",
+        "Use_Percentage (%)": "0.014%"
+    },
+    {
+        "Pokemon": "Meowstic",
+        "Ability": "Infiltrator",
+        "Use_Percentage (%)": "0.004%"
+    },
+    {
+        "Pokemon": "Persian-Alola",
+        "Ability": "Fur Coat",
+        "Use_Percentage (%)": "98.708%"
+    },
+    {
+        "Pokemon": "Persian-Alola",
+        "Ability": "Rattled",
+        "Use_Percentage (%)": "1.287%"
+    },
+    {
+        "Pokemon": "Persian-Alola",
+        "Ability": "Technician",
+        "Use_Percentage (%)": "0.006%"
+    },
+    {
+        "Pokemon": "Snorlax",
+        "Ability": "Thick Fat",
+        "Use_Percentage (%)": "52.198%"
+    },
+    {
+        "Pokemon": "Snorlax",
+        "Ability": "Gluttony",
+        "Use_Percentage (%)": "47.525%"
+    },
+    {
+        "Pokemon": "Snorlax",
+        "Ability": "Immunity",
+        "Use_Percentage (%)": "0.277%"
+    },
+    {
+        "Pokemon": "Stakataka",
+        "Ability": "Beast Boost",
+        "Use_Percentage (%)": "100.000%"
+    },
+    {
+        "Pokemon": "Thundurus-Therian",
+        "Ability": "Volt Absorb",
+        "Use_Percentage (%)": "100.000%"
+    },
+    {
+        "Pokemon": "Moltres-Galar",
+        "Ability": "Berserk",
+        "Use_Percentage (%)": "100.000%"
+    },
+    {
+        "Pokemon": "Talonflame",
+        "Ability": "Gale Wings",
+        "Use_Percentage (%)": "99.889%"
+    },
+    {
+        "Pokemon": "Talonflame",
+        "Ability": "Flame Body",
+        "Use_Percentage (%)": "0.111%"
+    },
+    {
+        "Pokemon": "Milotic",
+        "Ability": "Competitive",
+        "Use_Percentage (%)": "99.729%"
+    },
+    {
+        "Pokemon": "Milotic",
+        "Ability": "Marvel Scale",
+        "Use_Percentage (%)": "0.271%"
+    },
+    {
+        "Pokemon": "Milotic",
+        "Ability": "Cute Charm",
+        "Use_Percentage (%)": "0.000%"
+    },
+    {
+        "Pokemon": "Mewtwo",
+        "Ability": "Unnerve",
+        "Use_Percentage (%)": "74.627%"
+    },
+    {
+        "Pokemon": "Mewtwo",
+        "Ability": "Pressure",
+        "Use_Percentage (%)": "25.373%"
+    },
+    {
+        "Pokemon": "Klinklang",
+        "Ability": "Clear Body",
+        "Use_Percentage (%)": "99.769%"
+    },
+    {
+        "Pokemon": "Klinklang",
+        "Ability": "Minus",
+        "Use_Percentage (%)": "0.226%"
+    },
+    {
+        "Pokemon": "Klinklang",
+        "Ability": "Plus",
+        "Use_Percentage (%)": "0.005%"
+    },
+    {
+        "Pokemon": "Inteleon",
+        "Ability": "Sniper",
+        "Use_Percentage (%)": "82.305%"
+    },
+    {
+        "Pokemon": "Inteleon",
+        "Ability": "Torrent",
+        "Use_Percentage (%)": "17.695%"
+    },
+    {
+        "Pokemon": "Salamence",
+        "Ability": "Intimidate",
+        "Use_Percentage (%)": "94.950%"
+    },
+    {
+        "Pokemon": "Salamence",
+        "Ability": "Moxie",
+        "Use_Percentage (%)": "5.050%"
+    },
+    {
+        "Pokemon": "Hatterene",
+        "Ability": "Healer",
+        "Use_Percentage (%)": "50.680%"
+    },
+    {
+        "Pokemon": "Hatterene",
+        "Ability": "Magic Bounce",
+        "Use_Percentage (%)": "49.320%"
+    },
+    {
+        "Pokemon": "Hatterene",
+        "Ability": "Anticipation",
+        "Use_Percentage (%)": "0.000%"
+    },
+    {
+        "Pokemon": "Sneasel",
+        "Ability": "Inner Focus",
+        "Use_Percentage (%)": "100.000%"
+    },
+    {
+        "Pokemon": "Sneasel",
+        "Ability": "Pickpocket",
+        "Use_Percentage (%)": "0.000%"
+    },
+    {
+        "Pokemon": "Sneasel",
+        "Ability": "Keen Eye",
+        "Use_Percentage (%)": "0.000%"
+    },
+    {
+        "Pokemon": "Escavalier",
+        "Ability": "Overcoat",
+        "Use_Percentage (%)": "97.221%"
+    },
+    {
+        "Pokemon": "Escavalier",
+        "Ability": "Swarm",
+        "Use_Percentage (%)": "2.107%"
+    },
+    {
+        "Pokemon": "Escavalier",
+        "Ability": "Shell Armor",
+        "Use_Percentage (%)": "0.673%"
+    },
+    {
+        "Pokemon": "Rotom-Wash",
+        "Ability": "Levitate",
+        "Use_Percentage (%)": "100.000%"
+    },
+    {
+        "Pokemon": "Politoed",
+        "Ability": "Drizzle",
+        "Use_Percentage (%)": "99.879%"
+    },
+    {
+        "Pokemon": "Politoed",
+        "Ability": "Water Absorb",
+        "Use_Percentage (%)": "0.121%"
+    },
+    {
+        "Pokemon": "Politoed",
+        "Ability": "Damp",
+        "Use_Percentage (%)": "0.000%"
+    },
+    {
+        "Pokemon": "Ludicolo",
+        "Ability": "Swift Swim",
+        "Use_Percentage (%)": "92.872%"
+    },
+    {
+        "Pokemon": "Ludicolo",
+        "Ability": "Rain Dish",
+        "Use_Percentage (%)": "7.128%"
+    },
+    {
+        "Pokemon": "Ludicolo",
+        "Ability": "Own Tempo",
+        "Use_Percentage (%)": "0.000%"
+    },
+    {
+        "Pokemon": "Slowking",
+        "Ability": "Oblivious",
+        "Use_Percentage (%)": "95.974%"
+    },
+    {
+        "Pokemon": "Slowking",
+        "Ability": "Regenerator",
+        "Use_Percentage (%)": "3.927%"
+    },
+    {
+        "Pokemon": "Slowking",
+        "Ability": "Own Tempo",
+        "Use_Percentage (%)": "0.099%"
+    },
+    {
+        "Pokemon": "Swampert",
+        "Ability": "Torrent",
+        "Use_Percentage (%)": "94.510%"
+    },
+    {
+        "Pokemon": "Swampert",
+        "Ability": "Damp",
+        "Use_Percentage (%)": "5.490%"
+    },
+    {
+        "Pokemon": "Azumarill",
+        "Ability": "Sap Sipper",
+        "Use_Percentage (%)": "77.089%"
+    },
+    {
+        "Pokemon": "Azumarill",
+        "Ability": "Huge Power",
+        "Use_Percentage (%)": "22.903%"
+    },
+    {
+        "Pokemon": "Azumarill",
+        "Ability": "Thick Fat",
+        "Use_Percentage (%)": "0.008%"
+    },
+    {
+        "Pokemon": "Scizor",
+        "Ability": "Technician",
+        "Use_Percentage (%)": "100.000%"
+    },
+    {
+        "Pokemon": "Scizor",
+        "Ability": "Swarm",
+        "Use_Percentage (%)": "0.000%"
+    },
+    {
+        "Pokemon": "Scizor",
+        "Ability": "Light Metal",
+        "Use_Percentage (%)": "0.000%"
+    },
+    {
+        "Pokemon": "Articuno-Galar",
+        "Ability": "Competitive",
+        "Use_Percentage (%)": "100.000%"
+    },
+    {
+        "Pokemon": "Tyranitar",
+        "Ability": "Sand Stream",
+        "Use_Percentage (%)": "99.698%"
+    },
+    {
+        "Pokemon": "Tyranitar",
+        "Ability": "Unnerve",
+        "Use_Percentage (%)": "0.302%"
+    },
+    {
+        "Pokemon": "Pikachu",
+        "Ability": "Lightning Rod",
+        "Use_Percentage (%)": "98.783%"
+    },
+    {
+        "Pokemon": "Pikachu",
+        "Ability": "Static",
+        "Use_Percentage (%)": "1.217%"
+    },
+    {
+        "Pokemon": "Ninetales-Alola",
+        "Ability": "Snow Warning",
+        "Use_Percentage (%)": "99.852%"
+    },
+    {
+        "Pokemon": "Ninetales-Alola",
+        "Ability": "Snow Cloak",
+        "Use_Percentage (%)": "0.148%"
+    },
+    {
+        "Pokemon": "Marowak-Alola",
+        "Ability": "Lightning Rod",
+        "Use_Percentage (%)": "82.874%"
+    },
+    {
+        "Pokemon": "Marowak-Alola",
+        "Ability": "Rock Head",
+        "Use_Percentage (%)": "10.217%"
+    },
+    {
+        "Pokemon": "Marowak-Alola",
+        "Ability": "Cursed Body",
+        "Use_Percentage (%)": "6.910%"
+    },
+    {
+        "Pokemon": "Slowbro",
+        "Ability": "Regenerator",
+        "Use_Percentage (%)": "96.131%"
+    },
+    {
+        "Pokemon": "Slowbro",
+        "Ability": "Oblivious",
+        "Use_Percentage (%)": "3.868%"
+    },
+    {
+        "Pokemon": "Slowbro",
+        "Ability": "Own Tempo",
+        "Use_Percentage (%)": "0.001%"
+    },
+    {
+        "Pokemon": "Giratina-Origin",
+        "Ability": "Levitate",
+        "Use_Percentage (%)": "100.000%"
+    },
+    {
+        "Pokemon": "Toxapex",
+        "Ability": "Regenerator",
+        "Use_Percentage (%)": "99.935%"
+    },
+    {
+        "Pokemon": "Toxapex",
+        "Ability": "Merciless",
+        "Use_Percentage (%)": "0.064%"
+    },
+    {
+        "Pokemon": "Toxapex",
+        "Ability": "Limber",
+        "Use_Percentage (%)": "0.001%"
+    },
+    {
+        "Pokemon": "Raikou",
+        "Ability": "Inner Focus",
+        "Use_Percentage (%)": "97.995%"
+    },
+    {
+        "Pokemon": "Raikou",
+        "Ability": "Pressure",
+        "Use_Percentage (%)": "2.005%"
+    },
+    {
+        "Pokemon": "Pelipper",
+        "Ability": "Drizzle",
+        "Use_Percentage (%)": "99.816%"
+    },
+    {
+        "Pokemon": "Pelipper",
+        "Ability": "Rain Dish",
+        "Use_Percentage (%)": "0.184%"
+    },
+    {
+        "Pokemon": "Pelipper",
+        "Ability": "Keen Eye",
+        "Use_Percentage (%)": "0.000%"
+    },
+    {
+        "Pokemon": "Weezing-Galar",
+        "Ability": "Neutralizing Gas",
+        "Use_Percentage (%)": "99.770%"
+    },
+    {
+        "Pokemon": "Weezing-Galar",
+        "Ability": "Misty Surge",
+        "Use_Percentage (%)": "0.223%"
+    },
+    {
+        "Pokemon": "Weezing-Galar",
+        "Ability": "Levitate",
+        "Use_Percentage (%)": "0.007%"
+    },
+    {
+        "Pokemon": "Kingler",
+        "Ability": "Hyper Cutter",
+        "Use_Percentage (%)": "99.990%"
+    },
+    {
+        "Pokemon": "Kingler",
+        "Ability": "Sheer Force",
+        "Use_Percentage (%)": "0.010%"
+    },
+    {
+        "Pokemon": "Kingler",
+        "Ability": "Shell Armor",
+        "Use_Percentage (%)": "0.000%"
+    },
+    {
+        "Pokemon": "Oranguru",
+        "Ability": "Telepathy",
+        "Use_Percentage (%)": "47.056%"
+    },
+    {
+        "Pokemon": "Oranguru",
+        "Ability": "Inner Focus",
+        "Use_Percentage (%)": "34.194%"
+    },
+    {
+        "Pokemon": "Oranguru",
+        "Ability": "Symbiosis",
+        "Use_Percentage (%)": "18.750%"
+    },
+    {
+        "Pokemon": "Nihilego",
+        "Ability": "Beast Boost",
+        "Use_Percentage (%)": "100.000%"
+    },
+    {
+        "Pokemon": "Togedemaru",
+        "Ability": "Lightning Rod",
+        "Use_Percentage (%)": "94.650%"
+    },
+    {
+        "Pokemon": "Togedemaru",
+        "Ability": "Sturdy",
+        "Use_Percentage (%)": "4.155%"
+    },
+    {
+        "Pokemon": "Togedemaru",
+        "Ability": "Iron Barbs",
+        "Use_Percentage (%)": "1.194%"
+    },
+    {
+        "Pokemon": "Gyarados",
+        "Ability": "Intimidate",
+        "Use_Percentage (%)": "89.587%"
+    },
+    {
+        "Pokemon": "Gyarados",
+        "Ability": "Moxie",
+        "Use_Percentage (%)": "10.413%"
+    },
+    {
+        "Pokemon": "Garchomp",
+        "Ability": "Rough Skin",
+        "Use_Percentage (%)": "83.814%"
+    },
+    {
+        "Pokemon": "Garchomp",
+        "Ability": "Sand Veil",
+        "Use_Percentage (%)": "16.186%"
+    },
+    {
+        "Pokemon": "Heliolisk",
+        "Ability": "Dry Skin",
+        "Use_Percentage (%)": "86.216%"
+    },
+    {
+        "Pokemon": "Heliolisk",
+        "Ability": "Solar Power",
+        "Use_Percentage (%)": "11.701%"
+    },
+    {
+        "Pokemon": "Heliolisk",
+        "Ability": "Sand Veil",
+        "Use_Percentage (%)": "2.084%"
+    },
+    {
+        "Pokemon": "Tapu Bulu",
+        "Ability": "Grassy Surge",
+        "Use_Percentage (%)": "99.915%"
+    },
+    {
+        "Pokemon": "Tapu Bulu",
+        "Ability": "Telepathy",
+        "Use_Percentage (%)": "0.085%"
+    },
+    {
+        "Pokemon": "Kangaskhan",
+        "Ability": "Scrappy",
+        "Use_Percentage (%)": "99.569%"
+    },
+    {
+        "Pokemon": "Kangaskhan",
+        "Ability": "Inner Focus",
+        "Use_Percentage (%)": "0.431%"
+    },
+    {
+        "Pokemon": "Kangaskhan",
+        "Ability": "Early Bird",
+        "Use_Percentage (%)": "0.000%"
+    },
+    {
+        "Pokemon": "Moltres",
+        "Ability": "Flame Body",
+        "Use_Percentage (%)": "99.878%"
+    },
+    {
+        "Pokemon": "Moltres",
+        "Ability": "Pressure",
+        "Use_Percentage (%)": "0.122%"
+    },
+    {
+        "Pokemon": "Krookodile",
+        "Ability": "Anger Point",
+        "Use_Percentage (%)": "45.194%"
+    },
+    {
+        "Pokemon": "Krookodile",
+        "Ability": "Intimidate",
+        "Use_Percentage (%)": "35.456%"
+    },
+    {
+        "Pokemon": "Krookodile",
+        "Ability": "Moxie",
+        "Use_Percentage (%)": "19.349%"
+    },
+    {
+        "Pokemon": "Drifblim",
+        "Ability": "Unburden",
+        "Use_Percentage (%)": "99.957%"
+    },
+    {
+        "Pokemon": "Drifblim",
+        "Ability": "Aftermath",
+        "Use_Percentage (%)": "0.028%"
+    },
+    {
+        "Pokemon": "Drifblim",
+        "Ability": "Flare Boost",
+        "Use_Percentage (%)": "0.015%"
+    },
+    {
+        "Pokemon": "Excadrill",
+        "Ability": "Sand Rush",
+        "Use_Percentage (%)": "55.376%"
+    },
+    {
+        "Pokemon": "Excadrill",
+        "Ability": "Mold Breaker",
+        "Use_Percentage (%)": "44.601%"
+    },
+    {
+        "Pokemon": "Excadrill",
+        "Ability": "Sand Force",
+        "Use_Percentage (%)": "0.023%"
+    },
+    {
+        "Pokemon": "Primarina",
+        "Ability": "Liquid Voice",
+        "Use_Percentage (%)": "89.378%"
+    },
+    {
+        "Pokemon": "Primarina",
+        "Ability": "Torrent",
+        "Use_Percentage (%)": "10.622%"
+    },
+    {
+        "Pokemon": "Shiftry",
+        "Ability": "Chlorophyll",
+        "Use_Percentage (%)": "100.000%"
+    },
+    {
+        "Pokemon": "Shiftry",
+        "Ability": "Early Bird",
+        "Use_Percentage (%)": "0.000%"
+    },
+    {
+        "Pokemon": "Shiftry",
+        "Ability": "Pickpocket",
+        "Use_Percentage (%)": "0.000%"
+    },
+    {
+        "Pokemon": "Chandelure",
+        "Ability": "Flash Fire",
+        "Use_Percentage (%)": "96.273%"
+    },
+    {
+        "Pokemon": "Chandelure",
+        "Ability": "Infiltrator",
+        "Use_Percentage (%)": "3.642%"
+    },
+    {
+        "Pokemon": "Chandelure",
+        "Ability": "Flame Body",
+        "Use_Percentage (%)": "0.085%"
+    },
+    {
+        "Pokemon": "Toxicroak",
+        "Ability": "Dry Skin",
+        "Use_Percentage (%)": "97.862%"
+    },
+    {
+        "Pokemon": "Toxicroak",
+        "Ability": "Anticipation",
+        "Use_Percentage (%)": "1.887%"
+    },
+    {
+        "Pokemon": "Toxicroak",
+        "Ability": "Poison Touch",
+        "Use_Percentage (%)": "0.250%"
+    },
+    {
+        "Pokemon": "Dracozolt",
+        "Ability": "Hustle",
+        "Use_Percentage (%)": "68.885%"
+    },
+    {
+        "Pokemon": "Dracozolt",
+        "Ability": "Sand Rush",
+        "Use_Percentage (%)": "29.760%"
+    },
+    {
+        "Pokemon": "Dracozolt",
+        "Ability": "Volt Absorb",
+        "Use_Percentage (%)": "1.355%"
+    },
+    {
+        "Pokemon": "Sceptile",
+        "Ability": "Unburden",
+        "Use_Percentage (%)": "95.001%"
+    },
+    {
+        "Pokemon": "Sceptile",
+        "Ability": "Overgrow",
+        "Use_Percentage (%)": "4.999%"
+    },
+    {
+        "Pokemon": "Pincurchin",
+        "Ability": "Electric Surge",
+        "Use_Percentage (%)": "98.667%"
+    },
+    {
+        "Pokemon": "Pincurchin",
+        "Ability": "Lightning Rod",
+        "Use_Percentage (%)": "1.333%"
+    },
+    {
+        "Pokemon": "Aegislash",
+        "Ability": "Stance Change",
+        "Use_Percentage (%)": "100.000%"
+    },
+    {
+        "Pokemon": "Centiskorch",
+        "Ability": "White Smoke",
+        "Use_Percentage (%)": "99.043%"
+    },
+    {
+        "Pokemon": "Centiskorch",
+        "Ability": "Flash Fire",
+        "Use_Percentage (%)": "0.957%"
+    },
+    {
+        "Pokemon": "Centiskorch",
+        "Ability": "Flame Body",
+        "Use_Percentage (%)": "0.000%"
+    },
+    {
+        "Pokemon": "Greedent",
+        "Ability": "Cheek Pouch",
+        "Use_Percentage (%)": "100.000%"
+    },
+    {
+        "Pokemon": "Greedent",
+        "Ability": "Gluttony",
+        "Use_Percentage (%)": "0.000%"
+    },
+    {
+        "Pokemon": "Porygon-Z",
+        "Ability": "Adaptability",
+        "Use_Percentage (%)": "99.959%"
+    },
+    {
+        "Pokemon": "Porygon-Z",
+        "Ability": "Analytic",
+        "Use_Percentage (%)": "0.028%"
+    },
+    {
+        "Pokemon": "Porygon-Z",
+        "Ability": "Download",
+        "Use_Percentage (%)": "0.013%"
+    },
+    {
+        "Pokemon": "Butterfree",
+        "Ability": "Compound Eyes",
+        "Use_Percentage (%)": "99.334%"
+    },
+    {
+        "Pokemon": "Butterfree",
+        "Ability": "Tinted Lens",
+        "Use_Percentage (%)": "0.666%"
+    },
+    {
+        "Pokemon": "Lucario",
+        "Ability": "Inner Focus",
+        "Use_Percentage (%)": "83.157%"
+    },
+    {
+        "Pokemon": "Lucario",
+        "Ability": "Justified",
+        "Use_Percentage (%)": "16.457%"
+    },
+    {
+        "Pokemon": "Lucario",
+        "Ability": "Steadfast",
+        "Use_Percentage (%)": "0.385%"
+    },
+    {
+        "Pokemon": "Mudsdale",
+        "Ability": "Inner Focus",
+        "Use_Percentage (%)": "40.005%"
+    },
+    {
+        "Pokemon": "Mudsdale",
+        "Ability": "Own Tempo",
+        "Use_Percentage (%)": "36.643%"
+    },
+    {
+        "Pokemon": "Mudsdale",
+        "Ability": "Stamina",
+        "Use_Percentage (%)": "23.352%"
+    },
+    {
+        "Pokemon": "Cherrim",
+        "Ability": "Flower Gift",
+        "Use_Percentage (%)": "100.000%"
+    },
+    {
+        "Pokemon": "Exeggutor",
+        "Ability": "Harvest",
+        "Use_Percentage (%)": "82.502%"
+    },
+    {
+        "Pokemon": "Exeggutor",
+        "Ability": "Chlorophyll",
+        "Use_Percentage (%)": "17.498%"
+    },
+    {
+        "Pokemon": "Altaria",
+        "Ability": "Cloud Nine",
+        "Use_Percentage (%)": "99.797%"
+    },
+    {
+        "Pokemon": "Altaria",
+        "Ability": "Natural Cure",
+        "Use_Percentage (%)": "0.203%"
+    },
+    {
+        "Pokemon": "Klefki",
+        "Ability": "Prankster",
+        "Use_Percentage (%)": "100.000%"
+    },
+    {
+        "Pokemon": "Klefki",
+        "Ability": "Magician",
+        "Use_Percentage (%)": "0.000%"
+    },
+    {
+        "Pokemon": "Froslass",
+        "Ability": "Cursed Body",
+        "Use_Percentage (%)": "98.382%"
+    },
+    {
+        "Pokemon": "Froslass",
+        "Ability": "Snow Cloak",
+        "Use_Percentage (%)": "1.618%"
+    },
+    {
+        "Pokemon": "Gigalith",
+        "Ability": "Sand Stream",
+        "Use_Percentage (%)": "97.928%"
+    },
+    {
+        "Pokemon": "Gigalith",
+        "Ability": "Sand Force",
+        "Use_Percentage (%)": "1.874%"
+    },
+    {
+        "Pokemon": "Gigalith",
+        "Ability": "Sturdy",
+        "Use_Percentage (%)": "0.198%"
+    },
+    {
+        "Pokemon": "Jellicent",
+        "Ability": "Water Absorb",
+        "Use_Percentage (%)": "94.582%"
+    },
+    {
+        "Pokemon": "Jellicent",
+        "Ability": "Cursed Body",
+        "Use_Percentage (%)": "5.418%"
+    },
+    {
+        "Pokemon": "Jellicent",
+        "Ability": "Damp",
+        "Use_Percentage (%)": "0.000%"
+    },
+    {
+        "Pokemon": "Riolu",
+        "Ability": "Prankster",
+        "Use_Percentage (%)": "99.996%"
+    },
+    {
+        "Pokemon": "Riolu",
+        "Ability": "Steadfast",
+        "Use_Percentage (%)": "0.004%"
+    },
+    {
+        "Pokemon": "Riolu",
+        "Ability": "Inner Focus",
+        "Use_Percentage (%)": "0.000%"
+    },
+    {
+        "Pokemon": "Mandibuzz",
+        "Ability": "Overcoat",
+        "Use_Percentage (%)": "62.594%"
+    },
+    {
+        "Pokemon": "Mandibuzz",
+        "Ability": "Weak Armor",
+        "Use_Percentage (%)": "37.405%"
+    },
+    {
+        "Pokemon": "Mandibuzz",
+        "Ability": "Big Pecks",
+        "Use_Percentage (%)": "0.001%"
+    },
+    {
+        "Pokemon": "Lurantis",
+        "Ability": "Contrary",
+        "Use_Percentage (%)": "99.998%"
+    },
+    {
+        "Pokemon": "Lurantis",
+        "Ability": "Leaf Guard",
+        "Use_Percentage (%)": "0.002%"
+    },
+    {
+        "Pokemon": "Latias",
+        "Ability": "Levitate",
+        "Use_Percentage (%)": "100.000%"
+    },
+    {
+        "Pokemon": "Exeggutor-Alola",
+        "Ability": "Frisk",
+        "Use_Percentage (%)": "58.873%"
+    },
+    {
+        "Pokemon": "Exeggutor-Alola",
+        "Ability": "Harvest",
+        "Use_Percentage (%)": "41.127%"
+    },
+    {
+        "Pokemon": "Dragonite",
+        "Ability": "Multiscale",
+        "Use_Percentage (%)": "68.634%"
+    },
+    {
+        "Pokemon": "Dragonite",
+        "Ability": "Inner Focus",
+        "Use_Percentage (%)": "31.366%"
+    },
+    {
+        "Pokemon": "Darmanitan",
+        "Ability": "Sheer Force",
+        "Use_Percentage (%)": "99.903%"
+    },
+    {
+        "Pokemon": "Darmanitan",
+        "Ability": "Zen Mode",
+        "Use_Percentage (%)": "0.097%"
+    },
+    {
+        "Pokemon": "Cradily",
+        "Ability": "Storm Drain",
+        "Use_Percentage (%)": "99.993%"
+    },
+    {
+        "Pokemon": "Cradily",
+        "Ability": "Suction Cups",
+        "Use_Percentage (%)": "0.007%"
+    },
+    {
+        "Pokemon": "Obstagoon",
+        "Ability": "Defiant",
+        "Use_Percentage (%)": "92.337%"
+    },
+    {
+        "Pokemon": "Obstagoon",
+        "Ability": "Guts",
+        "Use_Percentage (%)": "7.593%"
+    },
+    {
+        "Pokemon": "Obstagoon",
+        "Ability": "Reckless",
+        "Use_Percentage (%)": "0.070%"
+    },
+    {
+        "Pokemon": "Scrafty",
+        "Ability": "Intimidate",
+        "Use_Percentage (%)": "99.995%"
+    },
+    {
+        "Pokemon": "Scrafty",
+        "Ability": "Shed Skin",
+        "Use_Percentage (%)": "0.004%"
+    },
+    {
+        "Pokemon": "Scrafty",
+        "Ability": "Moxie",
+        "Use_Percentage (%)": "0.000%"
+    },
+    {
+        "Pokemon": "Aerodactyl",
+        "Ability": "Unnerve",
+        "Use_Percentage (%)": "74.095%"
+    },
+    {
+        "Pokemon": "Aerodactyl",
+        "Ability": "Rock Head",
+        "Use_Percentage (%)": "14.632%"
+    },
+    {
+        "Pokemon": "Aerodactyl",
+        "Ability": "Pressure",
+        "Use_Percentage (%)": "11.273%"
+    },
+    {
+        "Pokemon": "Kabutops",
+        "Ability": "Weak Armor",
+        "Use_Percentage (%)": "87.176%"
+    },
+    {
+        "Pokemon": "Kabutops",
+        "Ability": "Swift Swim",
+        "Use_Percentage (%)": "12.822%"
+    },
+    {
+        "Pokemon": "Kabutops",
+        "Ability": "Battle Armor",
+        "Use_Percentage (%)": "0.002%"
+    },
+    {
+        "Pokemon": "Articuno",
+        "Ability": "Snow Cloak",
+        "Use_Percentage (%)": "55.412%"
+    },
+    {
+        "Pokemon": "Articuno",
+        "Ability": "Pressure",
+        "Use_Percentage (%)": "44.588%"
+    },
+    {
+        "Pokemon": "Blacephalon",
+        "Ability": "Beast Boost",
+        "Use_Percentage (%)": "100.000%"
+    },
+    {
+        "Pokemon": "Duraludon",
+        "Ability": "Stalwart",
+        "Use_Percentage (%)": "92.912%"
+    },
+    {
+        "Pokemon": "Duraludon",
+        "Ability": "Light Metal",
+        "Use_Percentage (%)": "6.695%"
+    },
+    {
+        "Pokemon": "Duraludon",
+        "Ability": "Heavy Metal",
+        "Use_Percentage (%)": "0.393%"
+    },
+    {
+        "Pokemon": "Trevenant",
+        "Ability": "Frisk",
+        "Use_Percentage (%)": "97.728%"
+    },
+    {
+        "Pokemon": "Trevenant",
+        "Ability": "Harvest",
+        "Use_Percentage (%)": "2.271%"
+    },
+    {
+        "Pokemon": "Trevenant",
+        "Ability": "Natural Cure",
+        "Use_Percentage (%)": "0.001%"
+    },
+    {
+        "Pokemon": "Drednaw",
+        "Ability": "Swift Swim",
+        "Use_Percentage (%)": "99.997%"
+    },
+    {
+        "Pokemon": "Drednaw",
+        "Ability": "Strong Jaw",
+        "Use_Percentage (%)": "0.003%"
+    },
+    {
+        "Pokemon": "Drednaw",
+        "Ability": "Shell Armor",
+        "Use_Percentage (%)": "0.000%"
+    },
+    {
+        "Pokemon": "Heatran",
+        "Ability": "Flash Fire",
+        "Use_Percentage (%)": "97.556%"
+    },
+    {
+        "Pokemon": "Heatran",
+        "Ability": "Flame Body",
+        "Use_Percentage (%)": "2.444%"
+    },
+    {
+        "Pokemon": "Clefable",
+        "Ability": "Unaware",
+        "Use_Percentage (%)": "88.634%"
+    },
+    {
+        "Pokemon": "Clefable",
+        "Ability": "Magic Guard",
+        "Use_Percentage (%)": "8.446%"
+    },
+    {
+        "Pokemon": "Clefable",
+        "Ability": "Cute Charm",
+        "Use_Percentage (%)": "2.920%"
+    },
+    {
+        "Pokemon": "Appletun",
+        "Ability": "Thick Fat",
+        "Use_Percentage (%)": "95.609%"
+    },
+    {
+        "Pokemon": "Appletun",
+        "Ability": "Ripen",
+        "Use_Percentage (%)": "4.382%"
+    },
+    {
+        "Pokemon": "Appletun",
+        "Ability": "Gluttony",
+        "Use_Percentage (%)": "0.009%"
+    },
+    {
+        "Pokemon": "Bisharp",
+        "Ability": "Defiant",
+        "Use_Percentage (%)": "97.829%"
+    },
+    {
+        "Pokemon": "Bisharp",
+        "Ability": "Inner Focus",
+        "Use_Percentage (%)": "2.171%"
+    },
+    {
+        "Pokemon": "Bisharp",
+        "Ability": "Pressure",
+        "Use_Percentage (%)": "0.000%"
+    },
+    {
+        "Pokemon": "Registeel",
+        "Ability": "Clear Body",
+        "Use_Percentage (%)": "97.969%"
+    },
+    {
+        "Pokemon": "Registeel",
+        "Ability": "Light Metal",
+        "Use_Percentage (%)": "2.031%"
+    },
+    {
+        "Pokemon": "Rhyperior",
+        "Ability": "Solid Rock",
+        "Use_Percentage (%)": "58.073%"
+    },
+    {
+        "Pokemon": "Rhyperior",
+        "Ability": "Lightning Rod",
+        "Use_Percentage (%)": "41.908%"
+    },
+    {
+        "Pokemon": "Rhyperior",
+        "Ability": "Reckless",
+        "Use_Percentage (%)": "0.019%"
+    },
+    {
+        "Pokemon": "Stonjourner",
+        "Ability": "Power Spot",
+        "Use_Percentage (%)": "100.000%"
+    },
+    {
+        "Pokemon": "Electivire",
+        "Ability": "Motor Drive",
+        "Use_Percentage (%)": "99.953%"
+    },
+    {
+        "Pokemon": "Electivire",
+        "Ability": "Vital Spirit",
+        "Use_Percentage (%)": "0.047%"
+    },
+    {
+        "Pokemon": "Leafeon",
+        "Ability": "Chlorophyll",
+        "Use_Percentage (%)": "99.788%"
+    },
+    {
+        "Pokemon": "Leafeon",
+        "Ability": "Leaf Guard",
+        "Use_Percentage (%)": "0.212%"
+    },
+    {
+        "Pokemon": "Abomasnow",
+        "Ability": "Snow Warning",
+        "Use_Percentage (%)": "99.999%"
+    },
+    {
+        "Pokemon": "Abomasnow",
+        "Ability": "Soundproof",
+        "Use_Percentage (%)": "0.001%"
+    },
+    {
+        "Pokemon": "Diggersby",
+        "Ability": "Huge Power",
+        "Use_Percentage (%)": "100.000%"
+    },
+    {
+        "Pokemon": "Diggersby",
+        "Ability": "Pickup",
+        "Use_Percentage (%)": "0.000%"
+    },
+    {
+        "Pokemon": "Diggersby",
+        "Ability": "Cheek Pouch",
+        "Use_Percentage (%)": "0.000%"
+    },
+    {
+        "Pokemon": "Giratina",
+        "Ability": "Pressure",
+        "Use_Percentage (%)": "71.964%"
+    },
+    {
+        "Pokemon": "Giratina",
+        "Ability": "Telepathy",
+        "Use_Percentage (%)": "28.036%"
+    },
+    {
+        "Pokemon": "Swoobat",
+        "Ability": "Simple",
+        "Use_Percentage (%)": "99.902%"
+    },
+    {
+        "Pokemon": "Swoobat",
+        "Ability": "Unaware",
+        "Use_Percentage (%)": "0.097%"
+    },
+    {
+        "Pokemon": "Swoobat",
+        "Ability": "Klutz",
+        "Use_Percentage (%)": "0.001%"
+    },
+    {
+        "Pokemon": "Corviknight",
+        "Ability": "Mirror Armor",
+        "Use_Percentage (%)": "97.174%"
+    },
+    {
+        "Pokemon": "Corviknight",
+        "Ability": "Pressure",
+        "Use_Percentage (%)": "2.274%"
+    },
+    {
+        "Pokemon": "Corviknight",
+        "Ability": "Unnerve",
+        "Use_Percentage (%)": "0.551%"
+    },
+    {
+        "Pokemon": "Vikavolt",
+        "Ability": "Levitate",
+        "Use_Percentage (%)": "100.000%"
+    },
+    {
+        "Pokemon": "Durant",
+        "Ability": "Hustle",
+        "Use_Percentage (%)": "99.831%"
+    },
+    {
+        "Pokemon": "Durant",
+        "Ability": "Swarm",
+        "Use_Percentage (%)": "0.133%"
+    },
+    {
+        "Pokemon": "Durant",
+        "Ability": "Truant",
+        "Use_Percentage (%)": "0.036%"
+    },
+    {
+        "Pokemon": "Cresselia",
+        "Ability": "Levitate",
+        "Use_Percentage (%)": "100.000%"
+    },
+    {
+        "Pokemon": "Mr. Rime",
+        "Ability": "Screen Cleaner",
+        "Use_Percentage (%)": "98.763%"
+    },
+    {
+        "Pokemon": "Mr. Rime",
+        "Ability": "Ice Body",
+        "Use_Percentage (%)": "1.033%"
+    },
+    {
+        "Pokemon": "Mr. Rime",
+        "Ability": "Tangled Feet",
+        "Use_Percentage (%)": "0.204%"
+    },
+    {
+        "Pokemon": "Wishiwashi",
+        "Ability": "Schooling",
+        "Use_Percentage (%)": "100.000%"
+    },
+    {
+        "Pokemon": "Conkeldurr",
+        "Ability": "Guts",
+        "Use_Percentage (%)": "72.659%"
+    },
+    {
+        "Pokemon": "Conkeldurr",
+        "Ability": "Iron Fist",
+        "Use_Percentage (%)": "25.850%"
+    },
+    {
+        "Pokemon": "Conkeldurr",
+        "Ability": "Sheer Force",
+        "Use_Percentage (%)": "1.491%"
+    },
+    {
+        "Pokemon": "Boltund",
+        "Ability": "Competitive",
+        "Use_Percentage (%)": "99.574%"
+    },
+    {
+        "Pokemon": "Boltund",
+        "Ability": "Strong Jaw",
+        "Use_Percentage (%)": "0.426%"
+    },
+    {
+        "Pokemon": "Terrakion",
+        "Ability": "Justified",
+        "Use_Percentage (%)": "100.000%"
+    },
+    {
+        "Pokemon": "Cobalion",
+        "Ability": "Justified",
+        "Use_Percentage (%)": "100.000%"
+    },
+    {
+        "Pokemon": "Kyurem-Black",
+        "Ability": "Teravolt",
+        "Use_Percentage (%)": "100.000%"
+    },
+    {
+        "Pokemon": "Mantine",
+        "Ability": "Swift Swim",
+        "Use_Percentage (%)": "99.842%"
+    },
+    {
+        "Pokemon": "Mantine",
+        "Ability": "Water Absorb",
+        "Use_Percentage (%)": "0.158%"
+    },
+    {
+        "Pokemon": "Machamp",
+        "Ability": "No Guard",
+        "Use_Percentage (%)": "94.555%"
+    },
+    {
+        "Pokemon": "Machamp",
+        "Ability": "Steadfast",
+        "Use_Percentage (%)": "4.020%"
+    },
+    {
+        "Pokemon": "Machamp",
+        "Ability": "Guts",
+        "Use_Percentage (%)": "1.425%"
+    },
+    {
+        "Pokemon": "Goodra",
+        "Ability": "Sap Sipper",
+        "Use_Percentage (%)": "86.732%"
+    },
+    {
+        "Pokemon": "Goodra",
+        "Ability": "Hydration",
+        "Use_Percentage (%)": "11.135%"
+    },
+    {
+        "Pokemon": "Goodra",
+        "Ability": "Gooey",
+        "Use_Percentage (%)": "2.134%"
+    },
+    {
+        "Pokemon": "Silvally",
+        "Ability": "RKS System",
+        "Use_Percentage (%)": "100.000%"
+    },
+    {
+        "Pokemon": "Accelgor",
+        "Ability": "Unburden",
+        "Use_Percentage (%)": "70.479%"
+    },
+    {
+        "Pokemon": "Accelgor",
+        "Ability": "Sticky Hold",
+        "Use_Percentage (%)": "23.132%"
+    },
+    {
+        "Pokemon": "Accelgor",
+        "Ability": "Hydration",
+        "Use_Percentage (%)": "6.390%"
+    },
+    {
+        "Pokemon": "Xurkitree",
+        "Ability": "Beast Boost",
+        "Use_Percentage (%)": "100.000%"
+    },
+    {
+        "Pokemon": "Tauros",
+        "Ability": "Anger Point",
+        "Use_Percentage (%)": "95.520%"
+    },
+    {
+        "Pokemon": "Tauros",
+        "Ability": "Sheer Force",
+        "Use_Percentage (%)": "2.347%"
+    },
+    {
+        "Pokemon": "Tauros",
+        "Ability": "Intimidate",
+        "Use_Percentage (%)": "2.133%"
+    },
+    {
+        "Pokemon": "Garbodor",
+        "Ability": "Weak Armor",
+        "Use_Percentage (%)": "99.792%"
+    },
+    {
+        "Pokemon": "Garbodor",
+        "Ability": "Aftermath",
+        "Use_Percentage (%)": "0.184%"
+    },
+    {
+        "Pokemon": "Garbodor",
+        "Ability": "Stench",
+        "Use_Percentage (%)": "0.024%"
+    },
+    {
+        "Pokemon": "Luxray",
+        "Ability": "Guts",
+        "Use_Percentage (%)": "86.430%"
+    },
+    {
+        "Pokemon": "Luxray",
+        "Ability": "Intimidate",
+        "Use_Percentage (%)": "13.570%"
+    },
+    {
+        "Pokemon": "Luxray",
+        "Ability": "Rivalry",
+        "Use_Percentage (%)": "0.000%"
+    },
+    {
+        "Pokemon": "Dugtrio",
+        "Ability": "Arena Trap",
+        "Use_Percentage (%)": "97.967%"
+    },
+    {
+        "Pokemon": "Dugtrio",
+        "Ability": "Sand Veil",
+        "Use_Percentage (%)": "2.026%"
+    },
+    {
+        "Pokemon": "Dugtrio",
+        "Ability": "Sand Force",
+        "Use_Percentage (%)": "0.007%"
+    },
+    {
+        "Pokemon": "Rotom-Mow",
+        "Ability": "Levitate",
+        "Use_Percentage (%)": "100.000%"
+    },
+    {
+        "Pokemon": "Gengar",
+        "Ability": "Cursed Body",
+        "Use_Percentage (%)": "100.000%"
+    },
+    {
+        "Pokemon": "Glaceon",
+        "Ability": "Snow Cloak",
+        "Use_Percentage (%)": "98.784%"
+    },
+    {
+        "Pokemon": "Glaceon",
+        "Ability": "Ice Body",
+        "Use_Percentage (%)": "1.216%"
+    },
+    {
+        "Pokemon": "Manectric",
+        "Ability": "Lightning Rod",
+        "Use_Percentage (%)": "98.309%"
+    },
+    {
+        "Pokemon": "Manectric",
+        "Ability": "Minus",
+        "Use_Percentage (%)": "1.691%"
+    },
+    {
+        "Pokemon": "Manectric",
+        "Ability": "Static",
+        "Use_Percentage (%)": "0.000%"
+    },
+    {
+        "Pokemon": "Palossand",
+        "Ability": "Water Compaction",
+        "Use_Percentage (%)": "100.000%"
+    },
+    {
+        "Pokemon": "Palossand",
+        "Ability": "Sand Veil",
+        "Use_Percentage (%)": "0.000%"
+    },
+    {
+        "Pokemon": "Espeon",
+        "Ability": "Magic Bounce",
+        "Use_Percentage (%)": "99.567%"
+    },
+    {
+        "Pokemon": "Espeon",
+        "Ability": "Synchronize",
+        "Use_Percentage (%)": "0.433%"
+    },
+    {
+        "Pokemon": "Crobat",
+        "Ability": "Inner Focus",
+        "Use_Percentage (%)": "79.033%"
+    },
+    {
+        "Pokemon": "Crobat",
+        "Ability": "Infiltrator",
+        "Use_Percentage (%)": "20.967%"
+    },
+    {
+        "Pokemon": "Tyrantrum",
+        "Ability": "Rock Head",
+        "Use_Percentage (%)": "99.866%"
+    },
+    {
+        "Pokemon": "Tyrantrum",
+        "Ability": "Strong Jaw",
+        "Use_Percentage (%)": "0.134%"
+    },
+    {
+        "Pokemon": "Cinccino",
+        "Ability": "Skill Link",
+        "Use_Percentage (%)": "89.304%"
+    },
+    {
+        "Pokemon": "Cinccino",
+        "Ability": "Technician",
+        "Use_Percentage (%)": "10.696%"
+    },
+    {
+        "Pokemon": "Cinccino",
+        "Ability": "Cute Charm",
+        "Use_Percentage (%)": "0.000%"
+    },
+    {
+        "Pokemon": "Kommo-o",
+        "Ability": "Overcoat",
+        "Use_Percentage (%)": "52.187%"
+    },
+    {
+        "Pokemon": "Kommo-o",
+        "Ability": "Soundproof",
+        "Use_Percentage (%)": "47.810%"
+    },
+    {
+        "Pokemon": "Kommo-o",
+        "Ability": "Bulletproof",
+        "Use_Percentage (%)": "0.003%"
+    },
+    {
+        "Pokemon": "Blissey",
+        "Ability": "Serene Grace",
+        "Use_Percentage (%)": "69.948%"
+    },
+    {
+        "Pokemon": "Blissey",
+        "Ability": "Natural Cure",
+        "Use_Percentage (%)": "26.999%"
+    },
+    {
+        "Pokemon": "Blissey",
+        "Ability": "Healer",
+        "Use_Percentage (%)": "3.054%"
+    },
+    {
+        "Pokemon": "Cloyster",
+        "Ability": "Skill Link",
+        "Use_Percentage (%)": "99.960%"
+    },
+    {
+        "Pokemon": "Cloyster",
+        "Ability": "Overcoat",
+        "Use_Percentage (%)": "0.039%"
+    },
+    {
+        "Pokemon": "Cloyster",
+        "Ability": "Shell Armor",
+        "Use_Percentage (%)": "0.001%"
+    },
+    {
+        "Pokemon": "Blaziken",
+        "Ability": "Speed Boost",
+        "Use_Percentage (%)": "99.990%"
+    },
+    {
+        "Pokemon": "Blaziken",
+        "Ability": "Blaze",
+        "Use_Percentage (%)": "0.010%"
+    },
+    {
+        "Pokemon": "Drampa",
+        "Ability": "Cloud Nine",
+        "Use_Percentage (%)": "87.480%"
+    },
+    {
+        "Pokemon": "Drampa",
+        "Ability": "Sap Sipper",
+        "Use_Percentage (%)": "8.813%"
+    },
+    {
+        "Pokemon": "Drampa",
+        "Ability": "Berserk",
+        "Use_Percentage (%)": "3.707%"
+    },
+    {
+        "Pokemon": "Hawlucha",
+        "Ability": "Unburden",
+        "Use_Percentage (%)": "86.197%"
+    },
+    {
+        "Pokemon": "Hawlucha",
+        "Ability": "Mold Breaker",
+        "Use_Percentage (%)": "13.704%"
+    },
+    {
+        "Pokemon": "Hawlucha",
+        "Ability": "Limber",
+        "Use_Percentage (%)": "0.099%"
+    },
+    {
+        "Pokemon": "Mr. Mime-Galar",
+        "Ability": "Vital Spirit",
+        "Use_Percentage (%)": "50.430%"
+    },
+    {
+        "Pokemon": "Mr. Mime-Galar",
+        "Ability": "Screen Cleaner",
+        "Use_Percentage (%)": "49.553%"
+    },
+    {
+        "Pokemon": "Mr. Mime-Galar",
+        "Ability": "Ice Body",
+        "Use_Percentage (%)": "0.017%"
+    },
+    {
+        "Pokemon": "Grapploct",
+        "Ability": "Limber",
+        "Use_Percentage (%)": "85.148%"
+    },
+    {
+        "Pokemon": "Grapploct",
+        "Ability": "Technician",
+        "Use_Percentage (%)": "14.852%"
+    },
+    {
+        "Pokemon": "Zoroark",
+        "Ability": "Illusion",
+        "Use_Percentage (%)": "100.000%"
+    },
+    {
+        "Pokemon": "Lilligant",
+        "Ability": "Chlorophyll",
+        "Use_Percentage (%)": "99.545%"
+    },
+    {
+        "Pokemon": "Lilligant",
+        "Ability": "Own Tempo",
+        "Use_Percentage (%)": "0.453%"
+    },
+    {
+        "Pokemon": "Lilligant",
+        "Ability": "Leaf Guard",
+        "Use_Percentage (%)": "0.002%"
+    },
+    {
+        "Pokemon": "Clawitzer",
+        "Ability": "Mega Launcher",
+        "Use_Percentage (%)": "100.000%"
+    },
+    {
+        "Pokemon": "Qwilfish",
+        "Ability": "Intimidate",
+        "Use_Percentage (%)": "99.325%"
+    },
+    {
+        "Pokemon": "Qwilfish",
+        "Ability": "Swift Swim",
+        "Use_Percentage (%)": "0.669%"
+    },
+    {
+        "Pokemon": "Qwilfish",
+        "Ability": "Poison Point",
+        "Use_Percentage (%)": "0.006%"
+    },
+    {
+        "Pokemon": "Haxorus",
+        "Ability": "Mold Breaker",
+        "Use_Percentage (%)": "97.616%"
+    },
+    {
+        "Pokemon": "Haxorus",
+        "Ability": "Unnerve",
+        "Use_Percentage (%)": "2.301%"
+    },
+    {
+        "Pokemon": "Haxorus",
+        "Ability": "Rivalry",
+        "Use_Percentage (%)": "0.083%"
+    },
+    {
+        "Pokemon": "Dhelmise",
+        "Ability": "Steelworker",
+        "Use_Percentage (%)": "100.000%"
+    },
+    {
+        "Pokemon": "Runerigus",
+        "Ability": "Wandering Spirit",
+        "Use_Percentage (%)": "100.000%"
+    },
+    {
+        "Pokemon": "Braviary",
+        "Ability": "Defiant",
+        "Use_Percentage (%)": "99.876%"
+    },
+    {
+        "Pokemon": "Braviary",
+        "Ability": "Keen Eye",
+        "Use_Percentage (%)": "0.104%"
+    },
+    {
+        "Pokemon": "Braviary",
+        "Ability": "Sheer Force",
+        "Use_Percentage (%)": "0.020%"
+    },
+    {
+        "Pokemon": "Virizion",
+        "Ability": "Justified",
+        "Use_Percentage (%)": "100.000%"
+    },
+    {
+        "Pokemon": "Togetic",
+        "Ability": "Serene Grace",
+        "Use_Percentage (%)": "69.448%"
+    },
+    {
+        "Pokemon": "Togetic",
+        "Ability": "Super Luck",
+        "Use_Percentage (%)": "21.452%"
+    },
+    {
+        "Pokemon": "Togetic",
+        "Ability": "Hustle",
+        "Use_Percentage (%)": "9.100%"
+    },
+    {
+        "Pokemon": "Raichu-Alola",
+        "Ability": "Surge Surfer",
+        "Use_Percentage (%)": "100.000%"
+    },
+    {
+        "Pokemon": "Beartic",
+        "Ability": "Slush Rush",
+        "Use_Percentage (%)": "76.245%"
+    },
+    {
+        "Pokemon": "Beartic",
+        "Ability": "Swift Swim",
+        "Use_Percentage (%)": "23.592%"
+    },
+    {
+        "Pokemon": "Beartic",
+        "Ability": "Snow Cloak",
+        "Use_Percentage (%)": "0.162%"
+    },
+    {
+        "Pokemon": "Copperajah",
+        "Ability": "Sheer Force",
+        "Use_Percentage (%)": "85.824%"
+    },
+    {
+        "Pokemon": "Copperajah",
+        "Ability": "Heavy Metal",
+        "Use_Percentage (%)": "14.176%"
+    },
+    {
+        "Pokemon": "Flapple",
+        "Ability": "Hustle",
+        "Use_Percentage (%)": "93.710%"
+    },
+    {
+        "Pokemon": "Flapple",
+        "Ability": "Ripen",
+        "Use_Percentage (%)": "6.289%"
+    },
+    {
+        "Pokemon": "Flapple",
+        "Ability": "Gluttony",
+        "Use_Percentage (%)": "0.001%"
+    },
+    {
+        "Pokemon": "Sylveon",
+        "Ability": "Pixilate",
+        "Use_Percentage (%)": "99.281%"
+    },
+    {
+        "Pokemon": "Sylveon",
+        "Ability": "Cute Charm",
+        "Use_Percentage (%)": "0.719%"
+    },
+    {
+        "Pokemon": "Slurpuff",
+        "Ability": "Unburden",
+        "Use_Percentage (%)": "99.986%"
+    },
+    {
+        "Pokemon": "Slurpuff",
+        "Ability": "Sweet Veil",
+        "Use_Percentage (%)": "0.014%"
+    },
+    {
+        "Pokemon": "Eiscue",
+        "Ability": "Ice Face",
+        "Use_Percentage (%)": "100.000%"
+    },
+    {
+        "Pokemon": "Hippowdon",
+        "Ability": "Sand Stream",
+        "Use_Percentage (%)": "92.875%"
+    },
+    {
+        "Pokemon": "Hippowdon",
+        "Ability": "Sand Force",
+        "Use_Percentage (%)": "7.125%"
+    },
+    {
+        "Pokemon": "Alakazam",
+        "Ability": "Magic Guard",
+        "Use_Percentage (%)": "81.760%"
+    },
+    {
+        "Pokemon": "Alakazam",
+        "Ability": "Inner Focus",
+        "Use_Percentage (%)": "14.202%"
+    },
+    {
+        "Pokemon": "Alakazam",
+        "Ability": "Synchronize",
+        "Use_Percentage (%)": "4.039%"
+    },
+    {
+        "Pokemon": "Torracat",
+        "Ability": "Intimidate",
+        "Use_Percentage (%)": "99.998%"
+    },
+    {
+        "Pokemon": "Torracat",
+        "Ability": "Blaze",
+        "Use_Percentage (%)": "0.002%"
+    },
+    {
+        "Pokemon": "Thievul",
+        "Ability": "Unburden",
+        "Use_Percentage (%)": "99.565%"
+    },
+    {
+        "Pokemon": "Thievul",
+        "Ability": "Stakeout",
+        "Use_Percentage (%)": "0.435%"
+    },
+    {
+        "Pokemon": "Thievul",
+        "Ability": "Run Away",
+        "Use_Percentage (%)": "0.001%"
+    },
+    {
+        "Pokemon": "Arctozolt",
+        "Ability": "Volt Absorb",
+        "Use_Percentage (%)": "93.586%"
+    },
+    {
+        "Pokemon": "Arctozolt",
+        "Ability": "Static",
+        "Use_Percentage (%)": "6.414%"
+    },
+    {
+        "Pokemon": "Cofagrigus",
+        "Ability": "Mummy",
+        "Use_Percentage (%)": "100.000%"
+    },
+    {
+        "Pokemon": "Starmie",
+        "Ability": "Natural Cure",
+        "Use_Percentage (%)": "65.201%"
+    },
+    {
+        "Pokemon": "Starmie",
+        "Ability": "Analytic",
+        "Use_Percentage (%)": "31.130%"
+    },
+    {
+        "Pokemon": "Starmie",
+        "Ability": "Illuminate",
+        "Use_Percentage (%)": "3.669%"
+    },
+    {
+        "Pokemon": "Turtonator",
+        "Ability": "Shell Armor",
+        "Use_Percentage (%)": "100.000%"
+    },
+    {
+        "Pokemon": "Sharpedo",
+        "Ability": "Speed Boost",
+        "Use_Percentage (%)": "99.057%"
+    },
+    {
+        "Pokemon": "Sharpedo",
+        "Ability": "Rough Skin",
+        "Use_Percentage (%)": "0.943%"
+    },
+    {
+        "Pokemon": "Salazzle",
+        "Ability": "Corrosion",
+        "Use_Percentage (%)": "52.985%"
+    },
+    {
+        "Pokemon": "Salazzle",
+        "Ability": "Oblivious",
+        "Use_Percentage (%)": "47.015%"
+    },
+    {
+        "Pokemon": "Ninetales",
+        "Ability": "Drought",
+        "Use_Percentage (%)": "99.868%"
+    },
+    {
+        "Pokemon": "Ninetales",
+        "Ability": "Flash Fire",
+        "Use_Percentage (%)": "0.132%"
+    },
+    {
+        "Pokemon": "Sirfetch'd",
+        "Ability": "Scrappy",
+        "Use_Percentage (%)": "99.328%"
+    },
+    {
+        "Pokemon": "Sirfetch'd",
+        "Ability": "Steadfast",
+        "Use_Percentage (%)": "0.672%"
+    },
+    {
+        "Pokemon": "Emolga",
+        "Ability": "Motor Drive",
+        "Use_Percentage (%)": "77.116%"
+    },
+    {
+        "Pokemon": "Emolga",
+        "Ability": "Static",
+        "Use_Percentage (%)": "22.884%"
+    },
+    {
+        "Pokemon": "Ribombee",
+        "Ability": "Shield Dust",
+        "Use_Percentage (%)": "54.465%"
+    },
+    {
+        "Pokemon": "Ribombee",
+        "Ability": "Sweet Veil",
+        "Use_Percentage (%)": "44.542%"
+    },
+    {
+        "Pokemon": "Ribombee",
+        "Ability": "Honey Gather",
+        "Use_Percentage (%)": "0.993%"
+    },
+    {
+        "Pokemon": "Charjabug",
+        "Ability": "Battery",
+        "Use_Percentage (%)": "100.000%"
+    },
+    {
+        "Pokemon": "Toxtricity",
+        "Ability": "Punk Rock",
+        "Use_Percentage (%)": "99.781%"
+    },
+    {
+        "Pokemon": "Toxtricity",
+        "Ability": "Plus",
+        "Use_Percentage (%)": "0.109%"
+    },
+    {
+        "Pokemon": "Toxtricity",
+        "Ability": "Technician",
+        "Use_Percentage (%)": "0.074%"
+    },
+    {
+        "Pokemon": "Toxtricity",
+        "Ability": "Minus",
+        "Use_Percentage (%)": "0.036%"
+    },
+    {
+        "Pokemon": "Vaporeon",
+        "Ability": "Water Absorb",
+        "Use_Percentage (%)": "97.966%"
+    },
+    {
+        "Pokemon": "Vaporeon",
+        "Ability": "Hydration",
+        "Use_Percentage (%)": "2.034%"
+    },
+    {
+        "Pokemon": "Mr. Mime",
+        "Ability": "Soundproof",
+        "Use_Percentage (%)": "60.628%"
+    },
+    {
+        "Pokemon": "Mr. Mime",
+        "Ability": "Filter",
+        "Use_Percentage (%)": "36.799%"
+    },
+    {
+        "Pokemon": "Mr. Mime",
+        "Ability": "Technician",
+        "Use_Percentage (%)": "2.573%"
+    },
+    {
+        "Pokemon": "Magnezone",
+        "Ability": "Sturdy",
+        "Use_Percentage (%)": "64.126%"
+    },
+    {
+        "Pokemon": "Magnezone",
+        "Ability": "Analytic",
+        "Use_Percentage (%)": "31.935%"
+    },
+    {
+        "Pokemon": "Magnezone",
+        "Ability": "Magnet Pull",
+        "Use_Percentage (%)": "3.939%"
+    },
+    {
+        "Pokemon": "Gallade",
+        "Ability": "Justified",
+        "Use_Percentage (%)": "85.462%"
+    },
+    {
+        "Pokemon": "Gallade",
+        "Ability": "Steadfast",
+        "Use_Percentage (%)": "14.538%"
+    },
+    {
+        "Pokemon": "Lopunny",
+        "Ability": "Klutz",
+        "Use_Percentage (%)": "47.612%"
+    },
+    {
+        "Pokemon": "Lopunny",
+        "Ability": "Cute Charm",
+        "Use_Percentage (%)": "27.258%"
+    },
+    {
+        "Pokemon": "Lopunny",
+        "Ability": "Limber",
+        "Use_Percentage (%)": "25.130%"
+    },
+    {
+        "Pokemon": "Gourgeist-Small",
+        "Ability": "Frisk",
+        "Use_Percentage (%)": "98.646%"
+    },
+    {
+        "Pokemon": "Gourgeist-Small",
+        "Ability": "Pickup",
+        "Use_Percentage (%)": "1.354%"
+    },
+    {
+        "Pokemon": "Malamar",
+        "Ability": "Contrary",
+        "Use_Percentage (%)": "99.952%"
+    },
+    {
+        "Pokemon": "Malamar",
+        "Ability": "Infiltrator",
+        "Use_Percentage (%)": "0.048%"
+    },
+    {
+        "Pokemon": "Malamar",
+        "Ability": "Suction Cups",
+        "Use_Percentage (%)": "0.000%"
+    },
+    {
+        "Pokemon": "Golisopod",
+        "Ability": "Emergency Exit",
+        "Use_Percentage (%)": "100.000%"
+    },
+    {
+        "Pokemon": "Golduck",
+        "Ability": "Cloud Nine",
+        "Use_Percentage (%)": "86.812%"
+    },
+    {
+        "Pokemon": "Golduck",
+        "Ability": "Swift Swim",
+        "Use_Percentage (%)": "12.989%"
+    },
+    {
+        "Pokemon": "Golduck",
+        "Ability": "Damp",
+        "Use_Percentage (%)": "0.199%"
+    },
+    {
+        "Pokemon": "Shiinotic",
+        "Ability": "Effect Spore",
+        "Use_Percentage (%)": "87.374%"
+    },
+    {
+        "Pokemon": "Shiinotic",
+        "Ability": "Rain Dish",
+        "Use_Percentage (%)": "11.580%"
+    },
+    {
+        "Pokemon": "Shiinotic",
+        "Ability": "Illuminate",
+        "Use_Percentage (%)": "1.046%"
+    },
+    {
+        "Pokemon": "Lycanroc-Dusk",
+        "Ability": "Tough Claws",
+        "Use_Percentage (%)": "100.000%"
+    },
+    {
+        "Pokemon": "Unfezant",
+        "Ability": "Super Luck",
+        "Use_Percentage (%)": "99.652%"
+    },
+    {
+        "Pokemon": "Unfezant",
+        "Ability": "Big Pecks",
+        "Use_Percentage (%)": "0.348%"
+    },
+    {
+        "Pokemon": "Unfezant",
+        "Ability": "Rivalry",
+        "Use_Percentage (%)": "0.000%"
+    },
+    {
+        "Pokemon": "Perrserker",
+        "Ability": "Steely Spirit",
+        "Use_Percentage (%)": "71.525%"
+    },
+    {
+        "Pokemon": "Perrserker",
+        "Ability": "Tough Claws",
+        "Use_Percentage (%)": "28.448%"
+    },
+    {
+        "Pokemon": "Perrserker",
+        "Ability": "Battle Armor",
+        "Use_Percentage (%)": "0.028%"
+    },
+    {
+        "Pokemon": "Slowbro-Galar",
+        "Ability": "Quick Draw",
+        "Use_Percentage (%)": "83.932%"
+    },
+    {
+        "Pokemon": "Slowbro-Galar",
+        "Ability": "Regenerator",
+        "Use_Percentage (%)": "13.946%"
+    },
+    {
+        "Pokemon": "Slowbro-Galar",
+        "Ability": "Own Tempo",
+        "Use_Percentage (%)": "2.121%"
+    },
+    {
+        "Pokemon": "Bouffalant",
+        "Ability": "Sap Sipper",
+        "Use_Percentage (%)": "99.032%"
+    },
+    {
+        "Pokemon": "Bouffalant",
+        "Ability": "Soundproof",
+        "Use_Percentage (%)": "0.550%"
+    },
+    {
+        "Pokemon": "Bouffalant",
+        "Ability": "Reckless",
+        "Use_Percentage (%)": "0.419%"
+    },
+    {
+        "Pokemon": "Rotom-Frost",
+        "Ability": "Levitate",
+        "Use_Percentage (%)": "100.000%"
+    },
+    {
+        "Pokemon": "Roserade",
+        "Ability": "Natural Cure",
+        "Use_Percentage (%)": "90.973%"
+    },
+    {
+        "Pokemon": "Roserade",
+        "Ability": "Poison Point",
+        "Use_Percentage (%)": "8.690%"
+    },
+    {
+        "Pokemon": "Roserade",
+        "Ability": "Technician",
+        "Use_Percentage (%)": "0.338%"
+    },
+    {
+        "Pokemon": "Tangrowth",
+        "Ability": "Regenerator",
+        "Use_Percentage (%)": "92.203%"
+    },
+    {
+        "Pokemon": "Tangrowth",
+        "Ability": "Chlorophyll",
+        "Use_Percentage (%)": "7.721%"
+    },
+    {
+        "Pokemon": "Tangrowth",
+        "Ability": "Leaf Guard",
+        "Use_Percentage (%)": "0.077%"
+    },
+    {
+        "Pokemon": "Sandaconda",
+        "Ability": "Shed Skin",
+        "Use_Percentage (%)": "55.896%"
+    },
+    {
+        "Pokemon": "Sandaconda",
+        "Ability": "Sand Spit",
+        "Use_Percentage (%)": "33.014%"
+    },
+    {
+        "Pokemon": "Sandaconda",
+        "Ability": "Sand Veil",
+        "Use_Percentage (%)": "11.090%"
+    },
+    {
+        "Pokemon": "Polteageist",
+        "Ability": "Weak Armor",
+        "Use_Percentage (%)": "65.833%"
+    },
+    {
+        "Pokemon": "Polteageist",
+        "Ability": "Cursed Body",
+        "Use_Percentage (%)": "34.167%"
+    },
+    {
+        "Pokemon": "Tangela",
+        "Ability": "Regenerator",
+        "Use_Percentage (%)": "97.040%"
+    },
+    {
+        "Pokemon": "Tangela",
+        "Ability": "Chlorophyll",
+        "Use_Percentage (%)": "2.941%"
+    },
+    {
+        "Pokemon": "Tangela",
+        "Ability": "Leaf Guard",
+        "Use_Percentage (%)": "0.019%"
+    },
+    {
+        "Pokemon": "Morpeko",
+        "Ability": "Hunger Switch",
+        "Use_Percentage (%)": "100.000%"
+    },
+    {
+        "Pokemon": "Eldegoss",
+        "Ability": "Cotton Down",
+        "Use_Percentage (%)": "92.851%"
+    },
+    {
+        "Pokemon": "Eldegoss",
+        "Ability": "Regenerator",
+        "Use_Percentage (%)": "6.593%"
+    },
+    {
+        "Pokemon": "Eldegoss",
+        "Ability": "Effect Spore",
+        "Use_Percentage (%)": "0.556%"
+    },
+    {
+        "Pokemon": "Aromatisse",
+        "Ability": "Aroma Veil",
+        "Use_Percentage (%)": "87.030%"
+    },
+    {
+        "Pokemon": "Aromatisse",
+        "Ability": "Healer",
+        "Use_Percentage (%)": "12.970%"
+    },
+    {
+        "Pokemon": "Miltank",
+        "Ability": "Sap Sipper",
+        "Use_Percentage (%)": "88.596%"
+    },
+    {
+        "Pokemon": "Miltank",
+        "Ability": "Scrappy",
+        "Use_Percentage (%)": "8.060%"
+    },
+    {
+        "Pokemon": "Miltank",
+        "Ability": "Thick Fat",
+        "Use_Percentage (%)": "3.344%"
+    },
+    {
+        "Pokemon": "Gourgeist-Super",
+        "Ability": "Frisk",
+        "Use_Percentage (%)": "96.738%"
+    },
+    {
+        "Pokemon": "Gourgeist-Super",
+        "Ability": "Insomnia",
+        "Use_Percentage (%)": "3.163%"
+    },
+    {
+        "Pokemon": "Gourgeist-Super",
+        "Ability": "Pickup",
+        "Use_Percentage (%)": "0.099%"
+    },
+    {
+        "Pokemon": "Crawdaunt",
+        "Ability": "Adaptability",
+        "Use_Percentage (%)": "91.071%"
+    },
+    {
+        "Pokemon": "Crawdaunt",
+        "Ability": "Hyper Cutter",
+        "Use_Percentage (%)": "8.929%"
+    },
+    {
+        "Pokemon": "Crawdaunt",
+        "Ability": "Shell Armor",
+        "Use_Percentage (%)": "0.000%"
+    },
+    {
+        "Pokemon": "Heracross",
+        "Ability": "Moxie",
+        "Use_Percentage (%)": "51.673%"
+    },
+    {
+        "Pokemon": "Heracross",
+        "Ability": "Guts",
+        "Use_Percentage (%)": "47.992%"
+    },
+    {
+        "Pokemon": "Heracross",
+        "Ability": "Swarm",
+        "Use_Percentage (%)": "0.336%"
+    },
+    {
+        "Pokemon": "Magneton",
+        "Ability": "Analytic",
+        "Use_Percentage (%)": "69.106%"
+    },
+    {
+        "Pokemon": "Magneton",
+        "Ability": "Magnet Pull",
+        "Use_Percentage (%)": "20.648%"
+    },
+    {
+        "Pokemon": "Magneton",
+        "Ability": "Sturdy",
+        "Use_Percentage (%)": "10.246%"
+    },
+    {
+        "Pokemon": "Stoutland",
+        "Ability": "Sand Rush",
+        "Use_Percentage (%)": "80.760%"
+    },
+    {
+        "Pokemon": "Stoutland",
+        "Ability": "Intimidate",
+        "Use_Percentage (%)": "18.933%"
+    },
+    {
+        "Pokemon": "Stoutland",
+        "Ability": "Scrappy",
+        "Use_Percentage (%)": "0.307%"
+    },
+    {
+        "Pokemon": "Noivern",
+        "Ability": "Frisk",
+        "Use_Percentage (%)": "75.346%"
+    },
+    {
+        "Pokemon": "Noivern",
+        "Ability": "Infiltrator",
+        "Use_Percentage (%)": "16.234%"
+    },
+    {
+        "Pokemon": "Noivern",
+        "Ability": "Telepathy",
+        "Use_Percentage (%)": "8.420%"
+    },
+    {
+        "Pokemon": "Claydol",
+        "Ability": "Levitate",
+        "Use_Percentage (%)": "100.000%"
+    },
+    {
+        "Pokemon": "Jolteon",
+        "Ability": "Volt Absorb",
+        "Use_Percentage (%)": "86.987%"
+    },
+    {
+        "Pokemon": "Jolteon",
+        "Ability": "Quick Feet",
+        "Use_Percentage (%)": "13.013%"
+    },
+    {
+        "Pokemon": "Vileplume",
+        "Ability": "Chlorophyll",
+        "Use_Percentage (%)": "92.915%"
+    },
+    {
+        "Pokemon": "Vileplume",
+        "Ability": "Effect Spore",
+        "Use_Percentage (%)": "7.085%"
+    },
+    {
+        "Pokemon": "Cursola",
+        "Ability": "Perish Body",
+        "Use_Percentage (%)": "81.619%"
+    },
+    {
+        "Pokemon": "Cursola",
+        "Ability": "Weak Armor",
+        "Use_Percentage (%)": "18.381%"
+    },
+    {
+        "Pokemon": "Falinks",
+        "Ability": "Defiant",
+        "Use_Percentage (%)": "96.910%"
+    },
+    {
+        "Pokemon": "Falinks",
+        "Ability": "Battle Armor",
+        "Use_Percentage (%)": "3.090%"
+    },
+    {
+        "Pokemon": "Dedenne",
+        "Ability": "Cheek Pouch",
+        "Use_Percentage (%)": "67.092%"
+    },
+    {
+        "Pokemon": "Dedenne",
+        "Ability": "Pickup",
+        "Use_Percentage (%)": "20.966%"
+    },
+    {
+        "Pokemon": "Dedenne",
+        "Ability": "Plus",
+        "Use_Percentage (%)": "11.943%"
+    },
+    {
+        "Pokemon": "Flygon",
+        "Ability": "Levitate",
+        "Use_Percentage (%)": "100.000%"
+    },
+    {
+        "Pokemon": "Crustle",
+        "Ability": "Weak Armor",
+        "Use_Percentage (%)": "86.481%"
+    },
+    {
+        "Pokemon": "Crustle",
+        "Ability": "Sturdy",
+        "Use_Percentage (%)": "13.509%"
+    },
+    {
+        "Pokemon": "Crustle",
+        "Ability": "Shell Armor",
+        "Use_Percentage (%)": "0.010%"
+    },
+    {
+        "Pokemon": "Reuniclus",
+        "Ability": "Magic Guard",
+        "Use_Percentage (%)": "50.299%"
+    },
+    {
+        "Pokemon": "Reuniclus",
+        "Ability": "Overcoat",
+        "Use_Percentage (%)": "47.848%"
+    },
+    {
+        "Pokemon": "Reuniclus",
+        "Ability": "Regenerator",
+        "Use_Percentage (%)": "1.853%"
+    },
+    {
+        "Pokemon": "Dusknoir",
+        "Ability": "Frisk",
+        "Use_Percentage (%)": "94.745%"
+    },
+    {
+        "Pokemon": "Dusknoir",
+        "Ability": "Pressure",
+        "Use_Percentage (%)": "5.255%"
+    },
+    {
+        "Pokemon": "Drapion",
+        "Ability": "Battle Armor",
+        "Use_Percentage (%)": "80.102%"
+    },
+    {
+        "Pokemon": "Drapion",
+        "Ability": "Sniper",
+        "Use_Percentage (%)": "19.843%"
+    },
+    {
+        "Pokemon": "Drapion",
+        "Ability": "Keen Eye",
+        "Use_Percentage (%)": "0.055%"
+    },
+    {
+        "Pokemon": "Exploud",
+        "Ability": "Soundproof",
+        "Use_Percentage (%)": "61.751%"
+    },
+    {
+        "Pokemon": "Exploud",
+        "Ability": "Scrappy",
+        "Use_Percentage (%)": "38.249%"
+    },
+    {
+        "Pokemon": "Wigglytuff",
+        "Ability": "Competitive",
+        "Use_Percentage (%)": "98.753%"
+    },
+    {
+        "Pokemon": "Wigglytuff",
+        "Ability": "Frisk",
+        "Use_Percentage (%)": "0.916%"
+    },
+    {
+        "Pokemon": "Wigglytuff",
+        "Ability": "Cute Charm",
+        "Use_Percentage (%)": "0.331%"
+    },
+    {
+        "Pokemon": "Gardevoir",
+        "Ability": "Trace",
+        "Use_Percentage (%)": "92.987%"
+    },
+    {
+        "Pokemon": "Gardevoir",
+        "Ability": "Telepathy",
+        "Use_Percentage (%)": "3.627%"
+    },
+    {
+        "Pokemon": "Gardevoir",
+        "Ability": "Synchronize",
+        "Use_Percentage (%)": "3.386%"
+    },
+    {
+        "Pokemon": "Corsola-Galar",
+        "Ability": "Cursed Body",
+        "Use_Percentage (%)": "99.197%"
+    },
+    {
+        "Pokemon": "Corsola-Galar",
+        "Ability": "Weak Armor",
+        "Use_Percentage (%)": "0.803%"
+    },
+    {
+        "Pokemon": "Vanilluxe",
+        "Ability": "Snow Warning",
+        "Use_Percentage (%)": "99.989%"
+    },
+    {
+        "Pokemon": "Vanilluxe",
+        "Ability": "Weak Armor",
+        "Use_Percentage (%)": "0.011%"
+    },
+    {
+        "Pokemon": "Vanilluxe",
+        "Ability": "Ice Body",
+        "Use_Percentage (%)": "0.000%"
+    },
+    {
+        "Pokemon": "Seaking",
+        "Ability": "Lightning Rod",
+        "Use_Percentage (%)": "98.592%"
+    },
+    {
+        "Pokemon": "Seaking",
+        "Ability": "Swift Swim",
+        "Use_Percentage (%)": "1.408%"
+    },
+    {
+        "Pokemon": "Seaking",
+        "Ability": "Water Veil",
+        "Use_Percentage (%)": "0.000%"
+    },
+    {
+        "Pokemon": "Sigilyph",
+        "Ability": "Magic Guard",
+        "Use_Percentage (%)": "69.132%"
+    },
+    {
+        "Pokemon": "Sigilyph",
+        "Ability": "Wonder Skin",
+        "Use_Percentage (%)": "17.863%"
+    },
+    {
+        "Pokemon": "Sigilyph",
+        "Ability": "Tinted Lens",
+        "Use_Percentage (%)": "13.004%"
+    },
+    {
+        "Pokemon": "Decidueye",
+        "Ability": "Overgrow",
+        "Use_Percentage (%)": "72.437%"
+    },
+    {
+        "Pokemon": "Decidueye",
+        "Ability": "Long Reach",
+        "Use_Percentage (%)": "27.563%"
+    },
+    {
+        "Pokemon": "Galvantula",
+        "Ability": "Compound Eyes",
+        "Use_Percentage (%)": "99.552%"
+    },
+    {
+        "Pokemon": "Galvantula",
+        "Ability": "Unnerve",
+        "Use_Percentage (%)": "0.448%"
+    },
+    {
+        "Pokemon": "Galvantula",
+        "Ability": "Swarm",
+        "Use_Percentage (%)": "0.000%"
+    },
+    {
+        "Pokemon": "Arctovish",
+        "Ability": "Water Absorb",
+        "Use_Percentage (%)": "99.977%"
+    },
+    {
+        "Pokemon": "Arctovish",
+        "Ability": "Ice Body",
+        "Use_Percentage (%)": "0.023%"
+    },
+    {
+        "Pokemon": "Maractus",
+        "Ability": "Storm Drain",
+        "Use_Percentage (%)": "85.498%"
+    },
+    {
+        "Pokemon": "Maractus",
+        "Ability": "Water Absorb",
+        "Use_Percentage (%)": "13.502%"
+    },
+    {
+        "Pokemon": "Maractus",
+        "Ability": "Chlorophyll",
+        "Use_Percentage (%)": "1.000%"
+    },
+    {
+        "Pokemon": "Orbeetle",
+        "Ability": "Frisk",
+        "Use_Percentage (%)": "89.856%"
+    },
+    {
+        "Pokemon": "Orbeetle",
+        "Ability": "Telepathy",
+        "Use_Percentage (%)": "8.055%"
+    },
+    {
+        "Pokemon": "Orbeetle",
+        "Ability": "Swarm",
+        "Use_Percentage (%)": "2.089%"
+    },
+    {
+        "Pokemon": "Passimian",
+        "Ability": "Defiant",
+        "Use_Percentage (%)": "60.536%"
+    },
+    {
+        "Pokemon": "Passimian",
+        "Ability": "Receiver",
+        "Use_Percentage (%)": "39.464%"
+    },
+    {
+        "Pokemon": "Ninjask",
+        "Ability": "Speed Boost",
+        "Use_Percentage (%)": "98.908%"
+    },
+    {
+        "Pokemon": "Ninjask",
+        "Ability": "Infiltrator",
+        "Use_Percentage (%)": "1.092%"
+    },
+    {
+        "Pokemon": "Druddigon",
+        "Ability": "Rough Skin",
+        "Use_Percentage (%)": "92.085%"
+    },
+    {
+        "Pokemon": "Druddigon",
+        "Ability": "Sheer Force",
+        "Use_Percentage (%)": "6.207%"
+    },
+    {
+        "Pokemon": "Druddigon",
+        "Ability": "Mold Breaker",
+        "Use_Percentage (%)": "1.708%"
+    },
+    {
+        "Pokemon": "Lycanroc",
+        "Ability": "Sand Rush",
+        "Use_Percentage (%)": "97.601%"
+    },
+    {
+        "Pokemon": "Lycanroc",
+        "Ability": "Steadfast",
+        "Use_Percentage (%)": "1.991%"
+    },
+    {
+        "Pokemon": "Lycanroc",
+        "Ability": "Keen Eye",
+        "Use_Percentage (%)": "0.408%"
+    },
+    {
+        "Pokemon": "Beheeyem",
+        "Ability": "Analytic",
+        "Use_Percentage (%)": "93.409%"
+    },
+    {
+        "Pokemon": "Beheeyem",
+        "Ability": "Telepathy",
+        "Use_Percentage (%)": "5.687%"
+    },
+    {
+        "Pokemon": "Beheeyem",
+        "Ability": "Synchronize",
+        "Use_Percentage (%)": "0.904%"
+    },
+    {
+        "Pokemon": "Marowak",
+        "Ability": "Lightning Rod",
+        "Use_Percentage (%)": "96.593%"
+    },
+    {
+        "Pokemon": "Marowak",
+        "Ability": "Battle Armor",
+        "Use_Percentage (%)": "3.302%"
+    },
+    {
+        "Pokemon": "Marowak",
+        "Ability": "Rock Head",
+        "Use_Percentage (%)": "0.105%"
+    },
+    {
+        "Pokemon": "Tentacruel",
+        "Ability": "Clear Body",
+        "Use_Percentage (%)": "97.048%"
+    },
+    {
+        "Pokemon": "Tentacruel",
+        "Ability": "Rain Dish",
+        "Use_Percentage (%)": "2.605%"
+    },
+    {
+        "Pokemon": "Tentacruel",
+        "Ability": "Liquid Ooze",
+        "Use_Percentage (%)": "0.347%"
+    },
+    {
+        "Pokemon": "Dragalge",
+        "Ability": "Adaptability",
+        "Use_Percentage (%)": "99.169%"
+    },
+    {
+        "Pokemon": "Dragalge",
+        "Ability": "Poison Point",
+        "Use_Percentage (%)": "0.805%"
+    },
+    {
+        "Pokemon": "Dragalge",
+        "Ability": "Poison Touch",
+        "Use_Percentage (%)": "0.025%"
+    },
+    {
+        "Pokemon": "Flareon",
+        "Ability": "Guts",
+        "Use_Percentage (%)": "94.976%"
+    },
+    {
+        "Pokemon": "Flareon",
+        "Ability": "Flash Fire",
+        "Use_Percentage (%)": "5.024%"
+    },
+    {
+        "Pokemon": "Bewear",
+        "Ability": "Fluffy",
+        "Use_Percentage (%)": "99.822%"
+    },
+    {
+        "Pokemon": "Bewear",
+        "Ability": "Unnerve",
+        "Use_Percentage (%)": "0.176%"
+    },
+    {
+        "Pokemon": "Bewear",
+        "Ability": "Klutz",
+        "Use_Percentage (%)": "0.002%"
+    },
+    {
+        "Pokemon": "Scyther",
+        "Ability": "Technician",
+        "Use_Percentage (%)": "99.161%"
+    },
+    {
+        "Pokemon": "Scyther",
+        "Ability": "Swarm",
+        "Use_Percentage (%)": "0.492%"
+    },
+    {
+        "Pokemon": "Scyther",
+        "Ability": "Steadfast",
+        "Use_Percentage (%)": "0.346%"
+    },
+    {
+        "Pokemon": "Sandslash-Alola",
+        "Ability": "Slush Rush",
+        "Use_Percentage (%)": "99.585%"
+    },
+    {
+        "Pokemon": "Sandslash-Alola",
+        "Ability": "Snow Cloak",
+        "Use_Percentage (%)": "0.415%"
+    },
+    {
+        "Pokemon": "Poliwrath",
+        "Ability": "Swift Swim",
+        "Use_Percentage (%)": "95.257%"
+    },
+    {
+        "Pokemon": "Poliwrath",
+        "Ability": "Water Absorb",
+        "Use_Percentage (%)": "4.742%"
+    },
+    {
+        "Pokemon": "Poliwrath",
+        "Ability": "Damp",
+        "Use_Percentage (%)": "0.001%"
+    },
+    {
+        "Pokemon": "Lycanroc-Midnight",
+        "Ability": "No Guard",
+        "Use_Percentage (%)": "79.701%"
+    },
+    {
+        "Pokemon": "Lycanroc-Midnight",
+        "Ability": "Vital Spirit",
+        "Use_Percentage (%)": "20.287%"
+    },
+    {
+        "Pokemon": "Lycanroc-Midnight",
+        "Ability": "Keen Eye",
+        "Use_Percentage (%)": "0.012%"
+    },
+    {
+        "Pokemon": "Golurk",
+        "Ability": "No Guard",
+        "Use_Percentage (%)": "70.410%"
+    },
+    {
+        "Pokemon": "Golurk",
+        "Ability": "Iron Fist",
+        "Use_Percentage (%)": "28.228%"
+    },
+    {
+        "Pokemon": "Golurk",
+        "Ability": "Klutz",
+        "Use_Percentage (%)": "1.362%"
+    },
+    {
+        "Pokemon": "Lickilicky",
+        "Ability": "Cloud Nine",
+        "Use_Percentage (%)": "69.135%"
+    },
+    {
+        "Pokemon": "Lickilicky",
+        "Ability": "Own Tempo",
+        "Use_Percentage (%)": "30.243%"
+    },
+    {
+        "Pokemon": "Lickilicky",
+        "Ability": "Oblivious",
+        "Use_Percentage (%)": "0.621%"
+    },
+    {
+        "Pokemon": "Rotom-Fan",
+        "Ability": "Levitate",
+        "Use_Percentage (%)": "100.000%"
+    },
+    {
+        "Pokemon": "Hitmonlee",
+        "Ability": "Unburden",
+        "Use_Percentage (%)": "99.204%"
+    },
+    {
+        "Pokemon": "Hitmonlee",
+        "Ability": "Reckless",
+        "Use_Percentage (%)": "0.795%"
+    },
+    {
+        "Pokemon": "Hitmonlee",
+        "Ability": "Limber",
+        "Use_Percentage (%)": "0.001%"
+    },
+    {
+        "Pokemon": "Scolipede",
+        "Ability": "Speed Boost",
+        "Use_Percentage (%)": "99.826%"
+    },
+    {
+        "Pokemon": "Scolipede",
+        "Ability": "Poison Point",
+        "Use_Percentage (%)": "0.173%"
+    },
+    {
+        "Pokemon": "Scolipede",
+        "Ability": "Swarm",
+        "Use_Percentage (%)": "0.001%"
+    },
+    {
+        "Pokemon": "Dunsparce",
+        "Ability": "Serene Grace",
+        "Use_Percentage (%)": "55.668%"
+    },
+    {
+        "Pokemon": "Dunsparce",
+        "Ability": "Rattled",
+        "Use_Percentage (%)": "44.332%"
+    },
+    {
+        "Pokemon": "Dunsparce",
+        "Ability": "Run Away",
+        "Use_Percentage (%)": "0.000%"
+    },
+    {
+        "Pokemon": "Sandslash",
+        "Ability": "Sand Rush",
+        "Use_Percentage (%)": "99.760%"
+    },
+    {
+        "Pokemon": "Sandslash",
+        "Ability": "Sand Veil",
+        "Use_Percentage (%)": "0.240%"
+    },
+    {
+        "Pokemon": "Steelix",
+        "Ability": "Sturdy",
+        "Use_Percentage (%)": "82.896%"
+    },
+    {
+        "Pokemon": "Steelix",
+        "Ability": "Sheer Force",
+        "Use_Percentage (%)": "14.225%"
+    },
+    {
+        "Pokemon": "Steelix",
+        "Ability": "Rock Head",
+        "Use_Percentage (%)": "2.878%"
+    },
+    {
+        "Pokemon": "Noctowl",
+        "Ability": "Tinted Lens",
+        "Use_Percentage (%)": "97.481%"
+    },
+    {
+        "Pokemon": "Noctowl",
+        "Ability": "Insomnia",
+        "Use_Percentage (%)": "2.519%"
+    },
+    {
+        "Pokemon": "Noctowl",
+        "Ability": "Keen Eye",
+        "Use_Percentage (%)": "0.000%"
+    },
+    {
+        "Pokemon": "Corsola",
+        "Ability": "Hustle",
+        "Use_Percentage (%)": "100.000%"
+    },
+    {
+        "Pokemon": "Corsola",
+        "Ability": "Regenerator",
+        "Use_Percentage (%)": "0.000%"
+    },
+    {
+        "Pokemon": "Mime Jr.",
+        "Ability": "Soundproof",
+        "Use_Percentage (%)": "99.870%"
+    },
+    {
+        "Pokemon": "Mime Jr.",
+        "Ability": "Filter",
+        "Use_Percentage (%)": "0.130%"
+    },
+    {
+        "Pokemon": "Mime Jr.",
+        "Ability": "Technician",
+        "Use_Percentage (%)": "0.000%"
+    },
+    {
+        "Pokemon": "Gourgeist-Large",
+        "Ability": "Frisk",
+        "Use_Percentage (%)": "100.000%"
+    },
+    {
+        "Pokemon": "Gourgeist-Large",
+        "Ability": "Pickup",
+        "Use_Percentage (%)": "0.000%"
+    }
+]
