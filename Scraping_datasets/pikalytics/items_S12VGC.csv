@@ -1,0 +1,1893 @@
+,Pokemon,Item,Use_Percentage (%)
+0,Zacian-Crowned,Rusted Sword,100.000%
+1,Incineroar,Shuca Berry,36.082%
+2,Incineroar,Safety Goggles,23.390%
+3,Incineroar,Sitrus Berry,14.031%
+4,Incineroar,Focus Sash,8.994%
+5,Incineroar,Figy Berry,3.636%
+6,Incineroar,Assault Vest,3.173%
+7,Incineroar,Weakness Policy,2.494%
+8,Incineroar,Chople Berry,1.935%
+9,Incineroar,Eject Button,1.335%
+10,Incineroar,Other,4.928%
+11,Kyogre,Mystic Water,34.414%
+12,Kyogre,Life Orb,20.986%
+13,Kyogre,Choice Scarf,14.993%
+14,Kyogre,Assault Vest,9.969%
+15,Kyogre,Choice Specs,7.006%
+16,Kyogre,Sea Incense,3.690%
+17,Kyogre,Leftovers,3.189%
+18,Kyogre,Wave Incense,2.427%
+19,Kyogre,Other,3.326%
+20,Grimmsnarl,Light Clay,57.116%
+21,Grimmsnarl,Iron Ball,20.017%
+22,Grimmsnarl,Lagging Tail,10.226%
+23,Grimmsnarl,Focus Sash,5.080%
+24,Grimmsnarl,Babiri Berry,2.821%
+25,Grimmsnarl,Other,4.740%
+26,Regieleki,Life Orb,29.152%
+27,Regieleki,Focus Sash,28.769%
+28,Regieleki,Magnet,18.534%
+29,Regieleki,Assault Vest,17.208%
+30,Regieleki,Choice Scarf,1.755%
+31,Regieleki,Other,4.582%
+32,Rillaboom,Assault Vest,41.249%
+33,Rillaboom,Miracle Seed,29.114%
+34,Rillaboom,Rose Incense,15.973%
+35,Rillaboom,Grassy Seed,4.515%
+36,Rillaboom,Expert Belt,3.748%
+37,Rillaboom,Life Orb,1.590%
+38,Rillaboom,Other,3.811%
+39,Groudon,Assault Vest,50.974%
+40,Groudon,Sitrus Berry,22.661%
+41,Groudon,Weakness Policy,5.618%
+42,Groudon,Choice Scarf,4.647%
+43,Groudon,White Herb,4.020%
+44,Groudon,Wide Lens,3.800%
+45,Groudon,Life Orb,3.520%
+46,Groudon,Other,4.760%
+47,Calyrex-Shadow,Focus Sash,61.341%
+48,Calyrex-Shadow,Choice Specs,19.098%
+49,Calyrex-Shadow,Life Orb,14.525%
+50,Calyrex-Shadow,Choice Scarf,3.928%
+51,Calyrex-Shadow,Other,1.108%
+52,Thundurus,Assault Vest,43.265%
+53,Thundurus,Life Orb,19.423%
+54,Thundurus,Sitrus Berry,12.571%
+55,Thundurus,Safety Goggles,10.177%
+56,Thundurus,Magnet,5.361%
+57,Thundurus,Expert Belt,2.842%
+58,Thundurus,Iron Ball,2.545%
+59,Thundurus,Other,3.816%
+60,Landorus-Therian,White Herb,42.077%
+61,Landorus-Therian,Life Orb,20.890%
+62,Landorus-Therian,Assault Vest,13.064%
+63,Landorus-Therian,Lum Berry,10.388%
+64,Landorus-Therian,Choice Scarf,7.671%
+65,Landorus-Therian,Choice Band,3.124%
+66,Landorus-Therian,Other,2.786%
+67,Gastrodon,Leftovers,84.781%
+68,Gastrodon,Rindo Berry,6.800%
+69,Gastrodon,Sitrus Berry,6.223%
+70,Gastrodon,Other,2.196%
+71,Charizard,Lum Berry,39.492%
+72,Charizard,Life Orb,28.879%
+73,Charizard,Charti Berry,21.713%
+74,Charizard,Assault Vest,4.232%
+75,Charizard,Wacan Berry,1.229%
+76,Charizard,Other,4.455%
+77,Amoonguss,Coba Berry,50.111%
+78,Amoonguss,Mental Herb,16.966%
+79,Amoonguss,Focus Sash,15.017%
+80,Amoonguss,Yache Berry,5.053%
+81,Amoonguss,Sitrus Berry,3.186%
+82,Amoonguss,Occa Berry,2.476%
+83,Amoonguss,Iapapa Berry,1.860%
+84,Amoonguss,Wiki Berry,1.431%
+85,Amoonguss,Other,3.901%
+86,Indeedee-F,Psychic Seed,64.443%
+87,Indeedee-F,Focus Sash,23.447%
+88,Indeedee-F,Safety Goggles,9.133%
+89,Indeedee-F,Other,2.977%
+90,Whimsicott,Focus Sash,59.282%
+91,Whimsicott,Eject Button,22.419%
+92,Whimsicott,Mental Herb,7.572%
+93,Whimsicott,Coba Berry,4.387%
+94,Whimsicott,Expert Belt,3.002%
+95,Whimsicott,Other,3.338%
+96,Yveltal,Life Orb,49.056%
+97,Yveltal,Assault Vest,39.906%
+98,Yveltal,Weakness Policy,3.778%
+99,Yveltal,Black Glasses,2.648%
+100,Yveltal,Other,4.612%
+101,Calyrex-Ice,Weakness Policy,39.275%
+102,Calyrex-Ice,Babiri Berry,32.411%
+103,Calyrex-Ice,White Herb,11.253%
+104,Calyrex-Ice,Focus Sash,6.578%
+105,Calyrex-Ice,Life Orb,3.013%
+106,Calyrex-Ice,Assault Vest,2.849%
+107,Calyrex-Ice,Other,4.621%
+108,Palkia,Life Orb,46.740%
+109,Palkia,Lustrous Orb,28.547%
+110,Palkia,Safety Goggles,10.162%
+111,Palkia,Wiki Berry,6.336%
+112,Palkia,Psychic Seed,3.851%
+113,Palkia,Other,4.364%
+114,Porygon2,Eviolite,99.999%
+115,Porygon2,Other,0.001%
+116,Tornadus,Focus Sash,63.365%
+117,Tornadus,Life Orb,17.875%
+118,Tornadus,Mental Herb,6.243%
+119,Tornadus,Wacan Berry,3.918%
+120,Tornadus,Sharp Beak,2.393%
+121,Tornadus,Sitrus Berry,2.153%
+122,Tornadus,Other,4.053%
+123,Zapdos,Life Orb,68.894%
+124,Zapdos,Safety Goggles,19.278%
+125,Zapdos,Utility Umbrella,4.511%
+126,Zapdos,Assault Vest,3.374%
+127,Zapdos,Other,3.943%
+128,Kartana,Assault Vest,73.383%
+129,Kartana,Life Orb,20.575%
+130,Kartana,Focus Sash,2.936%
+131,Kartana,Other,3.106%
+132,Blastoise,Wacan Berry,60.820%
+133,Blastoise,Assault Vest,21.366%
+134,Blastoise,Mystic Water,8.865%
+135,Blastoise,Weakness Policy,1.821%
+136,Blastoise,Sitrus Berry,1.665%
+137,Blastoise,Life Orb,1.495%
+138,Blastoise,Other,3.968%
+139,Venusaur,Focus Sash,28.253%
+140,Venusaur,Weakness Policy,23.713%
+141,Venusaur,Life Orb,20.899%
+142,Venusaur,Coba Berry,19.643%
+143,Venusaur,Assault Vest,3.178%
+144,Venusaur,Other,4.314%
+145,Ferrothorn,Leftovers,81.215%
+146,Ferrothorn,Assault Vest,14.350%
+147,Ferrothorn,Other,4.435%
+148,Ditto,Choice Scarf,92.212%
+149,Ditto,Sitrus Berry,2.117%
+150,Ditto,Quick Claw,1.953%
+151,Ditto,Other,3.718%
+152,Urshifu,Focus Sash,39.380%
+153,Urshifu,Choice Band,38.146%
+154,Urshifu,Black Glasses,16.687%
+155,Urshifu,Life Orb,3.272%
+156,Urshifu,Other,2.515%
+157,Xerneas,Power Herb,99.807%
+158,Xerneas,Other,0.193%
+159,Dialga,Life Orb,76.991%
+160,Dialga,Adamant Orb,10.411%
+161,Dialga,Weakness Policy,5.436%
+162,Dialga,Safety Goggles,2.326%
+163,Dialga,Other,4.836%
+164,Shedinja,Safety Goggles,57.500%
+165,Shedinja,Focus Sash,42.056%
+166,Shedinja,Other,0.444%
+167,Solgaleo,Weakness Policy,80.174%
+168,Solgaleo,Life Orb,10.486%
+169,Solgaleo,Assault Vest,9.034%
+170,Solgaleo,Other,0.305%
+171,Dusclops,Eviolite,99.568%
+172,Dusclops,Other,0.432%
+173,Torkoal,Charcoal,44.962%
+174,Torkoal,Choice Specs,14.971%
+175,Torkoal,Focus Sash,14.667%
+176,Torkoal,Sitrus Berry,12.993%
+177,Torkoal,Shuca Berry,8.315%
+178,Torkoal,Other,4.093%
+179,Kingdra,Life Orb,91.604%
+180,Kingdra,Focus Sash,5.955%
+181,Kingdra,Other,2.442%
+182,Raichu,Focus Sash,86.270%
+183,Raichu,Assault Vest,6.598%
+184,Raichu,Air Balloon,4.274%
+185,Raichu,Other,2.858%
+186,Weezing,Shuca Berry,65.383%
+187,Weezing,Focus Sash,26.442%
+188,Weezing,Black Sludge,5.177%
+189,Weezing,Other,2.998%
+190,Entei,Choice Scarf,56.319%
+191,Entei,Assault Vest,19.525%
+192,Entei,Life Orb,15.764%
+193,Entei,Shuca Berry,3.369%
+194,Entei,Weakness Policy,1.092%
+195,Entei,Other,3.930%
+196,Lunala,Power Herb,94.005%
+197,Lunala,Life Orb,1.193%
+198,Lunala,Other,4.802%
+199,Kyurem-White,Life Orb,81.363%
+200,Kyurem-White,Choice Scarf,6.298%
+201,Kyurem-White,Lum Berry,3.629%
+202,Kyurem-White,Babiri Berry,2.958%
+203,Kyurem-White,Assault Vest,2.672%
+204,Kyurem-White,Other,3.079%
+205,Tapu Fini,Leftovers,43.479%
+206,Tapu Fini,Expert Belt,19.610%
+207,Tapu Fini,Sitrus Berry,12.230%
+208,Tapu Fini,Misty Seed,7.823%
+209,Tapu Fini,Choice Specs,6.438%
+210,Tapu Fini,Life Orb,5.221%
+211,Tapu Fini,Wiki Berry,1.856%
+212,Tapu Fini,Other,3.344%
+213,Sableye,Focus Sash,41.563%
+214,Sableye,Safety Goggles,25.833%
+215,Sableye,Iron Ball,14.422%
+216,Sableye,Eject Button,4.951%
+217,Sableye,Roseli Berry,4.864%
+218,Sableye,Sitrus Berry,3.933%
+219,Sableye,Other,4.433%
+220,Urshifu-Rapid-Strike,Focus Sash,57.855%
+221,Urshifu-Rapid-Strike,Choice Band,28.072%
+222,Urshifu-Rapid-Strike,Choice Scarf,7.201%
+223,Urshifu-Rapid-Strike,Mystic Water,2.938%
+224,Urshifu-Rapid-Strike,Other,3.933%
+225,Tapu Lele,Choice Scarf,66.969%
+226,Tapu Lele,Focus Sash,15.717%
+227,Tapu Lele,Twisted Spoon,9.604%
+228,Tapu Lele,Psychic Seed,3.860%
+229,Tapu Lele,Other,3.851%
+230,Mimikyu,Mental Herb,70.366%
+231,Mimikyu,Safety Goggles,11.942%
+232,Mimikyu,Babiri Berry,7.566%
+233,Mimikyu,Starf Berry,3.577%
+234,Mimikyu,Lum Berry,1.148%
+235,Mimikyu,Light Clay,1.105%
+236,Mimikyu,Other,4.296%
+237,Gothitelle,Focus Sash,69.977%
+238,Gothitelle,Mental Herb,14.358%
+239,Gothitelle,Safety Goggles,7.837%
+240,Gothitelle,Sitrus Berry,3.810%
+241,Gothitelle,Other,4.018%
+242,Seismitoad,Life Orb,84.165%
+243,Seismitoad,Expert Belt,5.872%
+244,Seismitoad,Assault Vest,4.278%
+245,Seismitoad,Rindo Berry,2.588%
+246,Seismitoad,Other,3.097%
+247,Ho-Oh,Weakness Policy,47.930%
+248,Ho-Oh,Safety Goggles,13.807%
+249,Ho-Oh,Assault Vest,7.135%
+250,Ho-Oh,Charti Berry,6.348%
+251,Ho-Oh,Leftovers,5.595%
+252,Ho-Oh,Lum Berry,5.402%
+253,Ho-Oh,Life Orb,4.943%
+254,Ho-Oh,Mago Berry,2.189%
+255,Ho-Oh,Sitrus Berry,1.721%
+256,Ho-Oh,Other,4.931%
+257,Rotom-Heat,Safety Goggles,59.055%
+258,Rotom-Heat,Sitrus Berry,28.421%
+259,Rotom-Heat,Life Orb,6.161%
+260,Rotom-Heat,Aguav Berry,2.790%
+261,Rotom-Heat,Other,3.572%
+262,Eternatus,Black Sludge,32.695%
+263,Eternatus,Life Orb,21.417%
+264,Eternatus,Dragon Fang,15.350%
+265,Eternatus,Power Herb,14.662%
+266,Eternatus,Choice Specs,11.731%
+267,Eternatus,Other,4.145%
+268,Regigigas,Life Orb,86.114%
+269,Regigigas,Lum Berry,11.639%
+270,Regigigas,Other,2.247%
+271,Cinderace,Life Orb,41.424%
+272,Cinderace,White Herb,33.648%
+273,Cinderace,Focus Sash,15.050%
+274,Cinderace,Choice Band,3.468%
+275,Cinderace,Assault Vest,2.890%
+276,Cinderace,Other,3.519%
+277,Bronzong,Leftovers,73.326%
+278,Bronzong,Mental Herb,7.286%
+279,Bronzong,Sitrus Berry,7.268%
+280,Bronzong,Wide Lens,6.827%
+281,Bronzong,Safety Goggles,2.213%
+282,Bronzong,Other,3.080%
+283,Togekiss,Safety Goggles,31.203%
+284,Togekiss,Scope Lens,27.303%
+285,Togekiss,Focus Sash,19.493%
+286,Togekiss,Babiri Berry,13.131%
+287,Togekiss,Wacan Berry,2.890%
+288,Togekiss,Weakness Policy,2.077%
+289,Togekiss,Other,3.903%
+290,Coalossal,Weakness Policy,93.952%
+291,Coalossal,Room Service,3.744%
+292,Coalossal,Other,2.305%
+293,Dragapult,Focus Sash,43.349%
+294,Dragapult,Life Orb,28.191%
+295,Dragapult,Assault Vest,6.433%
+296,Dragapult,Aguav Berry,6.316%
+297,Dragapult,Light Clay,3.384%
+298,Dragapult,Safety Goggles,2.682%
+299,Dragapult,Lum Berry,2.512%
+300,Dragapult,Weakness Policy,1.883%
+301,Dragapult,Choice Scarf,1.795%
+302,Dragapult,Other,3.456%
+303,Umbreon,Leftovers,46.938%
+304,Umbreon,Safety Goggles,23.229%
+305,Umbreon,Room Service,16.426%
+306,Umbreon,Sitrus Berry,9.246%
+307,Umbreon,Other,4.161%
+308,Indeedee,Focus Sash,71.746%
+309,Indeedee,Choice Scarf,16.316%
+310,Indeedee,Psychic Seed,8.783%
+311,Indeedee,Other,3.155%
+312,Comfey,Babiri Berry,61.098%
+313,Comfey,Focus Sash,19.302%
+314,Comfey,Mental Herb,16.553%
+315,Comfey,Other,3.047%
+316,Lapras,Light Clay,60.456%
+317,Lapras,Life Orb,19.710%
+318,Lapras,Weakness Policy,14.445%
+319,Lapras,Leftovers,1.992%
+320,Lapras,Other,3.396%
+321,Rayquaza,Life Orb,44.555%
+322,Rayquaza,Lum Berry,28.418%
+323,Rayquaza,Assault Vest,11.609%
+324,Rayquaza,Focus Sash,6.037%
+325,Rayquaza,Grassy Seed,4.417%
+326,Rayquaza,Other,4.963%
+327,Spectrier,Safety Goggles,41.657%
+328,Spectrier,Focus Sash,41.142%
+329,Spectrier,Choice Scarf,8.599%
+330,Spectrier,Spell Tag,6.004%
+331,Spectrier,Other,2.598%
+332,Reshiram,Assault Vest,46.598%
+333,Reshiram,Life Orb,40.011%
+334,Reshiram,Safety Goggles,6.958%
+335,Reshiram,Charcoal,1.077%
+336,Reshiram,Sitrus Berry,1.011%
+337,Reshiram,Other,4.345%
+338,Zygarde,Leftovers,47.338%
+339,Zygarde,Weakness Policy,27.115%
+340,Zygarde,Misty Seed,18.909%
+341,Zygarde,Figy Berry,1.813%
+342,Zygarde,Other,4.825%
+343,Mamoswine,Life Orb,46.877%
+344,Mamoswine,Babiri Berry,46.572%
+345,Mamoswine,Focus Sash,3.998%
+346,Mamoswine,Other,2.553%
+347,Necrozma-Dawn-Wings,Power Herb,95.899%
+348,Necrozma-Dawn-Wings,Other,4.101%
+349,Barraskewda,Life Orb,78.300%
+350,Barraskewda,White Herb,11.576%
+351,Barraskewda,Choice Scarf,5.501%
+352,Barraskewda,Other,4.623%
+353,Celesteela,Assault Vest,28.431%
+354,Celesteela,Sitrus Berry,20.166%
+355,Celesteela,Leftovers,16.158%
+356,Celesteela,Power Herb,14.848%
+357,Celesteela,Weakness Policy,11.164%
+358,Celesteela,Expert Belt,7.068%
+359,Celesteela,Other,2.165%
+360,Metagross,Weakness Policy,62.375%
+361,Metagross,Assault Vest,27.254%
+362,Metagross,Life Orb,6.162%
+363,Metagross,Other,4.210%
+364,Araquanid,Safety Goggles,38.966%
+365,Araquanid,Iron Ball,20.633%
+366,Araquanid,Life Orb,18.728%
+367,Araquanid,Mystic Water,13.125%
+368,Araquanid,Sitrus Berry,3.834%
+369,Araquanid,Other,4.714%
+370,Pheromosa,Focus Sash,80.996%
+371,Pheromosa,Choice Scarf,9.657%
+372,Pheromosa,Focus Band,4.329%
+373,Pheromosa,Mental Herb,1.594%
+374,Pheromosa,Other,3.424%
+375,Arcanine,Focus Sash,46.913%
+376,Arcanine,Rocky Helmet,11.384%
+377,Arcanine,Sitrus Berry,10.225%
+378,Arcanine,Utility Umbrella,9.434%
+379,Arcanine,Shuca Berry,6.381%
+380,Arcanine,Assault Vest,4.555%
+381,Arcanine,Leftovers,4.103%
+382,Arcanine,Life Orb,1.404%
+383,Arcanine,Safety Goggles,1.225%
+384,Arcanine,Other,4.376%
+385,Zamazenta-Crowned,Rusted Shield,100.000%
+386,Clefairy,Eviolite,86.232%
+387,Clefairy,Focus Sash,13.145%
+388,Clefairy,Other,0.623%
+389,Mienshao,Focus Sash,84.096%
+390,Mienshao,Black Belt,15.034%
+391,Mienshao,Other,0.869%
+392,Lugia,Weakness Policy,89.577%
+393,Lugia,Life Orb,5.941%
+394,Lugia,Other,4.482%
+395,Chansey,Eviolite,98.059%
+396,Chansey,Other,1.941%
+397,Suicune,Leftovers,63.746%
+398,Suicune,Wacan Berry,20.904%
+399,Suicune,Sitrus Berry,7.712%
+400,Suicune,Aguav Berry,3.784%
+401,Suicune,Other,3.854%
+402,Landorus,Expert Belt,61.022%
+403,Landorus,Life Orb,30.205%
+404,Landorus,Choice Scarf,5.178%
+405,Landorus,Other,3.594%
+406,Necrozma-Dusk-Mane,Weakness Policy,88.874%
+407,Necrozma-Dusk-Mane,Assault Vest,3.163%
+408,Necrozma-Dusk-Mane,Leftovers,2.009%
+409,Necrozma-Dusk-Mane,Life Orb,1.916%
+410,Necrozma-Dusk-Mane,Other,4.037%
+411,Alcremie,Leftovers,68.167%
+412,Alcremie,Focus Sash,19.467%
+413,Alcremie,Sitrus Berry,6.415%
+414,Alcremie,Iron Ball,2.162%
+415,Alcremie,Other,3.788%
+416,Tapu Koko,Life Orb,48.985%
+417,Tapu Koko,Assault Vest,29.792%
+418,Tapu Koko,Focus Sash,7.008%
+419,Tapu Koko,Light Clay,6.982%
+420,Tapu Koko,Choice Specs,2.686%
+421,Tapu Koko,Other,4.547%
+422,Liepard,Focus Sash,97.584%
+423,Liepard,Other,2.416%
+424,Hydreigon,Assault Vest,67.212%
+425,Hydreigon,Safety Goggles,16.907%
+426,Hydreigon,Life Orb,12.242%
+427,Hydreigon,Other,3.639%
+428,Weavile,Focus Sash,82.706%
+429,Weavile,Wide Lens,12.632%
+430,Weavile,Other,4.662%
+431,Tsareena,Wide Lens,34.761%
+432,Tsareena,Coba Berry,22.330%
+433,Tsareena,Assault Vest,15.928%
+434,Tsareena,Sitrus Berry,13.989%
+435,Tsareena,Focus Sash,7.738%
+436,Tsareena,Life Orb,2.328%
+437,Tsareena,Other,2.926%
+438,Glastrier,Lum Berry,52.918%
+439,Glastrier,Babiri Berry,16.920%
+440,Glastrier,Assault Vest,14.209%
+441,Glastrier,Life Orb,7.075%
+442,Glastrier,Leftovers,5.359%
+443,Glastrier,Other,3.520%
+444,Dracovish,Iron Ball,28.129%
+445,Dracovish,Choice Band,25.899%
+446,Dracovish,Choice Scarf,17.511%
+447,Dracovish,Assault Vest,13.597%
+448,Dracovish,Safety Goggles,13.130%
+449,Dracovish,Other,1.734%
+450,Regidrago,Choice Specs,72.827%
+451,Regidrago,Dragon Fang,23.140%
+452,Regidrago,Other,4.034%
+453,Hitmontop,Eject Button,76.446%
+454,Hitmontop,Focus Sash,13.308%
+455,Hitmontop,Leftovers,2.473%
+456,Hitmontop,Figy Berry,2.056%
+457,Hitmontop,Eject Pack,1.561%
+458,Hitmontop,Other,4.156%
+459,Darmanitan-Galar,Choice Scarf,98.092%
+460,Darmanitan-Galar,Other,1.908%
+461,Zekrom,Weakness Policy,73.595%
+462,Zekrom,Life Orb,9.700%
+463,Zekrom,Assault Vest,4.806%
+464,Zekrom,White Herb,3.910%
+465,Zekrom,Focus Sash,2.815%
+466,Zekrom,Magnet,2.180%
+467,Zekrom,Other,2.993%
+468,Shuckle,Custap Berry,63.574%
+469,Shuckle,Safety Goggles,27.369%
+470,Shuckle,Quick Claw,3.505%
+471,Shuckle,Iapapa Berry,2.108%
+472,Shuckle,Other,3.444%
+473,Zapdos-Galar,Assault Vest,40.633%
+474,Zapdos-Galar,Choice Band,12.784%
+475,Zapdos-Galar,Choice Scarf,10.807%
+476,Zapdos-Galar,Weakness Policy,8.570%
+477,Zapdos-Galar,Life Orb,8.416%
+478,Zapdos-Galar,Focus Sash,5.935%
+479,Zapdos-Galar,Adrenaline Orb,3.932%
+480,Zapdos-Galar,Lum Berry,2.717%
+481,Zapdos-Galar,Safety Goggles,2.209%
+482,Zapdos-Galar,Other,3.997%
+483,Volcarona,Focus Sash,44.387%
+484,Volcarona,Rocky Helmet,28.865%
+485,Volcarona,Sitrus Berry,12.107%
+486,Volcarona,Coba Berry,4.186%
+487,Volcarona,Wiki Berry,3.383%
+488,Volcarona,Aguav Berry,2.216%
+489,Volcarona,Other,4.855%
+490,Meowstic,Eject Button,47.023%
+491,Meowstic,Light Clay,25.748%
+492,Meowstic,Full Incense,14.726%
+493,Meowstic,Mental Herb,4.976%
+494,Meowstic,Sitrus Berry,2.522%
+495,Meowstic,Mago Berry,2.152%
+496,Meowstic,Other,2.854%
+497,Persian-Alola,Focus Sash,86.597%
+498,Persian-Alola,Roseli Berry,6.239%
+499,Persian-Alola,Flame Orb,2.094%
+500,Persian-Alola,Assault Vest,1.807%
+501,Persian-Alola,Other,3.262%
+502,Snorlax,Custap Berry,36.600%
+503,Snorlax,Sitrus Berry,33.766%
+504,Snorlax,Figy Berry,6.820%
+505,Snorlax,Leftovers,6.009%
+506,Snorlax,Choice Band,5.168%
+507,Snorlax,Aguav Berry,3.350%
+508,Snorlax,Normal Gem,2.911%
+509,Snorlax,Iapapa Berry,2.223%
+510,Snorlax,Other,3.153%
+511,Stakataka,Life Orb,35.670%
+512,Stakataka,Focus Sash,17.998%
+513,Stakataka,Shuca Berry,15.160%
+514,Stakataka,Safety Goggles,9.627%
+515,Stakataka,Leftovers,4.590%
+516,Stakataka,Chople Berry,4.422%
+517,Stakataka,Air Balloon,3.398%
+518,Stakataka,Sitrus Berry,2.537%
+519,Stakataka,White Herb,2.034%
+520,Stakataka,Other,4.564%
+521,Thundurus-Therian,Life Orb,74.269%
+522,Thundurus-Therian,Assault Vest,16.743%
+523,Thundurus-Therian,Choice Scarf,3.563%
+524,Thundurus-Therian,Choice Specs,2.810%
+525,Thundurus-Therian,Other,2.615%
+526,Moltres-Galar,Assault Vest,31.089%
+527,Moltres-Galar,Life Orb,15.398%
+528,Moltres-Galar,Weakness Policy,14.370%
+529,Moltres-Galar,Safety Goggles,11.119%
+530,Moltres-Galar,Black Glasses,9.867%
+531,Moltres-Galar,Sitrus Berry,5.316%
+532,Moltres-Galar,Utility Umbrella,4.998%
+533,Moltres-Galar,Choice Scarf,2.321%
+534,Moltres-Galar,Iapapa Berry,1.593%
+535,Moltres-Galar,Other,3.928%
+536,Talonflame,Sharp Beak,23.359%
+537,Talonflame,Power Herb,21.127%
+538,Talonflame,Custap Berry,13.963%
+539,Talonflame,Focus Sash,10.300%
+540,Talonflame,Expert Belt,9.486%
+541,Talonflame,Eject Button,8.172%
+542,Talonflame,Safety Goggles,8.048%
+543,Talonflame,Sitrus Berry,1.369%
+544,Talonflame,Other,4.175%
+545,Milotic,Leftovers,62.330%
+546,Milotic,Weakness Policy,6.232%
+547,Milotic,Safety Goggles,6.020%
+548,Milotic,Wacan Berry,4.921%
+549,Milotic,Assault Vest,4.412%
+550,Milotic,Sitrus Berry,3.763%
+551,Milotic,Wide Lens,3.206%
+552,Milotic,Life Orb,3.152%
+553,Milotic,Adrenaline Orb,2.439%
+554,Milotic,Other,3.525%
+555,Mewtwo,Assault Vest,31.391%
+556,Mewtwo,Weakness Policy,22.477%
+557,Mewtwo,Choice Scarf,16.311%
+558,Mewtwo,Life Orb,12.620%
+559,Mewtwo,Mental Herb,11.433%
+560,Mewtwo,Expert Belt,2.386%
+561,Mewtwo,Other,3.382%
+562,Klinklang,Focus Sash,75.959%
+563,Klinklang,Weakness Policy,23.889%
+564,Klinklang,Other,0.151%
+565,Inteleon,Scope Lens,71.310%
+566,Inteleon,Life Orb,13.966%
+567,Inteleon,Mystic Water,4.181%
+568,Inteleon,Razor Claw,3.972%
+569,Inteleon,Focus Sash,2.790%
+570,Inteleon,Other,3.781%
+571,Salamence,Life Orb,64.867%
+572,Salamence,Lum Berry,19.394%
+573,Salamence,Choice Scarf,8.552%
+574,Salamence,Leftovers,3.089%
+575,Salamence,Other,4.099%
+576,Hatterene,Life Orb,77.349%
+577,Hatterene,Focus Sash,11.564%
+578,Hatterene,Babiri Berry,3.340%
+579,Hatterene,Psychic Seed,2.999%
+580,Hatterene,Other,4.748%
+581,Sneasel,Focus Sash,89.407%
+582,Sneasel,Eviolite,4.403%
+583,Sneasel,Wide Lens,3.038%
+584,Sneasel,Other,3.153%
+585,Escavalier,Expert Belt,38.695%
+586,Escavalier,Assault Vest,29.047%
+587,Escavalier,Lum Berry,17.300%
+588,Escavalier,Life Orb,7.155%
+589,Escavalier,Occa Berry,6.028%
+590,Escavalier,Other,1.775%
+591,Rotom-Wash,Sitrus Berry,49.757%
+592,Rotom-Wash,Safety Goggles,13.721%
+593,Rotom-Wash,Leftovers,9.529%
+594,Rotom-Wash,Life Orb,6.762%
+595,Rotom-Wash,Choice Specs,6.290%
+596,Rotom-Wash,Mental Herb,5.994%
+597,Rotom-Wash,Choice Scarf,2.732%
+598,Rotom-Wash,Assault Vest,1.488%
+599,Rotom-Wash,Other,3.727%
+600,Politoed,Sitrus Berry,75.745%
+601,Politoed,Wiki Berry,5.612%
+602,Politoed,Wacan Berry,5.044%
+603,Politoed,Iapapa Berry,4.024%
+604,Politoed,Aguav Berry,3.987%
+605,Politoed,Custap Berry,3.824%
+606,Politoed,Other,1.765%
+607,Ludicolo,Life Orb,54.956%
+608,Ludicolo,Assault Vest,19.927%
+609,Ludicolo,Absorb Bulb,6.428%
+610,Ludicolo,Expert Belt,5.201%
+611,Ludicolo,Never-Melt Ice,4.359%
+612,Ludicolo,Leftovers,2.827%
+613,Ludicolo,Choice Specs,2.319%
+614,Ludicolo,Other,3.983%
+615,Slowking,Wacan Berry,69.819%
+616,Slowking,Leftovers,13.671%
+617,Slowking,Safety Goggles,12.189%
+618,Slowking,Other,4.321%
+619,Swampert,Leftovers,85.746%
+620,Swampert,Life Orb,4.142%
+621,Swampert,White Herb,4.051%
+622,Swampert,Sitrus Berry,2.240%
+623,Swampert,Other,3.821%
+624,Azumarill,Sitrus Berry,82.030%
+625,Azumarill,Assault Vest,8.581%
+626,Azumarill,White Herb,2.197%
+627,Azumarill,Starf Berry,2.013%
+628,Azumarill,Life Orb,1.681%
+629,Azumarill,Other,3.498%
+630,Scizor,Choice Band,83.474%
+631,Scizor,Occa Berry,8.102%
+632,Scizor,Assault Vest,2.843%
+633,Scizor,Life Orb,2.738%
+634,Scizor,Other,2.843%
+635,Articuno-Galar,Leftovers,38.696%
+636,Articuno-Galar,Iron Ball,29.572%
+637,Articuno-Galar,Weakness Policy,9.456%
+638,Articuno-Galar,Sitrus Berry,4.784%
+639,Articuno-Galar,Focus Sash,2.974%
+640,Articuno-Galar,Assault Vest,2.971%
+641,Articuno-Galar,Adrenaline Orb,2.571%
+642,Articuno-Galar,Chesto Berry,2.563%
+643,Articuno-Galar,Life Orb,1.543%
+644,Articuno-Galar,Other,4.873%
+645,Tyranitar,Weakness Policy,53.223%
+646,Tyranitar,Assault Vest,12.471%
+647,Tyranitar,Focus Sash,11.692%
+648,Tyranitar,White Herb,8.204%
+649,Tyranitar,Chople Berry,4.069%
+650,Tyranitar,Salac Berry,3.373%
+651,Tyranitar,Life Orb,2.515%
+652,Tyranitar,Other,4.453%
+653,Pikachu,Light Ball,99.945%
+654,Pikachu,Other,0.055%
+655,Ninetales-Alola,Focus Sash,40.959%
+656,Ninetales-Alola,Light Clay,31.186%
+657,Ninetales-Alola,Choice Scarf,14.938%
+658,Ninetales-Alola,Life Orb,9.312%
+659,Ninetales-Alola,Other,3.604%
+660,Marowak-Alola,Thick Club,99.938%
+661,Marowak-Alola,Other,0.062%
+662,Slowbro,Mystic Water,70.091%
+663,Slowbro,Leftovers,24.729%
+664,Slowbro,Rocky Helmet,2.348%
+665,Slowbro,Other,2.832%
+666,Giratina-Origin,Griseous Orb,100.000%
+667,Toxapex,Black Sludge,99.848%
+668,Toxapex,Other,0.152%
+669,Raikou,Light Clay,44.364%
+670,Raikou,Air Balloon,29.454%
+671,Raikou,Choice Scarf,20.488%
+672,Raikou,Shuca Berry,4.861%
+673,Raikou,Other,0.833%
+674,Pelipper,Focus Sash,72.006%
+675,Pelipper,Wacan Berry,16.779%
+676,Pelipper,Damp Rock,4.835%
+677,Pelipper,Sitrus Berry,2.957%
+678,Pelipper,Other,3.423%
+679,Weezing-Galar,Babiri Berry,68.363%
+680,Weezing-Galar,Shuca Berry,24.469%
+681,Weezing-Galar,Black Sludge,2.593%
+682,Weezing-Galar,Other,4.576%
+683,Kingler,Wacan Berry,35.456%
+684,Kingler,Assault Vest,22.583%
+685,Kingler,Life Orb,20.541%
+686,Kingler,Mystic Water,19.185%
+687,Kingler,Other,2.235%
+688,Oranguru,Sitrus Berry,49.535%
+689,Oranguru,Mental Herb,11.378%
+690,Oranguru,Psychic Seed,10.516%
+691,Oranguru,Choice Band,8.209%
+692,Oranguru,Colbur Berry,7.357%
+693,Oranguru,Choice Specs,3.530%
+694,Oranguru,Choice Scarf,2.685%
+695,Oranguru,Wide Lens,2.320%
+696,Oranguru,Other,4.470%
+697,Nihilego,Focus Sash,58.813%
+698,Nihilego,Power Herb,23.019%
+699,Nihilego,Adrenaline Orb,9.306%
+700,Nihilego,Life Orb,4.097%
+701,Nihilego,Other,4.764%
+702,Togedemaru,Lansat Berry,55.960%
+703,Togedemaru,Choice Scarf,26.528%
+704,Togedemaru,Focus Sash,10.746%
+705,Togedemaru,Salac Berry,2.972%
+706,Togedemaru,Other,3.794%
+707,Gyarados,Assault Vest,32.114%
+708,Gyarados,Life Orb,29.638%
+709,Gyarados,Sitrus Berry,21.928%
+710,Gyarados,Choice Scarf,4.798%
+711,Gyarados,Lum Berry,2.978%
+712,Gyarados,Focus Sash,2.344%
+713,Gyarados,Wacan Berry,2.130%
+714,Gyarados,Other,4.070%
+715,Garchomp,Life Orb,62.633%
+716,Garchomp,Choice Band,7.764%
+717,Garchomp,Yache Berry,7.168%
+718,Garchomp,White Herb,6.828%
+719,Garchomp,Lum Berry,5.815%
+720,Garchomp,Choice Scarf,3.231%
+721,Garchomp,Bright Powder,2.453%
+722,Garchomp,Other,4.107%
+723,Heliolisk,Focus Sash,81.331%
+724,Heliolisk,Choice Scarf,6.675%
+725,Heliolisk,Choice Specs,5.394%
+726,Heliolisk,Life Orb,4.716%
+727,Heliolisk,Other,1.884%
+728,Tapu Bulu,Life Orb,52.823%
+729,Tapu Bulu,Coba Berry,29.590%
+730,Tapu Bulu,Babiri Berry,8.313%
+731,Tapu Bulu,Assault Vest,4.457%
+732,Tapu Bulu,Other,4.818%
+733,Kangaskhan,Flame Orb,68.999%
+734,Kangaskhan,Assault Vest,22.102%
+735,Kangaskhan,Life Orb,3.111%
+736,Kangaskhan,Lum Berry,2.522%
+737,Kangaskhan,Other,3.265%
+738,Moltres,Life Orb,52.025%
+739,Moltres,Leftovers,28.452%
+740,Moltres,Rocky Helmet,9.633%
+741,Moltres,Weakness Policy,9.250%
+742,Moltres,Other,0.640%
+743,Krookodile,Adrenaline Orb,41.681%
+744,Krookodile,Choice Scarf,33.589%
+745,Krookodile,Weakness Policy,12.225%
+746,Krookodile,Assault Vest,6.131%
+747,Krookodile,Focus Sash,2.072%
+748,Krookodile,Other,4.301%
+749,Drifblim,Psychic Seed,94.111%
+750,Drifblim,Misty Seed,3.228%
+751,Drifblim,Other,2.662%
+752,Excadrill,Focus Sash,33.961%
+753,Excadrill,Assault Vest,27.201%
+754,Excadrill,Life Orb,18.854%
+755,Excadrill,Choice Band,10.430%
+756,Excadrill,Choice Scarf,5.667%
+757,Excadrill,Other,3.887%
+758,Primarina,Wacan Berry,58.272%
+759,Primarina,Throat Spray,13.511%
+760,Primarina,Choice Specs,9.405%
+761,Primarina,Leftovers,8.437%
+762,Primarina,Assault Vest,3.570%
+763,Primarina,Rindo Berry,2.520%
+764,Primarina,Other,4.286%
+765,Shiftry,Coba Berry,68.182%
+766,Shiftry,Life Orb,17.228%
+767,Shiftry,Expert Belt,9.676%
+768,Shiftry,Other,4.914%
+769,Chandelure,Safety Goggles,40.519%
+770,Chandelure,Focus Sash,31.743%
+771,Chandelure,Sitrus Berry,19.876%
+772,Chandelure,Choice Specs,1.859%
+773,Chandelure,Life Orb,1.219%
+774,Chandelure,Other,4.783%
+775,Toxicroak,Assault Vest,88.172%
+776,Toxicroak,Life Orb,8.123%
+777,Toxicroak,Other,3.705%
+778,Dracozolt,Life Orb,80.082%
+779,Dracozolt,Choice Band,15.819%
+780,Dracozolt,Other,4.099%
+781,Sceptile,Focus Sash,83.534%
+782,Sceptile,Choice Specs,4.905%
+783,Sceptile,Light Ball,4.257%
+784,Sceptile,Weakness Policy,3.121%
+785,Sceptile,Other,4.183%
+786,Pincurchin,Life Orb,44.761%
+787,Pincurchin,Choice Specs,36.396%
+788,Pincurchin,Electric Seed,14.867%
+789,Pincurchin,Other,3.976%
+790,Aegislash,Leftovers,30.836%
+791,Aegislash,Life Orb,28.889%
+792,Aegislash,Iron Ball,15.587%
+793,Aegislash,Lagging Tail,5.508%
+794,Aegislash,Aguav Berry,3.348%
+795,Aegislash,Air Balloon,2.834%
+796,Aegislash,Occa Berry,2.787%
+797,Aegislash,Weakness Policy,2.117%
+798,Aegislash,Metal Coat,2.082%
+799,Aegislash,Safety Goggles,0.877%
+800,Aegislash,Lum Berry,0.859%
+801,Aegislash,Other,4.276%
+802,Centiskorch,Coba Berry,54.127%
+803,Centiskorch,Safety Goggles,21.084%
+804,Centiskorch,Leftovers,16.943%
+805,Centiskorch,Assault Vest,3.413%
+806,Centiskorch,Other,4.433%
+807,Greedent,Sitrus Berry,99.826%
+808,Greedent,Other,0.174%
+809,Porygon-Z,Life Orb,52.519%
+810,Porygon-Z,Silk Scarf,33.092%
+811,Porygon-Z,Assault Vest,12.818%
+812,Porygon-Z,Other,1.571%
+813,Butterfree,Focus Sash,89.068%
+814,Butterfree,Choice Scarf,6.238%
+815,Butterfree,Other,4.694%
+816,Lucario,Choice Scarf,73.236%
+817,Lucario,Life Orb,6.975%
+818,Lucario,Shuca Berry,6.681%
+819,Lucario,Sitrus Berry,5.445%
+820,Lucario,Expert Belt,2.285%
+821,Lucario,Assault Vest,2.044%
+822,Lucario,Other,3.333%
+823,Mudsdale,Assault Vest,43.262%
+824,Mudsdale,Iron Ball,38.922%
+825,Mudsdale,Weakness Policy,16.058%
+826,Mudsdale,Other,1.758%
+827,Cherrim,Focus Sash,78.532%
+828,Cherrim,Miracle Seed,9.329%
+829,Cherrim,Coba Berry,4.365%
+830,Cherrim,Sitrus Berry,2.964%
+831,Cherrim,Other,4.810%
+832,Exeggutor,Sitrus Berry,81.960%
+833,Exeggutor,Blunder Policy,12.363%
+834,Exeggutor,Psychic Seed,4.871%
+835,Exeggutor,Other,0.806%
+836,Altaria,Mago Berry,61.367%
+837,Altaria,Focus Sash,28.807%
+838,Altaria,Sitrus Berry,6.059%
+839,Altaria,Other,3.767%
+840,Klefki,Light Clay,71.158%
+841,Klefki,Safety Goggles,14.903%
+842,Klefki,Leftovers,6.833%
+843,Klefki,Iron Ball,3.586%
+844,Klefki,Other,3.520%
+845,Froslass,Focus Sash,53.211%
+846,Froslass,Adrenaline Orb,38.513%
+847,Froslass,Safety Goggles,6.508%
+848,Froslass,Other,1.769%
+849,Gigalith,Weakness Policy,51.724%
+850,Gigalith,Babiri Berry,30.233%
+851,Gigalith,Assault Vest,15.512%
+852,Gigalith,Other,2.531%
+853,Jellicent,Focus Sash,46.971%
+854,Jellicent,Wacan Berry,16.086%
+855,Jellicent,Lum Berry,15.841%
+856,Jellicent,Leftovers,8.714%
+857,Jellicent,Sitrus Berry,5.423%
+858,Jellicent,Life Orb,2.656%
+859,Jellicent,Other,4.308%
+860,Riolu,Focus Sash,89.668%
+861,Riolu,Mental Herb,8.316%
+862,Riolu,Other,2.016%
+863,Mandibuzz,Weakness Policy,37.405%
+864,Mandibuzz,Wacan Berry,27.604%
+865,Mandibuzz,Psychic Seed,24.165%
+866,Mandibuzz,Leftovers,5.095%
+867,Mandibuzz,Grassy Seed,4.865%
+868,Mandibuzz,Other,0.866%
+869,Lurantis,Sitrus Berry,82.803%
+870,Lurantis,Assault Vest,7.919%
+871,Lurantis,Aguav Berry,3.377%
+872,Lurantis,Life Orb,2.879%
+873,Lurantis,Other,3.023%
+874,Latias,Focus Sash,37.826%
+875,Latias,Safety Goggles,22.223%
+876,Latias,Sitrus Berry,13.337%
+877,Latias,Roseli Berry,12.260%
+878,Latias,Choice Scarf,9.386%
+879,Latias,Other,4.968%
+880,Exeggutor-Alola,Sitrus Berry,73.617%
+881,Exeggutor-Alola,Psychic Seed,9.849%
+882,Exeggutor-Alola,Yache Berry,7.878%
+883,Exeggutor-Alola,Coba Berry,5.680%
+884,Exeggutor-Alola,Other,2.976%
+885,Dragonite,Choice Band,33.999%
+886,Dragonite,Weakness Policy,19.822%
+887,Dragonite,Expert Belt,13.940%
+888,Dragonite,Lum Berry,7.799%
+889,Dragonite,Rawst Berry,6.158%
+890,Dragonite,Safety Goggles,4.981%
+891,Dragonite,Assault Vest,3.080%
+892,Dragonite,Dragon Fang,2.660%
+893,Dragonite,Choice Specs,2.192%
+894,Dragonite,Life Orb,1.717%
+895,Dragonite,Other,3.650%
+896,Darmanitan,Choice Scarf,87.895%
+897,Darmanitan,Life Orb,9.677%
+898,Darmanitan,Other,2.428%
+899,Cradily,Leftovers,47.894%
+900,Cradily,Power Herb,42.168%
+901,Cradily,Iapapa Berry,2.705%
+902,Cradily,Babiri Berry,2.187%
+903,Cradily,Rocky Helmet,1.836%
+904,Cradily,Other,3.211%
+905,Obstagoon,Focus Sash,64.875%
+906,Obstagoon,Adrenaline Orb,15.766%
+907,Obstagoon,Assault Vest,9.142%
+908,Obstagoon,Flame Orb,7.433%
+909,Obstagoon,Other,2.784%
+910,Scrafty,Eject Pack,38.036%
+911,Scrafty,Assault Vest,21.587%
+912,Scrafty,Safety Goggles,19.836%
+913,Scrafty,Roseli Berry,11.113%
+914,Scrafty,Leftovers,4.471%
+915,Scrafty,Other,4.958%
+916,Aerodactyl,Focus Sash,81.442%
+917,Aerodactyl,Life Orb,8.680%
+918,Aerodactyl,Choice Scarf,4.430%
+919,Aerodactyl,Heavy-Duty Boots,1.801%
+920,Aerodactyl,Other,3.647%
+921,Kabutops,Weakness Policy,87.997%
+922,Kabutops,Life Orb,11.767%
+923,Kabutops,Other,0.236%
+924,Articuno,Life Orb,52.814%
+925,Articuno,Babiri Berry,31.760%
+926,Articuno,Weakness Policy,10.774%
+927,Articuno,Other,4.652%
+928,Blacephalon,Choice Scarf,75.549%
+929,Blacephalon,Life Orb,16.947%
+930,Blacephalon,Choice Specs,3.717%
+931,Blacephalon,Other,3.786%
+932,Duraludon,Assault Vest,26.922%
+933,Duraludon,Shuca Berry,21.323%
+934,Duraludon,Choice Specs,17.540%
+935,Duraludon,Life Orb,15.096%
+936,Duraludon,Air Balloon,6.727%
+937,Duraludon,Sitrus Berry,3.208%
+938,Duraludon,Weakness Policy,2.975%
+939,Duraludon,Leftovers,2.579%
+940,Duraludon,Other,3.630%
+941,Trevenant,Iron Ball,92.722%
+942,Trevenant,Psychic Seed,3.179%
+943,Trevenant,Other,4.100%
+944,Drednaw,Choice Band,85.405%
+945,Drednaw,Life Orb,8.145%
+946,Drednaw,Weakness Policy,2.015%
+947,Drednaw,Other,4.436%
+948,Heatran,Air Balloon,57.449%
+949,Heatran,Leftovers,13.694%
+950,Heatran,Shuca Berry,8.076%
+951,Heatran,Choice Scarf,7.008%
+952,Heatran,Chople Berry,6.592%
+953,Heatran,Life Orb,2.888%
+954,Heatran,Other,4.293%
+955,Clefable,Babiri Berry,82.981%
+956,Clefable,Leftovers,11.290%
+957,Clefable,Focus Sash,3.026%
+958,Clefable,Other,2.703%
+959,Appletun,Sitrus Berry,41.473%
+960,Appletun,Leftovers,28.644%
+961,Appletun,Choice Specs,19.493%
+962,Appletun,Yache Berry,7.003%
+963,Appletun,Other,3.386%
+964,Bisharp,Focus Sash,43.100%
+965,Bisharp,Life Orb,24.060%
+966,Bisharp,Black Glasses,22.243%
+967,Bisharp,Assault Vest,4.365%
+968,Bisharp,Adrenaline Orb,2.757%
+969,Bisharp,Other,3.476%
+970,Registeel,Leftovers,96.182%
+971,Registeel,Other,3.818%
+972,Rhyperior,Weakness Policy,33.591%
+973,Rhyperior,Custap Berry,24.724%
+974,Rhyperior,Zoom Lens,14.640%
+975,Rhyperior,White Herb,10.016%
+976,Rhyperior,Rindo Berry,6.738%
+977,Rhyperior,Life Orb,5.083%
+978,Rhyperior,Aguav Berry,2.303%
+979,Rhyperior,Other,2.905%
+980,Stonjourner,Leftovers,56.743%
+981,Stonjourner,Wide Lens,17.236%
+982,Stonjourner,Focus Sash,9.433%
+983,Stonjourner,Rindo Berry,7.254%
+984,Stonjourner,Air Balloon,3.797%
+985,Stonjourner,Rocky Helmet,2.717%
+986,Stonjourner,Other,2.819%
+987,Electivire,Assault Vest,91.626%
+988,Electivire,Choice Band,4.130%
+989,Electivire,Other,4.243%
+990,Leafeon,Life Orb,45.181%
+991,Leafeon,Choice Band,25.362%
+992,Leafeon,Assault Vest,25.215%
+993,Leafeon,Other,4.242%
+994,Abomasnow,Assault Vest,53.551%
+995,Abomasnow,Light Clay,25.977%
+996,Abomasnow,Focus Sash,19.537%
+997,Abomasnow,Other,0.936%
+998,Diggersby,Assault Vest,49.621%
+999,Diggersby,Life Orb,43.344%
+1000,Diggersby,White Herb,6.428%
+1001,Diggersby,Other,0.606%
+1002,Giratina,Weakness Policy,61.733%
+1003,Giratina,Leftovers,21.063%
+1004,Giratina,Assault Vest,12.923%
+1005,Giratina,Other,4.281%
+1006,Swoobat,White Herb,84.634%
+1007,Swoobat,Weakness Policy,9.679%
+1008,Swoobat,Focus Sash,2.880%
+1009,Swoobat,Other,2.807%
+1010,Corviknight,Leftovers,67.236%
+1011,Corviknight,Rocky Helmet,11.889%
+1012,Corviknight,Occa Berry,10.750%
+1013,Corviknight,Lum Berry,4.233%
+1014,Corviknight,Weakness Policy,2.141%
+1015,Corviknight,Other,3.750%
+1016,Vikavolt,Choice Specs,43.467%
+1017,Vikavolt,Life Orb,35.071%
+1018,Vikavolt,Assault Vest,16.896%
+1019,Vikavolt,Other,4.567%
+1020,Durant,Life Orb,53.866%
+1021,Durant,Expert Belt,43.898%
+1022,Durant,Other,2.235%
+1023,Cresselia,Leftovers,38.119%
+1024,Cresselia,Mental Herb,18.978%
+1025,Cresselia,Kee Berry,17.991%
+1026,Cresselia,Utility Umbrella,8.739%
+1027,Cresselia,Bright Powder,6.188%
+1028,Cresselia,Light Clay,3.549%
+1029,Cresselia,Wiki Berry,2.360%
+1030,Cresselia,Other,4.076%
+1031,Mr. Rime,Focus Sash,98.728%
+1032,Mr. Rime,Other,1.272%
+1033,Wishiwashi,Life Orb,93.090%
+1034,Wishiwashi,White Herb,2.945%
+1035,Wishiwashi,Other,3.965%
+1036,Conkeldurr,Flame Orb,74.910%
+1037,Conkeldurr,Assault Vest,13.355%
+1038,Conkeldurr,Life Orb,9.282%
+1039,Conkeldurr,Other,2.452%
+1040,Boltund,Focus Sash,95.921%
+1041,Boltund,Other,4.079%
+1042,Terrakion,Lum Berry,33.766%
+1043,Terrakion,Coba Berry,24.849%
+1044,Terrakion,Life Orb,16.407%
+1045,Terrakion,Safety Goggles,8.139%
+1046,Terrakion,Shuca Berry,6.009%
+1047,Terrakion,Focus Sash,5.671%
+1048,Terrakion,Weakness Policy,1.225%
+1049,Terrakion,Other,3.934%
+1050,Cobalion,Assault Vest,81.598%
+1051,Cobalion,Life Orb,15.128%
+1052,Cobalion,Other,3.273%
+1053,Kyurem-Black,Babiri Berry,25.146%
+1054,Kyurem-Black,Weakness Policy,23.620%
+1055,Kyurem-Black,Power Herb,22.706%
+1056,Kyurem-Black,Life Orb,7.170%
+1057,Kyurem-Black,Lum Berry,6.867%
+1058,Kyurem-Black,Leftovers,4.157%
+1059,Kyurem-Black,Assault Vest,3.888%
+1060,Kyurem-Black,Safety Goggles,3.537%
+1061,Kyurem-Black,Other,2.909%
+1062,Mantine,Focus Sash,82.951%
+1063,Mantine,Wacan Berry,11.011%
+1064,Mantine,Sitrus Berry,5.075%
+1065,Mantine,Other,0.963%
+1066,Machamp,Lum Berry,79.752%
+1067,Machamp,Focus Sash,8.929%
+1068,Machamp,Life Orb,3.239%
+1069,Machamp,Assault Vest,2.466%
+1070,Machamp,,2.101%
+1071,Machamp,Other,3.512%
+1072,Goodra,Assault Vest,68.715%
+1073,Goodra,Blunder Policy,10.415%
+1074,Goodra,Leftovers,6.710%
+1075,Goodra,Expert Belt,5.620%
+1076,Goodra,Choice Specs,5.385%
+1077,Goodra,Other,3.155%
+1078,Silvally,Choice Band,56.419%
+1079,Silvally,Life Orb,38.499%
+1080,Silvally,Normal Gem,5.080%
+1081,Silvally,Other,0.001%
+1082,Accelgor,Focus Sash,80.752%
+1083,Accelgor,Leftovers,6.055%
+1084,Accelgor,Eject Button,3.577%
+1085,Accelgor,Coba Berry,2.503%
+1086,Accelgor,Bright Powder,2.404%
+1087,Accelgor,Other,4.708%
+1088,Xurkitree,Assault Vest,48.927%
+1089,Xurkitree,Magnet,21.417%
+1090,Xurkitree,Air Balloon,18.400%
+1091,Xurkitree,Choice Scarf,9.753%
+1092,Xurkitree,Other,1.504%
+1093,Tauros,Life Orb,86.384%
+1094,Tauros,Safety Goggles,5.508%
+1095,Tauros,Assault Vest,3.810%
+1096,Tauros,Other,4.298%
+1097,Garbodor,Weakness Policy,99.797%
+1098,Garbodor,Other,0.203%
+1099,Luxray,Flame Orb,86.430%
+1100,Luxray,Iapapa Berry,10.721%
+1101,Luxray,Other,2.849%
+1102,Dugtrio,Focus Sash,99.123%
+1103,Dugtrio,Other,0.877%
+1104,Rotom-Mow,Occa Berry,40.403%
+1105,Rotom-Mow,Focus Sash,22.467%
+1106,Rotom-Mow,Sitrus Berry,18.870%
+1107,Rotom-Mow,Life Orb,9.646%
+1108,Rotom-Mow,Leftovers,3.935%
+1109,Rotom-Mow,Other,4.679%
+1110,Gengar,Focus Sash,44.902%
+1111,Gengar,Choice Scarf,16.502%
+1112,Gengar,Life Orb,10.474%
+1113,Gengar,Air Balloon,7.975%
+1114,Gengar,Leftovers,7.303%
+1115,Gengar,Black Sludge,3.434%
+1116,Gengar,Poison Barb,2.603%
+1117,Gengar,Lum Berry,2.383%
+1118,Gengar,Other,4.425%
+1119,Glaceon,Focus Sash,50.875%
+1120,Glaceon,Life Orb,36.281%
+1121,Glaceon,Never-Melt Ice,11.259%
+1122,Glaceon,Other,1.585%
+1123,Manectric,Air Balloon,88.335%
+1124,Manectric,Choice Specs,4.640%
+1125,Manectric,Damp Rock,4.260%
+1126,Manectric,Other,2.765%
+1127,Palossand,Weakness Policy,83.017%
+1128,Palossand,Leftovers,13.929%
+1129,Palossand,Other,3.054%
+1130,Espeon,Focus Sash,60.468%
+1131,Espeon,Choice Scarf,22.267%
+1132,Espeon,Life Orb,11.600%
+1133,Espeon,Mental Herb,3.964%
+1134,Espeon,Other,1.702%
+1135,Crobat,Focus Sash,68.577%
+1136,Crobat,Mental Herb,26.423%
+1137,Crobat,Wide Lens,2.661%
+1138,Crobat,Other,2.340%
+1139,Tyrantrum,Life Orb,87.843%
+1140,Tyrantrum,Assault Vest,11.294%
+1141,Tyrantrum,Other,0.863%
+1142,Cinccino,Choice Scarf,64.809%
+1143,Cinccino,Focus Sash,14.727%
+1144,Cinccino,Expert Belt,10.712%
+1145,Cinccino,Other,2.141%
+1146,Kommo-o,Sitrus Berry,45.309%
+1147,Kommo-o,Throat Spray,40.391%
+1148,Kommo-o,Assault Vest,10.972%
+1149,Kommo-o,Other,3.328%
+1150,Blissey,Choice Scarf,58.463%
+1151,Blissey,Leftovers,39.970%
+1152,Blissey,Other,1.567%
+1153,Cloyster,Focus Sash,68.264%
+1154,Cloyster,White Herb,26.789%
+1155,Cloyster,Other,4.947%
+1156,Blaziken,Focus Sash,29.963%
+1157,Blaziken,Wide Lens,19.220%
+1158,Blaziken,Air Balloon,17.931%
+1159,Blaziken,Life Orb,14.447%
+1160,Blaziken,Expert Belt,12.116%
+1161,Blaziken,Heavy-Duty Boots,3.682%
+1162,Blaziken,Other,2.641%
+1163,Drampa,Assault Vest,84.051%
+1164,Drampa,Life Orb,12.481%
+1165,Drampa,Other,3.469%
+1166,Hawlucha,Focus Sash,45.365%
+1167,Hawlucha,Psychic Seed,41.198%
+1168,Hawlucha,Expert Belt,8.049%
+1169,Hawlucha,Grassy Seed,3.201%
+1170,Hawlucha,Other,2.186%
+1171,Mr. Mime-Galar,Focus Sash,50.418%
+1172,Mr. Mime-Galar,Eviolite,49.582%
+1173,Mr. Mime-Galar,Other,0.000%
+1174,Grapploct,Aguav Berry,35.781%
+1175,Grapploct,Sitrus Berry,22.242%
+1176,Grapploct,Leftovers,19.364%
+1177,Grapploct,Focus Sash,10.171%
+1178,Grapploct,Figy Berry,4.341%
+1179,Grapploct,Assault Vest,3.435%
+1180,Grapploct,Other,4.666%
+1181,Zoroark,Focus Sash,58.529%
+1182,Zoroark,Life Orb,9.622%
+1183,Zoroark,Choice Scarf,9.235%
+1184,Zoroark,Black Glasses,5.967%
+1185,Zoroark,Choice Specs,5.742%
+1186,Zoroark,Expert Belt,2.773%
+1187,Zoroark,Choice Band,2.465%
+1188,Zoroark,Throat Spray,2.094%
+1189,Zoroark,Other,3.574%
+1190,Lilligant,Wide Lens,46.914%
+1191,Lilligant,Focus Sash,26.615%
+1192,Lilligant,Figy Berry,16.976%
+1193,Lilligant,Mental Herb,3.271%
+1194,Lilligant,Miracle Seed,2.343%
+1195,Lilligant,Other,3.880%
+1196,Clawitzer,Life Orb,38.251%
+1197,Clawitzer,Choice Specs,18.107%
+1198,Clawitzer,Assault Vest,13.470%
+1199,Clawitzer,Aguav Berry,10.097%
+1200,Clawitzer,Expert Belt,7.073%
+1201,Clawitzer,Focus Sash,3.846%
+1202,Clawitzer,Sitrus Berry,3.234%
+1203,Clawitzer,Rindo Berry,2.714%
+1204,Clawitzer,Other,3.207%
+1205,Qwilfish,Assault Vest,94.662%
+1206,Qwilfish,Focus Sash,3.498%
+1207,Qwilfish,Other,1.840%
+1208,Haxorus,Choice Scarf,84.720%
+1209,Haxorus,Life Orb,7.720%
+1210,Haxorus,Choice Band,2.800%
+1211,Haxorus,Other,4.760%
+1212,Dhelmise,Weakness Policy,27.678%
+1213,Dhelmise,Assault Vest,22.910%
+1214,Dhelmise,Iron Ball,20.090%
+1215,Dhelmise,Life Orb,16.769%
+1216,Dhelmise,Room Service,4.092%
+1217,Dhelmise,Figy Berry,3.269%
+1218,Dhelmise,Aguav Berry,1.816%
+1219,Dhelmise,Other,3.375%
+1220,Runerigus,Room Service,24.939%
+1221,Runerigus,Weakness Policy,20.736%
+1222,Runerigus,Leftovers,16.247%
+1223,Runerigus,Kasib Berry,14.341%
+1224,Runerigus,Mental Herb,8.190%
+1225,Runerigus,Focus Sash,2.679%
+1226,Runerigus,Red Card,1.651%
+1227,Runerigus,Psychic Seed,1.644%
+1228,Runerigus,Colbur Berry,1.493%
+1229,Runerigus,Rocky Helmet,1.438%
+1230,Runerigus,Iapapa Berry,1.402%
+1231,Runerigus,Aguav Berry,1.370%
+1232,Runerigus,Other,3.869%
+1233,Braviary,Lum Berry,49.678%
+1234,Braviary,Safety Goggles,18.173%
+1235,Braviary,Life Orb,14.766%
+1236,Braviary,Focus Sash,7.310%
+1237,Braviary,Assault Vest,3.728%
+1238,Braviary,Adrenaline Orb,1.414%
+1239,Braviary,Other,4.930%
+1240,Virizion,Life Orb,28.509%
+1241,Virizion,Assault Vest,19.252%
+1242,Virizion,Weakness Policy,18.271%
+1243,Virizion,Coba Berry,12.306%
+1244,Virizion,Lum Berry,6.238%
+1245,Virizion,Kee Berry,3.770%
+1246,Virizion,Mago Berry,3.232%
+1247,Virizion,Leftovers,2.859%
+1248,Virizion,Grassy Seed,1.501%
+1249,Virizion,Other,4.063%
+1250,Togetic,Eviolite,98.257%
+1251,Togetic,Other,1.743%
+1252,Raichu-Alola,Choice Specs,27.238%
+1253,Raichu-Alola,Focus Sash,22.574%
+1254,Raichu-Alola,Magnet,22.470%
+1255,Raichu-Alola,Life Orb,17.894%
+1256,Raichu-Alola,Expert Belt,3.513%
+1257,Raichu-Alola,Colbur Berry,2.319%
+1258,Raichu-Alola,Other,3.993%
+1259,Beartic,Life Orb,33.198%
+1260,Beartic,Choice Band,28.503%
+1261,Beartic,Assault Vest,24.972%
+1262,Beartic,Expert Belt,4.724%
+1263,Beartic,Never-Melt Ice,4.253%
+1264,Beartic,Other,4.350%
+1265,Copperajah,Assault Vest,30.805%
+1266,Copperajah,Weakness Policy,29.296%
+1267,Copperajah,Life Orb,19.829%
+1268,Copperajah,Expert Belt,6.682%
+1269,Copperajah,Aguav Berry,5.539%
+1270,Copperajah,Cell Battery,2.872%
+1271,Copperajah,Other,4.978%
+1272,Flapple,Life Orb,77.662%
+1273,Flapple,Choice Band,5.750%
+1274,Flapple,Wide Lens,5.685%
+1275,Flapple,Liechi Berry,3.293%
+1276,Flapple,Haban Berry,2.576%
+1277,Flapple,Muscle Band,0.990%
+1278,Flapple,Other,4.044%
+1279,Sylveon,Pixie Plate,36.687%
+1280,Sylveon,Choice Specs,27.632%
+1281,Sylveon,Throat Spray,23.819%
+1282,Sylveon,Assault Vest,2.986%
+1283,Sylveon,Babiri Berry,2.569%
+1284,Sylveon,Life Orb,1.710%
+1285,Sylveon,Other,4.597%
+1286,Slurpuff,Psychic Seed,84.908%
+1287,Slurpuff,Sitrus Berry,8.088%
+1288,Slurpuff,Grassy Seed,3.463%
+1289,Slurpuff,Other,3.541%
+1290,Eiscue,Sitrus Berry,80.486%
+1291,Eiscue,Salac Berry,6.532%
+1292,Eiscue,Weakness Policy,5.846%
+1293,Eiscue,Iapapa Berry,3.591%
+1294,Eiscue,Other,3.544%
+1295,Hippowdon,Sitrus Berry,22.550%
+1296,Hippowdon,Rindo Berry,22.019%
+1297,Hippowdon,Iapapa Berry,17.819%
+1298,Hippowdon,Leftovers,9.570%
+1299,Hippowdon,Aguav Berry,8.821%
+1300,Hippowdon,Weakness Policy,6.626%
+1301,Hippowdon,Lum Berry,6.100%
+1302,Hippowdon,Assault Vest,1.639%
+1303,Hippowdon,Other,4.856%
+1304,Alakazam,Life Orb,44.445%
+1305,Alakazam,Focus Sash,36.549%
+1306,Alakazam,Choice Specs,9.725%
+1307,Alakazam,Wise Glasses,1.950%
+1308,Alakazam,Twisted Spoon,1.684%
+1309,Alakazam,Eviolite,1.412%
+1310,Alakazam,Other,4.236%
+1311,Torracat,Eviolite,98.396%
+1312,Torracat,Other,1.604%
+1313,Thievul,Psychic Seed,76.335%
+1314,Thievul,Grassy Seed,16.132%
+1315,Thievul,Weakness Policy,4.363%
+1316,Thievul,Other,3.170%
+1317,Arctozolt,Weakness Policy,24.960%
+1318,Arctozolt,Magnet,21.542%
+1319,Arctozolt,Assault Vest,20.999%
+1320,Arctozolt,Choice Scarf,13.041%
+1321,Arctozolt,Choice Band,10.288%
+1322,Arctozolt,Life Orb,5.161%
+1323,Arctozolt,Other,4.009%
+1324,Cofagrigus,Colbur Berry,55.098%
+1325,Cofagrigus,Mental Herb,19.563%
+1326,Cofagrigus,Sitrus Berry,10.380%
+1327,Cofagrigus,Leftovers,9.264%
+1328,Cofagrigus,Rocky Helmet,2.061%
+1329,Cofagrigus,Other,3.634%
+1330,Starmie,Power Herb,41.063%
+1331,Starmie,Choice Specs,37.533%
+1332,Starmie,Focus Sash,7.850%
+1333,Starmie,Choice Scarf,4.185%
+1334,Starmie,Weakness Policy,3.317%
+1335,Starmie,Mystic Water,2.794%
+1336,Starmie,Other,3.258%
+1337,Turtonator,Assault Vest,74.544%
+1338,Turtonator,Grassy Seed,8.421%
+1339,Turtonator,White Herb,5.337%
+1340,Turtonator,Leftovers,4.795%
+1341,Turtonator,Weakness Policy,3.016%
+1342,Turtonator,Other,3.887%
+1343,Sharpedo,Life Orb,60.663%
+1344,Sharpedo,Chople Berry,14.327%
+1345,Sharpedo,Focus Sash,11.169%
+1346,Sharpedo,Weakness Policy,7.738%
+1347,Sharpedo,Choice Scarf,2.660%
+1348,Sharpedo,Other,3.443%
+1349,Salazzle,Focus Sash,57.047%
+1350,Salazzle,Air Balloon,12.741%
+1351,Salazzle,Safety Goggles,10.258%
+1352,Salazzle,Liechi Berry,9.033%
+1353,Salazzle,,5.419%
+1354,Salazzle,Other,3.930%
+1355,Ninetales,Eject Pack,24.700%
+1356,Ninetales,Choice Specs,18.971%
+1357,Ninetales,Heat Rock,18.450%
+1358,Ninetales,Focus Sash,10.784%
+1359,Ninetales,Wide Lens,6.675%
+1360,Ninetales,Charcoal,5.091%
+1361,Ninetales,Choice Scarf,5.061%
+1362,Ninetales,Life Orb,3.869%
+1363,Ninetales,Wiki Berry,1.762%
+1364,Ninetales,Other,4.637%
+1365,Sirfetch'd,Leek,50.953%
+1366,Sirfetch'd,Focus Sash,45.164%
+1367,Sirfetch'd,Other,3.884%
+1368,Emolga,Safety Goggles,37.307%
+1369,Emolga,Choice Scarf,32.253%
+1370,Emolga,Aguav Berry,14.192%
+1371,Emolga,Focus Sash,9.928%
+1372,Emolga,Rocky Helmet,2.717%
+1373,Emolga,Other,3.603%
+1374,Ribombee,Focus Sash,89.934%
+1375,Ribombee,Mental Herb,4.448%
+1376,Ribombee,Rocky Helmet,1.604%
+1377,Ribombee,Other,4.015%
+1378,Charjabug,Power Lens,76.569%
+1379,Charjabug,Eviolite,16.998%
+1380,Charjabug,Rocky Helmet,3.207%
+1381,Charjabug,Other,3.226%
+1382,Toxtricity,Choice Specs,44.997%
+1383,Toxtricity,Magnet,25.254%
+1384,Toxtricity,Life Orb,11.285%
+1385,Toxtricity,Focus Sash,7.384%
+1386,Toxtricity,Throat Spray,3.151%
+1387,Toxtricity,Choice Scarf,2.784%
+1388,Toxtricity,Air Balloon,1.719%
+1389,Toxtricity,Other,3.426%
+1390,Vaporeon,Iapapa Berry,46.417%
+1391,Vaporeon,Leftovers,27.610%
+1392,Vaporeon,Sitrus Berry,12.031%
+1393,Vaporeon,Life Orb,3.541%
+1394,Vaporeon,Rindo Berry,2.387%
+1395,Vaporeon,Weakness Policy,2.266%
+1396,Vaporeon,Aguav Berry,2.155%
+1397,Vaporeon,Other,3.594%
+1398,Mr. Mime,Iron Ball,34.087%
+1399,Mr. Mime,Babiri Berry,32.431%
+1400,Mr. Mime,Power Anklet,25.023%
+1401,Mr. Mime,Eviolite,2.501%
+1402,Mr. Mime,Weakness Policy,1.872%
+1403,Mr. Mime,Other,4.085%
+1404,Magnezone,Weakness Policy,39.405%
+1405,Magnezone,Expert Belt,11.225%
+1406,Magnezone,Grassy Seed,9.428%
+1407,Magnezone,Choice Specs,7.584%
+1408,Magnezone,Iapapa Berry,6.514%
+1409,Magnezone,Magnet,5.609%
+1410,Magnezone,Assault Vest,5.167%
+1411,Magnezone,Leftovers,5.146%
+1412,Magnezone,Life Orb,2.665%
+1413,Magnezone,Air Balloon,2.571%
+1414,Magnezone,Other,4.686%
+1415,Gallade,Assault Vest,38.301%
+1416,Gallade,Life Orb,14.512%
+1417,Gallade,Focus Sash,7.441%
+1418,Gallade,Choice Band,6.446%
+1419,Gallade,Psychic Seed,5.359%
+1420,Gallade,Room Service,4.492%
+1421,Gallade,Sitrus Berry,3.864%
+1422,Gallade,Black Belt,3.012%
+1423,Gallade,Expert Belt,2.997%
+1424,Gallade,Safety Goggles,2.705%
+1425,Gallade,Muscle Band,2.198%
+1426,Gallade,Iapapa Berry,1.877%
+1427,Gallade,Aguav Berry,1.373%
+1428,Gallade,Blunder Policy,1.219%
+1429,Gallade,Other,4.204%
+1430,Lopunny,Assault Vest,48.075%
+1431,Lopunny,Toxic Orb,24.857%
+1432,Lopunny,Leftovers,6.876%
+1433,Lopunny,Focus Sash,4.586%
+1434,Lopunny,Choice Specs,3.911%
+1435,Lopunny,Lum Berry,3.909%
+1436,Lopunny,Flame Orb,2.310%
+1437,Lopunny,Weakness Policy,0.959%
+1438,Lopunny,Other,4.516%
+1439,Gourgeist-Small,Focus Sash,90.730%
+1440,Gourgeist-Small,Sitrus Berry,5.267%
+1441,Gourgeist-Small,Other,4.003%
+1442,Malamar,Sitrus Berry,57.552%
+1443,Malamar,Leftovers,12.320%
+1444,Malamar,Roseli Berry,8.546%
+1445,Malamar,Rocky Helmet,6.800%
+1446,Malamar,Assault Vest,6.003%
+1447,Malamar,Metronome,1.373%
+1448,Malamar,Life Orb,1.122%
+1449,Malamar,Black Glasses,1.111%
+1450,Malamar,Focus Sash,1.102%
+1451,Malamar,Other,4.072%
+1452,Golisopod,Assault Vest,35.357%
+1453,Golisopod,Weakness Policy,15.797%
+1454,Golisopod,Room Service,12.637%
+1455,Golisopod,Life Orb,9.839%
+1456,Golisopod,Sitrus Berry,8.482%
+1457,Golisopod,Aguav Berry,5.693%
+1458,Golisopod,Heavy-Duty Boots,3.575%
+1459,Golisopod,Safety Goggles,2.789%
+1460,Golisopod,Expert Belt,1.840%
+1461,Golisopod,Other,3.992%
+1462,Golduck,Choice Scarf,41.004%
+1463,Golduck,Rindo Berry,25.965%
+1464,Golduck,Focus Sash,13.610%
+1465,Golduck,Life Orb,7.049%
+1466,Golduck,Aguav Berry,2.173%
+1467,Golduck,Expert Belt,1.954%
+1468,Golduck,Rocky Helmet,1.480%
+1469,Golduck,Sitrus Berry,1.344%
+1470,Golduck,Choice Specs,1.273%
+1471,Golduck,Other,4.148%
+1472,Shiinotic,Focus Sash,37.706%
+1473,Shiinotic,Room Service,35.425%
+1474,Shiinotic,Leftovers,11.130%
+1475,Shiinotic,Bright Powder,7.719%
+1476,Shiinotic,Assault Vest,3.951%
+1477,Shiinotic,Other,4.069%
+1478,Lycanroc-Dusk,Focus Sash,60.968%
+1479,Lycanroc-Dusk,Life Orb,22.884%
+1480,Lycanroc-Dusk,Expert Belt,8.117%
+1481,Lycanroc-Dusk,Choice Band,5.891%
+1482,Lycanroc-Dusk,Other,2.139%
+1483,Unfezant,Razor Claw,70.445%
+1484,Unfezant,Scope Lens,24.219%
+1485,Unfezant,Focus Sash,3.775%
+1486,Unfezant,Other,1.561%
+1487,Perrserker,Assault Vest,38.124%
+1488,Perrserker,Choice Band,18.044%
+1489,Perrserker,Life Orb,17.083%
+1490,Perrserker,Focus Sash,12.699%
+1491,Perrserker,Weakness Policy,5.977%
+1492,Perrserker,Occa Berry,5.246%
+1493,Perrserker,Other,2.826%
+1494,Slowbro-Galar,Psychic Seed,49.835%
+1495,Slowbro-Galar,Safety Goggles,12.307%
+1496,Slowbro-Galar,Quick Claw,12.002%
+1497,Slowbro-Galar,Colbur Berry,4.861%
+1498,Slowbro-Galar,Life Orb,3.491%
+1499,Slowbro-Galar,Weakness Policy,3.195%
+1500,Slowbro-Galar,Sitrus Berry,2.653%
+1501,Slowbro-Galar,Assault Vest,2.182%
+1502,Slowbro-Galar,Twisted Spoon,2.149%
+1503,Slowbro-Galar,Aguav Berry,1.480%
+1504,Slowbro-Galar,Expert Belt,0.783%
+1505,Slowbro-Galar,Choice Specs,0.763%
+1506,Slowbro-Galar,Other,4.298%
+1507,Bouffalant,Assault Vest,75.369%
+1508,Bouffalant,Life Orb,12.927%
+1509,Bouffalant,Muscle Band,2.850%
+1510,Bouffalant,Aguav Berry,2.484%
+1511,Bouffalant,Expert Belt,1.997%
+1512,Bouffalant,Other,4.372%
+1513,Rotom-Frost,Expert Belt,57.415%
+1514,Rotom-Frost,Wiki Berry,17.454%
+1515,Rotom-Frost,Grassy Seed,13.075%
+1516,Rotom-Frost,Choice Scarf,10.807%
+1517,Rotom-Frost,Other,1.249%
+1518,Roserade,Focus Sash,73.190%
+1519,Roserade,Wide Lens,13.062%
+1520,Roserade,Choice Specs,6.574%
+1521,Roserade,Life Orb,3.059%
+1522,Roserade,Other,4.114%
+1523,Tangrowth,Coba Berry,35.868%
+1524,Tangrowth,Rocky Helmet,20.124%
+1525,Tangrowth,Psychic Seed,15.233%
+1526,Tangrowth,Leftovers,13.493%
+1527,Tangrowth,Eject Button,6.901%
+1528,Tangrowth,Assault Vest,4.292%
+1529,Tangrowth,Other,4.088%
+1530,Sandaconda,Weakness Policy,31.602%
+1531,Sandaconda,Passho Berry,27.201%
+1532,Sandaconda,Leftovers,16.823%
+1533,Sandaconda,Assault Vest,9.471%
+1534,Sandaconda,Binding Band,6.548%
+1535,Sandaconda,Sitrus Berry,1.582%
+1536,Sandaconda,Smooth Rock,1.547%
+1537,Sandaconda,Rocky Helmet,1.247%
+1538,Sandaconda,Other,3.977%
+1539,Polteageist,Weakness Policy,48.358%
+1540,Polteageist,Rocky Helmet,24.847%
+1541,Polteageist,Focus Sash,16.971%
+1542,Polteageist,Mental Herb,4.109%
+1543,Polteageist,White Herb,3.095%
+1544,Polteageist,Other,2.619%
+1545,Tangela,Eviolite,99.924%
+1546,Tangela,Other,0.076%
+1547,Morpeko,Focus Sash,90.979%
+1548,Morpeko,Aguav Berry,3.870%
+1549,Morpeko,Figy Berry,1.640%
+1550,Morpeko,Other,3.511%
+1551,Eldegoss,Wide Lens,85.111%
+1552,Eldegoss,Leftovers,5.815%
+1553,Eldegoss,Heavy-Duty Boots,5.373%
+1554,Eldegoss,Other,3.701%
+1555,Aromatisse,Babiri Berry,80.999%
+1556,Aromatisse,Light Clay,13.098%
+1557,Aromatisse,Figy Berry,1.752%
+1558,Aromatisse,Other,4.152%
+1559,Miltank,Assault Vest,68.910%
+1560,Miltank,Leftovers,11.040%
+1561,Miltank,Psychic Seed,5.635%
+1562,Miltank,Chople Berry,3.319%
+1563,Miltank,Rocky Helmet,2.553%
+1564,Miltank,Expert Belt,1.735%
+1565,Miltank,Life Orb,1.539%
+1566,Miltank,Sitrus Berry,1.431%
+1567,Miltank,Other,3.839%
+1568,Gourgeist-Super,Coba Berry,69.529%
+1569,Gourgeist-Super,Figy Berry,15.773%
+1570,Gourgeist-Super,Colbur Berry,8.338%
+1571,Gourgeist-Super,Aguav Berry,2.070%
+1572,Gourgeist-Super,Other,4.289%
+1573,Crawdaunt,Life Orb,43.352%
+1574,Crawdaunt,Assault Vest,19.958%
+1575,Crawdaunt,Mystic Water,18.918%
+1576,Crawdaunt,Focus Sash,13.476%
+1577,Crawdaunt,Other,4.296%
+1578,Heracross,Flame Orb,41.887%
+1579,Heracross,Lum Berry,14.900%
+1580,Heracross,Choice Scarf,13.669%
+1581,Heracross,Focus Sash,10.013%
+1582,Heracross,Life Orb,6.654%
+1583,Heracross,Assault Vest,3.215%
+1584,Heracross,Expert Belt,2.983%
+1585,Heracross,Wide Lens,2.912%
+1586,Heracross,Other,3.767%
+1587,Magneton,Eviolite,99.505%
+1588,Magneton,Other,0.495%
+1589,Stoutland,Sitrus Berry,25.676%
+1590,Stoutland,Focus Sash,19.111%
+1591,Stoutland,Aguav Berry,18.064%
+1592,Stoutland,Life Orb,11.865%
+1593,Stoutland,Chople Berry,4.195%
+1594,Stoutland,Silk Scarf,3.653%
+1595,Stoutland,Iapapa Berry,3.551%
+1596,Stoutland,Figy Berry,3.547%
+1597,Stoutland,Mental Herb,1.564%
+1598,Stoutland,Choice Scarf,1.548%
+1599,Stoutland,Choice Band,1.233%
+1600,Stoutland,Leftovers,1.066%
+1601,Stoutland,Other,4.927%
+1602,Noivern,Focus Sash,51.788%
+1603,Noivern,Lum Berry,23.306%
+1604,Noivern,Life Orb,7.209%
+1605,Noivern,Weakness Policy,3.635%
+1606,Noivern,Assault Vest,2.886%
+1607,Noivern,Haban Berry,2.605%
+1608,Noivern,Dragon Fang,2.063%
+1609,Noivern,Rocky Helmet,1.847%
+1610,Noivern,Other,4.661%
+1611,Claydol,Aguav Berry,48.911%
+1612,Claydol,Leftovers,22.161%
+1613,Claydol,Iron Ball,10.930%
+1614,Claydol,Rocky Helmet,9.620%
+1615,Claydol,Safety Goggles,3.680%
+1616,Claydol,Other,4.698%
+1617,Jolteon,Life Orb,47.007%
+1618,Jolteon,Focus Sash,27.731%
+1619,Jolteon,Magnet,10.602%
+1620,Jolteon,Choice Specs,8.114%
+1621,Jolteon,Expert Belt,3.816%
+1622,Jolteon,Other,2.731%
+1623,Vileplume,Focus Sash,48.665%
+1624,Vileplume,Wide Lens,44.347%
+1625,Vileplume,Black Sludge,4.624%
+1626,Vileplume,Other,2.364%
+1627,Cursola,Power Herb,19.598%
+1628,Cursola,Focus Sash,18.920%
+1629,Cursola,Weakness Policy,16.755%
+1630,Cursola,Expert Belt,14.780%
+1631,Cursola,Choice Specs,10.157%
+1632,Cursola,Life Orb,7.523%
+1633,Cursola,Assault Vest,4.934%
+1634,Cursola,Iron Ball,2.825%
+1635,Cursola,Other,4.510%
+1636,Falinks,Life Orb,33.746%
+1637,Falinks,Psychic Seed,16.373%
+1638,Falinks,Weakness Policy,14.710%
+1639,Falinks,Grassy Seed,10.496%
+1640,Falinks,Focus Sash,6.928%
+1641,Falinks,Lum Berry,3.731%
+1642,Falinks,Protective Pads,3.682%
+1643,Falinks,Choice Scarf,2.658%
+1644,Falinks,Coba Berry,2.262%
+1645,Falinks,Expert Belt,1.568%
+1646,Falinks,Other,3.847%
+1647,Dedenne,Aguav Berry,37.886%
+1648,Dedenne,Sitrus Berry,27.526%
+1649,Dedenne,Choice Scarf,19.245%
+1650,Dedenne,Focus Sash,12.118%
+1651,Dedenne,Other,3.225%
+1652,Flygon,Life Orb,75.350%
+1653,Flygon,Choice Band,8.993%
+1654,Flygon,Expert Belt,3.668%
+1655,Flygon,Lum Berry,2.438%
+1656,Flygon,Focus Sash,2.121%
+1657,Flygon,Choice Scarf,1.959%
+1658,Flygon,Psychic Seed,1.811%
+1659,Flygon,Other,3.660%
+1660,Crustle,Weakness Policy,68.372%
+1661,Crustle,Focus Sash,16.910%
+1662,Crustle,White Herb,13.241%
+1663,Crustle,Other,1.478%
+1664,Reuniclus,Colbur Berry,42.579%
+1665,Reuniclus,Life Orb,27.187%
+1666,Reuniclus,Mental Herb,9.338%
+1667,Reuniclus,Weakness Policy,6.782%
+1668,Reuniclus,Leftovers,2.341%
+1669,Reuniclus,Twisted Spoon,2.199%
+1670,Reuniclus,Sitrus Berry,1.883%
+1671,Reuniclus,Room Service,1.573%
+1672,Reuniclus,Kasib Berry,1.172%
+1673,Reuniclus,Other,4.946%
+1674,Dusknoir,Life Orb,46.318%
+1675,Dusknoir,Colbur Berry,15.255%
+1676,Dusknoir,Weakness Policy,15.012%
+1677,Dusknoir,Leftovers,5.891%
+1678,Dusknoir,Mental Herb,4.098%
+1679,Dusknoir,Assault Vest,3.679%
+1680,Dusknoir,Kasib Berry,3.224%
+1681,Dusknoir,Figy Berry,1.812%
+1682,Dusknoir,Other,4.713%
+1683,Drapion,Shuca Berry,27.881%
+1684,Drapion,Safety Goggles,26.379%
+1685,Drapion,Assault Vest,24.041%
+1686,Drapion,Scope Lens,17.344%
+1687,Drapion,Other,4.355%
+1688,Exploud,Choice Specs,62.177%
+1689,Exploud,Throat Spray,30.025%
+1690,Exploud,Life Orb,6.443%
+1691,Exploud,Other,1.355%
+1692,Wigglytuff,Lum Berry,42.303%
+1693,Wigglytuff,Life Orb,23.098%
+1694,Wigglytuff,Assault Vest,11.425%
+1695,Wigglytuff,Sitrus Berry,8.851%
+1696,Wigglytuff,Babiri Berry,5.342%
+1697,Wigglytuff,Weakness Policy,1.636%
+1698,Wigglytuff,Choice Specs,1.177%
+1699,Wigglytuff,Eject Button,1.133%
+1700,Wigglytuff,Pixie Plate,0.921%
+1701,Wigglytuff,Other,4.115%
+1702,Gardevoir,Psychic Seed,70.289%
+1703,Gardevoir,Focus Sash,6.589%
+1704,Gardevoir,Choice Scarf,4.174%
+1705,Gardevoir,Choice Specs,3.618%
+1706,Gardevoir,Safety Goggles,3.616%
+1707,Gardevoir,Assault Vest,2.363%
+1708,Gardevoir,Babiri Berry,1.992%
+1709,Gardevoir,Life Orb,1.675%
+1710,Gardevoir,Sitrus Berry,1.548%
+1711,Gardevoir,Other,4.136%
+1712,Corsola-Galar,Eviolite,99.513%
+1713,Corsola-Galar,Other,0.487%
+1714,Vanilluxe,Focus Sash,84.709%
+1715,Vanilluxe,Choice Scarf,6.739%
+1716,Vanilluxe,Never-Melt Ice,4.475%
+1717,Vanilluxe,Other,4.077%
+1718,Seaking,Rindo Berry,84.313%
+1719,Seaking,Aguav Berry,6.007%
+1720,Seaking,Leftovers,3.961%
+1721,Seaking,Choice Scarf,3.335%
+1722,Seaking,Other,2.384%
+1723,Sigilyph,Focus Sash,79.226%
+1724,Sigilyph,Weakness Policy,7.001%
+1725,Sigilyph,Blunder Policy,4.766%
+1726,Sigilyph,Life Orb,2.186%
+1727,Sigilyph,Safety Goggles,1.871%
+1728,Sigilyph,Other,4.950%
+1729,Decidueye,Assault Vest,38.667%
+1730,Decidueye,Choice Specs,19.346%
+1731,Decidueye,Life Orb,13.526%
+1732,Decidueye,Weakness Policy,12.978%
+1733,Decidueye,Sitrus Berry,8.515%
+1734,Decidueye,Choice Scarf,3.458%
+1735,Decidueye,Other,3.510%
+1736,Galvantula,Focus Sash,81.587%
+1737,Galvantula,Assault Vest,11.132%
+1738,Galvantula,Life Orb,6.186%
+1739,Galvantula,Other,1.095%
+1740,Arctovish,Weakness Policy,95.378%
+1741,Arctovish,Other,4.622%
+1742,Maractus,Leftovers,34.710%
+1743,Maractus,Expert Belt,25.798%
+1744,Maractus,Focus Sash,14.423%
+1745,Maractus,Sitrus Berry,12.300%
+1746,Maractus,Choice Specs,5.592%
+1747,Maractus,Room Service,3.537%
+1748,Maractus,Other,3.641%
+1749,Orbeetle,Weakness Policy,41.961%
+1750,Orbeetle,Leftovers,23.147%
+1751,Orbeetle,Sitrus Berry,12.684%
+1752,Orbeetle,Focus Sash,10.922%
+1753,Orbeetle,Light Clay,3.045%
+1754,Orbeetle,Life Orb,1.751%
+1755,Orbeetle,Safety Goggles,1.214%
+1756,Orbeetle,Aguav Berry,0.882%
+1757,Orbeetle,Other,4.394%
+1758,Passimian,Assault Vest,40.401%
+1759,Passimian,Weakness Policy,36.941%
+1760,Passimian,Choice Scarf,6.150%
+1761,Passimian,Coba Berry,3.197%
+1762,Passimian,Life Orb,2.688%
+1763,Passimian,Focus Sash,2.601%
+1764,Passimian,Payapa Berry,2.393%
+1765,Passimian,Expert Belt,1.981%
+1766,Passimian,Other,3.648%
+1767,Ninjask,Expert Belt,61.106%
+1768,Ninjask,Focus Sash,33.582%
+1769,Ninjask,Choice Band,2.360%
+1770,Ninjask,Other,2.951%
+1771,Druddigon,Rocky Helmet,92.811%
+1772,Druddigon,Life Orb,5.177%
+1773,Druddigon,Other,2.011%
+1774,Lycanroc,Focus Sash,35.039%
+1775,Lycanroc,Choice Band,27.490%
+1776,Lycanroc,Weakness Policy,22.291%
+1777,Lycanroc,Life Orb,12.932%
+1778,Lycanroc,Other,2.249%
+1779,Beheeyem,Life Orb,40.397%
+1780,Beheeyem,Power Herb,39.385%
+1781,Beheeyem,Focus Sash,9.300%
+1782,Beheeyem,Choice Specs,4.776%
+1783,Beheeyem,Kasib Berry,3.705%
+1784,Beheeyem,Other,2.436%
+1785,Marowak,Thick Club,100.000%
+1786,Marowak,Other,0.000%
+1787,Tentacruel,Weakness Policy,47.830%
+1788,Tentacruel,Expert Belt,27.876%
+1789,Tentacruel,Life Orb,8.268%
+1790,Tentacruel,Black Sludge,3.706%
+1791,Tentacruel,Assault Vest,3.319%
+1792,Tentacruel,Safety Goggles,2.558%
+1793,Tentacruel,Lum Berry,2.009%
+1794,Tentacruel,Other,4.433%
+1795,Dragalge,Weakness Policy,51.060%
+1796,Dragalge,Life Orb,34.982%
+1797,Dragalge,Safety Goggles,6.299%
+1798,Dragalge,Aguav Berry,2.851%
+1799,Dragalge,Other,4.808%
+1800,Flareon,Toxic Orb,90.428%
+1801,Flareon,Choice Scarf,7.290%
+1802,Flareon,Other,2.281%
+1803,Bewear,Leftovers,81.296%
+1804,Bewear,Assault Vest,13.436%
+1805,Bewear,Lum Berry,3.722%
+1806,Bewear,Other,1.545%
+1807,Scyther,Eviolite,74.559%
+1808,Scyther,Choice Band,14.562%
+1809,Scyther,Life Orb,9.366%
+1810,Scyther,Other,1.513%
+1811,Sandslash-Alola,Life Orb,62.151%
+1812,Sandslash-Alola,Focus Sash,15.764%
+1813,Sandslash-Alola,Assault Vest,7.375%
+1814,Sandslash-Alola,Expert Belt,4.438%
+1815,Sandslash-Alola,Snowball,3.918%
+1816,Sandslash-Alola,Choice Band,3.660%
+1817,Sandslash-Alola,Other,2.694%
+1818,Poliwrath,Sitrus Berry,69.668%
+1819,Poliwrath,Weakness Policy,11.898%
+1820,Poliwrath,Assault Vest,9.083%
+1821,Poliwrath,Life Orb,3.757%
+1822,Poliwrath,Choice Band,1.162%
+1823,Poliwrath,Other,4.433%
+1824,Lycanroc-Midnight,Razor Claw,48.287%
+1825,Lycanroc-Midnight,Life Orb,12.256%
+1826,Lycanroc-Midnight,Expert Belt,9.895%
+1827,Lycanroc-Midnight,Choice Band,7.634%
+1828,Lycanroc-Midnight,Assault Vest,6.428%
+1829,Lycanroc-Midnight,Weakness Policy,6.419%
+1830,Lycanroc-Midnight,Choice Scarf,4.228%
+1831,Lycanroc-Midnight,Other,4.855%
+1832,Golurk,Life Orb,60.413%
+1833,Golurk,Weakness Policy,19.724%
+1834,Golurk,Assault Vest,9.524%
+1835,Golurk,Spell Tag,2.468%
+1836,Golurk,Expert Belt,2.161%
+1837,Golurk,Iron Ball,1.767%
+1838,Golurk,Other,3.941%
+1839,Lickilicky,Assault Vest,39.115%
+1840,Lickilicky,Weakness Policy,16.817%
+1841,Lickilicky,Sitrus Berry,12.852%
+1842,Lickilicky,Aguav Berry,8.984%
+1843,Lickilicky,Normal Gem,7.409%
+1844,Lickilicky,Choice Band,5.673%
+1845,Lickilicky,Leftovers,3.901%
+1846,Lickilicky,Life Orb,2.425%
+1847,Lickilicky,Other,2.824%
+1848,Rotom-Fan,Sitrus Berry,85.332%
+1849,Rotom-Fan,Life Orb,7.053%
+1850,Rotom-Fan,Light Clay,2.711%
+1851,Rotom-Fan,Other,4.904%
+1852,Hitmonlee,Psychic Seed,32.861%
+1853,Hitmonlee,Weakness Policy,28.109%
+1854,Hitmonlee,Grassy Seed,26.315%
+1855,Hitmonlee,Electric Seed,7.365%
+1856,Hitmonlee,Normal Gem,3.361%
+1857,Hitmonlee,Other,1.989%
+1858,Scolipede,Life Orb,42.757%
+1859,Scolipede,Focus Sash,30.107%
+1860,Scolipede,Choice Band,18.057%
+1861,Scolipede,Assault Vest,3.173%
+1862,Scolipede,Weakness Policy,2.033%
+1863,Scolipede,Other,3.873%
+1864,Dunsparce,Leftovers,48.323%
+1865,Dunsparce,Choice Scarf,15.581%
+1866,Dunsparce,Choice Band,11.026%
+1867,Dunsparce,Assault Vest,8.867%
+1868,Dunsparce,Blunder Policy,5.559%
+1869,Dunsparce,Focus Sash,3.155%
+1870,Dunsparce,Chople Berry,1.963%
+1871,Dunsparce,Metronome,1.395%
+1872,Dunsparce,Other,4.132%
+1873,Sandslash,Assault Vest,58.981%
+1874,Sandslash,Life Orb,18.352%
+1875,Sandslash,Expert Belt,14.834%
+1876,Sandslash,Focus Sash,2.969%
+1877,Sandslash,Other,4.864%
+1878,Steelix,Weakness Policy,92.204%
+1879,Steelix,Assault Vest,2.849%
+1880,Steelix,Other,4.947%
+1881,Noctowl,Weakness Policy,56.892%
+1882,Noctowl,Sharp Beak,25.683%
+1883,Noctowl,Life Orb,7.174%
+1884,Noctowl,Throat Spray,5.933%
+1885,Noctowl,Other,4.318%
+1886,Corsola,Weakness Policy,99.266%
+1887,Corsola,Other,0.734%
+1888,Mime Jr.,Focus Sash,99.860%
+1889,Mime Jr.,Other,0.140%
+1890,Gourgeist-Large,Figy Berry,99.986%
+1891,Gourgeist-Large,Other,0.014%

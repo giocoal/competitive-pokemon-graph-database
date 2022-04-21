@@ -1,0 +1,3619 @@
+,Pokemon,Move,Type,Use_Percentage (%)
+0,Zacian-Crowned,Behemoth Blade,steel,99.996%
+1,Zacian-Crowned,Protect,normal,98.672%
+2,Zacian-Crowned,Sacred Sword,fighting,84.154%
+3,Zacian-Crowned,Play Rough,fairy,64.487%
+4,Zacian-Crowned,Substitute,normal,30.274%
+5,Zacian-Crowned,Quick Attack,normal,8.491%
+6,Zacian-Crowned,Other,,13.926%
+7,Incineroar,Fake Out,normal,99.796%
+8,Incineroar,Flare Blitz,fire,98.840%
+9,Incineroar,Parting Shot,dark,96.074%
+10,Incineroar,Darkest Lariat,dark,40.006%
+11,Incineroar,Throat Chop,dark,21.099%
+12,Incineroar,Taunt,dark,20.389%
+13,Incineroar,Snarl,dark,9.495%
+14,Incineroar,Other,,14.300%
+15,Kyogre,Water Spout,water,93.603%
+16,Kyogre,Origin Pulse,water,77.789%
+17,Kyogre,Ice Beam,ice,77.355%
+18,Kyogre,Protect,normal,67.612%
+19,Kyogre,Thunder,electric,54.061%
+20,Kyogre,Blizzard,ice,12.518%
+21,Kyogre,Other,,17.062%
+22,Grimmsnarl,Reflect,psychic,75.872%
+23,Grimmsnarl,Light Screen,psychic,63.992%
+24,Grimmsnarl,Thunder Wave,electric,55.346%
+25,Grimmsnarl,Spirit Break,fairy,52.745%
+26,Grimmsnarl,Foul Play,dark,38.453%
+27,Grimmsnarl,Scary Face,normal,34.624%
+28,Grimmsnarl,Trick,psychic,32.650%
+29,Grimmsnarl,Fake Tears,dark,17.558%
+30,Grimmsnarl,Fake Out,normal,15.003%
+31,Grimmsnarl,Other,,13.757%
+32,Regieleki,Electroweb,electric,84.902%
+33,Regieleki,Protect,normal,72.095%
+34,Regieleki,Thunderbolt,electric,38.147%
+35,Regieleki,Bounce,flying,36.589%
+36,Regieleki,Wild Charge,electric,34.983%
+37,Regieleki,Volt Switch,electric,29.405%
+38,Regieleki,Assurance,dark,24.911%
+39,Regieleki,Rising Voltage,electric,21.208%
+40,Regieleki,Hyper Beam,normal,20.250%
+41,Regieleki,Screech,normal,12.164%
+42,Regieleki,Extreme Speed,normal,5.350%
+43,Regieleki,Other,,19.995%
+44,Rillaboom,Grassy Glide,grass,99.878%
+45,Rillaboom,Fake Out,normal,97.616%
+46,Rillaboom,High Horsepower,ground,62.281%
+47,Rillaboom,U-turn,bug,48.902%
+48,Rillaboom,Protect,normal,47.379%
+49,Rillaboom,Wood Hammer,grass,21.823%
+50,Rillaboom,Knock Off,dark,9.280%
+51,Rillaboom,Other,,12.841%
+52,Groudon,Precipice Blades,ground,99.792%
+53,Groudon,Rock Slide,rock,54.962%
+54,Groudon,Protect,normal,42.589%
+55,Groudon,Stone Edge,rock,38.319%
+56,Groudon,Heavy Slam,steel,36.446%
+57,Groudon,Fire Punch,fire,32.270%
+58,Groudon,Heat Crash,fire,29.673%
+59,Groudon,Swords Dance,normal,29.073%
+60,Groudon,Giga Impact,normal,6.494%
+61,Groudon,Rock Tomb,rock,6.127%
+62,Groudon,Bulldoze,ground,4.949%
+63,Groudon,Other,,19.307%
+64,Calyrex-Shadow,Astral Barrage,ghost,99.995%
+65,Calyrex-Shadow,Protect,normal,71.432%
+66,Calyrex-Shadow,Expanding Force,psychic,44.349%
+67,Calyrex-Shadow,Will-O-Wisp,fire,42.417%
+68,Calyrex-Shadow,Mud Shot,ground,26.909%
+69,Calyrex-Shadow,Snarl,dark,22.241%
+70,Calyrex-Shadow,Psyshock,psychic,18.397%
+71,Calyrex-Shadow,Leaf Storm,grass,17.106%
+72,Calyrex-Shadow,Trick Room,psychic,10.284%
+73,Calyrex-Shadow,Energy Ball,grass,7.051%
+74,Calyrex-Shadow,Hyper Beam,normal,6.413%
+75,Calyrex-Shadow,Speed Swap,psychic,5.031%
+76,Calyrex-Shadow,Trick,psychic,4.837%
+77,Calyrex-Shadow,Imprison,psychic,4.292%
+78,Calyrex-Shadow,Other,,19.245%
+79,Thundurus,Wild Charge,electric,74.033%
+80,Thundurus,Fly,flying,71.796%
+81,Thundurus,Brick Break,fighting,43.333%
+82,Thundurus,Eerie Impulse,electric,24.899%
+83,Thundurus,Thunderbolt,electric,22.150%
+84,Thundurus,Foul Play,dark,19.228%
+85,Thundurus,Superpower,fighting,18.700%
+86,Thundurus,Protect,normal,18.170%
+87,Thundurus,Taunt,dark,17.885%
+88,Thundurus,Electroweb,electric,16.444%
+89,Thundurus,Scary Face,normal,14.578%
+90,Thundurus,Crunch,dark,12.792%
+91,Thundurus,Thunder Wave,electric,11.828%
+92,Thundurus,Rain Dance,water,6.781%
+93,Thundurus,Iron Tail,steel,6.068%
+94,Thundurus,Grass Knot,grass,3.807%
+95,Thundurus,Other,,17.508%
+96,Landorus-Therian,Earthquake,ground,93.103%
+97,Landorus-Therian,Fly,flying,90.761%
+98,Landorus-Therian,Rock Slide,rock,85.296%
+99,Landorus-Therian,Protect,normal,38.395%
+100,Landorus-Therian,Swords Dance,normal,37.344%
+101,Landorus-Therian,U-turn,bug,18.237%
+102,Landorus-Therian,Rock Tomb,rock,9.178%
+103,Landorus-Therian,Earth Power,ground,7.275%
+104,Landorus-Therian,Bulldoze,ground,6.471%
+105,Landorus-Therian,Other,,13.939%
+106,Gastrodon,Earth Power,ground,98.795%
+107,Gastrodon,Yawn,normal,96.989%
+108,Gastrodon,Protect,normal,96.360%
+109,Gastrodon,Ice Beam,ice,79.866%
+110,Gastrodon,Icy Wind,ice,14.347%
+111,Gastrodon,Other,,13.643%
+112,Charizard,Blast Burn,fire,88.243%
+113,Charizard,Protect,normal,83.021%
+114,Charizard,Hurricane,flying,80.422%
+115,Charizard,Ancient Power,rock,48.995%
+116,Charizard,Heat Wave,fire,38.932%
+117,Charizard,Solar Beam,grass,16.248%
+118,Charizard,Air Slash,flying,15.085%
+119,Charizard,Helping Hand,normal,11.829%
+120,Charizard,Other,,17.225%
+121,Amoonguss,Spore,grass,99.938%
+122,Amoonguss,Rage Powder,bug,99.642%
+123,Amoonguss,Protect,normal,87.546%
+124,Amoonguss,Pollen Puff,bug,46.926%
+125,Amoonguss,Giga Drain,grass,19.295%
+126,Amoonguss,Foul Play,dark,10.868%
+127,Amoonguss,Seed Bomb,grass,8.792%
+128,Amoonguss,Hex,ghost,7.764%
+129,Amoonguss,Other,,19.228%
+130,Indeedee-F,Follow Me,normal,99.822%
+131,Indeedee-F,Helping Hand,normal,92.200%
+132,Indeedee-F,Protect,normal,86.716%
+133,Indeedee-F,Expanding Force,psychic,86.470%
+134,Indeedee-F,Mystical Fire,fire,6.706%
+135,Indeedee-F,Safeguard,normal,6.623%
+136,Indeedee-F,Shadow Ball,ghost,5.046%
+137,Indeedee-F,Other,,16.418%
+138,Whimsicott,Tailwind,flying,99.572%
+139,Whimsicott,Helping Hand,normal,65.191%
+140,Whimsicott,Moonblast,fairy,55.759%
+141,Whimsicott,Energy Ball,grass,38.249%
+142,Whimsicott,Taunt,dark,27.545%
+143,Whimsicott,Protect,normal,22.509%
+144,Whimsicott,Switcheroo,dark,19.612%
+145,Whimsicott,Cotton Spore,grass,18.727%
+146,Whimsicott,Trick Room,psychic,10.418%
+147,Whimsicott,Dazzling Gleam,fairy,10.298%
+148,Whimsicott,Fake Tears,dark,7.076%
+149,Whimsicott,Encore,normal,6.480%
+150,Whimsicott,Other,,18.564%
+151,Yveltal,Oblivion Wing,flying,94.879%
+152,Yveltal,Foul Play,dark,60.609%
+153,Yveltal,Dark Pulse,dark,55.426%
+154,Yveltal,Protect,normal,51.466%
+155,Yveltal,Sucker Punch,dark,46.599%
+156,Yveltal,Snarl,dark,45.445%
+157,Yveltal,Heat Wave,fire,32.104%
+158,Yveltal,Other,,13.472%
+159,Calyrex-Ice,Glacial Lance,ice,99.987%
+160,Calyrex-Ice,High Horsepower,ground,81.641%
+161,Calyrex-Ice,Trick Room,psychic,80.271%
+162,Calyrex-Ice,Protect,normal,50.254%
+163,Calyrex-Ice,Seed Bomb,grass,23.825%
+164,Calyrex-Ice,Body Press,fighting,16.525%
+165,Calyrex-Ice,Iron Defense,steel,15.771%
+166,Calyrex-Ice,Swords Dance,normal,10.328%
+167,Calyrex-Ice,Heavy Slam,steel,7.257%
+168,Calyrex-Ice,Other,,14.141%
+169,Palkia,Spacial Rend,dragon,95.295%
+170,Palkia,Hydro Pump,water,87.339%
+171,Palkia,Earth Power,ground,72.407%
+172,Palkia,Trick Room,psychic,66.273%
+173,Palkia,Protect,normal,41.038%
+174,Palkia,Flamethrower,fire,21.259%
+175,Palkia,Other,,16.389%
+176,Porygon2,Trick Room,psychic,89.721%
+177,Porygon2,Recover,normal,67.506%
+178,Porygon2,Foul Play,dark,44.718%
+179,Porygon2,Shadow Ball,ghost,37.299%
+180,Porygon2,Eerie Impulse,electric,34.166%
+181,Porygon2,Ice Beam,ice,28.395%
+182,Porygon2,Hyper Beam,normal,25.944%
+183,Porygon2,Icy Wind,ice,24.594%
+184,Porygon2,Tri Attack,normal,22.802%
+185,Porygon2,Ally Switch,psychic,16.619%
+186,Porygon2,Other,,8.236%
+187,Tornadus,Tailwind,flying,99.854%
+188,Tornadus,Hurricane,flying,94.991%
+189,Tornadus,Protect,normal,72.217%
+190,Tornadus,Icy Wind,ice,66.041%
+191,Tornadus,Taunt,dark,24.366%
+192,Tornadus,Rain Dance,water,12.390%
+193,Tornadus,Brutal Swing,dark,9.282%
+194,Tornadus,Dark Pulse,dark,5.633%
+195,Tornadus,Other,,15.227%
+196,Zapdos,Hurricane,flying,96.628%
+197,Zapdos,Heat Wave,fire,73.258%
+198,Zapdos,Thunderbolt,electric,69.658%
+199,Zapdos,Protect,normal,50.897%
+200,Zapdos,Detect,fighting,28.526%
+201,Zapdos,Thunder,electric,25.838%
+202,Zapdos,Eerie Impulse,electric,19.148%
+203,Zapdos,Roost,flying,15.034%
+204,Zapdos,Weather Ball,normal,13.405%
+205,Zapdos,Other,,7.609%
+206,Kartana,Leaf Blade,grass,99.828%
+207,Kartana,Smart Strike,steel,98.388%
+208,Kartana,Aerial Ace,flying,90.580%
+209,Kartana,Sacred Sword,fighting,79.657%
+210,Kartana,Giga Impact,normal,15.590%
+211,Kartana,Other,,15.955%
+212,Blastoise,Hydro Cannon,water,85.941%
+213,Blastoise,Fake Out,normal,60.240%
+214,Blastoise,Yawn,normal,59.178%
+215,Blastoise,Blizzard,ice,52.957%
+216,Blastoise,Helping Hand,normal,37.541%
+217,Blastoise,Dark Pulse,dark,31.218%
+218,Blastoise,Icy Wind,ice,19.769%
+219,Blastoise,Ice Beam,ice,15.366%
+220,Blastoise,Water Spout,water,8.226%
+221,Blastoise,Terrain Pulse,normal,7.782%
+222,Blastoise,Protect,normal,6.683%
+223,Blastoise,Other,,15.100%
+224,Venusaur,Sleep Powder,grass,87.975%
+225,Venusaur,Weather Ball,normal,74.341%
+226,Venusaur,Earth Power,ground,63.727%
+227,Venusaur,Leaf Storm,grass,61.615%
+228,Venusaur,Sludge Bomb,poison,41.102%
+229,Venusaur,Frenzy Plant,grass,29.596%
+230,Venusaur,Protect,normal,21.665%
+231,Venusaur,Other,,19.978%
+232,Ferrothorn,Protect,normal,81.649%
+233,Ferrothorn,Body Press,fighting,74.990%
+234,Ferrothorn,Leech Seed,grass,71.176%
+235,Ferrothorn,Iron Defense,steel,64.478%
+236,Ferrothorn,Power Whip,grass,54.295%
+237,Ferrothorn,Gyro Ball,steel,33.770%
+238,Ferrothorn,Other,,19.641%
+239,Ditto,,,300.000%
+240,Ditto,Transform,normal,100.000%
+241,Urshifu,Wicked Blow,dark,99.409%
+242,Urshifu,Close Combat,fighting,98.953%
+243,Urshifu,Sucker Punch,dark,98.103%
+244,Urshifu,Protect,normal,34.116%
+245,Urshifu,Detect,fighting,22.811%
+246,Urshifu,U-turn,bug,12.535%
+247,Urshifu,Helping Hand,normal,12.099%
+248,Urshifu,Poison Jab,poison,7.804%
+249,Urshifu,Other,,14.171%
+250,Xerneas,Geomancy,fairy,99.830%
+251,Xerneas,Protect,normal,98.794%
+252,Xerneas,Dazzling Gleam,fairy,88.556%
+253,Xerneas,Moonblast,fairy,86.398%
+254,Xerneas,Hyper Beam,normal,16.830%
+255,Xerneas,Other,,9.592%
+256,Dialga,Earth Power,ground,87.838%
+257,Dialga,Roar of Time,dragon,83.577%
+258,Dialga,Flash Cannon,steel,81.213%
+259,Dialga,Trick Room,psychic,34.785%
+260,Dialga,Blizzard,ice,24.820%
+261,Dialga,Overheat,fire,16.215%
+262,Dialga,Steel Beam,steel,14.880%
+263,Dialga,Protect,normal,12.815%
+264,Dialga,Power Gem,rock,9.049%
+265,Dialga,Dragon Pulse,dragon,7.895%
+266,Dialga,Flamethrower,fire,7.400%
+267,Dialga,Other,,19.513%
+268,Shedinja,Shadow Sneak,ghost,98.581%
+269,Shedinja,Ally Switch,psychic,96.977%
+270,Shedinja,Poltergeist,ghost,91.871%
+271,Shedinja,Endure,normal,82.904%
+272,Shedinja,Protect,normal,16.046%
+273,Shedinja,Other,,13.622%
+274,Solgaleo,Sunsteel Strike,steel,99.911%
+275,Solgaleo,Earthquake,ground,94.249%
+276,Solgaleo,Protect,normal,63.217%
+277,Solgaleo,Rock Slide,rock,43.071%
+278,Solgaleo,Psychic Fangs,psychic,35.657%
+279,Solgaleo,Wild Charge,electric,34.579%
+280,Solgaleo,Wide Guard,rock,11.218%
+281,Solgaleo,Other,,18.096%
+282,Dusclops,Trick Room,psychic,99.720%
+283,Dusclops,Night Shade,ghost,67.739%
+284,Dusclops,Taunt,dark,66.251%
+285,Dusclops,Shadow Sneak,ghost,62.111%
+286,Dusclops,Helping Hand,normal,38.375%
+287,Dusclops,Pain Split,normal,22.982%
+288,Dusclops,Will-O-Wisp,fire,19.226%
+289,Dusclops,Haze,ice,9.145%
+290,Dusclops,Other,,14.451%
+291,Torkoal,Protect,normal,80.649%
+292,Torkoal,Yawn,normal,64.405%
+293,Torkoal,Eruption,fire,60.986%
+294,Torkoal,Heat Wave,fire,47.296%
+295,Torkoal,Body Press,fighting,44.194%
+296,Torkoal,Burning Jealousy,fire,36.362%
+297,Torkoal,Earth Power,ground,23.092%
+298,Torkoal,Flamethrower,fire,15.511%
+299,Torkoal,Solar Beam,grass,11.089%
+300,Torkoal,Other,,16.416%
+301,Kingdra,Hurricane,flying,70.551%
+302,Kingdra,Draco Meteor,dragon,67.739%
+303,Kingdra,Protect,normal,63.421%
+304,Kingdra,Hydro Pump,water,57.369%
+305,Kingdra,Icy Wind,ice,28.331%
+306,Kingdra,Outrage,dragon,27.002%
+307,Kingdra,Bounce,flying,26.742%
+308,Kingdra,Waterfall,water,26.476%
+309,Kingdra,Muddy Water,water,14.093%
+310,Kingdra,Other,,18.277%
+311,Raichu,Fake Out,normal,98.544%
+312,Raichu,Nuzzle,electric,84.644%
+313,Raichu,Helping Hand,normal,70.022%
+314,Raichu,Electroweb,electric,67.333%
+315,Raichu,Volt Switch,electric,32.796%
+316,Raichu,Eerie Impulse,electric,12.494%
+317,Raichu,Light Screen,psychic,4.519%
+318,Raichu,Tail Whip,normal,4.506%
+319,Raichu,Feint,normal,3.954%
+320,Raichu,Brutal Swing,dark,3.672%
+321,Raichu,Other,,17.517%
+322,Weezing,Protect,normal,99.905%
+323,Weezing,Will-O-Wisp,fire,98.913%
+324,Weezing,Taunt,dark,97.786%
+325,Weezing,Sludge Bomb,poison,83.793%
+326,Weezing,Other,,19.603%
+327,Entei,Sacred Fire,fire,88.425%
+328,Entei,Stone Edge,rock,77.952%
+329,Entei,Flare Blitz,fire,57.003%
+330,Entei,Crunch,dark,51.432%
+331,Entei,Extreme Speed,normal,40.914%
+332,Entei,Snarl,dark,28.703%
+333,Entei,Bulldoze,ground,20.967%
+334,Entei,Stomping Tantrum,ground,14.102%
+335,Entei,Protect,normal,13.979%
+336,Entei,Other,,6.524%
+337,Lunala,Moongeist Beam,ghost,99.996%
+338,Lunala,Meteor Beam,rock,94.444%
+339,Lunala,Trick Room,psychic,81.709%
+340,Lunala,Protect,normal,58.956%
+341,Lunala,Wide Guard,rock,25.756%
+342,Lunala,Will-O-Wisp,fire,11.722%
+343,Lunala,Moonblast,fairy,6.572%
+344,Lunala,Moonlight,fairy,5.311%
+345,Lunala,Other,,15.533%
+346,Kyurem-White,Earth Power,ground,97.707%
+347,Kyurem-White,Draco Meteor,dragon,79.675%
+348,Kyurem-White,Protect,normal,67.535%
+349,Kyurem-White,Blizzard,ice,57.734%
+350,Kyurem-White,Freeze-Dry,ice,39.128%
+351,Kyurem-White,Flash Cannon,steel,11.624%
+352,Kyurem-White,Helping Hand,normal,11.312%
+353,Kyurem-White,Ice Beam,ice,9.322%
+354,Kyurem-White,Hyper Beam,normal,8.274%
+355,Kyurem-White,Other,,17.689%
+356,Tapu Fini,Moonblast,fairy,80.347%
+357,Tapu Fini,Protect,normal,66.133%
+358,Tapu Fini,Muddy Water,water,58.173%
+359,Tapu Fini,Calm Mind,psychic,40.074%
+360,Tapu Fini,Heal Pulse,psychic,31.413%
+361,Tapu Fini,Nature's Madness,,20.283%
+362,Tapu Fini,Blizzard,ice,19.520%
+363,Tapu Fini,Icy Wind,ice,15.553%
+364,Tapu Fini,Scald,water,14.531%
+365,Tapu Fini,Dazzling Gleam,fairy,12.954%
+366,Tapu Fini,Surf,water,5.623%
+367,Tapu Fini,Grass Knot,grass,5.611%
+368,Tapu Fini,Hydro Pump,water,5.338%
+369,Tapu Fini,Light Screen,psychic,5.232%
+370,Tapu Fini,Other,,19.214%
+371,Sableye,Will-O-Wisp,fire,86.776%
+372,Sableye,Quash,dark,83.107%
+373,Sableye,Fake Out,normal,60.813%
+374,Sableye,Shadow Sneak,ghost,36.811%
+375,Sableye,Ally Switch,psychic,26.309%
+376,Sableye,Sunny Day,fire,24.331%
+377,Sableye,Sucker Punch,dark,22.290%
+378,Sableye,Trick,psychic,20.679%
+379,Sableye,Helping Hand,normal,14.095%
+380,Sableye,Foul Play,dark,13.929%
+381,Sableye,Other,,10.859%
+382,Urshifu-Rapid-Strike,Surging Strikes,water,99.864%
+383,Urshifu-Rapid-Strike,Close Combat,fighting,98.438%
+384,Urshifu-Rapid-Strike,Aqua Jet,water,91.829%
+385,Urshifu-Rapid-Strike,Protect,normal,41.898%
+386,Urshifu-Rapid-Strike,Detect,fighting,21.076%
+387,Urshifu-Rapid-Strike,U-turn,bug,15.795%
+388,Urshifu-Rapid-Strike,Helping Hand,normal,5.870%
+389,Urshifu-Rapid-Strike,Poison Jab,poison,5.298%
+390,Urshifu-Rapid-Strike,Other,,19.932%
+391,Tapu Lele,Moonblast,fairy,91.882%
+392,Tapu Lele,Psychic,psychic,82.087%
+393,Tapu Lele,Dazzling Gleam,fairy,74.918%
+394,Tapu Lele,Shadow Ball,ghost,58.798%
+395,Tapu Lele,Taunt,dark,30.703%
+396,Tapu Lele,Nature's Madness,,14.898%
+397,Tapu Lele,Energy Ball,grass,13.322%
+398,Tapu Lele,Psyshock,psychic,10.628%
+399,Tapu Lele,Reflect,psychic,7.178%
+400,Tapu Lele,Other,,15.588%
+401,Mimikyu,Shadow Sneak,ghost,92.864%
+402,Mimikyu,Trick Room,psychic,90.227%
+403,Mimikyu,Will-O-Wisp,fire,79.992%
+404,Mimikyu,Taunt,dark,43.916%
+405,Mimikyu,Play Rough,fairy,41.470%
+406,Mimikyu,Safeguard,normal,17.912%
+407,Mimikyu,Protect,normal,8.373%
+408,Mimikyu,Wood Hammer,grass,6.496%
+409,Mimikyu,Other,,18.749%
+410,Gothitelle,Helping Hand,normal,96.715%
+411,Gothitelle,Fake Out,normal,93.331%
+412,Gothitelle,Hypnosis,psychic,77.277%
+413,Gothitelle,Ally Switch,psychic,74.335%
+414,Gothitelle,Trick Room,psychic,26.848%
+415,Gothitelle,Protect,normal,10.110%
+416,Gothitelle,Taunt,dark,9.664%
+417,Gothitelle,Other,,11.720%
+418,Seismitoad,Liquidation,water,91.553%
+419,Seismitoad,Power Whip,grass,90.577%
+420,Seismitoad,Stomping Tantrum,ground,80.505%
+421,Seismitoad,Bounce,flying,75.287%
+422,Seismitoad,Protect,normal,19.664%
+423,Seismitoad,Earthquake,ground,11.265%
+424,Seismitoad,Earth Power,ground,7.535%
+425,Seismitoad,Hydro Pump,water,6.112%
+426,Seismitoad,Other,,17.501%
+427,Ho-Oh,Sacred Fire,fire,84.238%
+428,Ho-Oh,Brave Bird,flying,81.065%
+429,Ho-Oh,Protect,normal,80.609%
+430,Ho-Oh,Earthquake,ground,56.709%
+431,Ho-Oh,Recover,normal,37.963%
+432,Ho-Oh,Air Slash,flying,9.320%
+433,Ho-Oh,Earth Power,ground,7.211%
+434,Ho-Oh,Burn Up,fire,6.992%
+435,Ho-Oh,Calm Mind,psychic,6.149%
+436,Ho-Oh,Iron Head,steel,5.768%
+437,Ho-Oh,Heat Wave,fire,5.624%
+438,Ho-Oh,Other,,18.354%
+439,Rotom-Heat,Overheat,fire,99.979%
+440,Rotom-Heat,Thunderbolt,electric,98.385%
+441,Rotom-Heat,Nasty Plot,dark,60.352%
+442,Rotom-Heat,Will-O-Wisp,fire,56.661%
+443,Rotom-Heat,Protect,normal,38.355%
+444,Rotom-Heat,Helping Hand,normal,27.471%
+445,Rotom-Heat,Other,,18.796%
+446,Eternatus,Flamethrower,fire,72.593%
+447,Eternatus,Dynamax Cannon,dragon,71.187%
+448,Eternatus,Sludge Bomb,poison,55.993%
+449,Eternatus,Protect,normal,52.181%
+450,Eternatus,Recover,normal,34.977%
+451,Eternatus,Cosmic Power,psychic,33.131%
+452,Eternatus,Mystical Fire,fire,24.637%
+453,Eternatus,Toxic,poison,21.734%
+454,Eternatus,Meteor Beam,rock,14.663%
+455,Eternatus,Other,,18.905%
+456,Regigigas,Giga Impact,normal,99.433%
+457,Regigigas,High Horsepower,ground,97.573%
+458,Regigigas,Ice Punch,ice,74.543%
+459,Regigigas,Wide Guard,rock,60.199%
+460,Regigigas,Protect,normal,33.156%
+461,Regigigas,Darkest Lariat,dark,15.461%
+462,Regigigas,Other,,19.635%
+463,Cinderace,Sucker Punch,dark,92.159%
+464,Cinderace,Bounce,flying,80.270%
+465,Cinderace,High Jump Kick,fighting,80.067%
+466,Cinderace,Pyro Ball,fire,73.923%
+467,Cinderace,Iron Head,steel,29.976%
+468,Cinderace,Flare Blitz,fire,10.669%
+469,Cinderace,Coaching,fighting,9.529%
+470,Cinderace,Protect,normal,7.227%
+471,Cinderace,Other,,16.181%
+472,Bronzong,Body Press,fighting,90.996%
+473,Bronzong,Trick Room,psychic,89.100%
+474,Bronzong,Ally Switch,psychic,82.713%
+475,Bronzong,Iron Defense,steel,82.208%
+476,Bronzong,Speed Swap,psychic,17.598%
+477,Bronzong,Hypnosis,psychic,11.070%
+478,Bronzong,Iron Head,steel,8.392%
+479,Bronzong,Other,,17.924%
+480,Togekiss,Follow Me,normal,96.579%
+481,Togekiss,Dazzling Gleam,fairy,88.140%
+482,Togekiss,Helping Hand,normal,82.768%
+483,Togekiss,Yawn,normal,41.331%
+484,Togekiss,Air Slash,flying,37.443%
+485,Togekiss,Protect,normal,28.780%
+486,Togekiss,Ally Switch,psychic,11.747%
+487,Togekiss,Other,,13.212%
+488,Coalossal,Protect,normal,95.081%
+489,Coalossal,Meteor Beam,rock,92.932%
+490,Coalossal,Heat Wave,fire,92.384%
+491,Coalossal,Solar Beam,grass,91.809%
+492,Coalossal,Rock Slide,rock,4.831%
+493,Coalossal,Flare Blitz,fire,4.520%
+494,Coalossal,Other,,18.443%
+495,Dragapult,Dragon Darts,dragon,83.820%
+496,Dragapult,Phantom Force,ghost,75.683%
+497,Dragapult,Fly,flying,69.188%
+498,Dragapult,Will-O-Wisp,fire,48.470%
+499,Dragapult,Surf,water,16.923%
+500,Dragapult,Protect,normal,15.463%
+501,Dragapult,Dragon Dance,dragon,10.912%
+502,Dragapult,Light Screen,psychic,8.997%
+503,Dragapult,Flamethrower,fire,8.867%
+504,Dragapult,Sucker Punch,dark,7.116%
+505,Dragapult,Ally Switch,psychic,6.317%
+506,Dragapult,Dragon Claw,dragon,5.582%
+507,Dragapult,Scald,water,5.434%
+508,Dragapult,Reflect,psychic,4.686%
+509,Dragapult,Dive,water,4.601%
+510,Dragapult,Breaking Swipe,dragon,4.489%
+511,Dragapult,Shadow Ball,ghost,3.444%
+512,Dragapult,Draco Meteor,dragon,3.283%
+513,Dragapult,Other,,16.724%
+514,Umbreon,Foul Play,dark,98.973%
+515,Umbreon,Yawn,normal,97.716%
+516,Umbreon,Snarl,dark,90.784%
+517,Umbreon,Moonlight,fairy,79.625%
+518,Umbreon,Taunt,dark,17.898%
+519,Umbreon,Other,,15.004%
+520,Indeedee,Expanding Force,psychic,99.251%
+521,Indeedee,Trick Room,psychic,81.248%
+522,Indeedee,Imprison,psychic,78.776%
+523,Indeedee,Helping Hand,normal,61.219%
+524,Indeedee,Shadow Ball,ghost,21.544%
+525,Indeedee,Dazzling Gleam,fairy,19.882%
+526,Indeedee,Trick,psychic,16.369%
+527,Indeedee,After You,normal,11.887%
+528,Indeedee,Other,,9.824%
+529,Comfey,Floral Healing,fairy,98.635%
+530,Comfey,Draining Kiss,fairy,81.263%
+531,Comfey,Trick Room,psychic,61.193%
+532,Comfey,Ally Switch,psychic,53.806%
+533,Comfey,Protect,normal,40.430%
+534,Comfey,Giga Drain,grass,37.765%
+535,Comfey,Helping Hand,normal,16.849%
+536,Comfey,Other,,10.059%
+537,Lapras,Hydro Pump,water,93.473%
+538,Lapras,Freeze-Dry,ice,89.979%
+539,Lapras,Protect,normal,75.603%
+540,Lapras,Helping Hand,normal,50.981%
+541,Lapras,Blizzard,ice,19.916%
+542,Lapras,Thunder,electric,19.911%
+543,Lapras,Perish Song,normal,13.826%
+544,Lapras,Icy Wind,ice,7.153%
+545,Lapras,Ice Shard,ice,6.266%
+546,Lapras,Surf,water,3.507%
+547,Lapras,Other,,19.387%
+548,Rayquaza,Draco Meteor,dragon,58.059%
+549,Rayquaza,Earth Power,ground,55.012%
+550,Rayquaza,Protect,normal,51.967%
+551,Rayquaza,Hurricane,flying,46.563%
+552,Rayquaza,Dragon Ascent,flying,41.258%
+553,Rayquaza,Surf,water,33.030%
+554,Rayquaza,Swords Dance,normal,32.483%
+555,Rayquaza,Scale Shot,dragon,24.856%
+556,Rayquaza,Extreme Speed,normal,13.041%
+557,Rayquaza,Earthquake,ground,10.442%
+558,Rayquaza,Air Slash,flying,7.546%
+559,Rayquaza,Meteor Beam,rock,4.713%
+560,Rayquaza,Overheat,fire,4.594%
+561,Rayquaza,Other,,16.436%
+562,Spectrier,Shadow Ball,ghost,96.691%
+563,Spectrier,Will-O-Wisp,fire,89.432%
+564,Spectrier,Snarl,dark,85.823%
+565,Spectrier,Taunt,dark,47.284%
+566,Spectrier,Bulldoze,ground,38.715%
+567,Spectrier,Protect,normal,11.105%
+568,Spectrier,Mud Shot,ground,6.835%
+569,Spectrier,Hyper Beam,normal,6.680%
+570,Spectrier,Other,,17.436%
+571,Reshiram,Draco Meteor,dragon,93.071%
+572,Reshiram,Earth Power,ground,86.059%
+573,Reshiram,Blue Flare,fire,74.391%
+574,Reshiram,Protect,normal,50.583%
+575,Reshiram,Solar Beam,grass,45.992%
+576,Reshiram,Fusion Flare,fire,15.000%
+577,Reshiram,Heat Wave,fire,14.955%
+578,Reshiram,Other,,19.948%
+579,Zygarde,Thousand Arrows,ground,98.354%
+580,Zygarde,Coil,poison,95.640%
+581,Zygarde,Protect,normal,92.208%
+582,Zygarde,Substitute,normal,41.087%
+583,Zygarde,Iron Tail,steel,31.525%
+584,Zygarde,Outrage,dragon,12.294%
+585,Zygarde,Rock Slide,rock,7.469%
+586,Zygarde,Breaking Swipe,dragon,4.724%
+587,Zygarde,Other,,16.700%
+588,Mamoswine,Protect,normal,98.706%
+589,Mamoswine,High Horsepower,ground,92.386%
+590,Mamoswine,Ice Shard,ice,88.540%
+591,Mamoswine,Icicle Crash,ice,78.325%
+592,Mamoswine,Icicle Spear,ice,27.808%
+593,Mamoswine,Other,,14.234%
+594,Necrozma-Dawn-Wings,Moongeist Beam,ghost,99.996%
+595,Necrozma-Dawn-Wings,Trick Room,psychic,98.313%
+596,Necrozma-Dawn-Wings,Meteor Beam,rock,95.905%
+597,Necrozma-Dawn-Wings,Gravity,psychic,67.415%
+598,Necrozma-Dawn-Wings,Photon Geyser,psychic,29.646%
+599,Necrozma-Dawn-Wings,Other,,8.725%
+600,Barraskewda,Liquidation,water,84.181%
+601,Barraskewda,Bounce,flying,83.742%
+602,Barraskewda,Drill Run,ground,63.825%
+603,Barraskewda,Throat Chop,dark,55.040%
+604,Barraskewda,Crunch,dark,34.666%
+605,Barraskewda,Protect,normal,16.709%
+606,Barraskewda,Close Combat,fighting,13.412%
+607,Barraskewda,Brick Break,fighting,11.325%
+608,Barraskewda,Waterfall,water,10.256%
+609,Barraskewda,Flip Turn,water,9.286%
+610,Barraskewda,Other,,17.559%
+611,Celesteela,Air Slash,flying,61.181%
+612,Celesteela,Flash Cannon,steel,58.062%
+613,Celesteela,Protect,normal,56.260%
+614,Celesteela,Meteor Beam,rock,45.651%
+615,Celesteela,Leech Seed,grass,37.948%
+616,Celesteela,Wide Guard,rock,30.339%
+617,Celesteela,Heavy Slam,steel,26.864%
+618,Celesteela,Giga Drain,grass,21.747%
+619,Celesteela,Flamethrower,fire,13.641%
+620,Celesteela,Energy Ball,grass,11.243%
+621,Celesteela,Iron Head,steel,8.331%
+622,Celesteela,Seed Bomb,grass,8.034%
+623,Celesteela,Earthquake,ground,7.915%
+624,Celesteela,Other,,12.784%
+625,Metagross,Stomping Tantrum,ground,79.646%
+626,Metagross,Iron Head,steel,75.875%
+627,Metagross,Ice Punch,ice,58.683%
+628,Metagross,Thunder Punch,electric,44.466%
+629,Metagross,Protect,normal,31.412%
+630,Metagross,Rock Slide,rock,23.361%
+631,Metagross,Brick Break,fighting,18.977%
+632,Metagross,Ally Switch,psychic,15.681%
+633,Metagross,Earthquake,ground,15.203%
+634,Metagross,Bullet Punch,steel,12.183%
+635,Metagross,Steel Roller,steel,8.608%
+636,Metagross,Other,,15.905%
+637,Araquanid,Wide Guard,rock,97.829%
+638,Araquanid,Liquidation,water,91.623%
+639,Araquanid,Protect,normal,63.689%
+640,Araquanid,Leech Life,bug,43.037%
+641,Araquanid,Lunge,bug,42.459%
+642,Araquanid,Safeguard,normal,20.675%
+643,Araquanid,Giga Drain,grass,9.256%
+644,Araquanid,Entrainment,normal,8.442%
+645,Araquanid,Scald,water,8.363%
+646,Araquanid,Other,,14.627%
+647,Pheromosa,Close Combat,fighting,93.054%
+648,Pheromosa,Coaching,fighting,69.878%
+649,Pheromosa,Icy Wind,ice,50.314%
+650,Pheromosa,Speed Swap,psychic,44.941%
+651,Pheromosa,Quick Guard,fighting,35.293%
+652,Pheromosa,Protect,normal,34.151%
+653,Pheromosa,U-turn,bug,22.434%
+654,Pheromosa,Throat Chop,dark,9.203%
+655,Pheromosa,Feint,normal,6.526%
+656,Pheromosa,Poison Jab,poison,4.799%
+657,Pheromosa,Low Kick,fighting,4.338%
+658,Pheromosa,Lunge,bug,3.540%
+659,Pheromosa,Triple Axel,ice,2.811%
+660,Pheromosa,Other,,18.718%
+661,Arcanine,Will-O-Wisp,fire,89.474%
+662,Arcanine,Snarl,dark,66.137%
+663,Arcanine,Safeguard,normal,50.625%
+664,Arcanine,Heat Wave,fire,48.540%
+665,Arcanine,Protect,normal,29.617%
+666,Arcanine,Flamethrower,fire,29.263%
+667,Arcanine,Morning Sun,normal,23.385%
+668,Arcanine,Flare Blitz,fire,18.755%
+669,Arcanine,Helping Hand,normal,15.329%
+670,Arcanine,Wild Charge,electric,6.365%
+671,Arcanine,Extreme Speed,normal,4.210%
+672,Arcanine,Other,,18.299%
+673,Zamazenta-Crowned,Behemoth Bash,steel,99.973%
+674,Zamazenta-Crowned,Coaching,fighting,76.272%
+675,Zamazenta-Crowned,Snarl,dark,62.251%
+676,Zamazenta-Crowned,Wide Guard,rock,52.704%
+677,Zamazenta-Crowned,Close Combat,fighting,52.680%
+678,Zamazenta-Crowned,Protect,normal,24.521%
+679,Zamazenta-Crowned,Helping Hand,normal,13.612%
+680,Zamazenta-Crowned,Other,,17.988%
+681,Clefairy,Follow Me,normal,98.900%
+682,Clefairy,Helping Hand,normal,94.232%
+683,Clefairy,Protect,normal,87.372%
+684,Clefairy,Moonblast,fairy,31.046%
+685,Clefairy,After You,normal,28.422%
+686,Clefairy,Icy Wind,ice,24.124%
+687,Clefairy,Sing,normal,7.900%
+688,Clefairy,Life Dew,water,6.103%
+689,Clefairy,Ally Switch,psychic,5.648%
+690,Clefairy,Other,,16.254%
+691,Mienshao,Close Combat,fighting,99.302%
+692,Mienshao,Fake Out,normal,98.840%
+693,Mienshao,Ally Switch,psychic,68.447%
+694,Mienshao,Wide Guard,rock,48.488%
+695,Mienshao,Helping Hand,normal,31.096%
+696,Mienshao,Feint,normal,19.536%
+697,Mienshao,Coaching,fighting,9.222%
+698,Mienshao,Rock Tomb,rock,8.265%
+699,Mienshao,Other,,16.805%
+700,Lugia,Aeroblast,flying,96.945%
+701,Lugia,Earth Power,ground,95.189%
+702,Lugia,Recover,normal,81.559%
+703,Lugia,Calm Mind,psychic,64.500%
+704,Lugia,Protect,normal,28.434%
+705,Lugia,Icy Wind,ice,6.221%
+706,Lugia,Thunderbolt,electric,5.622%
+707,Lugia,Psychic,psychic,3.436%
+708,Lugia,Other,,18.094%
+709,Chansey,Seismic Toss,fighting,99.814%
+710,Chansey,Soft-Boiled,normal,99.724%
+711,Chansey,Minimize,normal,67.107%
+712,Chansey,Ally Switch,psychic,34.467%
+713,Chansey,Shadow Ball,ghost,33.412%
+714,Chansey,Sing,normal,32.420%
+715,Chansey,Defense Curl,normal,27.137%
+716,Chansey,Other,,5.919%
+717,Suicune,Tailwind,flying,98.844%
+718,Suicune,Scald,water,90.484%
+719,Suicune,Snarl,dark,85.882%
+720,Suicune,Roar,normal,50.304%
+721,Suicune,Icy Wind,ice,23.790%
+722,Suicune,Helping Hand,normal,19.984%
+723,Suicune,Protect,normal,12.797%
+724,Suicune,Other,,17.915%
+725,Landorus,Earth Power,ground,99.472%
+726,Landorus,Fly,flying,79.577%
+727,Landorus,Stone Edge,rock,64.116%
+728,Landorus,Substitute,normal,50.252%
+729,Landorus,Protect,normal,39.259%
+730,Landorus,Rock Slide,rock,20.609%
+731,Landorus,Sludge Bomb,poison,18.408%
+732,Landorus,Grass Knot,grass,8.981%
+733,Landorus,Other,,19.327%
+734,Necrozma-Dusk-Mane,Sunsteel Strike,steel,85.426%
+735,Necrozma-Dusk-Mane,Earthquake,ground,68.895%
+736,Necrozma-Dusk-Mane,Trick Room,psychic,67.440%
+737,Necrozma-Dusk-Mane,Psychic Fangs,psychic,24.367%
+738,Necrozma-Dusk-Mane,Photon Geyser,psychic,21.428%
+739,Necrozma-Dusk-Mane,Swords Dance,normal,19.905%
+740,Necrozma-Dusk-Mane,Protect,normal,17.619%
+741,Necrozma-Dusk-Mane,Earth Power,ground,16.312%
+742,Necrozma-Dusk-Mane,Rock Slide,rock,15.830%
+743,Necrozma-Dusk-Mane,Flash Cannon,steel,12.506%
+744,Necrozma-Dusk-Mane,Dragon Dance,dragon,9.151%
+745,Necrozma-Dusk-Mane,Stone Edge,rock,8.980%
+746,Necrozma-Dusk-Mane,Ally Switch,psychic,5.418%
+747,Necrozma-Dusk-Mane,Power Gem,rock,5.125%
+748,Necrozma-Dusk-Mane,Expanding Force,psychic,4.804%
+749,Necrozma-Dusk-Mane,Other,,16.794%
+750,Alcremie,Recover,normal,74.765%
+751,Alcremie,Calm Mind,psychic,67.626%
+752,Alcremie,Acid Armor,poison,66.589%
+753,Alcremie,Stored Power,psychic,66.412%
+754,Alcremie,Decorate,fairy,32.349%
+755,Alcremie,Dazzling Gleam,fairy,31.825%
+756,Alcremie,Protect,normal,28.230%
+757,Alcremie,Mystical Fire,fire,8.853%
+758,Alcremie,Aromatherapy,grass,5.611%
+759,Alcremie,Other,,17.741%
+760,Tapu Koko,Wild Charge,electric,66.803%
+761,Tapu Koko,Brave Bird,flying,65.671%
+762,Tapu Koko,U-turn,bug,63.756%
+763,Tapu Koko,Protect,normal,54.950%
+764,Tapu Koko,Volt Switch,electric,25.572%
+765,Tapu Koko,Dazzling Gleam,fairy,21.802%
+766,Tapu Koko,Thunderbolt,electric,18.513%
+767,Tapu Koko,Electroweb,electric,18.510%
+768,Tapu Koko,Nature's Madness,,15.913%
+769,Tapu Koko,Grass Knot,grass,12.263%
+770,Tapu Koko,Thunder,electric,11.256%
+771,Tapu Koko,Light Screen,psychic,7.671%
+772,Tapu Koko,Other,,17.321%
+773,Liepard,Copycat,normal,94.071%
+774,Liepard,Fake Out,normal,93.209%
+775,Liepard,Fake Tears,dark,55.942%
+776,Liepard,Foul Play,dark,53.759%
+777,Liepard,Yawn,normal,38.753%
+778,Liepard,Snarl,dark,21.064%
+779,Liepard,Sucker Punch,dark,13.306%
+780,Liepard,Thunder Wave,electric,7.192%
+781,Liepard,Screech,normal,4.799%
+782,Liepard,Other,,17.905%
+783,Hydreigon,Earth Power,ground,93.957%
+784,Hydreigon,Dark Pulse,dark,83.482%
+785,Hydreigon,Draco Meteor,dragon,59.592%
+786,Hydreigon,Flash Cannon,steel,46.602%
+787,Hydreigon,Hyper Voice,normal,32.132%
+788,Hydreigon,Snarl,dark,16.880%
+789,Hydreigon,Nasty Plot,dark,13.675%
+790,Hydreigon,Fire Blast,fire,11.773%
+791,Hydreigon,Protect,normal,10.076%
+792,Hydreigon,Bulldoze,ground,4.828%
+793,Hydreigon,Head Smash,rock,4.567%
+794,Hydreigon,Dragon Dance,dragon,4.514%
+795,Hydreigon,Other,,17.923%
+796,Weavile,Fake Out,normal,97.093%
+797,Weavile,Icy Wind,ice,68.313%
+798,Weavile,Fake Tears,dark,68.219%
+799,Weavile,Triple Axel,ice,64.749%
+800,Weavile,Foul Play,dark,33.373%
+801,Weavile,Feint,normal,15.948%
+802,Weavile,Throat Chop,dark,13.146%
+803,Weavile,Lash Out,dark,10.266%
+804,Weavile,Ice Shard,ice,7.595%
+805,Weavile,Protect,normal,5.447%
+806,Weavile,Other,,15.851%
+807,Tsareena,Power Whip,grass,80.680%
+808,Tsareena,Triple Axel,ice,77.652%
+809,Tsareena,Helping Hand,normal,63.509%
+810,Tsareena,U-turn,bug,45.765%
+811,Tsareena,Taunt,dark,41.363%
+812,Tsareena,Grassy Glide,grass,28.867%
+813,Tsareena,High Jump Kick,fighting,25.393%
+814,Tsareena,Protect,normal,15.987%
+815,Tsareena,Bounce,flying,6.155%
+816,Tsareena,Other,,14.630%
+817,Glastrier,High Horsepower,ground,99.988%
+818,Glastrier,Icicle Crash,ice,92.194%
+819,Glastrier,Heavy Slam,steel,77.675%
+820,Glastrier,Protect,normal,72.366%
+821,Glastrier,Close Combat,fighting,19.604%
+822,Glastrier,Body Press,fighting,13.137%
+823,Glastrier,Snarl,dark,9.429%
+824,Glastrier,Other,,15.609%
+825,Dracovish,Fishious Rend,water,99.997%
+826,Dracovish,Psychic Fangs,psychic,62.715%
+827,Dracovish,Crunch,dark,50.063%
+828,Dracovish,Protect,normal,45.752%
+829,Dracovish,Ice Fang,ice,30.620%
+830,Dracovish,Substitute,normal,28.355%
+831,Dracovish,Low Kick,fighting,21.367%
+832,Dracovish,Earthquake,ground,13.781%
+833,Dracovish,Outrage,dragon,12.738%
+834,Dracovish,Stone Edge,rock,8.282%
+835,Dracovish,Rock Slide,rock,8.071%
+836,Dracovish,Other,,18.258%
+837,Regidrago,Dragon Energy,dragon,99.997%
+838,Regidrago,Dragon Pulse,dragon,93.750%
+839,Regidrago,Draco Meteor,dragon,89.562%
+840,Regidrago,Hyper Beam,normal,60.189%
+841,Regidrago,Protect,normal,26.551%
+842,Regidrago,Ancient Power,rock,18.699%
+843,Regidrago,Other,,11.251%
+844,Hitmontop,Fake Out,normal,97.021%
+845,Hitmontop,Wide Guard,rock,78.786%
+846,Hitmontop,Close Combat,fighting,77.873%
+847,Hitmontop,Feint,normal,52.647%
+848,Hitmontop,Helping Hand,normal,26.015%
+849,Hitmontop,Brick Break,fighting,19.779%
+850,Hitmontop,Endeavor,normal,11.784%
+851,Hitmontop,Triple Axel,ice,6.657%
+852,Hitmontop,Sucker Punch,dark,6.390%
+853,Hitmontop,Mach Punch,fighting,5.441%
+854,Hitmontop,Other,,17.607%
+855,Darmanitan-Galar,Icicle Crash,ice,99.805%
+856,Darmanitan-Galar,Flare Blitz,fire,99.507%
+857,Darmanitan-Galar,U-turn,bug,58.343%
+858,Darmanitan-Galar,Superpower,fighting,49.018%
+859,Darmanitan-Galar,Rock Slide,rock,47.446%
+860,Darmanitan-Galar,Earthquake,ground,28.743%
+861,Darmanitan-Galar,Other,,17.138%
+862,Zekrom,Protect,normal,89.105%
+863,Zekrom,Earth Power,ground,64.629%
+864,Zekrom,Draco Meteor,dragon,64.434%
+865,Zekrom,Rising Voltage,electric,59.461%
+866,Zekrom,Dragon Claw,dragon,27.678%
+867,Zekrom,Dual Wingbeat,flying,20.932%
+868,Zekrom,Bolt Strike,electric,20.275%
+869,Zekrom,Fusion Bolt,electric,19.848%
+870,Zekrom,Dragon Dance,dragon,6.529%
+871,Zekrom,Shadow Claw,ghost,5.070%
+872,Zekrom,Crunch,dark,4.787%
+873,Zekrom,Other,,17.252%
+874,Shuckle,Guard Split,psychic,99.202%
+875,Shuckle,Power Split,psychic,95.393%
+876,Shuckle,Toxic,poison,76.158%
+877,Shuckle,Protect,normal,55.975%
+878,Shuckle,Helping Hand,normal,21.211%
+879,Shuckle,Endure,normal,19.246%
+880,Shuckle,Infestation,bug,14.480%
+881,Shuckle,Other,,18.335%
+882,Zapdos-Galar,Brave Bird,flying,93.244%
+883,Zapdos-Galar,Thunderous Kick,fighting,67.987%
+884,Zapdos-Galar,Stomping Tantrum,ground,50.526%
+885,Zapdos-Galar,Close Combat,fighting,34.009%
+886,Zapdos-Galar,Steel Wing,steel,31.969%
+887,Zapdos-Galar,Throat Chop,dark,17.004%
+888,Zapdos-Galar,Blaze Kick,fire,15.202%
+889,Zapdos-Galar,Coaching,fighting,14.432%
+890,Zapdos-Galar,Quick Guard,fighting,13.803%
+891,Zapdos-Galar,Protect,normal,13.490%
+892,Zapdos-Galar,Brick Break,fighting,12.437%
+893,Zapdos-Galar,Taunt,dark,9.719%
+894,Zapdos-Galar,Detect,fighting,8.120%
+895,Zapdos-Galar,Other,,18.056%
+896,Volcarona,Rage Powder,bug,95.946%
+897,Volcarona,Heat Wave,fire,80.857%
+898,Volcarona,Struggle Bug,bug,67.987%
+899,Volcarona,Protect,normal,53.139%
+900,Volcarona,Quiver Dance,bug,31.421%
+901,Volcarona,Will-O-Wisp,fire,22.672%
+902,Volcarona,String Shot,bug,11.671%
+903,Volcarona,Bug Buzz,bug,8.421%
+904,Volcarona,Overheat,fire,8.209%
+905,Volcarona,Other,,19.677%
+906,Meowstic,Light Screen,psychic,80.128%
+907,Meowstic,Reflect,psychic,74.018%
+908,Meowstic,Skill Swap,psychic,48.484%
+909,Meowstic,Psyshock,psychic,47.127%
+910,Meowstic,Fake Out,normal,32.010%
+911,Meowstic,Yawn,normal,25.288%
+912,Meowstic,Thunder Wave,electric,18.483%
+913,Meowstic,Trick,psychic,16.273%
+914,Meowstic,Psychic,psychic,15.220%
+915,Meowstic,Sucker Punch,dark,6.971%
+916,Meowstic,Trick Room,psychic,6.541%
+917,Meowstic,Sunny Day,fire,5.795%
+918,Meowstic,Ally Switch,psychic,4.952%
+919,Meowstic,Other,,18.710%
+920,Persian-Alola,Foul Play,dark,98.558%
+921,Persian-Alola,Icy Wind,ice,94.652%
+922,Persian-Alola,Fake Out,normal,94.099%
+923,Persian-Alola,Fake Tears,dark,82.176%
+924,Persian-Alola,Parting Shot,dark,9.867%
+925,Persian-Alola,Taunt,dark,6.348%
+926,Persian-Alola,Other,,14.300%
+927,Snorlax,High Horsepower,ground,62.779%
+928,Snorlax,Belly Drum,normal,48.899%
+929,Snorlax,Self-Destruct,normal,44.587%
+930,Snorlax,Double-Edge,normal,42.949%
+931,Snorlax,Darkest Lariat,dark,41.896%
+932,Snorlax,Curse,ghost,37.643%
+933,Snorlax,Yawn,normal,35.127%
+934,Snorlax,Earthquake,ground,22.506%
+935,Snorlax,Protect,normal,16.243%
+936,Snorlax,Body Slam,normal,7.265%
+937,Snorlax,Steel Roller,steel,6.309%
+938,Snorlax,Iron Head,steel,5.745%
+939,Snorlax,Giga Impact,normal,5.451%
+940,Snorlax,Superpower,fighting,5.114%
+941,Snorlax,Other,,17.488%
+942,Stakataka,Trick Room,psychic,93.105%
+943,Stakataka,Gyro Ball,steel,76.334%
+944,Stakataka,Rock Slide,rock,65.492%
+945,Stakataka,Body Press,fighting,53.526%
+946,Stakataka,Wide Guard,rock,46.740%
+947,Stakataka,Protect,normal,20.099%
+948,Stakataka,Stone Edge,rock,15.440%
+949,Stakataka,High Horsepower,ground,11.555%
+950,Stakataka,Other,,17.708%
+951,Thundurus-Therian,Grass Knot,grass,67.783%
+952,Thundurus-Therian,Protect,normal,61.679%
+953,Thundurus-Therian,Fly,flying,53.503%
+954,Thundurus-Therian,Thunderbolt,electric,49.534%
+955,Thundurus-Therian,Thunder,electric,40.022%
+956,Thundurus-Therian,Hyper Beam,normal,28.827%
+957,Thundurus-Therian,Weather Ball,normal,20.378%
+958,Thundurus-Therian,Volt Switch,electric,19.345%
+959,Thundurus-Therian,Dark Pulse,dark,13.354%
+960,Thundurus-Therian,Sludge Bomb,poison,10.883%
+961,Thundurus-Therian,Electroweb,electric,10.282%
+962,Thundurus-Therian,Rising Voltage,electric,8.926%
+963,Thundurus-Therian,Other,,15.485%
+964,Moltres-Galar,Fiery Wrath,dark,91.103%
+965,Moltres-Galar,Protect,normal,64.149%
+966,Moltres-Galar,Air Slash,flying,49.827%
+967,Moltres-Galar,Nasty Plot,dark,42.430%
+968,Moltres-Galar,Hurricane,flying,40.218%
+969,Moltres-Galar,Snarl,dark,37.830%
+970,Moltres-Galar,Sucker Punch,dark,16.920%
+971,Moltres-Galar,Foul Play,dark,16.399%
+972,Moltres-Galar,Taunt,dark,10.039%
+973,Moltres-Galar,Ancient Power,rock,9.454%
+974,Moltres-Galar,U-turn,bug,9.284%
+975,Moltres-Galar,Other,,12.347%
+976,Talonflame,Tailwind,flying,99.903%
+977,Talonflame,Brave Bird,flying,62.480%
+978,Talonflame,Will-O-Wisp,fire,51.275%
+979,Talonflame,Quick Guard,fighting,31.416%
+980,Talonflame,Flare Blitz,fire,27.480%
+981,Talonflame,Feint,normal,21.703%
+982,Talonflame,Solar Beam,grass,21.127%
+983,Talonflame,Overheat,fire,20.404%
+984,Talonflame,Dual Wingbeat,flying,18.363%
+985,Talonflame,Taunt,dark,17.313%
+986,Talonflame,Protect,normal,10.561%
+987,Talonflame,Other,,17.974%
+988,Milotic,Muddy Water,water,65.185%
+989,Milotic,Coil,poison,55.165%
+990,Milotic,Hypnosis,psychic,50.544%
+991,Milotic,Blizzard,ice,44.307%
+992,Milotic,Recover,normal,32.260%
+993,Milotic,Protect,normal,28.812%
+994,Milotic,Scald,water,25.404%
+995,Milotic,Icy Wind,ice,22.098%
+996,Milotic,Ice Beam,ice,17.659%
+997,Milotic,Helping Hand,normal,15.918%
+998,Milotic,Hydro Pump,water,9.451%
+999,Milotic,Mud Shot,ground,6.824%
+1000,Milotic,Dragon Tail,dragon,4.881%
+1001,Milotic,Life Dew,water,4.497%
+1002,Milotic,Other,,16.996%
+1003,Mewtwo,Psystrike,psychic,61.597%
+1004,Mewtwo,Hurricane,flying,53.419%
+1005,Mewtwo,Flamethrower,fire,44.143%
+1006,Mewtwo,Shadow Ball,ghost,37.892%
+1007,Mewtwo,Fire Blast,fire,37.395%
+1008,Mewtwo,Expanding Force,psychic,36.195%
+1009,Mewtwo,Earthquake,ground,14.967%
+1010,Mewtwo,Blizzard,ice,14.876%
+1011,Mewtwo,Protect,normal,14.221%
+1012,Mewtwo,Trick Room,psychic,13.580%
+1013,Mewtwo,Self-Destruct,normal,11.433%
+1014,Mewtwo,Ancient Power,rock,11.213%
+1015,Mewtwo,Grass Knot,grass,9.451%
+1016,Mewtwo,Ice Beam,ice,9.049%
+1017,Mewtwo,Aura Sphere,fighting,6.664%
+1018,Mewtwo,Focus Blast,fighting,6.192%
+1019,Mewtwo,Other,,17.717%
+1020,Klinklang,Gear Grind,steel,99.916%
+1021,Klinklang,Wild Charge,electric,99.837%
+1022,Klinklang,Shift Gear,steel,99.543%
+1023,Klinklang,Trick Room,psychic,76.270%
+1024,Klinklang,Protect,normal,23.569%
+1025,Klinklang,Other,,0.866%
+1026,Inteleon,Snipe Shot,water,95.029%
+1027,Inteleon,Air Slash,flying,77.367%
+1028,Inteleon,Focus Energy,normal,66.680%
+1029,Inteleon,Icy Wind,ice,54.360%
+1030,Inteleon,Protect,normal,49.926%
+1031,Inteleon,Hyper Beam,normal,12.109%
+1032,Inteleon,Ice Beam,ice,10.220%
+1033,Inteleon,Dark Pulse,dark,10.092%
+1034,Inteleon,Soak,water,4.752%
+1035,Inteleon,Other,,19.466%
+1036,Salamence,Protect,normal,85.435%
+1037,Salamence,Hurricane,flying,68.782%
+1038,Salamence,Flamethrower,fire,68.506%
+1039,Salamence,Rock Slide,rock,66.503%
+1040,Salamence,Dual Wingbeat,flying,23.991%
+1041,Salamence,Draco Meteor,dragon,12.207%
+1042,Salamence,Heat Wave,fire,11.510%
+1043,Salamence,Dragon Claw,dragon,9.536%
+1044,Salamence,Shadow Claw,ghost,8.804%
+1045,Salamence,Earthquake,ground,8.314%
+1046,Salamence,Bulldoze,ground,7.123%
+1047,Salamence,Outrage,dragon,5.209%
+1048,Salamence,Crunch,dark,4.810%
+1049,Salamence,Other,,19.273%
+1050,Hatterene,Dazzling Gleam,fairy,98.520%
+1051,Hatterene,Expanding Force,psychic,84.501%
+1052,Hatterene,Trick Room,psychic,84.068%
+1053,Hatterene,Mystical Fire,fire,82.513%
+1054,Hatterene,Protect,normal,16.234%
+1055,Hatterene,Dark Pulse,dark,11.828%
+1056,Hatterene,Giga Drain,grass,7.311%
+1057,Hatterene,Other,,15.026%
+1058,Sneasel,Icy Wind,ice,96.540%
+1059,Sneasel,Triple Axel,ice,94.762%
+1060,Sneasel,Surf,water,86.031%
+1061,Sneasel,Fake Out,normal,82.690%
+1062,Sneasel,Taunt,dark,13.294%
+1063,Sneasel,Sunny Day,fire,4.683%
+1064,Sneasel,Foul Play,dark,4.420%
+1065,Sneasel,Other,,17.581%
+1066,Escavalier,Iron Head,steel,99.473%
+1067,Escavalier,Drill Run,ground,94.319%
+1068,Escavalier,Protect,normal,61.313%
+1069,Escavalier,Close Combat,fighting,47.328%
+1070,Escavalier,X-Scissor,bug,39.143%
+1071,Escavalier,Knock Off,dark,25.383%
+1072,Escavalier,Megahorn,bug,21.001%
+1073,Escavalier,Other,,12.041%
+1074,Rotom-Wash,Hydro Pump,water,84.000%
+1075,Rotom-Wash,Thunderbolt,electric,77.056%
+1076,Rotom-Wash,Will-O-Wisp,fire,45.424%
+1077,Rotom-Wash,Ally Switch,psychic,37.051%
+1078,Rotom-Wash,Protect,normal,25.385%
+1079,Rotom-Wash,Nasty Plot,dark,24.378%
+1080,Rotom-Wash,Volt Switch,electric,20.125%
+1081,Rotom-Wash,Helping Hand,normal,18.586%
+1082,Rotom-Wash,Eerie Impulse,electric,17.358%
+1083,Rotom-Wash,Foul Play,dark,15.684%
+1084,Rotom-Wash,Thunder,electric,10.649%
+1085,Rotom-Wash,Shadow Ball,ghost,7.617%
+1086,Rotom-Wash,Other,,16.686%
+1087,Politoed,Scald,water,95.212%
+1088,Politoed,Protect,normal,91.495%
+1089,Politoed,Helping Hand,normal,83.949%
+1090,Politoed,Icy Wind,ice,83.058%
+1091,Politoed,Perish Song,normal,17.790%
+1092,Politoed,Ice Beam,ice,6.014%
+1093,Politoed,Psychic,psychic,3.966%
+1094,Politoed,Other,,18.515%
+1095,Ludicolo,Fake Out,normal,61.956%
+1096,Ludicolo,Protect,normal,54.366%
+1097,Ludicolo,Leaf Storm,grass,41.766%
+1098,Ludicolo,Ice Beam,ice,34.866%
+1099,Ludicolo,Energy Ball,grass,34.295%
+1100,Ludicolo,Icy Wind,ice,31.843%
+1101,Ludicolo,Hydro Pump,water,28.990%
+1102,Ludicolo,Scald,water,28.693%
+1103,Ludicolo,Muddy Water,water,26.896%
+1104,Ludicolo,Giga Drain,grass,20.100%
+1105,Ludicolo,Weather Ball,normal,8.603%
+1106,Ludicolo,Surf,water,7.487%
+1107,Ludicolo,Blizzard,ice,4.901%
+1108,Ludicolo,Other,,15.239%
+1109,Slowking,Trick Room,psychic,86.098%
+1110,Slowking,Expanding Force,psychic,72.610%
+1111,Slowking,Muddy Water,water,60.292%
+1112,Slowking,Fire Blast,fire,54.349%
+1113,Slowking,Slack Off,normal,13.777%
+1114,Slowking,Protect,normal,13.688%
+1115,Slowking,Calm Mind,psychic,13.682%
+1116,Slowking,Iron Defense,steel,13.671%
+1117,Slowking,Stored Power,psychic,13.671%
+1118,Slowking,Scald,water,12.315%
+1119,Slowking,Swagger,normal,12.189%
+1120,Slowking,Safeguard,normal,12.189%
+1121,Slowking,Flamethrower,fire,12.189%
+1122,Slowking,Other,,9.281%
+1123,Swampert,High Horsepower,ground,97.388%
+1124,Swampert,Yawn,normal,95.446%
+1125,Swampert,Liquidation,water,94.763%
+1126,Swampert,Curse,ghost,84.395%
+1127,Swampert,Wide Guard,rock,12.209%
+1128,Swampert,Other,,15.799%
+1129,Azumarill,Protect,normal,86.110%
+1130,Azumarill,Scald,water,76.433%
+1131,Azumarill,Perish Song,normal,76.382%
+1132,Azumarill,Sing,normal,76.263%
+1133,Azumarill,Play Rough,fairy,20.904%
+1134,Azumarill,Aqua Jet,water,15.378%
+1135,Azumarill,Liquidation,water,13.001%
+1136,Azumarill,Steel Roller,steel,6.677%
+1137,Azumarill,Belly Drum,normal,6.652%
+1138,Azumarill,Dig,ground,6.640%
+1139,Azumarill,Other,,15.561%
+1140,Scizor,Bullet Punch,steel,99.999%
+1141,Scizor,U-turn,bug,93.126%
+1142,Scizor,Superpower,fighting,86.111%
+1143,Scizor,Dual Wingbeat,flying,85.617%
+1144,Scizor,Quick Guard,fighting,8.061%
+1145,Scizor,,,8.020%
+1146,Scizor,Other,,19.066%
+1147,Articuno-Galar,Hurricane,flying,87.905%
+1148,Articuno-Galar,Trick Room,psychic,70.209%
+1149,Articuno-Galar,Freezing Glare,psychic,66.235%
+1150,Articuno-Galar,Calm Mind,psychic,41.204%
+1151,Articuno-Galar,Expanding Force,psychic,28.995%
+1152,Articuno-Galar,Shadow Ball,ghost,25.858%
+1153,Articuno-Galar,Protect,normal,21.058%
+1154,Articuno-Galar,Ancient Power,rock,17.990%
+1155,Articuno-Galar,Tailwind,flying,16.811%
+1156,Articuno-Galar,Air Slash,flying,10.656%
+1157,Articuno-Galar,Other,,13.079%
+1158,Tyranitar,Rock Slide,rock,94.303%
+1159,Tyranitar,Protect,normal,70.131%
+1160,Tyranitar,Crunch,dark,41.823%
+1161,Tyranitar,High Horsepower,ground,37.315%
+1162,Tyranitar,Lash Out,dark,26.397%
+1163,Tyranitar,Superpower,fighting,17.602%
+1164,Tyranitar,Foul Play,dark,14.817%
+1165,Tyranitar,Ice Punch,ice,12.049%
+1166,Tyranitar,Dragon Dance,dragon,11.306%
+1167,Tyranitar,Iron Head,steel,9.738%
+1168,Tyranitar,Earthquake,ground,8.787%
+1169,Tyranitar,Outrage,dragon,8.226%
+1170,Tyranitar,Snarl,dark,7.901%
+1171,Tyranitar,Thunder Punch,electric,7.120%
+1172,Tyranitar,Thunder Wave,electric,5.380%
+1173,Tyranitar,Stone Edge,rock,4.129%
+1174,Tyranitar,Fire Punch,fire,3.947%
+1175,Tyranitar,Other,,19.030%
+1176,Pikachu,Fake Out,normal,97.760%
+1177,Pikachu,Surf,water,53.147%
+1178,Pikachu,Volt Tackle,electric,45.301%
+1179,Pikachu,Thunderbolt,electric,40.154%
+1180,Pikachu,Protect,normal,39.686%
+1181,Pikachu,Helping Hand,normal,37.300%
+1182,Pikachu,Electroweb,electric,29.732%
+1183,Pikachu,Thunder,electric,14.286%
+1184,Pikachu,Grass Knot,grass,10.546%
+1185,Pikachu,Nuzzle,electric,10.080%
+1186,Pikachu,Volt Switch,electric,6.914%
+1187,Pikachu,Other,,15.094%
+1188,Ninetales-Alola,Blizzard,ice,75.578%
+1189,Ninetales-Alola,Freeze-Dry,ice,70.517%
+1190,Ninetales-Alola,Aurora Veil,ice,67.600%
+1191,Ninetales-Alola,Icy Wind,ice,46.024%
+1192,Ninetales-Alola,Dazzling Gleam,fairy,44.600%
+1193,Ninetales-Alola,Protect,normal,34.660%
+1194,Ninetales-Alola,Moonblast,fairy,20.629%
+1195,Ninetales-Alola,Fake Tears,dark,15.749%
+1196,Ninetales-Alola,Extrasensory,psychic,8.987%
+1197,Ninetales-Alola,Other,,15.657%
+1198,Marowak-Alola,Flare Blitz,fire,99.748%
+1199,Marowak-Alola,Protect,normal,61.602%
+1200,Marowak-Alola,Shadow Bone,ghost,58.438%
+1201,Marowak-Alola,Bonemerang,ground,52.538%
+1202,Marowak-Alola,Poltergeist,ghost,41.903%
+1203,Marowak-Alola,Detect,fighting,26.106%
+1204,Marowak-Alola,Ally Switch,psychic,16.236%
+1205,Marowak-Alola,Perish Song,normal,12.571%
+1206,Marowak-Alola,Rock Slide,rock,10.627%
+1207,Marowak-Alola,Brick Break,fighting,9.178%
+1208,Marowak-Alola,Other,,11.054%
+1209,Slowbro,Trick Room,psychic,74.327%
+1210,Slowbro,Expanding Force,psychic,70.231%
+1211,Slowbro,Hydro Pump,water,70.102%
+1212,Slowbro,Mud Shot,ground,70.091%
+1213,Slowbro,Yawn,normal,27.775%
+1214,Slowbro,Body Press,fighting,25.692%
+1215,Slowbro,Iron Defense,steel,25.560%
+1216,Slowbro,Protect,normal,23.582%
+1217,Slowbro,Other,,12.641%
+1218,Giratina-Origin,Shadow Sneak,ghost,95.597%
+1219,Giratina-Origin,Protect,normal,89.460%
+1220,Giratina-Origin,Shadow Force,ghost,85.557%
+1221,Giratina-Origin,Poltergeist,ghost,82.311%
+1222,Giratina-Origin,Draco Meteor,dragon,6.134%
+1223,Giratina-Origin,Dragon Claw,dragon,5.866%
+1224,Giratina-Origin,Phantom Force,ghost,5.760%
+1225,Giratina-Origin,Iron Head,steel,5.116%
+1226,Giratina-Origin,Dual Wingbeat,flying,4.607%
+1227,Giratina-Origin,Other,,19.593%
+1228,Toxapex,Recover,normal,99.921%
+1229,Toxapex,Scald,water,99.846%
+1230,Toxapex,Toxic,poison,99.726%
+1231,Toxapex,Baneful Bunker,poison,98.869%
+1232,Toxapex,Other,,1.638%
+1233,Raikou,Thunderbolt,electric,55.702%
+1234,Raikou,Bulldoze,ground,53.102%
+1235,Raikou,Reflect,psychic,47.943%
+1236,Raikou,Light Screen,psychic,44.365%
+1237,Raikou,Thunder Wave,electric,43.625%
+1238,Raikou,Thunder,electric,30.286%
+1239,Raikou,Eerie Impulse,electric,29.587%
+1240,Raikou,Rain Dance,water,29.453%
+1241,Raikou,Snarl,dark,22.824%
+1242,Raikou,Volt Switch,electric,16.775%
+1243,Raikou,Rising Voltage,electric,13.807%
+1244,Raikou,Other,,12.529%
+1245,Pelipper,Hurricane,flying,95.722%
+1246,Pelipper,Scald,water,94.045%
+1247,Pelipper,Protect,normal,92.099%
+1248,Pelipper,Tailwind,flying,78.914%
+1249,Pelipper,Wide Guard,rock,20.130%
+1250,Pelipper,Other,,19.090%
+1251,Weezing-Galar,Protect,normal,98.182%
+1252,Weezing-Galar,Will-O-Wisp,fire,93.353%
+1253,Weezing-Galar,Strange Steam,fairy,72.417%
+1254,Weezing-Galar,Substitute,normal,69.009%
+1255,Weezing-Galar,Taunt,dark,28.552%
+1256,Weezing-Galar,Sludge Bomb,poison,27.757%
+1257,Weezing-Galar,Other,,10.731%
+1258,Kingler,Crabhammer,water,88.500%
+1259,Kingler,Wide Guard,rock,61.137%
+1260,Kingler,Ally Switch,psychic,59.192%
+1261,Kingler,High Horsepower,ground,42.267%
+1262,Kingler,Knock Off,dark,41.406%
+1263,Kingler,Rock Slide,rock,35.939%
+1264,Kingler,Protect,normal,34.467%
+1265,Kingler,Brick Break,fighting,23.397%
+1266,Kingler,Other,,13.694%
+1267,Oranguru,Trick Room,psychic,94.086%
+1268,Oranguru,Instruct,psychic,90.762%
+1269,Oranguru,Ally Switch,psychic,77.416%
+1270,Oranguru,Expanding Force,psychic,54.489%
+1271,Oranguru,Foul Play,dark,20.003%
+1272,Oranguru,Brutal Swing,dark,19.036%
+1273,Oranguru,Yawn,normal,13.558%
+1274,Oranguru,Psychic,psychic,7.485%
+1275,Oranguru,Protect,normal,5.918%
+1276,Oranguru,Other,,17.246%
+1277,Nihilego,Sludge Bomb,poison,87.910%
+1278,Nihilego,Power Gem,rock,87.349%
+1279,Nihilego,Protect,normal,79.896%
+1280,Nihilego,Grass Knot,grass,74.485%
+1281,Nihilego,Meteor Beam,rock,23.500%
+1282,Nihilego,Trick Room,psychic,17.683%
+1283,Nihilego,Acid Spray,poison,6.687%
+1284,Nihilego,Ally Switch,psychic,6.418%
+1285,Nihilego,Other,,16.072%
+1286,Togedemaru,Nuzzle,electric,96.414%
+1287,Togedemaru,Spiky Shield,grass,59.403%
+1288,Togedemaru,Reflect,psychic,55.960%
+1289,Togedemaru,Fling,dark,55.960%
+1290,Togedemaru,Iron Head,steel,35.248%
+1291,Togedemaru,Zing Zap,electric,30.734%
+1292,Togedemaru,Volt Switch,electric,28.301%
+1293,Togedemaru,Fake Out,normal,17.459%
+1294,Togedemaru,Helping Hand,normal,7.865%
+1295,Togedemaru,Other,,12.657%
+1296,Gyarados,Waterfall,water,99.407%
+1297,Gyarados,Bounce,flying,72.574%
+1298,Gyarados,Power Whip,grass,72.523%
+1299,Gyarados,Protect,normal,36.337%
+1300,Gyarados,Lash Out,dark,34.019%
+1301,Gyarados,Icy Wind,ice,21.906%
+1302,Gyarados,Taunt,dark,21.789%
+1303,Gyarados,Crunch,dark,16.509%
+1304,Gyarados,Earthquake,ground,9.243%
+1305,Gyarados,Other,,15.693%
+1306,Garchomp,Earthquake,ground,85.835%
+1307,Garchomp,Rock Slide,rock,82.668%
+1308,Garchomp,Protect,normal,78.372%
+1309,Garchomp,Outrage,dragon,54.128%
+1310,Garchomp,Dragon Claw,dragon,21.875%
+1311,Garchomp,Swords Dance,normal,18.215%
+1312,Garchomp,,,12.300%
+1313,Garchomp,Brick Break,fighting,9.384%
+1314,Garchomp,Stomping Tantrum,ground,7.269%
+1315,Garchomp,Iron Head,steel,7.054%
+1316,Garchomp,Body Slam,normal,6.150%
+1317,Garchomp,Other,,16.749%
+1318,Heliolisk,Weather Ball,normal,83.581%
+1319,Heliolisk,Electroweb,electric,79.314%
+1320,Heliolisk,Thunder,electric,77.345%
+1321,Heliolisk,Glare,normal,76.717%
+1322,Heliolisk,Thunderbolt,electric,11.739%
+1323,Heliolisk,Solar Beam,grass,9.887%
+1324,Heliolisk,Ally Switch,psychic,9.186%
+1325,Heliolisk,Volt Switch,electric,8.061%
+1326,Heliolisk,Electrify,electric,6.646%
+1327,Heliolisk,Rising Voltage,electric,5.446%
+1328,Heliolisk,Hyper Beam,normal,4.885%
+1329,Heliolisk,Dragon Pulse,dragon,4.689%
+1330,Heliolisk,Protect,normal,3.302%
+1331,Heliolisk,Other,,19.202%
+1332,Tapu Bulu,Wood Hammer,grass,98.698%
+1333,Tapu Bulu,Protect,normal,95.512%
+1334,Tapu Bulu,High Horsepower,ground,89.954%
+1335,Tapu Bulu,Taunt,dark,51.843%
+1336,Tapu Bulu,Horn Leech,grass,32.325%
+1337,Tapu Bulu,Stone Edge,rock,9.070%
+1338,Tapu Bulu,Leech Seed,grass,8.532%
+1339,Tapu Bulu,Other,,14.066%
+1340,Kangaskhan,Fake Out,normal,99.887%
+1341,Kangaskhan,Sucker Punch,dark,98.244%
+1342,Kangaskhan,Facade,normal,69.465%
+1343,Kangaskhan,Fling,dark,68.999%
+1344,Kangaskhan,Double-Edge,normal,13.369%
+1345,Kangaskhan,Giga Impact,normal,9.842%
+1346,Kangaskhan,Shadow Claw,ghost,9.842%
+1347,Kangaskhan,Earthquake,ground,6.087%
+1348,Kangaskhan,Ice Punch,ice,6.015%
+1349,Kangaskhan,Other,,18.250%
+1350,Moltres,Hurricane,flying,99.632%
+1351,Moltres,Protect,normal,70.513%
+1352,Moltres,Heat Wave,fire,51.684%
+1353,Moltres,Weather Ball,normal,51.643%
+1354,Moltres,Solar Beam,grass,29.069%
+1355,Moltres,Fire Blast,fire,28.799%
+1356,Moltres,Substitute,normal,28.799%
+1357,Moltres,Burn Up,fire,18.863%
+1358,Moltres,Will-O-Wisp,fire,9.800%
+1359,Moltres,Other,,11.197%
+1360,Krookodile,Earthquake,ground,64.961%
+1361,Krookodile,Protect,normal,55.764%
+1362,Krookodile,Rock Slide,rock,54.858%
+1363,Krookodile,Power Trip,dark,43.976%
+1364,Krookodile,Brutal Swing,dark,41.955%
+1365,Krookodile,High Horsepower,ground,30.971%
+1366,Krookodile,Snarl,dark,29.799%
+1367,Krookodile,Foul Play,dark,29.338%
+1368,Krookodile,Darkest Lariat,dark,25.322%
+1369,Krookodile,Facade,normal,7.096%
+1370,Krookodile,Other,,15.961%
+1371,Drifblim,Tailwind,flying,99.749%
+1372,Drifblim,Will-O-Wisp,fire,95.559%
+1373,Drifblim,Weather Ball,normal,92.090%
+1374,Drifblim,Sunny Day,fire,92.090%
+1375,Drifblim,Shadow Ball,ghost,6.399%
+1376,Drifblim,Other,,14.112%
+1377,Excadrill,Iron Head,steel,97.594%
+1378,Excadrill,Rock Slide,rock,87.735%
+1379,Excadrill,Protect,normal,52.241%
+1380,Excadrill,Earthquake,ground,51.834%
+1381,Excadrill,High Horsepower,ground,50.366%
+1382,Excadrill,Brick Break,fighting,33.477%
+1383,Excadrill,Horn Drill,normal,9.172%
+1384,Excadrill,Other,,17.580%
+1385,Primarina,Moonblast,fairy,85.870%
+1386,Primarina,Hyper Voice,normal,78.479%
+1387,Primarina,Water Pledge,water,67.558%
+1388,Primarina,Life Dew,water,58.569%
+1389,Primarina,Protect,normal,25.828%
+1390,Primarina,Energy Ball,grass,14.182%
+1391,Primarina,Round,normal,11.005%
+1392,Primarina,Ice Beam,ice,10.837%
+1393,Primarina,Hyper Beam,normal,9.831%
+1394,Primarina,Flip Turn,water,9.243%
+1395,Primarina,Perish Song,normal,8.880%
+1396,Primarina,Other,,19.718%
+1397,Shiftry,Sucker Punch,dark,78.223%
+1398,Shiftry,Fake Out,normal,73.333%
+1399,Shiftry,Solar Blade,grass,68.495%
+1400,Shiftry,Throat Chop,dark,68.177%
+1401,Shiftry,Leaf Blade,grass,26.859%
+1402,Shiftry,Rock Slide,rock,26.575%
+1403,Shiftry,Bounce,flying,17.267%
+1404,Shiftry,Foul Play,dark,17.150%
+1405,Shiftry,Air Slash,flying,9.359%
+1406,Shiftry,Other,,14.561%
+1407,Chandelure,Heat Wave,fire,85.717%
+1408,Chandelure,Shadow Ball,ghost,83.892%
+1409,Chandelure,Trick Room,psychic,73.539%
+1410,Chandelure,Imprison,psychic,61.233%
+1411,Chandelure,Protect,normal,31.680%
+1412,Chandelure,Ally Switch,psychic,31.462%
+1413,Chandelure,Energy Ball,grass,10.810%
+1414,Chandelure,Overheat,fire,9.951%
+1415,Chandelure,Other,,11.715%
+1416,Toxicroak,Foul Play,dark,95.490%
+1417,Toxicroak,Fake Out,normal,90.086%
+1418,Toxicroak,Brick Break,fighting,85.023%
+1419,Toxicroak,Feint,normal,85.010%
+1420,Toxicroak,Drain Punch,fighting,12.247%
+1421,Toxicroak,Poison Jab,poison,11.245%
+1422,Toxicroak,Protect,normal,7.983%
+1423,Toxicroak,Other,,12.916%
+1424,Dracozolt,Bolt Beak,electric,99.987%
+1425,Dracozolt,Protect,normal,77.202%
+1426,Dracozolt,Fire Fang,fire,39.850%
+1427,Dracozolt,Bulldoze,ground,37.996%
+1428,Dracozolt,Outrage,dragon,35.972%
+1429,Dracozolt,Aerial Ace,flying,29.688%
+1430,Dracozolt,High Horsepower,ground,23.592%
+1431,Dracozolt,Brutal Swing,dark,19.264%
+1432,Dracozolt,Breaking Swipe,dragon,15.355%
+1433,Dracozolt,Dragon Claw,dragon,9.287%
+1434,Dracozolt,Other,,11.806%
+1435,Sceptile,Grass Pledge,grass,81.233%
+1436,Sceptile,Leaf Storm,grass,78.914%
+1437,Sceptile,Leer,normal,70.496%
+1438,Sceptile,Endeavor,normal,50.382%
+1439,Sceptile,Focus Blast,fighting,20.226%
+1440,Sceptile,Dragon Pulse,dragon,15.512%
+1441,Sceptile,Protect,normal,12.192%
+1442,Sceptile,Low Sweep,fighting,12.142%
+1443,Sceptile,Energy Ball,grass,9.565%
+1444,Sceptile,Leaf Blade,grass,7.619%
+1445,Sceptile,Bulldoze,ground,6.854%
+1446,Sceptile,Giga Drain,grass,5.021%
+1447,Sceptile,Screech,normal,4.869%
+1448,Sceptile,Fling,dark,4.587%
+1449,Sceptile,Earthquake,ground,3.346%
+1450,Sceptile,Other,,17.044%
+1451,Pincurchin,Rising Voltage,electric,84.385%
+1452,Pincurchin,Sucker Punch,dark,61.556%
+1453,Pincurchin,Protect,normal,59.938%
+1454,Pincurchin,Scald,water,44.706%
+1455,Pincurchin,Venoshock,poison,36.416%
+1456,Pincurchin,Hex,ghost,36.398%
+1457,Pincurchin,Hydro Pump,water,24.024%
+1458,Pincurchin,Zing Zap,electric,15.669%
+1459,Pincurchin,Reversal,fighting,13.358%
+1460,Pincurchin,Substitute,normal,12.912%
+1461,Pincurchin,Other,,10.637%
+1462,Aegislash,King's Shield,,98.243%
+1463,Aegislash,Shadow Sneak,ghost,67.253%
+1464,Aegislash,Shadow Ball,ghost,61.221%
+1465,Aegislash,Flash Cannon,steel,57.482%
+1466,Aegislash,Wide Guard,rock,33.461%
+1467,Aegislash,Iron Head,steel,26.540%
+1468,Aegislash,Swords Dance,normal,21.000%
+1469,Aegislash,Substitute,normal,10.040%
+1470,Aegislash,Sacred Sword,fighting,6.292%
+1471,Aegislash,Other,,18.468%
+1472,Centiskorch,Flare Blitz,fire,94.147%
+1473,Centiskorch,Power Whip,grass,93.600%
+1474,Centiskorch,Leech Life,bug,86.706%
+1475,Centiskorch,Protect,normal,53.474%
+1476,Centiskorch,Coil,poison,48.199%
+1477,Centiskorch,Crunch,dark,9.381%
+1478,Centiskorch,Other,,14.494%
+1479,Greedent,Belly Drum,normal,99.812%
+1480,Greedent,Facade,normal,99.693%
+1481,Greedent,Earthquake,ground,87.034%
+1482,Greedent,Gyro Ball,steel,86.833%
+1483,Greedent,Protect,normal,12.887%
+1484,Greedent,Other,,13.742%
+1485,Porygon-Z,Hyper Beam,normal,90.706%
+1486,Porygon-Z,Tri Attack,normal,53.847%
+1487,Porygon-Z,Dark Pulse,dark,45.551%
+1488,Porygon-Z,Protect,normal,45.254%
+1489,Porygon-Z,Trick Room,psychic,41.094%
+1490,Porygon-Z,Thunder,electric,36.405%
+1491,Porygon-Z,Guard Swap,psychic,32.360%
+1492,Porygon-Z,Blizzard,ice,13.382%
+1493,Porygon-Z,Foul Play,dark,13.299%
+1494,Porygon-Z,Thunderbolt,electric,10.480%
+1495,Porygon-Z,Other,,17.622%
+1496,Butterfree,Sleep Powder,grass,96.230%
+1497,Butterfree,Rage Powder,bug,81.326%
+1498,Butterfree,Pollen Puff,bug,79.360%
+1499,Butterfree,Tailwind,flying,66.780%
+1500,Butterfree,Hurricane,flying,24.625%
+1501,Butterfree,Protect,normal,16.718%
+1502,Butterfree,Bug Buzz,bug,14.291%
+1503,Butterfree,Quiver Dance,bug,5.125%
+1504,Butterfree,Other,,15.545%
+1505,Lucario,Aura Sphere,fighting,77.572%
+1506,Lucario,Steel Beam,steel,75.212%
+1507,Lucario,Bulldoze,ground,73.229%
+1508,Lucario,Rock Tomb,rock,73.229%
+1509,Lucario,Protect,normal,16.667%
+1510,Lucario,Bullet Punch,steel,15.779%
+1511,Lucario,Close Combat,fighting,14.788%
+1512,Lucario,Meteor Mash,steel,13.165%
+1513,Lucario,Extreme Speed,normal,8.009%
+1514,Lucario,Earthquake,ground,6.962%
+1515,Lucario,Drain Punch,fighting,5.532%
+1516,Lucario,Other,,19.856%
+1517,Mudsdale,High Horsepower,ground,98.622%
+1518,Mudsdale,Rock Slide,rock,59.216%
+1519,Mudsdale,Body Press,fighting,52.708%
+1520,Mudsdale,Iron Head,steel,49.988%
+1521,Mudsdale,Heavy Slam,steel,43.846%
+1522,Mudsdale,Close Combat,fighting,42.491%
+1523,Mudsdale,Protect,normal,39.933%
+1524,Mudsdale,Other,,13.196%
+1525,Cherrim,Helping Hand,normal,91.494%
+1526,Cherrim,Pollen Puff,bug,82.623%
+1527,Cherrim,Protect,normal,74.909%
+1528,Cherrim,Petal Blizzard,grass,35.447%
+1529,Cherrim,Solar Blade,grass,31.603%
+1530,Cherrim,Energy Ball,grass,24.574%
+1531,Cherrim,Heal Pulse,psychic,10.812%
+1532,Cherrim,Safeguard,normal,9.596%
+1533,Cherrim,Grass Knot,grass,9.419%
+1534,Cherrim,Sunny Day,fire,7.301%
+1535,Cherrim,Leech Seed,grass,4.862%
+1536,Cherrim,Other,,17.361%
+1537,Exeggutor,Skill Swap,psychic,94.994%
+1538,Exeggutor,Protect,normal,94.922%
+1539,Exeggutor,Leech Seed,grass,82.452%
+1540,Exeggutor,Energy Ball,grass,82.448%
+1541,Exeggutor,Hypnosis,psychic,12.363%
+1542,Exeggutor,Giga Drain,grass,9.123%
+1543,Exeggutor,Expanding Force,psychic,5.188%
+1544,Exeggutor,Other,,18.510%
+1545,Altaria,Tailwind,flying,99.835%
+1546,Altaria,Breaking Swipe,dragon,64.512%
+1547,Altaria,Haze,ice,61.551%
+1548,Altaria,Dual Wingbeat,flying,61.366%
+1549,Altaria,Protect,normal,36.205%
+1550,Altaria,Safeguard,normal,28.664%
+1551,Altaria,Bulldoze,ground,26.147%
+1552,Altaria,Draco Meteor,dragon,7.671%
+1553,Altaria,Other,,14.049%
+1554,Klefki,Thunder Wave,electric,92.238%
+1555,Klefki,Reflect,psychic,78.803%
+1556,Klefki,Light Screen,psychic,78.689%
+1557,Klefki,Sunny Day,fire,39.137%
+1558,Klefki,Foul Play,dark,24.454%
+1559,Klefki,Rain Dance,water,18.753%
+1560,Klefki,Dazzling Gleam,fairy,16.839%
+1561,Klefki,Safeguard,normal,15.124%
+1562,Klefki,Play Rough,fairy,7.758%
+1563,Klefki,Protect,normal,7.055%
+1564,Klefki,Switcheroo,dark,6.156%
+1565,Klefki,Other,,14.995%
+1566,Froslass,Ally Switch,psychic,89.322%
+1567,Froslass,Will-O-Wisp,fire,51.433%
+1568,Froslass,Icy Wind,ice,47.103%
+1569,Froslass,Fake Tears,dark,40.278%
+1570,Froslass,Charm,fairy,38.513%
+1571,Froslass,Destiny Bond,ghost,36.267%
+1572,Froslass,Frost Breath,ice,30.395%
+1573,Froslass,Taunt,dark,30.023%
+1574,Froslass,Ice Shard,ice,29.597%
+1575,Froslass,Other,,7.069%
+1576,Gigalith,Rock Slide,rock,98.421%
+1577,Gigalith,Stomping Tantrum,ground,64.555%
+1578,Gigalith,Iron Head,steel,52.682%
+1579,Gigalith,Superpower,fighting,46.658%
+1580,Gigalith,Body Press,fighting,44.864%
+1581,Gigalith,Protect,normal,38.745%
+1582,Gigalith,Wide Guard,rock,31.987%
+1583,Gigalith,Iron Defense,steel,12.545%
+1584,Gigalith,Other,,9.543%
+1585,Jellicent,Trick Room,psychic,97.280%
+1586,Jellicent,Strength Sap,grass,70.026%
+1587,Jellicent,Shadow Ball,ghost,59.488%
+1588,Jellicent,Water Spout,water,57.229%
+1589,Jellicent,Surf,water,28.468%
+1590,Jellicent,Will-O-Wisp,fire,20.549%
+1591,Jellicent,Sludge Bomb,poison,20.438%
+1592,Jellicent,Night Shade,ghost,9.682%
+1593,Jellicent,Recover,normal,6.340%
+1594,Jellicent,Muddy Water,water,5.396%
+1595,Jellicent,Hydro Pump,water,4.717%
+1596,Jellicent,Taunt,dark,3.904%
+1597,Jellicent,Other,,16.483%
+1598,Riolu,Coaching,fighting,99.350%
+1599,Riolu,Copycat,normal,70.238%
+1600,Riolu,Quick Guard,fighting,43.442%
+1601,Riolu,Detect,fighting,38.050%
+1602,Riolu,Feint,normal,34.183%
+1603,Riolu,Bullet Punch,steel,34.106%
+1604,Riolu,Helping Hand,normal,22.874%
+1605,Riolu,Protect,normal,16.695%
+1606,Riolu,Brick Break,fighting,11.856%
+1607,Riolu,Sunny Day,fire,9.995%
+1608,Riolu,Other,,19.212%
+1609,Mandibuzz,Foul Play,dark,62.585%
+1610,Mandibuzz,Tailwind,flying,62.371%
+1611,Mandibuzz,Taunt,dark,62.001%
+1612,Mandibuzz,Protect,normal,37.799%
+1613,Mandibuzz,Lash Out,dark,37.426%
+1614,Mandibuzz,Brave Bird,flying,37.405%
+1615,Mandibuzz,Bone Rush,ground,37.405%
+1616,Mandibuzz,Snarl,dark,36.582%
+1617,Mandibuzz,Roost,flying,25.813%
+1618,Mandibuzz,Other,,0.614%
+1619,Lurantis,Superpower,fighting,99.995%
+1620,Lurantis,Protect,normal,88.577%
+1621,Lurantis,Leaf Blade,grass,76.994%
+1622,Lurantis,Synthesis,grass,68.249%
+1623,Lurantis,Leech Life,bug,17.598%
+1624,Lurantis,Grassy Glide,grass,16.605%
+1625,Lurantis,Leaf Storm,grass,6.399%
+1626,Lurantis,Night Slash,dark,6.067%
+1627,Lurantis,Other,,19.517%
+1628,Latias,Tailwind,flying,77.583%
+1629,Latias,Surf,water,59.229%
+1630,Latias,Helping Hand,normal,47.122%
+1631,Latias,Heal Pulse,psychic,41.470%
+1632,Latias,Icy Wind,ice,32.440%
+1633,Latias,Ally Switch,psychic,23.795%
+1634,Latias,Recover,normal,13.820%
+1635,Latias,Reflect Type,normal,13.181%
+1636,Latias,Calm Mind,psychic,13.177%
+1637,Latias,Stored Power,psychic,13.149%
+1638,Latias,Psyshock,psychic,8.727%
+1639,Latias,Bulldoze,ground,8.696%
+1640,Latias,Energy Ball,grass,8.132%
+1641,Latias,Ice Beam,ice,7.909%
+1642,Latias,Thunderbolt,electric,7.871%
+1643,Latias,Breaking Swipe,dragon,5.470%
+1644,Latias,Other,,18.228%
+1645,Exeggutor-Alola,Trick Room,psychic,99.562%
+1646,Exeggutor-Alola,Sleep Powder,grass,83.252%
+1647,Exeggutor-Alola,Grass Knot,grass,43.084%
+1648,Exeggutor-Alola,Brutal Swing,dark,38.672%
+1649,Exeggutor-Alola,Flamethrower,fire,32.402%
+1650,Exeggutor-Alola,Leech Seed,grass,26.518%
+1651,Exeggutor-Alola,Leaf Storm,grass,17.410%
+1652,Exeggutor-Alola,Draco Meteor,dragon,16.308%
+1653,Exeggutor-Alola,Bulldoze,ground,9.989%
+1654,Exeggutor-Alola,Wood Hammer,grass,7.884%
+1655,Exeggutor-Alola,Dragon Hammer,dragon,7.882%
+1656,Exeggutor-Alola,Other,,17.037%
+1657,Dragonite,Dual Wingbeat,flying,87.537%
+1658,Dragonite,Extreme Speed,normal,51.549%
+1659,Dragonite,Earthquake,ground,38.584%
+1660,Dragonite,Breaking Swipe,dragon,38.497%
+1661,Dragonite,Dragon Claw,dragon,32.854%
+1662,Dragonite,Dragon Dance,dragon,29.898%
+1663,Dragonite,Fire Punch,fire,17.822%
+1664,Dragonite,Aqua Jet,water,17.203%
+1665,Dragonite,Superpower,fighting,15.490%
+1666,Dragonite,Protect,normal,13.812%
+1667,Dragonite,Outrage,dragon,10.926%
+1668,Dragonite,Roost,flying,10.686%
+1669,Dragonite,Rock Slide,rock,6.855%
+1670,Dragonite,Hurricane,flying,4.825%
+1671,Dragonite,Thunder Punch,electric,4.430%
+1672,Dragonite,Other,,19.033%
+1673,Darmanitan,Flare Blitz,fire,97.886%
+1674,Darmanitan,U-turn,bug,88.110%
+1675,Darmanitan,Rock Slide,rock,82.090%
+1676,Darmanitan,Earthquake,ground,46.316%
+1677,Darmanitan,Brick Break,fighting,40.760%
+1678,Darmanitan,Lash Out,dark,14.364%
+1679,Darmanitan,Protect,normal,9.630%
+1680,Darmanitan,Substitute,normal,9.630%
+1681,Darmanitan,Other,,11.215%
+1682,Cradily,Protect,normal,76.158%
+1683,Cradily,Giga Drain,grass,51.129%
+1684,Cradily,Leech Seed,grass,50.409%
+1685,Cradily,Meteor Beam,rock,42.174%
+1686,Cradily,Ancient Power,rock,41.541%
+1687,Cradily,Energy Ball,grass,40.742%
+1688,Cradily,Sludge Bomb,poison,29.745%
+1689,Cradily,Recover,normal,20.241%
+1690,Cradily,Earth Power,ground,17.636%
+1691,Cradily,Rock Slide,rock,6.765%
+1692,Cradily,Stockpile,normal,6.485%
+1693,Cradily,Other,,16.975%
+1694,Obstagoon,Knock Off,dark,97.547%
+1695,Obstagoon,Taunt,dark,44.258%
+1696,Obstagoon,Icy Wind,ice,44.255%
+1697,Obstagoon,Surf,water,44.252%
+1698,Obstagoon,Obstruct,dark,41.255%
+1699,Obstagoon,Close Combat,fighting,30.294%
+1700,Obstagoon,Facade,normal,20.763%
+1701,Obstagoon,Parting Shot,dark,20.607%
+1702,Obstagoon,Brick Break,fighting,12.060%
+1703,Obstagoon,Double-Edge,normal,9.701%
+1704,Obstagoon,Fire Punch,fire,9.128%
+1705,Obstagoon,Throat Chop,dark,6.455%
+1706,Obstagoon,Other,,19.425%
+1707,Scrafty,Fake Out,normal,96.795%
+1708,Scrafty,Close Combat,fighting,61.933%
+1709,Scrafty,Snarl,dark,56.413%
+1710,Scrafty,Foul Play,dark,42.228%
+1711,Scrafty,Throat Chop,dark,26.954%
+1712,Scrafty,Crunch,dark,25.266%
+1713,Scrafty,Coaching,fighting,24.060%
+1714,Scrafty,Brick Break,fighting,22.399%
+1715,Scrafty,Drain Punch,fighting,11.900%
+1716,Scrafty,Protect,normal,11.164%
+1717,Scrafty,Taunt,dark,8.244%
+1718,Scrafty,Other,,12.645%
+1719,Aerodactyl,Rock Slide,rock,90.163%
+1720,Aerodactyl,Tailwind,flying,87.621%
+1721,Aerodactyl,Wide Guard,rock,85.889%
+1722,Aerodactyl,Dual Wingbeat,flying,78.699%
+1723,Aerodactyl,Protect,normal,14.602%
+1724,Aerodactyl,Bulldoze,ground,9.952%
+1725,Aerodactyl,Earthquake,ground,7.812%
+1726,Aerodactyl,Taunt,dark,6.800%
+1727,Aerodactyl,Other,,18.463%
+1728,Kabutops,Protect,normal,82.275%
+1729,Kabutops,Liquidation,water,81.599%
+1730,Kabutops,Stone Edge,rock,69.793%
+1731,Kabutops,Dig,ground,61.483%
+1732,Kabutops,Rock Slide,rock,27.165%
+1733,Kabutops,Aqua Jet,water,14.422%
+1734,Kabutops,Superpower,fighting,10.719%
+1735,Kabutops,Waterfall,water,10.643%
+1736,Kabutops,X-Scissor,bug,8.339%
+1737,Kabutops,Flip Turn,water,6.943%
+1738,Kabutops,Icy Wind,ice,6.896%
+1739,Kabutops,Other,,19.722%
+1740,Articuno,Tailwind,flying,85.309%
+1741,Articuno,Freeze-Dry,ice,67.208%
+1742,Articuno,Hurricane,flying,67.066%
+1743,Articuno,Weather Ball,normal,47.691%
+1744,Articuno,Ice Shard,ice,32.137%
+1745,Articuno,Air Slash,flying,29.785%
+1746,Articuno,Reflect,psychic,29.119%
+1747,Articuno,Protect,normal,11.529%
+1748,Articuno,Icy Wind,ice,11.067%
+1749,Articuno,Other,,19.089%
+1750,Blacephalon,Shadow Ball,ghost,83.472%
+1751,Blacephalon,Mind Blown,fire,81.186%
+1752,Blacephalon,Trick,psychic,64.784%
+1753,Blacephalon,Solar Beam,grass,42.024%
+1754,Blacephalon,Protect,normal,34.539%
+1755,Blacephalon,Flamethrower,fire,22.748%
+1756,Blacephalon,Calm Mind,psychic,16.519%
+1757,Blacephalon,Fire Blast,fire,15.707%
+1758,Blacephalon,Mystical Fire,fire,13.225%
+1759,Blacephalon,Heat Wave,fire,9.772%
+1760,Blacephalon,Other,,16.024%
+1761,Duraludon,Flash Cannon,steel,92.256%
+1762,Duraludon,Draco Meteor,dragon,79.107%
+1763,Duraludon,Thunderbolt,electric,55.300%
+1764,Duraludon,Dark Pulse,dark,44.908%
+1765,Duraludon,Thunder,electric,28.627%
+1766,Duraludon,Protect,normal,27.218%
+1767,Duraludon,Dragon Tail,dragon,25.660%
+1768,Duraludon,Dragon Pulse,dragon,20.966%
+1769,Duraludon,Steel Beam,steel,8.738%
+1770,Duraludon,Other,,17.219%
+1771,Trevenant,Forest's Curse,,96.185%
+1772,Trevenant,Ally Switch,psychic,96.007%
+1773,Trevenant,Poltergeist,ghost,94.698%
+1774,Trevenant,Wood Hammer,grass,92.721%
+1775,Trevenant,Trick Room,psychic,5.117%
+1776,Trevenant,Other,,15.271%
+1777,Drednaw,Liquidation,water,99.611%
+1778,Drednaw,Rock Slide,rock,92.731%
+1779,Drednaw,Head Smash,rock,90.018%
+1780,Drednaw,Megahorn,bug,84.826%
+1781,Drednaw,Earthquake,ground,8.013%
+1782,Drednaw,Protect,normal,5.380%
+1783,Drednaw,Other,,19.420%
+1784,Heatran,Earth Power,ground,90.586%
+1785,Heatran,Flash Cannon,steel,70.739%
+1786,Heatran,Protect,normal,63.329%
+1787,Heatran,Heat Wave,fire,55.981%
+1788,Heatran,Flamethrower,fire,27.349%
+1789,Heatran,Solar Beam,grass,26.833%
+1790,Heatran,Magma Storm,fire,22.163%
+1791,Heatran,Taunt,dark,12.859%
+1792,Heatran,Substitute,normal,6.989%
+1793,Heatran,Steel Beam,steel,6.840%
+1794,Heatran,Other,,16.332%
+1795,Clefable,Follow Me,normal,93.001%
+1796,Clefable,Protect,normal,89.806%
+1797,Clefable,Helping Hand,normal,84.697%
+1798,Clefable,Mystical Fire,fire,82.886%
+1799,Clefable,Cosmic Power,psychic,9.989%
+1800,Clefable,Dazzling Gleam,fairy,6.203%
+1801,Clefable,Moonlight,fairy,5.286%
+1802,Clefable,Moonblast,fairy,5.137%
+1803,Clefable,Aromatherapy,grass,3.534%
+1804,Clefable,Other,,19.460%
+1805,Appletun,Protect,normal,77.286%
+1806,Appletun,Leech Seed,grass,74.628%
+1807,Appletun,Draco Meteor,dragon,61.082%
+1808,Appletun,Giga Drain,grass,39.789%
+1809,Appletun,Apple Acid,grass,33.800%
+1810,Appletun,Iron Defense,steel,27.015%
+1811,Appletun,Body Press,fighting,26.619%
+1812,Appletun,Dragon Pulse,dragon,24.042%
+1813,Appletun,Hyper Beam,normal,19.625%
+1814,Appletun,Other,,16.113%
+1815,Bisharp,Sucker Punch,dark,96.162%
+1816,Bisharp,Iron Head,steel,78.545%
+1817,Bisharp,Low Kick,fighting,46.327%
+1818,Bisharp,Stone Edge,rock,34.534%
+1819,Bisharp,Protect,normal,28.990%
+1820,Bisharp,Swords Dance,normal,24.619%
+1821,Bisharp,Poison Jab,poison,24.121%
+1822,Bisharp,Taunt,dark,23.932%
+1823,Bisharp,Psycho Cut,psychic,17.959%
+1824,Bisharp,Lash Out,dark,7.240%
+1825,Bisharp,Other,,17.571%
+1826,Registeel,Protect,normal,98.265%
+1827,Registeel,Body Press,fighting,97.884%
+1828,Registeel,Iron Defense,steel,96.185%
+1829,Registeel,Amnesia,psychic,84.199%
+1830,Registeel,Ice Punch,ice,9.611%
+1831,Registeel,Other,,13.855%
+1832,Rhyperior,Earthquake,ground,60.126%
+1833,Rhyperior,Protect,normal,58.950%
+1834,Rhyperior,Rock Slide,rock,52.657%
+1835,Rhyperior,High Horsepower,ground,38.663%
+1836,Rhyperior,Swords Dance,normal,28.332%
+1837,Rhyperior,Rock Blast,rock,25.241%
+1838,Rhyperior,Endure,normal,24.724%
+1839,Rhyperior,Stone Edge,rock,20.304%
+1840,Rhyperior,Thunder Punch,electric,17.430%
+1841,Rhyperior,Iron Tail,steel,14.640%
+1842,Rhyperior,Helping Hand,normal,11.151%
+1843,Rhyperior,Ice Punch,ice,7.649%
+1844,Rhyperior,Rock Polish,rock,7.173%
+1845,Rhyperior,Fire Punch,fire,6.307%
+1846,Rhyperior,Superpower,fighting,4.833%
+1847,Rhyperior,Stealth Rock,rock,4.488%
+1848,Rhyperior,Other,,17.332%
+1849,Stonjourner,Protect,normal,99.276%
+1850,Stonjourner,Rock Slide,rock,72.119%
+1851,Stonjourner,Body Press,fighting,64.218%
+1852,Stonjourner,Heavy Slam,steel,56.707%
+1853,Stonjourner,Wide Guard,rock,41.110%
+1854,Stonjourner,Rock Tomb,rock,24.578%
+1855,Stonjourner,Sand Tomb,ground,17.236%
+1856,Stonjourner,Ancient Power,rock,7.799%
+1857,Stonjourner,Other,,16.957%
+1858,Electivire,Darkest Lariat,dark,95.840%
+1859,Electivire,Ice Punch,ice,95.004%
+1860,Electivire,Wild Charge,electric,93.735%
+1861,Electivire,Earthquake,ground,91.903%
+1862,Electivire,Thunder Punch,electric,6.206%
+1863,Electivire,Other,,17.311%
+1864,Leafeon,Dig,ground,73.021%
+1865,Leafeon,X-Scissor,bug,69.857%
+1866,Leafeon,Leaf Blade,grass,51.141%
+1867,Leafeon,Solar Blade,grass,50.024%
+1868,Leafeon,Bite,dark,40.109%
+1869,Leafeon,Iron Tail,steel,32.068%
+1870,Leafeon,Double-Edge,normal,20.350%
+1871,Leafeon,Weather Ball,normal,19.464%
+1872,Leafeon,Quick Attack,normal,19.387%
+1873,Leafeon,Protect,normal,7.591%
+1874,Leafeon,Other,,16.987%
+1875,Abomasnow,Blizzard,ice,74.712%
+1876,Abomasnow,Ice Shard,ice,56.567%
+1877,Abomasnow,Aurora Veil,ice,45.985%
+1878,Abomasnow,Earth Power,ground,39.411%
+1879,Abomasnow,Energy Ball,grass,31.880%
+1880,Abomasnow,Wood Hammer,grass,30.949%
+1881,Abomasnow,Earthquake,ground,24.515%
+1882,Abomasnow,Shadow Ball,ghost,21.757%
+1883,Abomasnow,Leaf Storm,grass,20.560%
+1884,Abomasnow,Protect,normal,20.232%
+1885,Abomasnow,Giga Drain,grass,16.091%
+1886,Abomasnow,Other,,17.341%
+1887,Diggersby,Foul Play,dark,99.644%
+1888,Diggersby,High Horsepower,ground,90.169%
+1889,Diggersby,Protect,normal,50.219%
+1890,Diggersby,Rock Slide,rock,49.671%
+1891,Diggersby,Giga Impact,normal,48.102%
+1892,Diggersby,Ice Punch,ice,40.118%
+1893,Diggersby,Earthquake,ground,11.244%
+1894,Diggersby,Other,,10.833%
+1895,Giratina,Protect,normal,71.993%
+1896,Giratina,Shadow Force,ghost,52.602%
+1897,Giratina,Earth Power,ground,34.199%
+1898,Giratina,Earthquake,ground,27.481%
+1899,Giratina,Shadow Ball,ghost,25.445%
+1900,Giratina,Shadow Sneak,ghost,23.608%
+1901,Giratina,Will-O-Wisp,fire,19.273%
+1902,Giratina,Dual Wingbeat,flying,17.778%
+1903,Giratina,Dragon Pulse,dragon,17.419%
+1904,Giratina,Outrage,dragon,17.272%
+1905,Giratina,Pain Split,normal,13.078%
+1906,Giratina,Calm Mind,psychic,13.065%
+1907,Giratina,Breaking Swipe,dragon,12.353%
+1908,Giratina,Stone Edge,rock,11.132%
+1909,Giratina,Steel Wing,steel,10.233%
+1910,Giratina,Draco Meteor,dragon,8.428%
+1911,Giratina,Ancient Power,rock,7.294%
+1912,Giratina,Other,,17.349%
+1913,Swoobat,Baton Pass,normal,96.329%
+1914,Swoobat,Ally Switch,psychic,94.644%
+1915,Swoobat,Protect,normal,85.271%
+1916,Swoobat,Substitute,normal,84.634%
+1917,Swoobat,Stored Power,psychic,12.587%
+1918,Swoobat,Nasty Plot,dark,10.223%
+1919,Swoobat,Other,,16.313%
+1920,Corviknight,Brave Bird,flying,89.734%
+1921,Corviknight,Roost,flying,81.883%
+1922,Corviknight,Tailwind,flying,77.586%
+1923,Corviknight,Iron Head,steel,60.238%
+1924,Corviknight,Body Press,fighting,30.903%
+1925,Corviknight,Bulk Up,fighting,12.557%
+1926,Corviknight,U-turn,bug,11.099%
+1927,Corviknight,Taunt,dark,10.710%
+1928,Corviknight,Iron Defense,steel,10.606%
+1929,Corviknight,Other,,14.684%
+1930,Vikavolt,Bug Buzz,bug,99.997%
+1931,Vikavolt,Thunderbolt,electric,81.457%
+1932,Vikavolt,Energy Ball,grass,51.566%
+1933,Vikavolt,Volt Switch,electric,50.464%
+1934,Vikavolt,Protect,normal,38.000%
+1935,Vikavolt,Mud Shot,ground,36.583%
+1936,Vikavolt,Thunder,electric,17.204%
+1937,Vikavolt,Flash Cannon,steel,13.838%
+1938,Vikavolt,Other,,10.891%
+1939,Durant,Iron Head,steel,100.000%
+1940,Durant,Rock Slide,rock,95.859%
+1941,Durant,Stomping Tantrum,ground,83.167%
+1942,Durant,Protect,normal,52.899%
+1943,Durant,Superpower,fighting,31.615%
+1944,Durant,First Impression,bug,18.845%
+1945,Durant,Other,,17.615%
+1946,Cresselia,Trick Room,psychic,71.706%
+1947,Cresselia,Helping Hand,normal,52.563%
+1948,Cresselia,Moonlight,fairy,46.023%
+1949,Cresselia,Ally Switch,psychic,34.486%
+1950,Cresselia,Calm Mind,psychic,34.040%
+1951,Cresselia,Icy Wind,ice,29.963%
+1952,Cresselia,Psyshock,psychic,23.744%
+1953,Cresselia,Protect,normal,17.115%
+1954,Cresselia,Psychic,psychic,16.943%
+1955,Cresselia,Moonblast,fairy,15.395%
+1956,Cresselia,Thunder Wave,electric,13.820%
+1957,Cresselia,Lunar Dance,psychic,11.774%
+1958,Cresselia,Energy Ball,grass,8.593%
+1959,Cresselia,Ice Beam,ice,6.454%
+1960,Cresselia,Other,,17.380%
+1961,Mr. Rime,Fake Out,normal,98.966%
+1962,Mr. Rime,Trick Room,psychic,98.937%
+1963,Mr. Rime,Helping Hand,normal,98.721%
+1964,Mr. Rime,Freeze-Dry,ice,98.571%
+1965,Mr. Rime,Other,,4.806%
+1966,Wishiwashi,Protect,normal,93.210%
+1967,Wishiwashi,Ice Beam,ice,93.187%
+1968,Wishiwashi,Hydro Pump,water,93.180%
+1969,Wishiwashi,Helping Hand,normal,93.038%
+1970,Wishiwashi,Earthquake,ground,6.812%
+1971,Wishiwashi,Liquidation,water,6.812%
+1972,Wishiwashi,Other,,13.762%
+1973,Conkeldurr,Ice Punch,ice,72.094%
+1974,Conkeldurr,Mach Punch,fighting,56.263%
+1975,Conkeldurr,Close Combat,fighting,48.927%
+1976,Conkeldurr,Protect,normal,45.108%
+1977,Conkeldurr,Drain Punch,fighting,42.404%
+1978,Conkeldurr,Bulldoze,ground,31.605%
+1979,Conkeldurr,Poison Jab,poison,19.973%
+1980,Conkeldurr,Rock Slide,rock,16.533%
+1981,Conkeldurr,Wide Guard,rock,12.818%
+1982,Conkeldurr,Detect,fighting,9.855%
+1983,Conkeldurr,Fire Punch,fire,8.860%
+1984,Conkeldurr,Hammer Arm,fighting,7.178%
+1985,Conkeldurr,Facade,normal,6.160%
+1986,Conkeldurr,High Horsepower,ground,5.646%
+1987,Conkeldurr,Other,,16.576%
+1988,Boltund,Electrify,electric,52.913%
+1989,Boltund,Snarl,dark,50.590%
+1990,Boltund,Thunderbolt,electric,50.185%
+1991,Boltund,Nuzzle,electric,49.070%
+1992,Boltund,Protect,normal,49.036%
+1993,Boltund,Helping Hand,normal,46.678%
+1994,Boltund,Thunder Wave,electric,46.664%
+1995,Boltund,Discharge,electric,46.069%
+1996,Boltund,Other,,8.795%
+1997,Terrakion,Protect,normal,94.208%
+1998,Terrakion,Rock Slide,rock,94.024%
+1999,Terrakion,Close Combat,fighting,64.670%
+2000,Terrakion,Earthquake,ground,39.568%
+2001,Terrakion,Sacred Sword,fighting,34.585%
+2002,Terrakion,Stomping Tantrum,ground,28.727%
+2003,Terrakion,Zen Headbutt,psychic,12.150%
+2004,Terrakion,Bulldoze,ground,8.124%
+2005,Terrakion,Stone Edge,rock,5.870%
+2006,Terrakion,Other,,18.074%
+2007,Cobalion,Iron Head,steel,90.211%
+2008,Cobalion,Close Combat,fighting,88.937%
+2009,Cobalion,Stone Edge,rock,81.122%
+2010,Cobalion,Bounce,flying,76.306%
+2011,Cobalion,Zen Headbutt,psychic,15.758%
+2012,Cobalion,Protect,normal,15.715%
+2013,Cobalion,Sacred Sword,fighting,11.150%
+2014,Cobalion,Smart Strike,steel,9.785%
+2015,Cobalion,Other,,11.017%
+2016,Kyurem-Black,Fusion Bolt,electric,92.083%
+2017,Kyurem-Black,Protect,normal,87.031%
+2018,Kyurem-Black,Icicle Spear,ice,64.503%
+2019,Kyurem-Black,Dragon Claw,dragon,39.873%
+2020,Kyurem-Black,Rock Slide,rock,25.308%
+2021,Kyurem-Black,Freeze Shock,ice,23.721%
+2022,Kyurem-Black,Outrage,dragon,21.096%
+2023,Kyurem-Black,Breaking Swipe,dragon,6.585%
+2024,Kyurem-Black,Dragon Dance,dragon,5.062%
+2025,Kyurem-Black,Earth Power,ground,4.834%
+2026,Kyurem-Black,Shadow Claw,ghost,4.301%
+2027,Kyurem-Black,Icy Wind,ice,3.256%
+2028,Kyurem-Black,Noble Roar,normal,3.208%
+2029,Kyurem-Black,Other,,19.138%
+2030,Mantine,Hurricane,flying,99.147%
+2031,Mantine,Wide Guard,rock,94.773%
+2032,Mantine,Hydro Pump,water,82.963%
+2033,Mantine,Ice Beam,ice,82.954%
+2034,Mantine,Tailwind,flying,17.024%
+2035,Mantine,Protect,normal,10.292%
+2036,Mantine,Other,,12.847%
+2037,Machamp,Wide Guard,rock,94.075%
+2038,Machamp,Dynamic Punch,fighting,90.146%
+2039,Machamp,Stone Edge,rock,85.961%
+2040,Machamp,Protect,normal,73.416%
+2041,Machamp,Knock Off,dark,15.843%
+2042,Machamp,Bullet Punch,steel,11.015%
+2043,Machamp,Quick Guard,fighting,7.470%
+2044,Machamp,Close Combat,fighting,5.209%
+2045,Machamp,Other,,16.864%
+2046,Goodra,Breaking Swipe,dragon,54.358%
+2047,Goodra,Draco Meteor,dragon,34.108%
+2048,Goodra,Sludge Bomb,poison,32.545%
+2049,Goodra,Flamethrower,fire,32.067%
+2050,Goodra,Dragon Pulse,dragon,28.146%
+2051,Goodra,Surf,water,28.050%
+2052,Goodra,Superpower,fighting,27.442%
+2053,Goodra,Thunderbolt,electric,24.751%
+2054,Goodra,Iron Tail,steel,19.472%
+2055,Goodra,Power Whip,grass,19.181%
+2056,Goodra,Protect,normal,16.916%
+2057,Goodra,Fire Punch,fire,11.956%
+2058,Goodra,Outrage,dragon,11.452%
+2059,Goodra,Brutal Swing,dark,10.415%
+2060,Goodra,Counter,fighting,7.244%
+2061,Goodra,Skitter Smack,bug,6.558%
+2062,Goodra,Ice Beam,ice,5.947%
+2063,Goodra,Aqua Tail,water,5.801%
+2064,Goodra,Rock Slide,rock,3.591%
+2065,Goodra,Other,,20.000%
+2066,Silvally,Explosion,normal,99.967%
+2067,Silvally,Crunch,dark,56.664%
+2068,Silvally,Facade,normal,51.858%
+2069,Silvally,,,51.827%
+2070,Silvally,Parting Shot,dark,43.151%
+2071,Silvally,Ice Beam,ice,38.335%
+2072,Silvally,Flamethrower,fire,38.335%
+2073,Silvally,Other,,19.864%
+2074,Accelgor,Water Shuriken,water,80.733%
+2075,Accelgor,Yawn,normal,67.568%
+2076,Accelgor,Protect,normal,64.083%
+2077,Accelgor,Encore,normal,51.536%
+2078,Accelgor,Acid Spray,poison,22.378%
+2079,Accelgor,Final Gambit,fighting,19.177%
+2080,Accelgor,Toxic Spikes,poison,18.452%
+2081,Accelgor,Toxic,poison,16.287%
+2082,Accelgor,Bug Buzz,bug,16.122%
+2083,Accelgor,Struggle Bug,bug,8.929%
+2084,Accelgor,U-turn,bug,8.028%
+2085,Accelgor,Substitute,normal,6.055%
+2086,Accelgor,Feint,normal,4.838%
+2087,Accelgor,Other,,15.815%
+2088,Xurkitree,Dazzling Gleam,fairy,72.009%
+2089,Xurkitree,Thunderbolt,electric,50.410%
+2090,Xurkitree,Energy Ball,grass,49.345%
+2091,Xurkitree,Protect,normal,40.282%
+2092,Xurkitree,Rising Voltage,electric,39.124%
+2093,Xurkitree,Hyper Beam,normal,35.918%
+2094,Xurkitree,Grass Knot,grass,31.718%
+2095,Xurkitree,Discharge,electric,22.513%
+2096,Xurkitree,Electroweb,electric,22.414%
+2097,Xurkitree,Thunder,electric,16.446%
+2098,Xurkitree,Other,,19.821%
+2099,Tauros,Protect,normal,92.519%
+2100,Tauros,Body Slam,normal,91.328%
+2101,Tauros,High Horsepower,ground,86.164%
+2102,Tauros,Lash Out,dark,83.705%
+2103,Tauros,Earthquake,ground,9.506%
+2104,Tauros,Throat Chop,dark,8.382%
+2105,Tauros,Giga Impact,normal,5.547%
+2106,Tauros,Rock Slide,rock,2.980%
+2107,Tauros,Other,,19.869%
+2108,Garbodor,Gunk Shot,poison,99.828%
+2109,Garbodor,Protect,normal,99.300%
+2110,Garbodor,Stomping Tantrum,ground,97.933%
+2111,Garbodor,Rock Blast,rock,88.219%
+2112,Garbodor,Other,,14.719%
+2113,Luxray,Wild Charge,electric,98.432%
+2114,Luxray,Protect,normal,85.223%
+2115,Luxray,Throat Chop,dark,84.021%
+2116,Luxray,Rain Dance,water,76.317%
+2117,Luxray,Helping Hand,normal,12.270%
+2118,Luxray,Baby-Doll Eyes,fairy,12.086%
+2119,Luxray,Psychic Fangs,psychic,10.582%
+2120,Luxray,Ice Fang,ice,10.308%
+2121,Luxray,Other,,10.760%
+2122,Dugtrio,Sucker Punch,dark,95.402%
+2123,Dugtrio,Earthquake,ground,90.913%
+2124,Dugtrio,Memento,dark,88.412%
+2125,Dugtrio,Ally Switch,psychic,86.068%
+2126,Dugtrio,Protect,normal,12.018%
+2127,Dugtrio,High Horsepower,ground,8.461%
+2128,Dugtrio,Other,,18.726%
+2129,Rotom-Mow,Leaf Storm,grass,99.954%
+2130,Rotom-Mow,Thunderbolt,electric,82.700%
+2131,Rotom-Mow,Protect,normal,54.646%
+2132,Rotom-Mow,Will-O-Wisp,fire,43.491%
+2133,Rotom-Mow,Electroweb,electric,32.737%
+2134,Rotom-Mow,Dark Pulse,dark,22.436%
+2135,Rotom-Mow,Volt Switch,electric,13.409%
+2136,Rotom-Mow,Thunder,electric,12.932%
+2137,Rotom-Mow,Nasty Plot,dark,9.508%
+2138,Rotom-Mow,Helping Hand,normal,8.793%
+2139,Rotom-Mow,Other,,19.394%
+2140,Gengar,Shadow Ball,ghost,85.180%
+2141,Gengar,Sludge Bomb,poison,64.906%
+2142,Gengar,Dazzling Gleam,fairy,37.986%
+2143,Gengar,Trick Room,psychic,31.653%
+2144,Gengar,Energy Ball,grass,27.188%
+2145,Gengar,Protect,normal,24.122%
+2146,Gengar,Icy Wind,ice,20.968%
+2147,Gengar,Ally Switch,psychic,16.552%
+2148,Gengar,Perish Song,normal,13.655%
+2149,Gengar,Sludge Wave,poison,11.926%
+2150,Gengar,Nasty Plot,dark,11.469%
+2151,Gengar,Destiny Bond,ghost,7.674%
+2152,Gengar,Psychic,psychic,7.556%
+2153,Gengar,Will-O-Wisp,fire,6.350%
+2154,Gengar,Hypnosis,psychic,5.279%
+2155,Gengar,Thunderbolt,electric,3.679%
+2156,Gengar,Taunt,dark,3.658%
+2157,Gengar,Clear Smog,poison,3.314%
+2158,Gengar,Other,,16.884%
+2159,Glaceon,Freeze-Dry,ice,99.721%
+2160,Glaceon,Protect,normal,98.813%
+2161,Glaceon,Yawn,normal,50.966%
+2162,Glaceon,Copycat,normal,50.875%
+2163,Glaceon,Weather Ball,normal,37.488%
+2164,Glaceon,Icy Wind,ice,36.281%
+2165,Glaceon,Blizzard,ice,11.584%
+2166,Glaceon,Other,,14.272%
+2167,Manectric,Flamethrower,fire,95.415%
+2168,Manectric,Thunder,electric,86.412%
+2169,Manectric,Snarl,dark,81.685%
+2170,Manectric,Substitute,normal,78.517%
+2171,Manectric,Thunderbolt,electric,11.696%
+2172,Manectric,Hyper Voice,normal,11.344%
+2173,Manectric,Thunder Wave,electric,8.948%
+2174,Manectric,Overheat,fire,6.108%
+2175,Manectric,Other,,19.876%
+2176,Palossand,Earth Power,ground,98.134%
+2177,Palossand,Shore Up,ground,95.862%
+2178,Palossand,Shadow Ball,ghost,79.464%
+2179,Palossand,Energy Ball,grass,48.861%
+2180,Palossand,Protect,normal,39.458%
+2181,Palossand,Amnesia,psychic,14.285%
+2182,Palossand,Giga Drain,grass,7.043%
+2183,Palossand,Other,,16.893%
+2184,Espeon,Ally Switch,psychic,80.589%
+2185,Espeon,Expanding Force,psychic,54.430%
+2186,Espeon,Weather Ball,normal,48.143%
+2187,Espeon,Trick Room,psychic,46.119%
+2188,Espeon,Baton Pass,normal,42.828%
+2189,Espeon,Psychic,psychic,37.243%
+2190,Espeon,Trick,psychic,22.267%
+2191,Espeon,Magic Room,psychic,14.192%
+2192,Espeon,Charm,fairy,11.600%
+2193,Espeon,Copycat,normal,11.600%
+2194,Espeon,Dazzling Gleam,fairy,6.114%
+2195,Espeon,Protect,normal,4.883%
+2196,Espeon,Other,,19.994%
+2197,Crobat,Tailwind,flying,99.060%
+2198,Crobat,Haze,ice,83.127%
+2199,Crobat,Brave Bird,flying,74.159%
+2200,Crobat,Hypnosis,psychic,53.850%
+2201,Crobat,Taunt,dark,25.832%
+2202,Crobat,U-turn,bug,21.801%
+2203,Crobat,Quick Guard,fighting,11.449%
+2204,Crobat,Absorb,grass,6.872%
+2205,Crobat,Sunny Day,fire,6.856%
+2206,Crobat,Other,,16.994%
+2207,Tyrantrum,Head Smash,rock,99.923%
+2208,Tyrantrum,Earthquake,ground,88.250%
+2209,Tyrantrum,Outrage,dragon,87.645%
+2210,Tyrantrum,Protect,normal,87.579%
+2211,Tyrantrum,Close Combat,fighting,11.669%
+2212,Tyrantrum,Stomping Tantrum,ground,11.301%
+2213,Tyrantrum,Other,,13.632%
+2214,Cinccino,Triple Axel,ice,86.956%
+2215,Cinccino,Bullet Seed,grass,85.481%
+2216,Cinccino,Rock Blast,rock,85.250%
+2217,Cinccino,Tail Slap,normal,72.288%
+2218,Cinccino,Helping Hand,normal,14.692%
+2219,Cinccino,Thunder Wave,electric,14.468%
+2220,Cinccino,Fake Tears,dark,14.467%
+2221,Cinccino,Protect,normal,10.940%
+2222,Cinccino,Other,,15.458%
+2223,Kommo-o,Protect,normal,87.442%
+2224,Kommo-o,Clanging Scales,dragon,52.485%
+2225,Kommo-o,Body Press,fighting,45.465%
+2226,Kommo-o,Iron Defense,steel,45.465%
+2227,Kommo-o,Breaking Swipe,dragon,45.295%
+2228,Kommo-o,Clangorous Soul,dragon,43.180%
+2229,Kommo-o,Flamethrower,fire,37.546%
+2230,Kommo-o,Flash Cannon,steel,13.816%
+2231,Kommo-o,Aura Sphere,fighting,12.425%
+2232,Kommo-o,Other,,16.881%
+2233,Blissey,Helping Hand,normal,83.865%
+2234,Blissey,Life Dew,water,58.644%
+2235,Blissey,Body Slam,normal,58.495%
+2236,Blissey,Rock Slide,rock,58.463%
+2237,Blissey,Soft-Boiled,normal,40.928%
+2238,Blissey,Aromatherapy,grass,25.803%
+2239,Blissey,Heal Pulse,psychic,25.216%
+2240,Blissey,Tri Attack,normal,10.716%
+2241,Blissey,Calm Mind,psychic,10.694%
+2242,Blissey,Flamethrower,fire,9.896%
+2243,Blissey,Other,,17.280%
+2244,Cloyster,Icicle Spear,ice,99.961%
+2245,Cloyster,Rock Blast,rock,99.599%
+2246,Cloyster,Liquidation,water,68.399%
+2247,Cloyster,Protect,normal,60.618%
+2248,Cloyster,Shell Smash,normal,38.357%
+2249,Cloyster,Ice Shard,ice,25.649%
+2250,Cloyster,Other,,7.417%
+2251,Blaziken,Protect,normal,78.281%
+2252,Blaziken,Heat Wave,fire,65.534%
+2253,Blaziken,Close Combat,fighting,30.935%
+2254,Blaziken,Coaching,fighting,29.875%
+2255,Blaziken,Reversal,fighting,28.154%
+2256,Blaziken,Flare Blitz,fire,25.729%
+2257,Blaziken,Aura Sphere,fighting,19.976%
+2258,Blaziken,Scorching Sands,ground,19.875%
+2259,Blaziken,Earthquake,ground,19.388%
+2260,Blaziken,Focus Blast,fighting,18.123%
+2261,Blaziken,Detect,fighting,17.947%
+2262,Blaziken,Brave Bird,flying,17.577%
+2263,Blaziken,Overheat,fire,10.983%
+2264,Blaziken,Other,,17.624%
+2265,Drampa,Hyper Voice,normal,94.163%
+2266,Drampa,Flamethrower,fire,87.070%
+2267,Drampa,Draco Meteor,dragon,58.197%
+2268,Drampa,Snarl,dark,47.343%
+2269,Drampa,Hyper Beam,normal,43.523%
+2270,Drampa,Energy Ball,grass,39.051%
+2271,Drampa,Protect,normal,13.994%
+2272,Drampa,Other,,16.660%
+2273,Hawlucha,Coaching,fighting,75.565%
+2274,Hawlucha,Ally Switch,psychic,51.218%
+2275,Hawlucha,Close Combat,fighting,45.632%
+2276,Hawlucha,Acrobatics,flying,45.147%
+2277,Hawlucha,Brick Break,fighting,29.947%
+2278,Hawlucha,Quick Guard,fighting,21.952%
+2279,Hawlucha,Rock Tomb,rock,21.944%
+2280,Hawlucha,Flying Press,fighting,17.423%
+2281,Hawlucha,Entrainment,normal,17.248%
+2282,Hawlucha,Swords Dance,normal,13.270%
+2283,Hawlucha,Iron Head,steel,13.048%
+2284,Hawlucha,Brave Bird,flying,9.564%
+2285,Hawlucha,Poison Jab,poison,8.238%
+2286,Hawlucha,Fire Punch,fire,8.050%
+2287,Hawlucha,U-turn,bug,5.378%
+2288,Hawlucha,Other,,16.376%
+2289,Mr. Mime-Galar,Icy Wind,ice,95.431%
+2290,Mr. Mime-Galar,Fake Out,normal,94.730%
+2291,Mr. Mime-Galar,Skill Swap,psychic,52.608%
+2292,Mr. Mime-Galar,Hypnosis,psychic,51.111%
+2293,Mr. Mime-Galar,Helping Hand,normal,41.362%
+2294,Mr. Mime-Galar,Psyshock,psychic,40.793%
+2295,Mr. Mime-Galar,Ally Switch,psychic,6.024%
+2296,Mr. Mime-Galar,Other,,17.942%
+2297,Grapploct,Octolock,fighting,93.923%
+2298,Grapploct,Drain Punch,fighting,87.835%
+2299,Grapploct,Soak,water,60.977%
+2300,Grapploct,Detect,fighting,54.959%
+2301,Grapploct,Topsy-Turvy,dark,32.348%
+2302,Grapploct,Sucker Punch,dark,27.508%
+2303,Grapploct,Protect,normal,12.672%
+2304,Grapploct,Coaching,fighting,8.538%
+2305,Grapploct,Ice Punch,ice,7.662%
+2306,Grapploct,Other,,13.579%
+2307,Zoroark,Snarl,dark,55.109%
+2308,Zoroark,Dark Pulse,dark,48.631%
+2309,Zoroark,Protect,normal,47.421%
+2310,Zoroark,Copycat,normal,33.488%
+2311,Zoroark,Burning Jealousy,fire,33.404%
+2312,Zoroark,Sludge Bomb,poison,30.638%
+2313,Zoroark,Night Daze,dark,28.918%
+2314,Zoroark,Taunt,dark,20.838%
+2315,Zoroark,Flamethrower,fire,16.792%
+2316,Zoroark,Fake Tears,dark,16.543%
+2317,Zoroark,Knock Off,dark,12.938%
+2318,Zoroark,Focus Blast,fighting,12.133%
+2319,Zoroark,,,8.887%
+2320,Zoroark,Sucker Punch,dark,6.893%
+2321,Zoroark,Grass Knot,grass,4.069%
+2322,Zoroark,Detect,fighting,3.882%
+2323,Zoroark,Other,,19.416%
+2324,Lilligant,After You,normal,94.234%
+2325,Lilligant,Sleep Powder,grass,93.858%
+2326,Lilligant,Leaf Storm,grass,46.244%
+2327,Lilligant,Protect,normal,36.674%
+2328,Lilligant,Helping Hand,normal,32.767%
+2329,Lilligant,Pollen Puff,bug,28.564%
+2330,Lilligant,Petal Blizzard,grass,21.531%
+2331,Lilligant,Giga Drain,grass,13.245%
+2332,Lilligant,Energy Ball,grass,12.871%
+2333,Lilligant,Solar Beam,grass,9.170%
+2334,Lilligant,Other,,10.842%
+2335,Clawitzer,Water Pulse,water,89.989%
+2336,Clawitzer,Terrain Pulse,normal,79.634%
+2337,Clawitzer,Aura Sphere,fighting,66.612%
+2338,Clawitzer,Dark Pulse,dark,51.133%
+2339,Clawitzer,Dragon Pulse,dragon,27.603%
+2340,Clawitzer,Protect,normal,25.162%
+2341,Clawitzer,Heal Pulse,psychic,24.070%
+2342,Clawitzer,Aqua Jet,water,19.157%
+2343,Clawitzer,Other,,16.640%
+2344,Qwilfish,Aqua Jet,water,98.485%
+2345,Qwilfish,Surf,water,94.750%
+2346,Qwilfish,Icy Wind,ice,94.663%
+2347,Qwilfish,Acid Spray,poison,94.512%
+2348,Qwilfish,Other,,17.590%
+2349,Haxorus,Earthquake,ground,90.029%
+2350,Haxorus,Breaking Swipe,dragon,81.479%
+2351,Haxorus,Rock Tomb,rock,81.401%
+2352,Haxorus,Snarl,dark,81.397%
+2353,Haxorus,Dragon Claw,dragon,10.836%
+2354,Haxorus,Close Combat,fighting,10.076%
+2355,Haxorus,Iron Tail,steel,6.811%
+2356,Haxorus,Protect,normal,6.573%
+2357,Haxorus,Rock Slide,rock,4.824%
+2358,Haxorus,Outrage,dragon,3.995%
+2359,Haxorus,Poison Jab,poison,3.347%
+2360,Haxorus,Other,,19.233%
+2361,Dhelmise,Poltergeist,ghost,83.651%
+2362,Dhelmise,Power Whip,grass,72.612%
+2363,Dhelmise,Anchor Shot,steel,54.891%
+2364,Dhelmise,Grassy Glide,grass,41.392%
+2365,Dhelmise,Protect,normal,38.417%
+2366,Dhelmise,Steel Roller,steel,36.696%
+2367,Dhelmise,Earthquake,ground,18.830%
+2368,Dhelmise,Ally Switch,psychic,12.476%
+2369,Dhelmise,Iron Head,steel,12.333%
+2370,Dhelmise,Phantom Force,ghost,8.301%
+2371,Dhelmise,Shadow Claw,ghost,6.501%
+2372,Dhelmise,Other,,13.900%
+2373,Runerigus,Trick Room,psychic,87.217%
+2374,Runerigus,Body Press,fighting,71.581%
+2375,Runerigus,Curse,ghost,43.187%
+2376,Runerigus,Guard Split,psychic,39.034%
+2377,Runerigus,Poltergeist,ghost,32.135%
+2378,Runerigus,Earthquake,ground,30.158%
+2379,Runerigus,Rock Slide,rock,13.994%
+2380,Runerigus,Protect,normal,11.221%
+2381,Runerigus,Ally Switch,psychic,9.592%
+2382,Runerigus,Will-O-Wisp,fire,8.306%
+2383,Runerigus,Phantom Force,ghost,8.011%
+2384,Runerigus,Destiny Bond,ghost,6.001%
+2385,Runerigus,Bulldoze,ground,5.395%
+2386,Runerigus,Imprison,psychic,5.103%
+2387,Runerigus,Shadow Claw,ghost,5.010%
+2388,Runerigus,Night Shade,ghost,4.317%
+2389,Runerigus,Other,,19.738%
+2390,Braviary,Brave Bird,flying,99.987%
+2391,Braviary,Close Combat,fighting,97.334%
+2392,Braviary,Protect,normal,70.320%
+2393,Braviary,Rock Slide,rock,46.238%
+2394,Braviary,Tailwind,flying,29.340%
+2395,Braviary,Giga Impact,normal,21.270%
+2396,Braviary,Bulk Up,fighting,16.068%
+2397,Braviary,Other,,19.443%
+2398,Virizion,Leaf Blade,grass,73.099%
+2399,Virizion,Protect,normal,67.304%
+2400,Virizion,Close Combat,fighting,65.522%
+2401,Virizion,Bounce,flying,63.061%
+2402,Virizion,Stone Edge,rock,25.702%
+2403,Virizion,Sacred Sword,fighting,23.068%
+2404,Virizion,Swords Dance,normal,16.359%
+2405,Virizion,Grassy Glide,grass,13.247%
+2406,Virizion,Air Slash,flying,10.333%
+2407,Virizion,Focus Blast,fighting,10.205%
+2408,Virizion,Energy Ball,grass,6.404%
+2409,Virizion,Megahorn,bug,5.059%
+2410,Virizion,Taunt,dark,4.292%
+2411,Virizion,Other,,16.345%
+2412,Togetic,Follow Me,normal,97.204%
+2413,Togetic,Protect,normal,73.459%
+2414,Togetic,Life Dew,water,55.790%
+2415,Togetic,Dazzling Gleam,fairy,53.208%
+2416,Togetic,Yawn,normal,36.712%
+2417,Togetic,Helping Hand,normal,25.791%
+2418,Togetic,Thunder Wave,electric,12.305%
+2419,Togetic,After You,normal,9.259%
+2420,Togetic,Encore,normal,7.814%
+2421,Togetic,Heat Wave,fire,6.116%
+2422,Togetic,Reflect,psychic,4.840%
+2423,Togetic,Other,,17.501%
+2424,Raichu-Alola,Expanding Force,psychic,93.056%
+2425,Raichu-Alola,Rising Voltage,electric,90.900%
+2426,Raichu-Alola,Fake Out,normal,43.195%
+2427,Raichu-Alola,Protect,normal,40.703%
+2428,Raichu-Alola,Volt Switch,electric,29.041%
+2429,Raichu-Alola,Surf,water,22.034%
+2430,Raichu-Alola,Focus Blast,fighting,20.822%
+2431,Raichu-Alola,Speed Swap,psychic,11.351%
+2432,Raichu-Alola,Grass Knot,grass,8.070%
+2433,Raichu-Alola,Psychic,psychic,5.679%
+2434,Raichu-Alola,Nasty Plot,dark,5.636%
+2435,Raichu-Alola,Encore,normal,5.499%
+2436,Raichu-Alola,Discharge,electric,4.525%
+2437,Raichu-Alola,Other,,19.490%
+2438,Beartic,Icicle Crash,ice,99.809%
+2439,Beartic,Liquidation,water,62.331%
+2440,Beartic,Superpower,fighting,52.894%
+2441,Beartic,Play Rough,fairy,51.433%
+2442,Beartic,Rock Slide,rock,38.610%
+2443,Beartic,Protect,normal,25.439%
+2444,Beartic,Aqua Jet,water,15.092%
+2445,Beartic,Stone Edge,rock,10.927%
+2446,Beartic,Throat Chop,dark,8.365%
+2447,Beartic,Dig,ground,7.498%
+2448,Beartic,Low Kick,fighting,6.961%
+2449,Beartic,Heavy Slam,steel,5.333%
+2450,Beartic,Other,,15.308%
+2451,Copperajah,Iron Head,steel,61.240%
+2452,Copperajah,High Horsepower,ground,49.202%
+2453,Copperajah,Rock Slide,rock,44.164%
+2454,Copperajah,Power Whip,grass,41.499%
+2455,Copperajah,Steel Roller,steel,36.763%
+2456,Copperajah,Play Rough,fairy,30.973%
+2457,Copperajah,Protect,normal,28.401%
+2458,Copperajah,Heat Crash,fire,28.138%
+2459,Copperajah,Heavy Slam,steel,17.714%
+2460,Copperajah,Body Press,fighting,12.098%
+2461,Copperajah,Superpower,fighting,10.187%
+2462,Copperajah,Zen Headbutt,psychic,9.423%
+2463,Copperajah,Stone Edge,rock,9.037%
+2464,Copperajah,Earthquake,ground,7.637%
+2465,Copperajah,Other,,13.525%
+2466,Flapple,Grav Apple,grass,88.344%
+2467,Flapple,Dragon Rush,dragon,83.851%
+2468,Flapple,Protect,normal,75.794%
+2469,Flapple,Fly,flying,73.574%
+2470,Flapple,Grassy Glide,grass,14.005%
+2471,Flapple,Outrage,dragon,12.226%
+2472,Flapple,Dragon Dance,dragon,11.253%
+2473,Flapple,Heavy Slam,steel,10.092%
+2474,Flapple,Acrobatics,flying,7.401%
+2475,Flapple,Dual Wingbeat,flying,7.270%
+2476,Flapple,Other,,16.190%
+2477,Sylveon,Hyper Voice,normal,99.320%
+2478,Sylveon,Mystical Fire,fire,78.219%
+2479,Sylveon,Quick Attack,normal,66.087%
+2480,Sylveon,Protect,normal,59.852%
+2481,Sylveon,Hyper Beam,normal,27.528%
+2482,Sylveon,Yawn,normal,23.968%
+2483,Sylveon,Helping Hand,normal,11.101%
+2484,Sylveon,Moonblast,fairy,7.977%
+2485,Sylveon,Shadow Ball,ghost,6.661%
+2486,Sylveon,Other,,19.287%
+2487,Slurpuff,Dazzling Gleam,fairy,81.682%
+2488,Slurpuff,Yawn,normal,79.920%
+2489,Slurpuff,After You,normal,69.546%
+2490,Slurpuff,Fake Tears,dark,51.229%
+2491,Slurpuff,String Shot,bug,44.417%
+2492,Slurpuff,Charm,fairy,15.492%
+2493,Slurpuff,Helping Hand,normal,15.470%
+2494,Slurpuff,Flamethrower,fire,13.071%
+2495,Slurpuff,Protect,normal,5.742%
+2496,Slurpuff,Play Rough,fairy,2.978%
+2497,Slurpuff,Drain Punch,fighting,2.961%
+2498,Slurpuff,Other,,17.493%
+2499,Eiscue,Icicle Crash,ice,95.947%
+2500,Eiscue,Belly Drum,normal,91.653%
+2501,Eiscue,Protect,normal,81.742%
+2502,Eiscue,Head Smash,rock,67.256%
+2503,Eiscue,Liquidation,water,20.198%
+2504,Eiscue,Waterfall,water,10.797%
+2505,Eiscue,Iron Head,steel,9.379%
+2506,Eiscue,Soak,water,5.847%
+2507,Eiscue,Other,,17.179%
+2508,Hippowdon,Yawn,normal,72.347%
+2509,Hippowdon,Slack Off,normal,70.251%
+2510,Hippowdon,High Horsepower,ground,61.767%
+2511,Hippowdon,Protect,normal,47.416%
+2512,Hippowdon,Body Press,fighting,30.477%
+2513,Hippowdon,Rock Slide,rock,27.756%
+2514,Hippowdon,Stockpile,normal,21.203%
+2515,Hippowdon,Earthquake,ground,16.175%
+2516,Hippowdon,Curse,ghost,11.831%
+2517,Hippowdon,Iron Head,steel,11.040%
+2518,Hippowdon,Crunch,dark,9.039%
+2519,Hippowdon,Ice Fang,ice,7.147%
+2520,Hippowdon,Other,,13.551%
+2521,Alakazam,Expanding Force,psychic,99.281%
+2522,Alakazam,Dazzling Gleam,fairy,75.536%
+2523,Alakazam,Protect,normal,53.210%
+2524,Alakazam,Trick Room,psychic,31.882%
+2525,Alakazam,Focus Blast,fighting,28.557%
+2526,Alakazam,Imprison,psychic,26.181%
+2527,Alakazam,Shadow Ball,ghost,22.829%
+2528,Alakazam,Speed Swap,psychic,14.679%
+2529,Alakazam,Nasty Plot,dark,11.458%
+2530,Alakazam,Energy Ball,grass,10.686%
+2531,Alakazam,Taunt,dark,7.572%
+2532,Alakazam,Other,,18.129%
+2533,Torracat,Parting Shot,dark,99.999%
+2534,Torracat,Fake Out,normal,98.395%
+2535,Torracat,Overheat,fire,93.984%
+2536,Torracat,Taunt,dark,91.691%
+2537,Torracat,Other,,15.930%
+2538,Thievul,Snarl,dark,81.578%
+2539,Thievul,Fake Tears,dark,70.030%
+2540,Thievul,Parting Shot,dark,54.022%
+2541,Thievul,Screech,normal,41.487%
+2542,Thievul,Beat Up,dark,29.785%
+2543,Thievul,Foul Play,dark,23.157%
+2544,Thievul,Dark Pulse,dark,16.804%
+2545,Thievul,Mud Shot,ground,16.404%
+2546,Thievul,Taunt,dark,15.534%
+2547,Thievul,Acrobatics,flying,9.629%
+2548,Thievul,Howl,normal,8.562%
+2549,Thievul,Quick Guard,fighting,7.842%
+2550,Thievul,Burning Jealousy,fire,5.734%
+2551,Thievul,Other,,19.433%
+2552,Arctozolt,Bolt Beak,electric,97.917%
+2553,Arctozolt,Icicle Crash,ice,96.658%
+2554,Arctozolt,Stomping Tantrum,ground,71.558%
+2555,Arctozolt,Protect,normal,54.673%
+2556,Arctozolt,Rock Slide,rock,32.533%
+2557,Arctozolt,Pluck,flying,17.502%
+2558,Arctozolt,Stone Edge,rock,10.804%
+2559,Arctozolt,Other,,18.355%
+2560,Cofagrigus,Trick Room,psychic,97.278%
+2561,Cofagrigus,Ally Switch,psychic,71.905%
+2562,Cofagrigus,Shadow Ball,ghost,63.942%
+2563,Cofagrigus,Body Press,fighting,52.355%
+2564,Cofagrigus,Will-O-Wisp,fire,35.701%
+2565,Cofagrigus,Night Shade,ghost,14.732%
+2566,Cofagrigus,Toxic Spikes,poison,13.567%
+2567,Cofagrigus,Guard Split,psychic,12.763%
+2568,Cofagrigus,Psychic,psychic,10.077%
+2569,Cofagrigus,Curse,ghost,4.423%
+2570,Cofagrigus,Fake Tears,dark,4.237%
+2571,Cofagrigus,Other,,19.019%
+2572,Starmie,Expanding Force,psychic,79.794%
+2573,Starmie,Scald,water,50.476%
+2574,Starmie,Flip Turn,water,45.573%
+2575,Starmie,Meteor Beam,rock,41.698%
+2576,Starmie,Hydro Pump,water,39.352%
+2577,Starmie,Dazzling Gleam,fairy,23.355%
+2578,Starmie,Protect,normal,19.047%
+2579,Starmie,Psychic,psychic,18.997%
+2580,Starmie,Trick,psychic,16.646%
+2581,Starmie,Trick Room,psychic,13.289%
+2582,Starmie,Ice Beam,ice,13.248%
+2583,Starmie,Thunderbolt,electric,10.475%
+2584,Starmie,Icy Wind,ice,10.359%
+2585,Starmie,Other,,17.691%
+2586,Turtonator,Flash Cannon,steel,83.459%
+2587,Turtonator,Draco Meteor,dragon,77.974%
+2588,Turtonator,Heat Wave,fire,68.342%
+2589,Turtonator,Shell Trap,fire,67.407%
+2590,Turtonator,Flamethrower,fire,14.868%
+2591,Turtonator,Scorching Sands,ground,14.453%
+2592,Turtonator,Burning Jealousy,fire,14.324%
+2593,Turtonator,Dragon Pulse,dragon,10.923%
+2594,Turtonator,Protect,normal,10.422%
+2595,Turtonator,Wide Guard,rock,9.545%
+2596,Turtonator,Body Press,fighting,7.151%
+2597,Turtonator,Iron Defense,steel,6.993%
+2598,Turtonator,Other,,14.140%
+2599,Sharpedo,Protect,normal,95.309%
+2600,Sharpedo,Crunch,dark,92.529%
+2601,Sharpedo,Flip Turn,water,60.274%
+2602,Sharpedo,Waterfall,water,53.071%
+2603,Sharpedo,Liquidation,water,38.927%
+2604,Sharpedo,Close Combat,fighting,23.175%
+2605,Sharpedo,Bounce,flying,8.445%
+2606,Sharpedo,Psychic Fangs,psychic,6.225%
+2607,Sharpedo,Bulldoze,ground,3.655%
+2608,Sharpedo,Other,,18.389%
+2609,Salazzle,Fake Out,normal,76.824%
+2610,Salazzle,Sludge Wave,poison,65.158%
+2611,Salazzle,Heat Wave,fire,60.429%
+2612,Salazzle,Beat Up,dark,38.801%
+2613,Salazzle,Taunt,dark,36.166%
+2614,Salazzle,Sludge Bomb,poison,27.498%
+2615,Salazzle,Overheat,fire,21.689%
+2616,Salazzle,Flamethrower,fire,14.108%
+2617,Salazzle,Fling,dark,10.604%
+2618,Salazzle,Fake Tears,dark,9.984%
+2619,Salazzle,Protect,normal,7.267%
+2620,Salazzle,Thunder Wave,electric,5.439%
+2621,Salazzle,Poison Gas,poison,4.488%
+2622,Salazzle,Toxic,poison,4.278%
+2623,Salazzle,Other,,17.268%
+2624,Ninetales,Heat Wave,fire,79.378%
+2625,Ninetales,Solar Beam,grass,67.830%
+2626,Ninetales,Protect,normal,53.752%
+2627,Ninetales,Overheat,fire,48.736%
+2628,Ninetales,Will-O-Wisp,fire,25.717%
+2629,Ninetales,Dark Pulse,dark,20.054%
+2630,Ninetales,Fake Tears,dark,18.621%
+2631,Ninetales,Burning Jealousy,fire,15.740%
+2632,Ninetales,Scorching Sands,ground,11.538%
+2633,Ninetales,Encore,normal,9.376%
+2634,Ninetales,Round,normal,8.601%
+2635,Ninetales,Hypnosis,psychic,8.447%
+2636,Ninetales,Baby-Doll Eyes,fairy,3.383%
+2637,Ninetales,Energy Ball,grass,3.159%
+2638,Ninetales,Dig,ground,2.641%
+2639,Ninetales,Extrasensory,psychic,2.487%
+2640,Ninetales,Disable,normal,2.335%
+2641,Ninetales,Other,,18.205%
+2642,Sirfetch'd,Close Combat,fighting,79.028%
+2643,Sirfetch'd,Knock Off,dark,54.860%
+2644,Sirfetch'd,Leaf Blade,grass,51.716%
+2645,Sirfetch'd,First Impression,bug,37.130%
+2646,Sirfetch'd,Brave Bird,flying,33.114%
+2647,Sirfetch'd,Detect,fighting,29.659%
+2648,Sirfetch'd,Grassy Glide,grass,29.647%
+2649,Sirfetch'd,Meteor Assault,fighting,19.784%
+2650,Sirfetch'd,Poison Jab,poison,19.311%
+2651,Sirfetch'd,Protect,normal,16.429%
+2652,Sirfetch'd,Dual Wingbeat,flying,13.526%
+2653,Sirfetch'd,Other,,15.797%
+2654,Emolga,Nuzzle,electric,93.289%
+2655,Emolga,Helping Hand,normal,54.204%
+2656,Emolga,Taunt,dark,48.955%
+2657,Emolga,Charm,fairy,48.128%
+2658,Emolga,Air Slash,flying,43.865%
+2659,Emolga,Volt Switch,electric,33.833%
+2660,Emolga,Tickle,normal,31.732%
+2661,Emolga,Eerie Impulse,electric,11.179%
+2662,Emolga,Electro Ball,electric,6.360%
+2663,Emolga,Encore,normal,4.925%
+2664,Emolga,Electroweb,electric,4.074%
+2665,Emolga,Other,,19.455%
+2666,Ribombee,Speed Swap,psychic,82.033%
+2667,Ribombee,Pollen Puff,bug,74.437%
+2668,Ribombee,Moonblast,fairy,53.771%
+2669,Ribombee,Helping Hand,normal,46.642%
+2670,Ribombee,Ally Switch,psychic,45.570%
+2671,Ribombee,Struggle Bug,bug,21.286%
+2672,Ribombee,Fake Tears,dark,15.254%
+2673,Ribombee,Dazzling Gleam,fairy,13.230%
+2674,Ribombee,Protect,normal,12.220%
+2675,Ribombee,Reflect,psychic,8.773%
+2676,Ribombee,Magic Room,psychic,5.292%
+2677,Ribombee,Psychic,psychic,3.490%
+2678,Ribombee,Other,,18.002%
+2679,Charjabug,Light Screen,psychic,94.869%
+2680,Charjabug,Round,normal,90.095%
+2681,Charjabug,Eerie Impulse,electric,84.456%
+2682,Charjabug,Bug Bite,bug,82.394%
+2683,Charjabug,Protect,normal,12.981%
+2684,Charjabug,Sticky Web,bug,6.957%
+2685,Charjabug,Volt Switch,electric,5.294%
+2686,Charjabug,Skitter Smack,bug,3.912%
+2687,Charjabug,Other,,19.041%
+2688,Toxtricity,Overdrive,electric,99.887%
+2689,Toxtricity,Sludge Bomb,poison,93.605%
+2690,Toxtricity,Protect,normal,49.377%
+2691,Toxtricity,Snarl,dark,45.062%
+2692,Toxtricity,Volt Switch,electric,30.914%
+2693,Toxtricity,Taunt,dark,26.599%
+2694,Toxtricity,Boomburst,normal,18.087%
+2695,Toxtricity,Sludge Wave,poison,16.857%
+2696,Toxtricity,Other,,19.611%
+2697,Vaporeon,Protect,normal,90.257%
+2698,Vaporeon,Scald,water,83.766%
+2699,Vaporeon,Helping Hand,normal,76.087%
+2700,Vaporeon,Haze,ice,52.481%
+2701,Vaporeon,Icy Wind,ice,15.352%
+2702,Vaporeon,Wish,normal,15.233%
+2703,Vaporeon,Ice Beam,ice,10.988%
+2704,Vaporeon,Surf,water,10.010%
+2705,Vaporeon,Muddy Water,water,8.063%
+2706,Vaporeon,Shadow Ball,ghost,6.284%
+2707,Vaporeon,Flip Turn,water,4.409%
+2708,Vaporeon,Blizzard,ice,3.582%
+2709,Vaporeon,Yawn,normal,3.095%
+2710,Vaporeon,Hyper Voice,normal,2.842%
+2711,Vaporeon,Other,,17.552%
+2712,Mr. Mime,Fake Out,normal,92.115%
+2713,Mr. Mime,Protect,normal,59.983%
+2714,Mr. Mime,Skill Swap,psychic,58.279%
+2715,Mr. Mime,Helping Hand,normal,35.364%
+2716,Mr. Mime,Trick Room,psychic,34.985%
+2717,Mr. Mime,Dazzling Gleam,fairy,34.592%
+2718,Mr. Mime,Taunt,dark,27.722%
+2719,Mr. Mime,Thunder Wave,electric,25.247%
+2720,Mr. Mime,Ally Switch,psychic,13.044%
+2721,Mr. Mime,Other,,18.668%
+2722,Magnezone,Flash Cannon,steel,96.756%
+2723,Magnezone,Protect,normal,83.960%
+2724,Magnezone,Thunderbolt,electric,83.416%
+2725,Magnezone,Body Press,fighting,62.438%
+2726,Magnezone,Volt Switch,electric,15.513%
+2727,Magnezone,Rising Voltage,electric,11.685%
+2728,Magnezone,Ally Switch,psychic,9.986%
+2729,Magnezone,Thunder,electric,8.394%
+2730,Magnezone,Steel Beam,steel,8.127%
+2731,Magnezone,Other,,19.726%
+2732,Gallade,Close Combat,fighting,74.369%
+2733,Gallade,Psycho Cut,psychic,58.452%
+2734,Gallade,Knock Off,dark,49.485%
+2735,Gallade,Trick Room,psychic,27.514%
+2736,Gallade,Zen Headbutt,psychic,23.346%
+2737,Gallade,Leaf Blade,grass,22.641%
+2738,Gallade,Drain Punch,fighting,21.693%
+2739,Gallade,Poison Jab,poison,20.833%
+2740,Gallade,Rock Slide,rock,14.781%
+2741,Gallade,Imprison,psychic,10.982%
+2742,Gallade,Aerial Ace,flying,10.724%
+2743,Gallade,Shadow Sneak,ghost,8.972%
+2744,Gallade,Protect,normal,8.359%
+2745,Gallade,Wide Guard,rock,7.525%
+2746,Gallade,Ice Punch,ice,6.380%
+2747,Gallade,Trick,psychic,4.564%
+2748,Gallade,Throat Chop,dark,4.192%
+2749,Gallade,Ally Switch,psychic,3.867%
+2750,Gallade,Coaching,fighting,3.849%
+2751,Gallade,Other,,17.473%
+2752,Lopunny,Fake Out,normal,68.360%
+2753,Lopunny,Helping Hand,normal,51.443%
+2754,Lopunny,Switcheroo,dark,51.275%
+2755,Lopunny,Thunder Wave,electric,49.450%
+2756,Lopunny,Facade,normal,28.991%
+2757,Lopunny,High Jump Kick,fighting,23.597%
+2758,Lopunny,Entrainment,normal,21.540%
+2759,Lopunny,Healing Wish,psychic,21.116%
+2760,Lopunny,Baby-Doll Eyes,fairy,9.498%
+2761,Lopunny,Encore,normal,7.980%
+2762,Lopunny,Play Rough,fairy,6.996%
+2763,Lopunny,Circle Throw,fighting,5.725%
+2764,Lopunny,Charm,fairy,5.584%
+2765,Lopunny,Protect,normal,4.948%
+2766,Lopunny,Acrobatics,flying,4.105%
+2767,Lopunny,Fire Punch,fire,3.944%
+2768,Lopunny,Aura Sphere,fighting,3.912%
+2769,Lopunny,Ice Punch,ice,2.927%
+2770,Lopunny,Hyper Voice,normal,2.911%
+2771,Lopunny,Ice Beam,ice,2.911%
+2772,Lopunny,U-turn,bug,2.711%
+2773,Lopunny,Close Combat,fighting,2.553%
+2774,Lopunny,Other,,17.523%
+2775,Gourgeist-Small,Trick Room,psychic,74.028%
+2776,Gourgeist-Small,Imprison,psychic,56.075%
+2777,Gourgeist-Small,Grassy Glide,grass,50.633%
+2778,Gourgeist-Small,Trick-or-Treat,ghost,49.872%
+2779,Gourgeist-Small,Power Whip,grass,40.912%
+2780,Gourgeist-Small,Ally Switch,psychic,33.341%
+2781,Gourgeist-Small,Shadow Sneak,ghost,31.459%
+2782,Gourgeist-Small,Will-O-Wisp,fire,24.603%
+2783,Gourgeist-Small,Skitter Smack,bug,9.242%
+2784,Gourgeist-Small,Destiny Bond,ghost,8.235%
+2785,Gourgeist-Small,Poltergeist,ghost,6.768%
+2786,Gourgeist-Small,Other,,14.832%
+2787,Malamar,Superpower,fighting,99.825%
+2788,Malamar,Throat Chop,dark,75.328%
+2789,Malamar,Trick Room,psychic,68.450%
+2790,Malamar,Protect,normal,58.104%
+2791,Malamar,Psycho Cut,psychic,29.385%
+2792,Malamar,Topsy-Turvy,dark,23.043%
+2793,Malamar,Rock Slide,rock,13.138%
+2794,Malamar,Ally Switch,psychic,11.027%
+2795,Malamar,Lash Out,dark,8.670%
+2796,Malamar,Other,,13.030%
+2797,Golisopod,Liquidation,water,90.634%
+2798,Golisopod,Leech Life,bug,78.255%
+2799,Golisopod,First Impression,bug,52.463%
+2800,Golisopod,Aqua Jet,water,42.398%
+2801,Golisopod,Close Combat,fighting,34.831%
+2802,Golisopod,Sucker Punch,dark,27.786%
+2803,Golisopod,Protect,normal,17.716%
+2804,Golisopod,Swords Dance,normal,15.488%
+2805,Golisopod,Drill Run,ground,9.435%
+2806,Golisopod,Poison Jab,poison,8.534%
+2807,Golisopod,Struggle Bug,bug,6.764%
+2808,Golisopod,Other,,15.695%
+2809,Golduck,Aqua Jet,water,63.646%
+2810,Golduck,Surf,water,51.792%
+2811,Golduck,Flip Turn,water,43.931%
+2812,Golduck,Yawn,normal,43.566%
+2813,Golduck,Hypnosis,psychic,38.724%
+2814,Golduck,Icy Wind,ice,33.614%
+2815,Golduck,Ice Beam,ice,25.410%
+2816,Golduck,Scald,water,21.070%
+2817,Golduck,Muddy Water,water,17.863%
+2818,Golduck,Protect,normal,17.609%
+2819,Golduck,Simple Beam,normal,11.144%
+2820,Golduck,Clear Smog,poison,5.004%
+2821,Golduck,Hydro Pump,water,4.913%
+2822,Golduck,Psych Up,normal,4.283%
+2823,Golduck,Other,,17.433%
+2824,Shiinotic,Spore,grass,90.823%
+2825,Shiinotic,Moonblast,fairy,83.586%
+2826,Shiinotic,Protect,normal,83.578%
+2827,Shiinotic,Strength Sap,grass,47.651%
+2828,Shiinotic,Energy Ball,grass,39.791%
+2829,Shiinotic,Pollen Puff,bug,15.559%
+2830,Shiinotic,Giga Drain,grass,14.508%
+2831,Shiinotic,Dazzling Gleam,fairy,7.838%
+2832,Shiinotic,Other,,16.666%
+2833,Lycanroc-Dusk,Close Combat,fighting,89.490%
+2834,Lycanroc-Dusk,Accelerock,rock,87.034%
+2835,Lycanroc-Dusk,Protect,normal,72.383%
+2836,Lycanroc-Dusk,Rock Slide,rock,54.998%
+2837,Lycanroc-Dusk,Swords Dance,normal,23.176%
+2838,Lycanroc-Dusk,Psychic Fangs,psychic,18.472%
+2839,Lycanroc-Dusk,Drill Run,ground,11.044%
+2840,Lycanroc-Dusk,Iron Head,steel,8.632%
+2841,Lycanroc-Dusk,Play Rough,fairy,8.374%
+2842,Lycanroc-Dusk,Howl,normal,5.696%
+2843,Lycanroc-Dusk,Sucker Punch,dark,4.620%
+2844,Lycanroc-Dusk,Other,,16.081%
+2845,Unfezant,Night Slash,dark,98.793%
+2846,Unfezant,Tailwind,flying,94.412%
+2847,Unfezant,Brave Bird,flying,88.439%
+2848,Unfezant,Steel Wing,steel,52.602%
+2849,Unfezant,Taunt,dark,17.463%
+2850,Unfezant,Detect,fighting,10.533%
+2851,Unfezant,Protect,normal,8.383%
+2852,Unfezant,U-turn,bug,5.744%
+2853,Unfezant,Hypnosis,psychic,5.295%
+2854,Unfezant,Other,,18.335%
+2855,Perrserker,Iron Head,steel,90.865%
+2856,Perrserker,Fake Out,normal,79.867%
+2857,Perrserker,Close Combat,fighting,71.445%
+2858,Perrserker,Play Rough,fairy,35.295%
+2859,Perrserker,U-turn,bug,21.987%
+2860,Perrserker,Gunk Shot,poison,17.874%
+2861,Perrserker,Protect,normal,17.094%
+2862,Perrserker,Seed Bomb,grass,15.054%
+2863,Perrserker,Taunt,dark,11.065%
+2864,Perrserker,Gyro Ball,steel,9.427%
+2865,Perrserker,Screech,normal,9.294%
+2866,Perrserker,Throat Chop,dark,7.187%
+2867,Perrserker,Other,,13.546%
+2868,Slowbro-Galar,Expanding Force,psychic,93.646%
+2869,Slowbro-Galar,Trick Room,psychic,82.873%
+2870,Slowbro-Galar,Shell Side Arm,poison,82.170%
+2871,Slowbro-Galar,Bulldoze,ground,47.886%
+2872,Slowbro-Galar,Sludge Bomb,poison,16.924%
+2873,Slowbro-Galar,Protect,normal,16.763%
+2874,Slowbro-Galar,Yawn,normal,9.179%
+2875,Slowbro-Galar,Hydro Pump,water,8.816%
+2876,Slowbro-Galar,Flamethrower,fire,7.063%
+2877,Slowbro-Galar,Psychic,psychic,4.068%
+2878,Slowbro-Galar,Fire Blast,fire,3.877%
+2879,Slowbro-Galar,Surf,water,3.728%
+2880,Slowbro-Galar,Mud Shot,ground,2.635%
+2881,Slowbro-Galar,Imprison,psychic,2.375%
+2882,Slowbro-Galar,Other,,17.999%
+2883,Bouffalant,Head Charge,normal,89.719%
+2884,Bouffalant,High Horsepower,ground,85.370%
+2885,Bouffalant,Close Combat,fighting,81.375%
+2886,Bouffalant,Lash Out,dark,61.087%
+2887,Bouffalant,Iron Head,steel,27.362%
+2888,Bouffalant,Cotton Guard,grass,11.440%
+2889,Bouffalant,Rock Slide,rock,9.618%
+2890,Bouffalant,Giga Impact,normal,5.245%
+2891,Bouffalant,Wild Charge,electric,4.217%
+2892,Bouffalant,Body Slam,normal,4.202%
+2893,Bouffalant,Zen Headbutt,psychic,3.710%
+2894,Bouffalant,Other,,16.655%
+2895,Rotom-Frost,Blizzard,ice,99.999%
+2896,Rotom-Frost,Thunderbolt,electric,99.008%
+2897,Rotom-Frost,Protect,normal,75.251%
+2898,Rotom-Frost,Thunder,electric,39.983%
+2899,Rotom-Frost,Dark Pulse,dark,18.340%
+2900,Rotom-Frost,Nasty Plot,dark,17.652%
+2901,Rotom-Frost,Will-O-Wisp,fire,13.490%
+2902,Rotom-Frost,Ally Switch,psychic,13.432%
+2903,Rotom-Frost,Trick,psychic,11.083%
+2904,Rotom-Frost,Other,,11.763%
+2905,Roserade,Sludge Bomb,poison,99.818%
+2906,Roserade,Sleep Powder,grass,92.891%
+2907,Roserade,Leaf Storm,grass,91.298%
+2908,Roserade,Protect,normal,90.387%
+2909,Roserade,Giga Drain,grass,6.226%
+2910,Roserade,Other,,19.380%
+2911,Tangrowth,Rage Powder,bug,81.004%
+2912,Tangrowth,Knock Off,dark,78.569%
+2913,Tangrowth,Sleep Powder,grass,72.667%
+2914,Tangrowth,Leaf Storm,grass,51.925%
+2915,Tangrowth,Giga Drain,grass,38.126%
+2916,Tangrowth,Sludge Bomb,poison,16.585%
+2917,Tangrowth,Protect,normal,12.745%
+2918,Tangrowth,Grassy Glide,grass,12.489%
+2919,Tangrowth,Ancient Power,rock,7.549%
+2920,Tangrowth,Endeavor,normal,7.393%
+2921,Tangrowth,Leech Seed,grass,5.314%
+2922,Tangrowth,Other,,15.633%
+2923,Sandaconda,High Horsepower,ground,80.172%
+2924,Sandaconda,Protect,normal,79.327%
+2925,Sandaconda,Rock Slide,rock,64.103%
+2926,Sandaconda,Coil,poison,36.854%
+2927,Sandaconda,Iron Head,steel,36.301%
+2928,Sandaconda,Stone Edge,rock,30.927%
+2929,Sandaconda,Earthquake,ground,13.202%
+2930,Sandaconda,Body Press,fighting,12.081%
+2931,Sandaconda,Glare,normal,11.412%
+2932,Sandaconda,Skitter Smack,bug,10.126%
+2933,Sandaconda,Drill Run,ground,6.488%
+2934,Sandaconda,Other,,19.008%
+2935,Polteageist,Shadow Ball,ghost,97.519%
+2936,Polteageist,Giga Drain,grass,78.716%
+2937,Polteageist,Stored Power,psychic,63.631%
+2938,Polteageist,Baton Pass,normal,33.841%
+2939,Polteageist,Strength Sap,grass,27.168%
+2940,Polteageist,Will-O-Wisp,fire,25.925%
+2941,Polteageist,Shell Smash,normal,19.562%
+2942,Polteageist,Dark Pulse,dark,13.210%
+2943,Polteageist,Protect,normal,13.081%
+2944,Polteageist,Teatime,normal,6.644%
+2945,Polteageist,Ally Switch,psychic,4.862%
+2946,Polteageist,Other,,15.841%
+2947,Tangela,Rage Powder,bug,99.843%
+2948,Tangela,Sleep Powder,grass,99.799%
+2949,Tangela,Leech Seed,grass,90.805%
+2950,Tangela,Protect,normal,79.869%
+2951,Tangela,Sludge Bomb,poison,19.632%
+2952,Tangela,Other,,10.052%
+2953,Morpeko,Aura Wheel,electric,99.949%
+2954,Morpeko,Parting Shot,dark,94.834%
+2955,Morpeko,Fake Out,normal,90.552%
+2956,Morpeko,Swagger,normal,43.536%
+2957,Morpeko,Protect,normal,30.138%
+2958,Morpeko,Taunt,dark,18.154%
+2959,Morpeko,Seed Bomb,grass,8.633%
+2960,Morpeko,Other,,14.202%
+2961,Eldegoss,Pollen Puff,bug,94.130%
+2962,Eldegoss,Charm,fairy,90.365%
+2963,Eldegoss,Sleep Powder,grass,88.358%
+2964,Eldegoss,Giga Drain,grass,84.389%
+2965,Eldegoss,Rapid Spin,normal,9.693%
+2966,Eldegoss,Synthesis,grass,6.862%
+2967,Eldegoss,Aromatherapy,grass,6.124%
+2968,Eldegoss,Cotton Spore,grass,4.323%
+2969,Eldegoss,Other,,15.755%
+2970,Aromatisse,Trick Room,psychic,99.680%
+2971,Aromatisse,Dazzling Gleam,fairy,82.277%
+2972,Aromatisse,Heal Pulse,psychic,70.075%
+2973,Aromatisse,Helping Hand,normal,46.579%
+2974,Aromatisse,Aromatherapy,grass,17.414%
+2975,Aromatisse,Ally Switch,psychic,14.567%
+2976,Aromatisse,Light Screen,psychic,13.208%
+2977,Aromatisse,Reflect,psychic,13.174%
+2978,Aromatisse,Fake Tears,dark,10.809%
+2979,Aromatisse,After You,normal,10.438%
+2980,Aromatisse,Moonblast,fairy,7.134%
+2981,Aromatisse,Other,,14.645%
+2982,Miltank,Steel Roller,steel,84.409%
+2983,Miltank,Body Press,fighting,70.578%
+2984,Miltank,Play Rough,fairy,67.263%
+2985,Miltank,Rock Slide,rock,66.684%
+2986,Miltank,Body Slam,normal,27.631%
+2987,Miltank,Milk Drink,normal,18.392%
+2988,Miltank,High Horsepower,ground,14.035%
+2989,Miltank,Thunder Wave,electric,8.807%
+2990,Miltank,Protect,normal,6.521%
+2991,Miltank,Fire Punch,fire,6.326%
+2992,Miltank,Ice Punch,ice,5.291%
+2993,Miltank,Brick Break,fighting,5.075%
+2994,Miltank,Other,,18.987%
+2995,Gourgeist-Super,Trick Room,psychic,97.989%
+2996,Gourgeist-Super,Will-O-Wisp,fire,78.352%
+2997,Gourgeist-Super,Seed Bomb,grass,77.473%
+2998,Gourgeist-Super,Trick-or-Treat,ghost,74.892%
+2999,Gourgeist-Super,Shadow Sneak,ghost,19.472%
+3000,Gourgeist-Super,Power Whip,grass,17.602%
+3001,Gourgeist-Super,Imprison,psychic,17.167%
+3002,Gourgeist-Super,Other,,17.053%
+3003,Crawdaunt,Aqua Jet,water,92.698%
+3004,Crawdaunt,Knock Off,dark,66.303%
+3005,Crawdaunt,Crabhammer,water,54.524%
+3006,Crawdaunt,Crunch,dark,40.591%
+3007,Crawdaunt,Liquidation,water,37.905%
+3008,Crawdaunt,Protect,normal,35.299%
+3009,Crawdaunt,Hydro Pump,water,17.140%
+3010,Crawdaunt,X-Scissor,bug,12.435%
+3011,Crawdaunt,Brick Break,fighting,11.859%
+3012,Crawdaunt,Close Combat,fighting,9.528%
+3013,Crawdaunt,Waterfall,water,7.553%
+3014,Crawdaunt,Other,,14.165%
+3015,Heracross,Close Combat,fighting,97.664%
+3016,Heracross,Megahorn,bug,97.194%
+3017,Heracross,Rock Slide,rock,65.246%
+3018,Heracross,Protect,normal,53.783%
+3019,Heracross,Aerial Ace,flying,23.487%
+3020,Heracross,Throat Chop,dark,13.113%
+3021,Heracross,Stone Edge,rock,12.366%
+3022,Heracross,High Horsepower,ground,9.408%
+3023,Heracross,Earthquake,ground,6.948%
+3024,Heracross,Facade,normal,4.745%
+3025,Heracross,Other,,16.047%
+3026,Magneton,Flash Cannon,steel,91.962%
+3027,Magneton,Protect,normal,78.948%
+3028,Magneton,Thunderbolt,electric,54.470%
+3029,Magneton,Rising Voltage,electric,36.896%
+3030,Magneton,Substitute,normal,35.652%
+3031,Magneton,Metal Sound,steel,31.141%
+3032,Magneton,Volt Switch,electric,17.272%
+3033,Magneton,Reflect,psychic,12.454%
+3034,Magneton,Rain Dance,water,12.436%
+3035,Magneton,Steel Beam,steel,8.100%
+3036,Magneton,Discharge,electric,7.859%
+3037,Magneton,Other,,12.809%
+3038,Stoutland,After You,normal,65.575%
+3039,Stoutland,Giga Impact,normal,52.864%
+3040,Stoutland,Surf,water,35.829%
+3041,Stoutland,Howl,normal,33.354%
+3042,Stoutland,Yawn,normal,27.732%
+3043,Stoutland,Play Rough,fairy,26.219%
+3044,Stoutland,Protect,normal,24.591%
+3045,Stoutland,Wild Charge,electric,24.150%
+3046,Stoutland,Superpower,fighting,19.787%
+3047,Stoutland,Snarl,dark,13.481%
+3048,Stoutland,Facade,normal,10.966%
+3049,Stoutland,Charm,fairy,8.934%
+3050,Stoutland,Helping Hand,normal,7.956%
+3051,Stoutland,,,7.585%
+3052,Stoutland,Iron Head,steel,6.950%
+3053,Stoutland,Thunder Wave,electric,5.819%
+3054,Stoutland,Retaliate,normal,4.736%
+3055,Stoutland,Crunch,dark,4.615%
+3056,Stoutland,Other,,18.857%
+3057,Noivern,Draco Meteor,dragon,91.591%
+3058,Noivern,Tailwind,flying,70.608%
+3059,Noivern,Hurricane,flying,42.069%
+3060,Noivern,Air Slash,flying,41.919%
+3061,Noivern,Super Fang,normal,31.592%
+3062,Noivern,Taunt,dark,22.837%
+3063,Noivern,Dark Pulse,dark,19.873%
+3064,Noivern,U-turn,bug,19.564%
+3065,Noivern,Flamethrower,fire,15.157%
+3066,Noivern,Protect,normal,9.047%
+3067,Noivern,Heat Wave,fire,7.061%
+3068,Noivern,Shadow Ball,ghost,5.630%
+3069,Noivern,Boomburst,normal,5.259%
+3070,Noivern,Other,,17.796%
+3071,Claydol,Trick Room,psychic,86.003%
+3072,Claydol,Imprison,psychic,72.714%
+3073,Claydol,Ally Switch,psychic,67.222%
+3074,Claydol,Body Press,fighting,49.779%
+3075,Claydol,Scorching Sands,ground,23.719%
+3076,Claydol,Expanding Force,psychic,20.237%
+3077,Claydol,Psychic,psychic,15.313%
+3078,Claydol,Bulldoze,ground,11.003%
+3079,Claydol,Earthquake,ground,10.443%
+3080,Claydol,Light Screen,psychic,9.695%
+3081,Claydol,Reflect,psychic,9.675%
+3082,Claydol,Explosion,normal,7.640%
+3083,Claydol,Other,,16.556%
+3084,Jolteon,Shadow Ball,ghost,44.096%
+3085,Jolteon,Rising Voltage,electric,38.965%
+3086,Jolteon,Thunder,electric,37.509%
+3087,Jolteon,Volt Switch,electric,32.355%
+3088,Jolteon,Protect,normal,32.156%
+3089,Jolteon,Thunder Wave,electric,28.580%
+3090,Jolteon,Detect,fighting,27.258%
+3091,Jolteon,Weather Ball,normal,24.207%
+3092,Jolteon,Charm,fairy,23.354%
+3093,Jolteon,Fake Tears,dark,23.305%
+3094,Jolteon,Mud-Slap,ground,22.837%
+3095,Jolteon,Hyper Voice,normal,13.498%
+3096,Jolteon,Discharge,electric,13.320%
+3097,Jolteon,Yawn,normal,11.079%
+3098,Jolteon,Thunderbolt,electric,10.971%
+3099,Jolteon,Other,,16.511%
+3100,Vileplume,Sleep Powder,grass,94.007%
+3101,Vileplume,After You,normal,85.939%
+3102,Vileplume,Sludge Bomb,poison,80.150%
+3103,Vileplume,Energy Ball,grass,42.136%
+3104,Vileplume,Strength Sap,grass,28.844%
+3105,Vileplume,Solar Beam,grass,26.849%
+3106,Vileplume,Grassy Terrain,grass,14.193%
+3107,Vileplume,Giga Drain,grass,12.843%
+3108,Vileplume,Other,,15.040%
+3109,Cursola,Shadow Ball,ghost,99.079%
+3110,Cursola,Earth Power,ground,63.529%
+3111,Cursola,Burning Jealousy,fire,46.833%
+3112,Cursola,Giga Drain,grass,29.145%
+3113,Cursola,Scald,water,21.570%
+3114,Cursola,Protect,normal,21.109%
+3115,Cursola,Meteor Beam,rock,20.336%
+3116,Cursola,Perish Song,normal,19.085%
+3117,Cursola,Ice Beam,ice,16.545%
+3118,Cursola,Hydro Pump,water,15.887%
+3119,Cursola,Strength Sap,grass,13.620%
+3120,Cursola,Power Gem,rock,8.939%
+3121,Cursola,Blizzard,ice,8.443%
+3122,Cursola,Other,,15.879%
+3123,Falinks,No Retreat,fighting,95.948%
+3124,Falinks,Close Combat,fighting,93.997%
+3125,Falinks,Iron Head,steel,61.839%
+3126,Falinks,Rock Slide,rock,43.329%
+3127,Falinks,Protect,normal,42.911%
+3128,Falinks,Throat Chop,dark,29.027%
+3129,Falinks,Zen Headbutt,psychic,12.434%
+3130,Falinks,Megahorn,bug,10.326%
+3131,Falinks,Other,,10.188%
+3132,Dedenne,Nuzzle,electric,83.039%
+3133,Dedenne,Electroweb,electric,58.466%
+3134,Dedenne,Volt Switch,electric,46.859%
+3135,Dedenne,Ally Switch,psychic,43.420%
+3136,Dedenne,Super Fang,normal,42.671%
+3137,Dedenne,Protect,normal,19.588%
+3138,Dedenne,Parabolic Charge,electric,19.359%
+3139,Dedenne,Helping Hand,normal,18.880%
+3140,Dedenne,Eerie Impulse,electric,13.650%
+3141,Dedenne,Charm,fairy,13.548%
+3142,Dedenne,Substitute,normal,9.566%
+3143,Dedenne,Discharge,electric,7.019%
+3144,Dedenne,Tearful Look,normal,5.936%
+3145,Dedenne,Other,,18.000%
+3146,Flygon,Protect,normal,77.894%
+3147,Flygon,Earth Power,ground,73.564%
+3148,Flygon,Flamethrower,fire,73.147%
+3149,Flygon,Dragon Pulse,dragon,61.955%
+3150,Flygon,Earthquake,ground,17.880%
+3151,Flygon,Draco Meteor,dragon,15.644%
+3152,Flygon,Rock Slide,rock,14.736%
+3153,Flygon,Dragon Claw,dragon,9.245%
+3154,Flygon,Superpower,fighting,9.104%
+3155,Flygon,Dragon Rush,dragon,8.670%
+3156,Flygon,Dragon Dance,dragon,5.839%
+3157,Flygon,Bulldoze,ground,4.726%
+3158,Flygon,Air Slash,flying,4.597%
+3159,Flygon,Scorching Sands,ground,4.580%
+3160,Flygon,Other,,18.418%
+3161,Crustle,X-Scissor,bug,98.898%
+3162,Crustle,Earthquake,ground,94.413%
+3163,Crustle,Rock Slide,rock,82.689%
+3164,Crustle,Rock Wrecker,rock,67.011%
+3165,Crustle,Shell Smash,normal,31.547%
+3166,Crustle,Stone Edge,rock,16.930%
+3167,Crustle,Other,,8.512%
+3168,Reuniclus,Trick Room,psychic,94.054%
+3169,Reuniclus,Expanding Force,psychic,81.611%
+3170,Reuniclus,Focus Blast,fighting,58.935%
+3171,Reuniclus,Recover,normal,27.734%
+3172,Reuniclus,Protect,normal,25.085%
+3173,Reuniclus,Thunder,electric,21.356%
+3174,Reuniclus,Psyshock,psychic,14.009%
+3175,Reuniclus,Energy Ball,grass,11.911%
+3176,Reuniclus,Flash Cannon,steel,11.082%
+3177,Reuniclus,Skill Swap,psychic,10.555%
+3178,Reuniclus,Helping Hand,normal,9.929%
+3179,Reuniclus,Light Screen,psychic,9.362%
+3180,Reuniclus,Shadow Ball,ghost,8.167%
+3181,Reuniclus,Other,,16.211%
+3182,Dusknoir,Poltergeist,ghost,92.839%
+3183,Dusknoir,Trick Room,psychic,91.525%
+3184,Dusknoir,Thunder Punch,electric,34.781%
+3185,Dusknoir,Fire Punch,fire,25.177%
+3186,Dusknoir,Skitter Smack,bug,24.434%
+3187,Dusknoir,Darkest Lariat,dark,23.038%
+3188,Dusknoir,Earthquake,ground,22.497%
+3189,Dusknoir,Brick Break,fighting,22.150%
+3190,Dusknoir,Shadow Sneak,ghost,16.285%
+3191,Dusknoir,Bulldoze,ground,11.792%
+3192,Dusknoir,Ally Switch,psychic,10.640%
+3193,Dusknoir,Rock Slide,rock,3.997%
+3194,Dusknoir,Pain Split,normal,3.745%
+3195,Dusknoir,Other,,17.101%
+3196,Drapion,Knock Off,dark,82.580%
+3197,Drapion,Taunt,dark,60.279%
+3198,Drapion,Protect,normal,46.477%
+3199,Drapion,Toxic,poison,34.385%
+3200,Drapion,Brick Break,fighting,30.089%
+3201,Drapion,Scary Face,normal,26.494%
+3202,Drapion,Poison Jab,poison,23.912%
+3203,Drapion,Cross Poison,poison,20.513%
+3204,Drapion,Night Slash,dark,17.200%
+3205,Drapion,Skitter Smack,bug,12.666%
+3206,Drapion,Earthquake,ground,11.409%
+3207,Drapion,Snarl,dark,11.199%
+3208,Drapion,Rock Slide,rock,5.009%
+3209,Drapion,Other,,17.787%
+3210,Exploud,Boomburst,normal,96.703%
+3211,Exploud,Flamethrower,fire,64.579%
+3212,Exploud,Ice Beam,ice,50.262%
+3213,Exploud,Hyper Voice,normal,42.862%
+3214,Exploud,Protect,normal,33.522%
+3215,Exploud,Shadow Ball,ghost,29.555%
+3216,Exploud,Blizzard,ice,15.210%
+3217,Exploud,Surf,water,13.052%
+3218,Exploud,Hydro Pump,water,12.163%
+3219,Exploud,Overheat,fire,11.474%
+3220,Exploud,Extrasensory,psychic,9.946%
+3221,Exploud,,,6.893%
+3222,Exploud,Other,,13.778%
+3223,Wigglytuff,Dazzling Gleam,fairy,97.582%
+3224,Wigglytuff,Protect,normal,64.885%
+3225,Wigglytuff,Hyper Voice,normal,60.130%
+3226,Wigglytuff,Flamethrower,fire,58.700%
+3227,Wigglytuff,Fire Blast,fire,25.819%
+3228,Wigglytuff,Thunderbolt,electric,24.691%
+3229,Wigglytuff,Grass Knot,grass,14.653%
+3230,Wigglytuff,Ally Switch,psychic,12.638%
+3231,Wigglytuff,Expanding Force,psychic,12.082%
+3232,Wigglytuff,Hyper Beam,normal,6.278%
+3233,Wigglytuff,Focus Blast,fighting,3.027%
+3234,Wigglytuff,Other,,19.514%
+3235,Gardevoir,Expanding Force,psychic,95.954%
+3236,Gardevoir,Trick Room,psychic,84.948%
+3237,Gardevoir,Imprison,psychic,83.492%
+3238,Gardevoir,Dazzling Gleam,fairy,73.770%
+3239,Gardevoir,Moonblast,fairy,26.089%
+3240,Gardevoir,Mystical Fire,fire,10.513%
+3241,Gardevoir,Thunderbolt,electric,6.296%
+3242,Gardevoir,Other,,18.938%
+3243,Corsola-Galar,Strength Sap,grass,99.563%
+3244,Corsola-Galar,Will-O-Wisp,fire,78.589%
+3245,Corsola-Galar,Haze,ice,54.890%
+3246,Corsola-Galar,Night Shade,ghost,52.400%
+3247,Corsola-Galar,Shadow Ball,ghost,26.019%
+3248,Corsola-Galar,Substitute,normal,14.445%
+3249,Corsola-Galar,Hex,ghost,13.924%
+3250,Corsola-Galar,Light Screen,psychic,11.406%
+3251,Corsola-Galar,Stealth Rock,rock,9.797%
+3252,Corsola-Galar,Destiny Bond,ghost,8.771%
+3253,Corsola-Galar,Protect,normal,8.494%
+3254,Corsola-Galar,Curse,ghost,6.899%
+3255,Corsola-Galar,Other,,14.802%
+3256,Vanilluxe,Blizzard,ice,99.833%
+3257,Vanilluxe,Freeze-Dry,ice,91.832%
+3258,Vanilluxe,Taunt,dark,75.360%
+3259,Vanilluxe,Protect,normal,55.520%
+3260,Vanilluxe,Ice Shard,ice,32.859%
+3261,Vanilluxe,Icy Wind,ice,14.187%
+3262,Vanilluxe,Aurora Veil,ice,12.748%
+3263,Vanilluxe,Other,,17.661%
+3264,Seaking,Protect,normal,89.139%
+3265,Seaking,Horn Drill,normal,85.160%
+3266,Seaking,Scald,water,81.957%
+3267,Seaking,Ice Beam,ice,81.730%
+3268,Seaking,Drill Run,ground,7.835%
+3269,Seaking,Icy Wind,ice,7.753%
+3270,Seaking,Megahorn,bug,6.702%
+3271,Seaking,Aqua Tail,water,6.013%
+3272,Seaking,Smart Strike,steel,6.010%
+3273,Seaking,Waterfall,water,5.122%
+3274,Seaking,Surf,water,4.652%
+3275,Seaking,Other,,17.929%
+3276,Sigilyph,Tailwind,flying,89.620%
+3277,Sigilyph,Trick Room,psychic,87.535%
+3278,Sigilyph,Expanding Force,psychic,83.206%
+3279,Sigilyph,Imprison,psychic,82.149%
+3280,Sigilyph,Air Slash,flying,19.737%
+3281,Sigilyph,Flash Cannon,steel,7.316%
+3282,Sigilyph,Psychic,psychic,5.494%
+3283,Sigilyph,Energy Ball,grass,3.868%
+3284,Sigilyph,Protect,normal,3.754%
+3285,Sigilyph,Other,,17.321%
+3286,Decidueye,Leaf Blade,grass,50.742%
+3287,Decidueye,Poltergeist,ghost,48.827%
+3288,Decidueye,U-turn,bug,33.197%
+3289,Decidueye,Brave Bird,flying,30.498%
+3290,Decidueye,Shadow Ball,ghost,27.833%
+3291,Decidueye,Shadow Sneak,ghost,27.431%
+3292,Decidueye,Spirit Shackle,ghost,26.500%
+3293,Decidueye,Protect,normal,25.005%
+3294,Decidueye,Grassy Glide,grass,21.413%
+3295,Decidueye,Hurricane,flying,19.818%
+3296,Decidueye,Leaf Storm,grass,19.655%
+3297,Decidueye,Skitter Smack,bug,11.842%
+3298,Decidueye,Swords Dance,normal,11.444%
+3299,Decidueye,Knock Off,dark,9.901%
+3300,Decidueye,Air Slash,flying,7.721%
+3301,Decidueye,Imprison,psychic,6.387%
+3302,Decidueye,Sucker Punch,dark,4.659%
+3303,Decidueye,Other,,17.128%
+3304,Galvantula,Electroweb,electric,88.152%
+3305,Galvantula,Struggle Bug,bug,75.494%
+3306,Galvantula,Protect,normal,66.570%
+3307,Galvantula,Screech,normal,59.272%
+3308,Galvantula,Thunder,electric,39.960%
+3309,Galvantula,Bug Buzz,bug,37.275%
+3310,Galvantula,Energy Ball,grass,16.411%
+3311,Galvantula,Other,,16.866%
+3312,Arctovish,Fishious Rend,water,99.981%
+3313,Arctovish,Protect,normal,98.319%
+3314,Arctovish,Freeze-Dry,ice,97.435%
+3315,Arctovish,Icicle Spear,ice,96.610%
+3316,Arctovish,Other,,7.655%
+3317,Maractus,Weather Ball,normal,84.609%
+3318,Maractus,Spiky Shield,grass,65.895%
+3319,Maractus,Giga Drain,grass,47.490%
+3320,Maractus,Leaf Storm,grass,39.806%
+3321,Maractus,Leech Seed,grass,33.642%
+3322,Maractus,Sucker Punch,dark,29.126%
+3323,Maractus,Protect,normal,25.923%
+3324,Maractus,Helping Hand,normal,16.909%
+3325,Maractus,Hyper Voice,normal,13.593%
+3326,Maractus,Petal Dance,grass,12.617%
+3327,Maractus,Energy Ball,grass,9.454%
+3328,Maractus,Cotton Guard,grass,6.906%
+3329,Maractus,Other,,14.030%
+3330,Orbeetle,Trick Room,psychic,75.249%
+3331,Orbeetle,Expanding Force,psychic,73.762%
+3332,Orbeetle,Imprison,psychic,70.952%
+3333,Orbeetle,Bug Buzz,bug,69.579%
+3334,Orbeetle,Psychic,psychic,22.222%
+3335,Orbeetle,Struggle Bug,bug,21.826%
+3336,Orbeetle,Energy Ball,grass,15.806%
+3337,Orbeetle,Hypnosis,psychic,15.595%
+3338,Orbeetle,Protect,normal,5.489%
+3339,Orbeetle,Recover,normal,4.317%
+3340,Orbeetle,Light Screen,psychic,3.514%
+3341,Orbeetle,Calm Mind,psychic,3.264%
+3342,Orbeetle,Other,,18.426%
+3343,Passimian,Close Combat,fighting,94.732%
+3344,Passimian,Iron Head,steel,77.228%
+3345,Passimian,Earthquake,ground,57.458%
+3346,Passimian,Knock Off,dark,40.541%
+3347,Passimian,Acrobatics,flying,32.252%
+3348,Passimian,Protect,normal,28.765%
+3349,Passimian,Rock Slide,rock,25.316%
+3350,Passimian,Drain Punch,fighting,10.695%
+3351,Passimian,Seed Bomb,grass,9.689%
+3352,Passimian,Gunk Shot,poison,4.099%
+3353,Passimian,Other,,19.225%
+3354,Ninjask,Leech Life,bug,65.337%
+3355,Ninjask,Baton Pass,normal,62.772%
+3356,Ninjask,Dual Wingbeat,flying,62.120%
+3357,Ninjask,Dig,ground,61.564%
+3358,Ninjask,Acrobatics,flying,33.466%
+3359,Ninjask,Round,normal,33.028%
+3360,Ninjask,Endure,normal,32.885%
+3361,Ninjask,Flail,normal,32.884%
+3362,Ninjask,Other,,15.944%
+3363,Druddigon,Fire Punch,fire,97.474%
+3364,Druddigon,Dragon Claw,dragon,94.407%
+3365,Druddigon,Glare,normal,92.875%
+3366,Druddigon,Superpower,fighting,92.253%
+3367,Druddigon,Gunk Shot,poison,4.396%
+3368,Druddigon,Other,,18.595%
+3369,Lycanroc,Rock Slide,rock,98.209%
+3370,Lycanroc,Close Combat,fighting,46.490%
+3371,Lycanroc,Play Rough,fairy,39.747%
+3372,Lycanroc,Protect,normal,35.810%
+3373,Lycanroc,Sucker Punch,dark,26.135%
+3374,Lycanroc,Fire Fang,fire,24.690%
+3375,Lycanroc,Swords Dance,normal,18.968%
+3376,Lycanroc,Endeavor,normal,18.473%
+3377,Lycanroc,Drill Run,ground,15.835%
+3378,Lycanroc,Endure,normal,15.593%
+3379,Lycanroc,Accelerock,rock,10.192%
+3380,Lycanroc,Psychic Fangs,psychic,9.602%
+3381,Lycanroc,Crunch,dark,8.457%
+3382,Lycanroc,Iron Head,steel,6.944%
+3383,Lycanroc,Quick Guard,fighting,5.608%
+3384,Lycanroc,Other,,19.248%
+3385,Beheeyem,Expanding Force,psychic,93.324%
+3386,Beheeyem,Energy Ball,grass,90.038%
+3387,Beheeyem,Flash Cannon,steel,73.532%
+3388,Beheeyem,Thunderbolt,electric,45.944%
+3389,Beheeyem,Meteor Beam,rock,41.929%
+3390,Beheeyem,Trick Room,psychic,14.673%
+3391,Beheeyem,Protect,normal,9.791%
+3392,Beheeyem,Dark Pulse,dark,8.061%
+3393,Beheeyem,Psychic,psychic,6.597%
+3394,Beheeyem,Other,,16.110%
+3395,Marowak,Rock Slide,rock,84.337%
+3396,Marowak,Bonemerang,ground,59.007%
+3397,Marowak,Detect,fighting,43.440%
+3398,Marowak,Fire Punch,fire,43.000%
+3399,Marowak,Iron Head,steel,42.398%
+3400,Marowak,Earthquake,ground,38.828%
+3401,Marowak,Protect,normal,33.582%
+3402,Marowak,Thunder Punch,electric,25.380%
+3403,Marowak,Perish Song,normal,7.499%
+3404,Marowak,Brick Break,fighting,6.829%
+3405,Marowak,Other,,15.701%
+3406,Tentacruel,Sludge Bomb,poison,92.384%
+3407,Tentacruel,Protect,normal,85.918%
+3408,Tentacruel,Hydro Pump,water,50.962%
+3409,Tentacruel,Giga Drain,grass,36.659%
+3410,Tentacruel,Scald,water,33.149%
+3411,Tentacruel,Blizzard,ice,30.075%
+3412,Tentacruel,Hyper Beam,normal,13.168%
+3413,Tentacruel,Icy Wind,ice,12.633%
+3414,Tentacruel,Muddy Water,water,12.156%
+3415,Tentacruel,Dazzling Gleam,fairy,7.203%
+3416,Tentacruel,Sludge Wave,poison,5.422%
+3417,Tentacruel,Ice Beam,ice,3.503%
+3418,Tentacruel,Other,,16.767%
+3419,Dragalge,Protect,normal,92.448%
+3420,Dragalge,Draco Meteor,dragon,88.575%
+3421,Dragalge,Sludge Bomb,poison,86.902%
+3422,Dragalge,Thunderbolt,electric,45.673%
+3423,Dragalge,Hydro Pump,water,26.033%
+3424,Dragalge,Sludge Wave,poison,15.618%
+3425,Dragalge,Dragon Pulse,dragon,12.992%
+3426,Dragalge,Thunder,electric,12.558%
+3427,Dragalge,Other,,19.202%
+3428,Flareon,Flare Blitz,fire,98.294%
+3429,Flareon,Superpower,fighting,95.825%
+3430,Flareon,Iron Tail,steel,67.686%
+3431,Flareon,Protect,normal,65.353%
+3432,Flareon,Detect,fighting,23.342%
+3433,Flareon,Facade,normal,22.920%
+3434,Flareon,Quick Attack,normal,4.634%
+3435,Flareon,Lava Plume,fire,4.632%
+3436,Flareon,Other,,17.315%
+3437,Bewear,Drain Punch,fighting,92.737%
+3438,Bewear,Darkest Lariat,dark,91.567%
+3439,Bewear,Protect,normal,86.025%
+3440,Bewear,Bulk Up,fighting,81.476%
+3441,Bewear,High Horsepower,ground,8.536%
+3442,Bewear,Body Slam,normal,7.178%
+3443,Bewear,Hammer Arm,fighting,6.219%
+3444,Bewear,Brick Break,fighting,5.937%
+3445,Bewear,Ice Punch,ice,4.577%
+3446,Bewear,Other,,15.748%
+3447,Scyther,Dual Wingbeat,flying,97.928%
+3448,Scyther,Protect,normal,52.899%
+3449,Scyther,U-turn,bug,51.630%
+3450,Scyther,Swords Dance,normal,50.120%
+3451,Scyther,X-Scissor,bug,42.915%
+3452,Scyther,Brick Break,fighting,35.236%
+3453,Scyther,Quick Attack,normal,9.841%
+3454,Scyther,Brutal Swing,dark,9.288%
+3455,Scyther,Night Slash,dark,8.250%
+3456,Scyther,Steel Wing,steel,7.503%
+3457,Scyther,Thief,dark,5.452%
+3458,Scyther,Fury Cutter,bug,4.716%
+3459,Scyther,Assurance,dark,4.051%
+3460,Scyther,Reversal,fighting,3.716%
+3461,Scyther,Other,,16.455%
+3462,Sandslash-Alola,Iron Head,steel,64.331%
+3463,Sandslash-Alola,Protect,normal,56.919%
+3464,Sandslash-Alola,Drill Run,ground,54.276%
+3465,Sandslash-Alola,Icicle Crash,ice,50.796%
+3466,Sandslash-Alola,Triple Axel,ice,49.242%
+3467,Sandslash-Alola,Steel Roller,steel,39.556%
+3468,Sandslash-Alola,Swords Dance,normal,28.469%
+3469,Sandslash-Alola,Earthquake,ground,22.622%
+3470,Sandslash-Alola,Rock Slide,rock,14.619%
+3471,Sandslash-Alola,Other,,19.170%
+3472,Poliwrath,Belly Drum,normal,71.300%
+3473,Poliwrath,Liquidation,water,58.636%
+3474,Poliwrath,Protect,normal,52.147%
+3475,Poliwrath,Drain Punch,fighting,46.428%
+3476,Poliwrath,Waterfall,water,39.057%
+3477,Poliwrath,Close Combat,fighting,28.473%
+3478,Poliwrath,Rock Slide,rock,27.997%
+3479,Poliwrath,Ice Punch,ice,22.824%
+3480,Poliwrath,Darkest Lariat,dark,16.886%
+3481,Poliwrath,High Horsepower,ground,15.551%
+3482,Poliwrath,Poison Jab,poison,7.903%
+3483,Poliwrath,Other,,12.799%
+3484,Lycanroc-Midnight,Stone Edge,rock,82.050%
+3485,Lycanroc-Midnight,Iron Tail,steel,72.916%
+3486,Lycanroc-Midnight,Play Rough,fairy,56.621%
+3487,Lycanroc-Midnight,Protect,normal,54.432%
+3488,Lycanroc-Midnight,Close Combat,fighting,28.055%
+3489,Lycanroc-Midnight,Rock Slide,rock,27.303%
+3490,Lycanroc-Midnight,Stomping Tantrum,ground,17.549%
+3491,Lycanroc-Midnight,Psychic Fangs,psychic,12.226%
+3492,Lycanroc-Midnight,Swords Dance,normal,9.443%
+3493,Lycanroc-Midnight,Crunch,dark,9.385%
+3494,Lycanroc-Midnight,Fire Punch,fire,8.256%
+3495,Lycanroc-Midnight,Iron Head,steel,6.649%
+3496,Lycanroc-Midnight,Other,,15.118%
+3497,Golurk,Protect,normal,82.856%
+3498,Golurk,High Horsepower,ground,80.024%
+3499,Golurk,Poltergeist,ghost,75.387%
+3500,Golurk,Dynamic Punch,fighting,71.032%
+3501,Golurk,Drain Punch,fighting,23.279%
+3502,Golurk,Shadow Punch,ghost,21.708%
+3503,Golurk,Earthquake,ground,15.219%
+3504,Golurk,Ice Punch,ice,7.682%
+3505,Golurk,Thunder Punch,electric,6.365%
+3506,Golurk,Other,,16.449%
+3507,Lickilicky,Knock Off,dark,74.209%
+3508,Lickilicky,Steel Roller,steel,45.104%
+3509,Lickilicky,Icy Wind,ice,34.512%
+3510,Lickilicky,Hammer Arm,fighting,27.920%
+3511,Lickilicky,Body Slam,normal,25.991%
+3512,Lickilicky,Wrap,normal,23.041%
+3513,Lickilicky,Bulldoze,ground,19.081%
+3514,Lickilicky,Thrash,normal,17.229%
+3515,Lickilicky,Power Whip,grass,15.788%
+3516,Lickilicky,Self-Destruct,normal,14.745%
+3517,Lickilicky,Fire Punch,fire,13.139%
+3518,Lickilicky,Helping Hand,normal,12.679%
+3519,Lickilicky,Protect,normal,11.821%
+3520,Lickilicky,Belly Drum,normal,9.388%
+3521,Lickilicky,Swords Dance,normal,9.263%
+3522,Lickilicky,Body Press,fighting,8.182%
+3523,Lickilicky,Muddy Water,water,5.121%
+3524,Lickilicky,Flamethrower,fire,4.816%
+3525,Lickilicky,Stomping Tantrum,ground,4.777%
+3526,Lickilicky,Gyro Ball,steel,3.126%
+3527,Lickilicky,Curse,ghost,3.057%
+3528,Lickilicky,Other,,17.010%
+3529,Rotom-Fan,Air Slash,flying,100.000%
+3530,Rotom-Fan,Protect,normal,95.162%
+3531,Rotom-Fan,Thunderbolt,electric,93.107%
+3532,Rotom-Fan,Nasty Plot,dark,88.403%
+3533,Rotom-Fan,Rising Voltage,electric,4.796%
+3534,Rotom-Fan,Other,,18.533%
+3535,Hitmonlee,Close Combat,fighting,63.549%
+3536,Hitmonlee,Bounce,flying,61.059%
+3537,Hitmonlee,Fake Out,normal,46.212%
+3538,Hitmonlee,Throat Chop,dark,34.112%
+3539,Hitmonlee,High Jump Kick,fighting,33.543%
+3540,Hitmonlee,Rock Slide,rock,31.395%
+3541,Hitmonlee,Bullet Punch,steel,24.477%
+3542,Hitmonlee,Coaching,fighting,21.662%
+3543,Hitmonlee,Stone Edge,rock,20.389%
+3544,Hitmonlee,Protect,normal,15.894%
+3545,Hitmonlee,Earthquake,ground,10.365%
+3546,Hitmonlee,Poison Jab,poison,9.603%
+3547,Hitmonlee,Substitute,normal,9.016%
+3548,Hitmonlee,Other,,18.722%
+3549,Scolipede,Poison Jab,poison,90.139%
+3550,Scolipede,Protect,normal,70.405%
+3551,Scolipede,Megahorn,bug,68.620%
+3552,Scolipede,Steel Roller,steel,51.167%
+3553,Scolipede,Earthquake,ground,21.901%
+3554,Scolipede,Superpower,fighting,18.661%
+3555,Scolipede,X-Scissor,bug,14.483%
+3556,Scolipede,Swords Dance,normal,13.862%
+3557,Scolipede,Bulldoze,ground,9.736%
+3558,Scolipede,Bug Bite,bug,9.677%
+3559,Scolipede,Rock Slide,rock,9.285%
+3560,Scolipede,Baton Pass,normal,6.458%
+3561,Scolipede,Other,,15.607%
+3562,Dunsparce,Rock Slide,rock,53.596%
+3563,Dunsparce,Coil,poison,52.707%
+3564,Dunsparce,Roost,flying,46.221%
+3565,Dunsparce,Amnesia,psychic,45.857%
+3566,Dunsparce,Stored Power,psychic,44.087%
+3567,Dunsparce,Headbutt,normal,33.562%
+3568,Dunsparce,Blizzard,ice,12.533%
+3569,Dunsparce,Protect,normal,12.438%
+3570,Dunsparce,Drill Run,ground,11.157%
+3571,Dunsparce,Aqua Tail,water,11.025%
+3572,Dunsparce,Sleep Talk,normal,9.898%
+3573,Dunsparce,Bite,dark,9.139%
+3574,Dunsparce,Body Slam,normal,9.094%
+3575,Dunsparce,Zen Headbutt,psychic,8.962%
+3576,Dunsparce,Air Slash,flying,6.991%
+3577,Dunsparce,Poison Jab,poison,6.758%
+3578,Dunsparce,Wild Charge,electric,6.628%
+3579,Dunsparce,Other,,19.348%
+3580,Sandslash,Steel Roller,steel,95.351%
+3581,Sandslash,Rock Slide,rock,70.676%
+3582,Sandslash,Drill Run,ground,69.881%
+3583,Sandslash,Bulldoze,ground,61.897%
+3584,Sandslash,Protect,normal,33.533%
+3585,Sandslash,Brick Break,fighting,31.389%
+3586,Sandslash,Earthquake,ground,21.783%
+3587,Sandslash,Other,,15.491%
+3588,Steelix,Protect,normal,93.523%
+3589,Steelix,Iron Head,steel,93.224%
+3590,Steelix,Body Press,fighting,92.580%
+3591,Steelix,High Horsepower,ground,67.397%
+3592,Steelix,Earthquake,ground,30.194%
+3593,Steelix,Rock Slide,rock,4.941%
+3594,Steelix,Other,,18.141%
+3595,Noctowl,Roost,flying,91.575%
+3596,Noctowl,Hurricane,flying,90.912%
+3597,Noctowl,Protect,normal,87.569%
+3598,Noctowl,Hyper Voice,normal,65.412%
+3599,Noctowl,Nasty Plot,dark,31.279%
+3600,Noctowl,Dream Eater,psychic,6.179%
+3601,Noctowl,Calm Mind,psychic,5.982%
+3602,Noctowl,Heat Wave,fire,5.764%
+3603,Noctowl,Other,,15.326%
+3604,Corsola,Liquidation,water,99.994%
+3605,Corsola,Head Smash,rock,99.994%
+3606,Corsola,Protect,normal,99.994%
+3607,Corsola,Throat Chop,dark,94.336%
+3608,Corsola,Other,,5.680%
+3609,Mime Jr.,Skill Swap,psychic,99.870%
+3610,Mime Jr.,Protect,normal,99.479%
+3611,Mime Jr.,Taunt,dark,96.890%
+3612,Mime Jr.,Trick Room,psychic,91.199%
+3613,Mime Jr.,Other,,12.562%
+3614,Gourgeist-Large,Power Whip,grass,100.000%
+3615,Gourgeist-Large,Trick Room,psychic,99.986%
+3616,Gourgeist-Large,Imprison,psychic,99.986%
+3617,Gourgeist-Large,Shadow Sneak,ghost,99.986%
