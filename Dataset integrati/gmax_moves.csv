@@ -1,0 +1,34 @@
+,Name,Type,Power,Acc.,PP,Effect,Prob. (%),Cat.
+275,G Max Befuddle,Bug,—,∞,5,"Butterfree-exclusive G-Max Move. Poisons, paralyzes, or puts opponent to sleep.",100,—
+276,G Max Cannonade,Water,—,∞,10,Blastoise-exclusive G-Max Move. Damages non-Water types for 4 turns.,—,—
+277,G Max Centiferno,Fire,—,∞,5,Centiskorch-exclusive G-Max Move. Traps opponents for 4-5 turns.,100,—
+278,G Max Chi Strike,Fighting,—,∞,5,Machamp-exclusive G-Max Move. Increases critical hit ratio.,—,—
+279,G Max Cuddle,Normal,—,∞,5,Eevee-exclusive G-Max Move. Infatuates opponents.,100,—
+280,G Max Depletion,Dragon,—,∞,5,Duraludon-exclusive G-Max Move. Reduces opponent's PP.,—,—
+281,G Max Drum Solo,Grass,—,∞,5,Rillaboom-exclusive G-Max Move. Ignores target's ability.,—,—
+282,G Max Finale,Fairy,—,∞,5,Alcremie-exclusive G-Max Move. Heals the user's team.,—,—
+283,G Max Fireball,Fire,—,∞,5,Cinderace-exclusive G-Max Move. Ignores target's ability.,—,—
+284,G Max Foam Burst,Water,—,∞,5,Kingler-exclusive G-Max Move. Harshly lowers opponents' Speed.,100,—
+285,G Max Gold Rush,Normal,—,∞,5,Meowth-exclusive G-Max Move. Confuses opponents and earns more money.,100,—
+286,G Max Gravitas,Psychic,—,∞,5,Orbeetle-exclusive G-Max Move. Summons Gravity for 5 turns.,—,—
+287,G Max Hydrosnipe,Water,—,∞,5,Inteleon-exclusive G-Max Move. Ignores target's ability.,—,—
+288,G Max Malodor,Poison,—,∞,5,Garbodor-exclusive G-Max Move. Poisons opponents.,100,—
+289,G Max Meltdown,Steel,—,∞,5,Melmetal-exclusive G-Max Move. Prevents opponents using the same move twice in a row.,—,—
+290,G Max One Blow,Dark,—,∞,5,Urshifu Single-Strike Style-exclusive G-Max Move. Strikes through Max Guard and Protect.,—,—
+291,G Max Rapid Flow,Water,—,∞,5,Urshifu Rapid-Strike Style-exclusive G-Max Move. Strikes through Max Guard and Protect.,—,—
+292,G Max Replenish,Normal,—,∞,5,Snorlax-exclusive G-Max Move. Recycles Berries.,—,—
+293,G Max Resonance,Ice,—,∞,5,Lapras-exclusive G-Max Move. Reduces damage for 5 turns.,—,—
+294,G Max Sandblast,Ground,—,∞,5,Sandaconda-exclusive G-Max Move. Traps opponents for 4-5 turns.,100,—
+295,G Max Smite,Fairy,—,∞,5,Hatterene-exclusive G-Max Move. Confuses opponents.,100,—
+296,G Max Snooze,Dark,—,∞,5,Grimmsnarl-exclusive G-Max Move. Makes opponents drowsy.,—,—
+297,G Max Steelsurge,Steel,—,∞,5,Copperajah-exclusive G-Max Move. Sets up Spikes on the field.,—,—
+298,G Max Stonesurge,Water,—,∞,5,Drednaw-exclusive G-Max Move. Sets up Stealth Rock.,—,—
+299,G Max Stun Shock,Electric,—,∞,10,Toxtricity-exclusive G-Max Move. Poisons or paralyzes opponents.,100,—
+300,G Max Sweetness,Grass,—,∞,10,Appletun-exclusive G-Max Move. Heals status conditions of user's team.,—,—
+301,G Max Tartness,Grass,—,∞,10,Flapple-exclusive G-Max Move. Reduces opponents' evasiveness.,100,—
+302,G Max Terror,Ghost,—,∞,10,Gengar-exclusive G-Max Move. Prevents opponent from switching out.,—,—
+303,G Max Vine Lash,Grass,—,∞,10,Venusaur-exclusive G-Max Move. Damages non-Grass types for 4 turns.,—,—
+304,G Max Volcalith,Rock,—,∞,10,Coalossal-exclusive G-Max Move. Deals damage for 4 turns.,100,—
+305,G Max Volt Crash,Electric,—,∞,10,Pikachu-exclusive G-Max Move. Paralyzes opponents.,100,—
+306,G Max Wildfire,Fire,—,∞,10,Charizard-exclusive G-Max Move. Damages non-Fire types for 4 turns.,100,—
+307,G Max Wind Rage,Flying,—,∞,10,Corviknight-exclusive G-Max Move. Removes battlefield hazards.,—,—
