@@ -1,0 +1,34 @@
+,Max Move,Gigantamax Pokémon,Type,Additional effect,image_url
+0,G-Max Vine Lash,Venusaur,Grass,Inflicts damage for four turns on non-Grass-type opponents,https://archives.bulbagarden.net/media/upload/d/dc/003GiMS8.png
+1,G-Max Wildfire,Charizard,Fire,Inflicts damage for four turns on non-Fire-type opponents,https://archives.bulbagarden.net/media/upload/c/cb/006GiMS8.png
+2,G-Max Cannonade,Blastoise,Water,Inflicts damage for four turns on non-Water-type opponents,https://archives.bulbagarden.net/media/upload/4/43/009GiMS8.png
+3,G-Max Befuddle,Butterfree,Bug,"Inflicts poison, paralysis, or sleep on all opponents",https://archives.bulbagarden.net/media/upload/4/47/012GiMS8.png
+4,G-Max Volt Crash,Pikachu,Electric,Paralyzes all opponents,https://archives.bulbagarden.net/media/upload/b/be/025GiMS8.png
+5,G-Max Gold Rush,Meowth,Normal,Scatters coins on the ground that are picked up afterwards and confuses all opponents Value is equal to 100 × the user's level (200 × user's level with an Amulet Coin),https://archives.bulbagarden.net/media/upload/4/4c/052GiMS8.png
+6,G-Max Chi Strike,Machamp,Fighting,"Pumps up the user and its allies, raising the chance of critical hits by one stage. Stacks with itself and moves like Focus Energy, unlike other critical hit sources",https://archives.bulbagarden.net/media/upload/0/03/068GiMS8.png
+7,G-Max Terror,Gengar,Ghost,Prevents the opponent from escaping or being recalled Same effect as Mean Look,https://archives.bulbagarden.net/media/upload/4/43/094GiMS8.png
+8,G-Max Foam Burst,Kingler,Water,Lowers the Speed of all opponents by two stages,https://archives.bulbagarden.net/media/upload/3/33/099GiMS8.png
+9,G-Max Resonance,Lapras,Ice,"Lowers damage from both Physical and Special moves for five turns Same effect as Aurora Veil, though it does not require hail.",https://archives.bulbagarden.net/media/upload/e/ed/131GiMS8.png
+10,G-Max Cuddle,Eevee,Normal,Opponents of the opposite gender of the user become infatuated,https://archives.bulbagarden.net/media/upload/6/61/133GiMS8.png
+11,G-Max Replenish,Snorlax,Normal,50% chance of restoring user or ally's used Berries Similar effect to Recycle when it works,https://archives.bulbagarden.net/media/upload/f/f7/143GiMS8.png
+12,G-Max Malodor,Garbodor,Poison,Poisons all opponents,https://archives.bulbagarden.net/media/upload/f/ff/569GiMS8.png
+13,G-Max Meltdown,Melmetal,Steel,Makes opponents incapable of using the same move twice in a row Same effect as Torment,https://archives.bulbagarden.net/media/upload/8/8d/809GiMS8.png
+14,G-Max Drum Solo,Rillaboom,Grass,"Moves can be used regardless of abilities. Power is always 160, regardless of base move. Works like Mold Breaker",https://archives.bulbagarden.net/media/upload/1/15/812GiMS8.png
+15,G-Max Fireball,Cinderace,Fire,"Moves can be used regardless of abilities. Power is always 160, regardless of base move. Works like Mold Breaker",https://archives.bulbagarden.net/media/upload/c/c6/815GiMS8.png
+16,G-Max Hydrosnipe,Inteleon,Water,"Moves can be used regardless of abilities. Power is always 160, regardless of base move. Works like Mold Breaker",https://archives.bulbagarden.net/media/upload/9/9f/818GiMS8.png
+17,G-Max Wind Rage,Corviknight,Flying,"Removes the effects of moves like Reflect, Light Screen, Spikes, and terrain from the opponents' side of the field. Works like Defog, but does not lower evasiveness.",https://archives.bulbagarden.net/media/upload/9/92/823GiMS8.png
+18,G-Max Gravitas,Orbeetle,Psychic,Intensifies gravity for five turns Same effect as Gravity,https://archives.bulbagarden.net/media/upload/f/f2/826GiMS8.png
+19,G-Max Stonesurge,Drednaw,Water,Creates Stealth Rock on the opponents' side of the field,https://archives.bulbagarden.net/media/upload/7/73/834GiMS8.png
+20,G-Max Volcalith,Coalossal,Rock,Inflicts damage for four turns on non-Rock-type opponents,https://archives.bulbagarden.net/media/upload/d/df/839GiMS8.png
+21,G-Max Tartness,Flapple,Grass,Lowers the evasiveness of all opponents by one stage,https://archives.bulbagarden.net/media/upload/2/2f/841GiMS8.png
+22,G-Max Sweetness,Appletun,Grass,Cures the user and its allies of their status conditions Only affects allies on the field,https://archives.bulbagarden.net/media/upload/2/2f/841GiMS8.png
+23,G-Max Sandblast,Sandaconda,Ground,Traps the target in Sand Tomb for four to five turns,https://archives.bulbagarden.net/media/upload/e/e0/844GiMS8.png
+24,G-Max Stun Shock,Toxtricity,Electric,Inflicts poison or paralysis on all opponents,https://archives.bulbagarden.net/media/upload/d/d2/849GiMS8.png
+25,G-Max Centiferno,Centiskorch,Fire,Traps the target in Fire Spin for four to five turns,https://archives.bulbagarden.net/media/upload/1/10/851GiMS8.png
+26,G-Max Smite,Hatterene,Fairy,Inflicts confusion on all opponents,https://archives.bulbagarden.net/media/upload/3/35/858GiMS8.png
+27,G-Max Snooze,Grimmsnarl,Dark,"50% chance of making the target drowsy, causing it to fall asleep at the end of the next turn Same effect as Yawn when it works.",https://archives.bulbagarden.net/media/upload/c/ce/861GiMS8.png
+28,G-Max Finale,Alcremie,Fairy,Heals the user and its allies by 1/6 their maximum HP,https://archives.bulbagarden.net/media/upload/b/bc/869GiMS8.png
+29,G-Max Steelsurge,Copperajah,Steel,"Scatters sharp spikes around the field Works like Stealth Rock, though it checks the effectiveness of Steel against the target instead of Rock",https://archives.bulbagarden.net/media/upload/3/3a/879GiMS8.png
+30,G-Max Depletion,Duraludon,Dragon,Takes away 2 PP from the last move the target used Less potent version of Spite's effect.,https://archives.bulbagarden.net/media/upload/b/ba/884GiMS8.png
+31,G-Max One Blow,Urshifu (Single Strike),Dark,"Hits the target even if it is protected by a protection move, including Max Guard Works like Feint",https://archives.bulbagarden.net/media/upload/8/83/892GiMS8.png
+32,G-Max Rapid Flow,Urshifu (Rapid Strike),Water,"Hits the target even if it is protected by a protection move, including Max Guard. Works like Feint",https://archives.bulbagarden.net/media/upload/b/b8/892RGiMS8.png
