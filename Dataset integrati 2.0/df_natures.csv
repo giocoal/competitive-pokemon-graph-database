@@ -1,0 +1,26 @@
+Nature,Increases,Decreases,Likes_berrie,Dislikes_berrie
+Adamant,Attack,Sp. Atk,Spicy,Dry
+Bashful,Sp. Atk,Sp. Atk,Dry,Dry
+Bold,Defense,Attack,Sour,Spicy
+Brave,Attack,Speed,Spicy,Sweet
+Calm,Sp. Def,Attack,Bitter,Spicy
+Careful,Sp. Def,Sp. Atk,Bitter,Dry
+Docile,Defense,Defense,Sour,Sour
+Gentle,Sp. Def,Defense,Bitter,Sour
+Hardy,Attack,Attack,Spicy,Spicy
+Hasty,Speed,Defense,Sweet,Sour
+Impish,Defense,Sp. Atk,Sour,Dry
+Jolly,Speed,Sp. Atk,Sweet,Dry
+Lax,Defense,Sp. Def,Sour,Bitter
+Lonely,Attack,Defense,Spicy,Sour
+Mild,Sp. Atk,Defense,Dry,Sour
+Modest,Sp. Atk,Attack,Dry,Spicy
+Naive,Speed,Sp. Def,Sweet,Bitter
+Naughty,Attack,Sp. Def,Spicy,Bitter
+Quiet,Sp. Atk,Speed,Dry,Sweet
+Quirky,Sp. Def,Sp. Def,Bitter,Bitter
+Rash,Sp. Atk,Sp. Def,Dry,Bitter
+Relaxed,Defense,Speed,Sour,Sweet
+Sassy,Sp. Def,Speed,Bitter,Sweet
+Serious,Speed,Speed,Sweet,Sweet
+Timid,Speed,Attack,Sweet,Spicy

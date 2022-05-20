@@ -39,8 +39,8 @@ Slowbro,Galarian Slowbro
 Farfetch'd,Galarian Farfetch'd
 Grimer,Alolan Grimer
 Muk,Alolan Muk
-Gengar,Mega Gengar
 Gengar,Gengar Gigantamax
+Gengar,Mega Gengar
 Kingler,Kingler Gigantamax
 Voltorb,Hisuian Voltorb
 Electrode,Hisuian Electrode
@@ -103,11 +103,11 @@ Garchomp,Mega Garchomp
 Lucario,Mega Lucario
 Abomasnow,Mega Abomasnow
 Gallade,Mega Gallade
-Rotom,Mow Rotom
+Rotom,Fan Rotom
 Rotom,Frost Rotom
 Rotom,Wash Rotom
 Rotom,Heat Rotom
-Rotom,Fan Rotom
+Rotom,Mow Rotom
 Dialga,Dialga Origin Forme
 Palkia,Palkia Origin Forme
 Samurott,Hisuian Samurott
@@ -120,8 +120,8 @@ Zorua,Hisuian Zorua
 Zoroark,Hisuian Zoroark
 Stunfisk,Galarian Stunfisk
 Braviary,Hisuian Braviary
-Kyurem,White Kyurem
 Kyurem,Black Kyurem
+Kyurem,White Kyurem
 Greninja,Ash-Greninja
 Sliggoo,Hisuian Sliggoo
 Goodra,Hisuian Goodra
@@ -129,9 +129,9 @@ Avalugg,Hisuian Avalugg
 Diancie,Mega Diancie
 Decidueye,Hisuian Decidueye
 Rockruff,Own Tempo Rockruff
-Necrozma,Ultra Necrozma
-Necrozma,Dawn Wings Necrozma
 Necrozma,Dusk Mane Necrozma
+Necrozma,Dawn Wings Necrozma
+Necrozma,Ultra Necrozma
 Melmetal,Melmetal Gigantamax
 Rillaboom,Rillaboom Gigantamax
 Cinderace,Cinderace Gigantamax
@@ -146,8 +146,9 @@ Sandaconda,Sandaconda Gigantamax
 Centiskorch,Centiskorch Gigantamax
 Hatterene,Hatterene Gigantamax
 Grimmsnarl,Grimmsnarl Gigantamax
+Alcremie,Alcremie Gigantamax
 Copperajah,Copperajah Gigantamax
 Duraludon,Duraludon Gigantamax
 Eternatus,Eternatus Eternamax
-Calyrex,Calyrex Ice Rider
 Calyrex,Calyrex Shadow Rider
+Calyrex,Calyrex Ice Rider

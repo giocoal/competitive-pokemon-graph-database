@@ -4,9 +4,9 @@ Venusaur,Ivysaur
 Mega Venusaur,Venusaur
 Venusaur Gigantamax,Venusaur
 Charmeleon,Charmander
-Mega Charizard Y,Charmeleon
+Mega Charizard Y,Charizard
 Charizard Gigantamax,Charizard
-Mega Charizard X,Charmeleon
+Mega Charizard X,Charizard
 Charizard,Charmeleon
 Wartortle,Squirtle
 Blastoise Gigantamax,Blastoise
@@ -84,8 +84,8 @@ Muk,Grimer
 Cloyster,Shellder
 Haunter,Gastly
 Gengar,Haunter
-Mega Gengar,Gengar
 Gengar Gigantamax,Gengar
+Mega Gengar,Gengar
 Hypno,Drowzee
 Kingler Gigantamax,Kingler
 Kingler,Krabby
@@ -125,6 +125,8 @@ Snorlax Gigantamax,Snorlax
 Snorlax,Munchlax
 Dragonair,Dratini
 Dragonite,Dragonair
+Mega Mewtwo Y,Mewtwo
+Mega Mewtwo X,Mewtwo
 Bayleef,Chikorita
 Meganium,Bayleef
 Quilava,Cyndaquil
@@ -242,8 +244,8 @@ Claydol,Baltoy
 Cradily,Lileep
 Armaldo,Anorith
 Milotic,Feebas
-Banette,Shuppet
 Mega Banette,Banette
+Banette,Shuppet
 Dusclops,Duskull
 Chimecho,Chingling
 Mega Absol,Absol
@@ -305,8 +307,8 @@ Hippowdon,Hippopotas
 Drapion,Skorupi
 Toxicroak,Croagunk
 Lumineon,Finneon
-Mega Abomasnow,Abomasnow
 Abomasnow,Snover
+Mega Abomasnow,Abomasnow
 Weavile,Sneasel
 Magnezone,Magneton
 Lickilicky,Lickitung
@@ -331,8 +333,8 @@ Serperior,Servine
 Pignite,Tepig
 Emboar,Pignite
 Dewott,Oshawott
-Hisuian Samurott,Dewott
 Samurott,Dewott
+Hisuian Samurott,Dewott
 Watchog,Patrat
 Herdier,Lillipup
 Stoutland,Herdier
@@ -362,19 +364,19 @@ Hisuian Lilligant,Petilil
 Lilligant,Petilil
 Krokorok,Sandile
 Krookodile,Krokorok
+Darmanitan Standard Mode,Darumaka
 Darmanitan Galarian Zen Mode,Darumaka
 Darmanitan Galarian Standard Mode,Darumaka
 Darmanitan Zen Mode,Darumaka
-Darmanitan Standard Mode,Darumaka
 Crustle,Dwebble
 Scrafty,Scraggy
 Cofagrigus,Yamask
 Carracosta,Tirtouga
 Archeops,Archen
-Garbodor,Trubbish
 Garbodor Gigantamax,Garbodor
-Hisuian Zoroark,Zorua
+Garbodor,Trubbish
 Zoroark,Zorua
+Hisuian Zoroark,Zorua
 Cinccino,Minccino
 Gothorita,Gothita
 Gothitelle,Gothorita
@@ -441,22 +443,22 @@ Heliolisk,Helioptile
 Tyrantrum,Tyrunt
 Aurorus,Amaura
 Sylveon,Eevee
-Sliggoo,Goomy
 Hisuian Sliggoo,Goomy
+Sliggoo,Goomy
 Goodra,Sliggoo
 Hisuian Goodra,Sliggoo
 Trevenant,Phantump
+Gourgeist Super Size,Pumpkaboo
 Gourgeist Large Size,Pumpkaboo
 Gourgeist Small Size,Pumpkaboo
 Gourgeist Average Size,Pumpkaboo
-Gourgeist Super Size,Pumpkaboo
 Hisuian Avalugg,Bergmite
 Avalugg,Bergmite
 Noivern,Noibat
 Mega Diancie,Diancie
 Dartrix,Rowlet
-Decidueye,Dartrix
 Hisuian Decidueye,Dartrix
+Decidueye,Dartrix
 Torracat,Litten
 Incineroar,Torracat
 Brionne,Popplio
@@ -494,46 +496,46 @@ Thwackey,Grookey
 Rillaboom Gigantamax,Rillaboom
 Rillaboom,Thwackey
 Raboot,Scorbunny
-Cinderace,Raboot
 Cinderace Gigantamax,Cinderace
+Cinderace,Raboot
 Drizzile,Sobble
-Inteleon,Drizzile
 Inteleon Gigantamax,Inteleon
+Inteleon,Drizzile
 Greedent,Skwovet
 Corvisquire,Rookidee
-Corviknight Gigantamax,Corviknight
 Corviknight,Corvisquire
+Corviknight Gigantamax,Corviknight
 Dottler,Blipbug
-Orbeetle Gigantamax,Orbeetle
 Orbeetle,Dottler
+Orbeetle Gigantamax,Orbeetle
 Thievul,Nickit
 Eldegoss,Gossifleur
 Dubwool,Wooloo
-Drednaw,Chewtle
 Drednaw Gigantamax,Drednaw
+Drednaw,Chewtle
 Boltund,Yamper
 Carkol,Rolycoly
-Coalossal,Carkol
 Coalossal Gigantamax,Coalossal
-Flapple Gigantamax,Flapple
+Coalossal,Carkol
 Flapple,Applin
+Flapple Gigantamax,Flapple
 Appletun,Applin
 Appletun Gigantamax,Appletun
 Sandaconda Gigantamax,Sandaconda
 Sandaconda,Silicobra
 Barraskewda,Arrokuda
-Toxtricity Low Key Form,Toxel
 Toxtricity Amped Form,Toxel
-Centiskorch,Sizzlipede
+Toxtricity Low Key Form,Toxel
 Centiskorch Gigantamax,Centiskorch
+Centiskorch,Sizzlipede
 Grapploct,Clobbopus
 Polteageist,Sinistea
 Hattrem,Hatenna
 Hatterene,Hattrem
 Hatterene Gigantamax,Hatterene
 Morgrem,Impidimp
-Grimmsnarl,Morgrem
 Grimmsnarl Gigantamax,Grimmsnarl
+Grimmsnarl,Morgrem
 Obstagoon,Linoone
 Perrserker,Meowth
 Cursola,Corsola
@@ -541,11 +543,14 @@ Sirfetch'd,Farfetchd
 Mr. Rime,Mr-mime
 Runerigus,Yamask
 Alcremie,Milcery
+Alcremie Gigantamax,Alcremie
 Frosmoth,Snom
-Copperajah,Cufant
 Copperajah Gigantamax,Copperajah
+Copperajah,Cufant
 Duraludon Gigantamax,Duraludon
 Drakloak,Dreepy
 Dragapult,Drakloak
+Urshifu (Single Strike) Gigantamax,Urshifu (Single Strike)
+Urshifu (Rapid Strike) Gigantamax,Urshifu (Rapid Strike)
 Urshifu Single Strike Style,Kubfu
 Urshifu Rapid Strike Style,Kubfu

@@ -206,10 +206,10 @@ Haunter,Ghost
 Haunter,Poison
 Gengar,Ghost
 Gengar,Poison
-Mega Gengar,Ghost
-Mega Gengar,Poison
 Gengar Gigantamax,Ghost
 Gengar Gigantamax,Poison
+Mega Gengar,Ghost
+Mega Gengar,Poison
 Onix,Rock
 Onix,Ground
 Drowzee,Psychic
@@ -675,8 +675,8 @@ Castform Rainy Form,Water
 Castform Snowy Form,Ice
 Kecleon,Normal
 Shuppet,Ghost
-Banette,Ghost
 Mega Banette,Ghost
+Banette,Ghost
 Duskull,Ghost
 Dusclops,Ghost
 Tropius,Grass
@@ -777,9 +777,9 @@ Shieldon,Rock
 Shieldon,Steel
 Bastiodon,Rock
 Bastiodon,Steel
-Burmy Trash Cloak,Bug
 Burmy Plant Cloak,Bug
 Burmy Sandy Cloak,Bug
+Burmy Trash Cloak,Bug
 Wormadam Plant Cloak,Bug
 Wormadam Plant Cloak,Grass
 Wormadam Sandy Cloak,Bug
@@ -862,10 +862,10 @@ Mantyke,Water
 Mantyke,Flying
 Snover,Grass
 Snover,Ice
-Mega Abomasnow,Grass
-Mega Abomasnow,Ice
 Abomasnow,Grass
 Abomasnow,Ice
+Mega Abomasnow,Grass
+Mega Abomasnow,Ice
 Weavile,Dark
 Weavile,Ice
 Magnezone,Electric
@@ -896,8 +896,8 @@ Probopass,Steel
 Dusknoir,Ghost
 Froslass,Ice
 Froslass,Ghost
-Mow Rotom,Electric
-Mow Rotom,Grass
+Fan Rotom,Electric
+Fan Rotom,Flying
 Frost Rotom,Electric
 Frost Rotom,Ice
 Wash Rotom,Electric
@@ -906,15 +906,15 @@ Heat Rotom,Electric
 Heat Rotom,Fire
 Rotom,Electric
 Rotom,Ghost
-Fan Rotom,Electric
-Fan Rotom,Flying
+Mow Rotom,Electric
+Mow Rotom,Grass
 Uxie,Psychic
 Mesprit,Psychic
 Azelf,Psychic
-Dialga Origin Forme,Steel
-Dialga Origin Forme,Dragon
 Dialga,Steel
 Dialga,Dragon
+Dialga Origin Forme,Steel
+Dialga Origin Forme,Dragon
 Palkia Origin Forme,Water
 Palkia Origin Forme,Dragon
 Palkia,Water
@@ -946,9 +946,9 @@ Emboar,Fire
 Emboar,Fighting
 Oshawott,Water
 Dewott,Water
+Samurott,Water
 Hisuian Samurott,Water
 Hisuian Samurott,Dark
-Samurott,Water
 Patrat,Normal
 Watchog,Normal
 Lillipup,Normal
@@ -1024,14 +1024,14 @@ Krokorok,Ground
 Krokorok,Dark
 Krookodile,Ground
 Krookodile,Dark
-Darumaka,Fire
 Galarian Darumaka,Ice
+Darumaka,Fire
+Darmanitan Standard Mode,Fire
 Darmanitan Galarian Zen Mode,Ice
 Darmanitan Galarian Zen Mode,Fire
 Darmanitan Galarian Standard Mode,Ice
 Darmanitan Zen Mode,Fire
 Darmanitan Zen Mode,Psychic
-Darmanitan Standard Mode,Fire
 Maractus,Grass
 Dwebble,Bug
 Dwebble,Rock
@@ -1043,9 +1043,9 @@ Scrafty,Dark
 Scrafty,Fighting
 Sigilyph,Psychic
 Sigilyph,Flying
-Yamask,Ghost
 Galarian Yamask,Ground
 Galarian Yamask,Ghost
+Yamask,Ghost
 Cofagrigus,Ghost
 Tirtouga,Water
 Tirtouga,Rock
@@ -1056,14 +1056,14 @@ Archen,Flying
 Archeops,Rock
 Archeops,Flying
 Trubbish,Poison
-Garbodor,Poison
 Garbodor Gigantamax,Poison
+Garbodor,Poison
 Zorua,Dark
 Hisuian Zorua,Normal
 Hisuian Zorua,Ghost
+Zoroark,Dark
 Hisuian Zoroark,Normal
 Hisuian Zoroark,Ghost
-Zoroark,Dark
 Minccino,Normal
 Cinccino,Normal
 Gothita,Psychic
@@ -1172,12 +1172,12 @@ Terrakion,Rock
 Terrakion,Fighting
 Virizion,Grass
 Virizion,Fighting
-Tornadus Therian Forme,Flying
 Tornadus Incarnate Forme,Flying
-Thundurus Incarnate Forme,Electric
-Thundurus Incarnate Forme,Flying
+Tornadus Therian Forme,Flying
 Thundurus Therian Forme,Electric
 Thundurus Therian Forme,Flying
+Thundurus Incarnate Forme,Electric
+Thundurus Incarnate Forme,Flying
 Reshiram,Dragon
 Reshiram,Fire
 Zekrom,Dragon
@@ -1186,20 +1186,20 @@ Landorus Incarnate Forme,Ground
 Landorus Incarnate Forme,Flying
 Landorus Therian Forme,Ground
 Landorus Therian Forme,Flying
-White Kyurem,Dragon
-White Kyurem,Ice
-Black Kyurem,Dragon
-Black Kyurem,Ice
 Kyurem,Dragon
 Kyurem,Ice
+Black Kyurem,Dragon
+Black Kyurem,Ice
+White Kyurem,Dragon
+White Kyurem,Ice
 Keldeo Resolute Form,Water
 Keldeo Resolute Form,Fighting
 Keldeo Ordinary Form,Water
 Keldeo Ordinary Form,Fighting
-Meloetta Aria Forme,Normal
-Meloetta Aria Forme,Psychic
 Meloetta Pirouette Forme,Normal
 Meloetta Pirouette Forme,Fighting
+Meloetta Aria Forme,Normal
+Meloetta Aria Forme,Psychic
 Genesect,Bug
 Genesect,Steel
 Chespin,Grass
@@ -1291,9 +1291,9 @@ Dedenne,Fairy
 Carbink,Rock
 Carbink,Fairy
 Goomy,Dragon
-Sliggoo,Dragon
 Hisuian Sliggoo,Dragon
 Hisuian Sliggoo,Steel
+Sliggoo,Dragon
 Goodra,Dragon
 Hisuian Goodra,Dragon
 Hisuian Goodra,Steel
@@ -1311,14 +1311,14 @@ Pumpkaboo Small Size,Ghost
 Pumpkaboo Small Size,Grass
 Pumpkaboo Average Size,Ghost
 Pumpkaboo Average Size,Grass
+Gourgeist Super Size,Ghost
+Gourgeist Super Size,Grass
 Gourgeist Large Size,Ghost
 Gourgeist Large Size,Grass
 Gourgeist Small Size,Ghost
 Gourgeist Small Size,Grass
 Gourgeist Average Size,Ghost
 Gourgeist Average Size,Grass
-Gourgeist Super Size,Ghost
-Gourgeist Super Size,Grass
 Bergmite,Ice
 Hisuian Avalugg,Ice
 Hisuian Avalugg,Rock
@@ -1340,20 +1340,20 @@ Mega Diancie,Rock
 Mega Diancie,Fairy
 Diancie,Rock
 Diancie,Fairy
-Hoopa Confined,Psychic
-Hoopa Confined,Ghost
 Hoopa Unbound,Psychic
 Hoopa Unbound,Dark
+Hoopa Confined,Psychic
+Hoopa Confined,Ghost
 Volcanion,Fire
 Volcanion,Water
 Rowlet,Grass
 Rowlet,Flying
 Dartrix,Grass
 Dartrix,Flying
-Decidueye,Grass
-Decidueye,Ghost
 Hisuian Decidueye,Grass
 Hisuian Decidueye,Fighting
+Decidueye,Grass
+Decidueye,Ghost
 Litten,Fire
 Torracat,Fire
 Incineroar,Fire
@@ -1378,14 +1378,14 @@ Vikavolt,Electric
 Crabrawler,Fighting
 Crabominable,Fighting
 Crabominable,Ice
-Oricorio Pom-Pom Style,Electric
-Oricorio Pom-Pom Style,Flying
-Oricorio Baile Style,Fire
-Oricorio Baile Style,Flying
 Oricorio Pa'u Style,Psychic
 Oricorio Pa'u Style,Flying
+Oricorio Pom-Pom Style,Electric
+Oricorio Pom-Pom Style,Flying
 Oricorio Sensu Style,Ghost
 Oricorio Sensu Style,Flying
+Oricorio Baile Style,Fire
+Oricorio Baile Style,Flying
 Cutiefly,Bug
 Cutiefly,Fairy
 Ribombee,Bug
@@ -1439,10 +1439,10 @@ Palossand,Ground
 Pyukumuku,Water
 Type: Null,Normal
 Silvally,Normal
-Minior Core Form,Rock
-Minior Core Form,Flying
 Minior Meteor Form,Rock
 Minior Meteor Form,Flying
+Minior Core Form,Rock
+Minior Core Form,Flying
 Komala,Normal
 Turtonator,Fire
 Turtonator,Dragon
@@ -1488,13 +1488,13 @@ Kartana,Grass
 Kartana,Steel
 Guzzlord,Dark
 Guzzlord,Dragon
-Ultra Necrozma,Psychic
-Ultra Necrozma,Dragon
-Dawn Wings Necrozma,Psychic
-Dawn Wings Necrozma,Ghost
 Dusk Mane Necrozma,Psychic
 Dusk Mane Necrozma,Steel
 Necrozma,Psychic
+Dawn Wings Necrozma,Psychic
+Dawn Wings Necrozma,Ghost
+Ultra Necrozma,Psychic
+Ultra Necrozma,Dragon
 Magearna,Steel
 Magearna,Fairy
 Marshadow,Fighting
@@ -1508,35 +1508,35 @@ Blacephalon,Fire
 Blacephalon,Ghost
 Zeraora,Electric
 Meltan,Steel
-Melmetal,Steel
 Melmetal Gigantamax,Steel
+Melmetal,Steel
 Grookey,Grass
 Thwackey,Grass
 Rillaboom Gigantamax,Grass
 Rillaboom,Grass
 Scorbunny,Fire
 Raboot,Fire
-Cinderace,Fire
 Cinderace Gigantamax,Fire
+Cinderace,Fire
 Sobble,Water
 Drizzile,Water
-Inteleon,Water
 Inteleon Gigantamax,Water
+Inteleon,Water
 Skwovet,Normal
 Greedent,Normal
 Rookidee,Flying
 Corvisquire,Flying
-Corviknight Gigantamax,Flying
-Corviknight Gigantamax,Steel
 Corviknight,Flying
 Corviknight,Steel
+Corviknight Gigantamax,Flying
+Corviknight Gigantamax,Steel
 Blipbug,Bug
 Dottler,Bug
 Dottler,Psychic
-Orbeetle Gigantamax,Bug
-Orbeetle Gigantamax,Psychic
 Orbeetle,Bug
 Orbeetle,Psychic
+Orbeetle Gigantamax,Bug
+Orbeetle Gigantamax,Psychic
 Nickit,Dark
 Thievul,Dark
 Gossifleur,Grass
@@ -1544,25 +1544,25 @@ Eldegoss,Grass
 Wooloo,Normal
 Dubwool,Normal
 Chewtle,Water
-Drednaw,Water
-Drednaw,Rock
 Drednaw Gigantamax,Water
 Drednaw Gigantamax,Rock
+Drednaw,Water
+Drednaw,Rock
 Yamper,Electric
 Boltund,Electric
 Rolycoly,Rock
 Carkol,Rock
 Carkol,Fire
-Coalossal,Rock
-Coalossal,Fire
 Coalossal Gigantamax,Rock
 Coalossal Gigantamax,Fire
+Coalossal,Rock
+Coalossal,Fire
 Applin,Grass
 Applin,Dragon
-Flapple Gigantamax,Grass
-Flapple Gigantamax,Dragon
 Flapple,Grass
 Flapple,Dragon
+Flapple Gigantamax,Grass
+Flapple Gigantamax,Dragon
 Appletun,Grass
 Appletun,Dragon
 Appletun Gigantamax,Grass
@@ -1576,16 +1576,16 @@ Arrokuda,Water
 Barraskewda,Water
 Toxel,Electric
 Toxel,Poison
-Toxtricity Low Key Form,Electric
-Toxtricity Low Key Form,Poison
 Toxtricity Amped Form,Electric
 Toxtricity Amped Form,Poison
+Toxtricity Low Key Form,Electric
+Toxtricity Low Key Form,Poison
 Sizzlipede,Fire
 Sizzlipede,Bug
-Centiskorch,Fire
-Centiskorch,Bug
 Centiskorch Gigantamax,Fire
 Centiskorch Gigantamax,Bug
+Centiskorch,Fire
+Centiskorch,Bug
 Clobbopus,Fighting
 Grapploct,Fighting
 Sinistea,Ghost
@@ -1600,10 +1600,10 @@ Impidimp,Dark
 Impidimp,Fairy
 Morgrem,Dark
 Morgrem,Fairy
-Grimmsnarl,Dark
-Grimmsnarl,Fairy
 Grimmsnarl Gigantamax,Dark
 Grimmsnarl Gigantamax,Fairy
+Grimmsnarl,Dark
+Grimmsnarl,Fairy
 Obstagoon,Dark
 Obstagoon,Normal
 Perrserker,Steel
@@ -1615,6 +1615,7 @@ Runerigus,Ground
 Runerigus,Ghost
 Milcery,Fairy
 Alcremie,Fairy
+Alcremie Gigantamax,Fairy
 Falinks,Fighting
 Pincurchin,Electric
 Snom,Ice
@@ -1624,17 +1625,17 @@ Frosmoth,Bug
 Stonjourner,Rock
 Eiscue Noice Face,Ice
 Eiscue Ice Face,Ice
-Indeedee Male,Psychic
-Indeedee Male,Normal
 Indeedee Female,Psychic
 Indeedee Female,Normal
+Indeedee Male,Psychic
+Indeedee Male,Normal
 Morpeko Hangry Mode,Electric
 Morpeko Hangry Mode,Dark
 Morpeko Full Belly Mode,Electric
 Morpeko Full Belly Mode,Dark
 Cufant,Steel
-Copperajah,Steel
 Copperajah Gigantamax,Steel
+Copperajah,Steel
 Dracozolt,Electric
 Dracozolt,Dragon
 Arctozolt,Electric
@@ -1643,27 +1644,31 @@ Dracovish,Water
 Dracovish,Dragon
 Arctovish,Water
 Arctovish,Ice
-Duraludon Gigantamax,Steel
-Duraludon Gigantamax,Dragon
 Duraludon,Steel
 Duraludon,Dragon
+Duraludon Gigantamax,Steel
+Duraludon Gigantamax,Dragon
 Dreepy,Dragon
 Dreepy,Ghost
 Drakloak,Dragon
 Drakloak,Ghost
 Dragapult,Dragon
 Dragapult,Ghost
+Zacian Hero of Many Battles,Fairy
 Zacian Crowned Sword,Fairy
 Zacian Crowned Sword,Steel
-Zacian Hero of Many Battles,Fairy
 Zamazenta Crowned Shield,Fighting
 Zamazenta Crowned Shield,Steel
 Zamazenta Hero of Many Battles,Fighting
-Eternatus,Poison
-Eternatus,Dragon
 Eternatus Eternamax,Poison
 Eternatus Eternamax,Dragon
+Eternatus,Poison
+Eternatus,Dragon
 Kubfu,Fighting
+Urshifu (Single Strike) Gigantamax,Fighting
+Urshifu (Single Strike) Gigantamax,Dark
+Urshifu (Rapid Strike) Gigantamax,Fighting
+Urshifu (Rapid Strike) Gigantamax,Water
 Urshifu Single Strike Style,Fighting
 Urshifu Single Strike Style,Dark
 Urshifu Rapid Strike Style,Fighting
@@ -1676,7 +1681,7 @@ Glastrier,Ice
 Spectrier,Ghost
 Calyrex,Psychic
 Calyrex,Grass
-Calyrex Ice Rider,Psychic
-Calyrex Ice Rider,Ice
 Calyrex Shadow Rider,Psychic
 Calyrex Shadow Rider,Ghost
+Calyrex Ice Rider,Psychic
+Calyrex Ice Rider,Ice
