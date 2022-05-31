@@ -1,0 +1,822 @@
+,Name,Type
+0,Absorb,grass
+1,Accelerock,rock
+2,Acid,poison
+3,Acid Armor,poison
+4,Acid Spray,poison
+5,Acrobatics,flying
+6,Acupressure,normal
+7,Aerial Ace,flying
+8,Aeroblast,flying
+9,After You,normal
+10,Agility,psychic
+11,Air Cutter,flying
+12,Air Slash,flying
+13,Ally Switch,psychic
+14,Amnesia,psychic
+15,Anchor Shot,steel
+16,Ancient Power,rock
+17,Apple Acid,grass
+18,Aqua Jet,water
+19,Aqua Ring,water
+20,Aqua Tail,water
+21,Arm Thrust,fighting
+22,Aromatherapy,grass
+23,Aromatic Mist,fairy
+24,Assist,normal
+25,Assurance,dark
+26,Astonish,ghost
+27,Astral Barrage,ghost
+28,Attack Order,bug
+29,Attract,normal
+30,Aura Sphere,fighting
+31,Aura Wheel,electric
+32,Aurora Beam,ice
+33,Aurora Veil,ice
+34,Autotomize,steel
+35,Avalanche,ice
+36,Baby Doll Eyes,fairy
+37,Baddy Bad,dark
+38,Baneful Bunker,poison
+39,Barrage,normal
+40,Barrier,psychic
+41,Baton Pass,normal
+42,Beak Blast,flying
+43,Beat Up,dark
+44,Behemoth Bash,steel
+45,Behemoth Blade,steel
+46,Belch,poison
+47,Belly Drum,normal
+48,Bestow,normal
+49,Bide,normal
+50,Bind,normal
+51,Bite,dark
+52,Blast Burn,fire
+53,Blaze Kick,fire
+54,Blizzard,ice
+55,Block,normal
+56,Blue Flare,fire
+57,Body Press,fighting
+58,Body Slam,normal
+59,Bolt Beak,electric
+60,Bolt Strike,electric
+61,Bone Club,ground
+62,Bone Rush,ground
+63,Bonemerang,ground
+64,Boomburst,normal
+65,Bounce,flying
+66,Bouncy Bubble,water
+67,Branch Poke,grass
+68,Brave Bird,flying
+69,Breaking Swipe,dragon
+70,Brick Break,fighting
+71,Brine,water
+72,Brutal Swing,dark
+73,Bubble,water
+74,Bubble Beam,water
+75,Bug Bite,bug
+76,Bug Buzz,bug
+77,Bulk Up,fighting
+78,Bulldoze,ground
+79,Bullet Punch,steel
+80,Bullet Seed,grass
+81,Burn Up,fire
+82,Burning Jealousy,fire
+83,Buzzy Buzz,electric
+84,Calm Mind,psychic
+85,Camouflage,normal
+86,Captivate,normal
+87,Catastropika,electric
+88,Celebrate,normal
+89,Charge,electric
+90,Charge Beam,electric
+91,Charm,fairy
+92,Chatter,flying
+93,Chip Away,normal
+94,Circle Throw,fighting
+95,Clamp,water
+96,Clanging Scales,dragon
+97,Clangorous Soul,dragon
+98,Clangorous Soulblaze,dragon
+99,Clear Smog,poison
+100,Close Combat,fighting
+101,Coaching,fighting
+102,Coil,poison
+103,Comet Punch,normal
+104,Confide,normal
+105,Confuse Ray,ghost
+106,Confusion,psychic
+107,Constrict,normal
+108,Conversion,normal
+109,Conversion 2,normal
+110,Copycat,normal
+111,Core Enforcer,dragon
+112,Corrosive Gas,poison
+113,Cosmic Power,psychic
+114,Cotton Guard,grass
+115,Cotton Spore,grass
+116,Counter,fighting
+117,Court Change,normal
+118,Covet,normal
+119,Crabhammer,water
+120,Crafty Shield,fairy
+121,Cross Chop,fighting
+122,Cross Poison,poison
+123,Crunch,dark
+124,Crush Claw,normal
+125,Crush Grip,normal
+126,Curse,ghost
+127,Cut,normal
+128,Dark Pulse,dark
+129,Dark Void,dark
+130,Darkest Lariat,dark
+131,Dazzling Gleam,fairy
+132,Decorate,fairy
+133,Defend Order,bug
+134,Defense Curl,normal
+135,Defog,flying
+136,Destiny Bond,ghost
+137,Detect,fighting
+138,Diamond Storm,rock
+139,Dig,ground
+140,Disable,normal
+141,Disarming Voice,fairy
+142,Discharge,electric
+143,Dive,water
+144,Dizzy Punch,normal
+145,Doom Desire,steel
+146,Double Edge,normal
+147,Double Hit,normal
+148,Double Iron Bash,steel
+149,Double Kick,fighting
+150,Double Slap,normal
+151,Double Team,normal
+152,Draco Meteor,dragon
+153,Dragon Ascent,flying
+154,Dragon Breath,dragon
+155,Dragon Claw,dragon
+156,Dragon Dance,dragon
+157,Dragon Darts,dragon
+158,Dragon Energy,dragon
+159,Dragon Hammer,dragon
+160,Dragon Pulse,dragon
+161,Dragon Rage,dragon
+162,Dragon Rush,dragon
+163,Dragon Tail,dragon
+164,Drain Punch,fighting
+165,Draining Kiss,fairy
+166,Dream Eater,psychic
+167,Drill Peck,flying
+168,Drill Run,ground
+169,Drum Beating,grass
+170,Dual Chop,dragon
+171,Dual Wingbeat,flying
+172,Dynamax Cannon,dragon
+173,Dynamic Punch,fighting
+174,Earth Power,ground
+175,Earthquake,ground
+176,Echoed Voice,normal
+177,Eerie Impulse,electric
+178,Eerie Spell,psychic
+179,Egg Bomb,normal
+180,Electric Terrain,electric
+181,Electrify,electric
+182,Electro Ball,electric
+183,Electroweb,electric
+184,Embargo,dark
+185,Ember,fire
+186,Encore,normal
+187,Endeavor,normal
+188,Endure,normal
+189,Energy Ball,grass
+190,Entrainment,normal
+191,Eruption,fire
+192,Eternabeam,dragon
+193,Expanding Force,psychic
+194,Explosion,normal
+195,Extrasensory,psychic
+196,Extreme Evoboost,normal
+197,Extreme Speed,normal
+198,Facade,normal
+199,Fairy Lock,fairy
+200,Fairy Wind,fairy
+201,Fake Out,normal
+202,Fake Tears,dark
+203,False Surrender,dark
+204,False Swipe,normal
+205,Feather Dance,flying
+206,Feint,normal
+207,Feint Attack,dark
+208,Fell Stinger,bug
+209,Fiery Dance,fire
+210,Fiery Wrath,dark
+211,Final Gambit,fighting
+212,Fire Blast,fire
+213,Fire Fang,fire
+214,Fire Lash,fire
+215,Fire Pledge,fire
+216,Fire Punch,fire
+217,Fire Spin,fire
+218,First Impression,bug
+219,Fishious Rend,water
+220,Fissure,ground
+221,Flail,normal
+222,Flame Burst,fire
+223,Flame Charge,fire
+224,Flame Wheel,fire
+225,Flamethrower,fire
+226,Flare Blitz,fire
+227,Flash,normal
+228,Flash Cannon,steel
+229,Flatter,dark
+230,Fleur Cannon,fairy
+231,Fling,dark
+232,Flip Turn,water
+233,Floaty Fall,flying
+234,Floral Healing,fairy
+235,Flower Shield,fairy
+236,Fly,flying
+237,Flying Press,fighting
+238,Focus Blast,fighting
+239,Focus Energy,normal
+240,Focus Punch,fighting
+241,Follow Me,normal
+242,Force Palm,fighting
+243,Foresight,normal
+244,Forest'S Curse,grass
+245,Foul Play,dark
+246,Freeze Dry,ice
+247,Freeze Shock,ice
+248,Freezing Glare,psychic
+249,Freezy Frost,ice
+250,Frenzy Plant,grass
+251,Frost Breath,ice
+252,Frustration,normal
+253,Fury Attack,normal
+254,Fury Cutter,bug
+255,Fury Swipes,normal
+256,Fusion Bolt,electric
+257,Fusion Flare,fire
+258,Future Sight,psychic
+259,Gastro Acid,poison
+260,Gear Grind,steel
+261,Gear Up,steel
+262,Genesis Supernova,psychic
+263,Geomancy,fairy
+264,Giga Drain,grass
+265,Giga Impact,normal
+266,Glacial Lance,ice
+267,Glaciate,ice
+268,Glare,normal
+269,Glitzy Glow,psychic
+270,Grass Knot,grass
+271,Grass Pledge,grass
+272,Grass Whistle,grass
+273,Grassy Glide,grass
+274,Grassy Terrain,grass
+275,Grav Apple,grass
+276,Gravity,psychic
+277,Growl,normal
+278,Growth,normal
+279,Grudge,ghost
+280,Guard Split,psychic
+281,Guard Swap,psychic
+282,Guardian Of Alola,fairy
+283,Guillotine,normal
+284,Gunk Shot,poison
+285,Gust,flying
+286,Gyro Ball,steel
+287,Hail,ice
+288,Hammer Arm,fighting
+289,Happy Hour,normal
+290,Harden,normal
+291,Haze,ice
+292,Head Charge,normal
+293,Head Smash,rock
+294,Headbutt,normal
+295,Heal Bell,normal
+296,Heal Block,psychic
+297,Heal Order,bug
+298,Heal Pulse,psychic
+299,Healing Wish,psychic
+300,Heart Stamp,psychic
+301,Heart Swap,psychic
+302,Heat Crash,fire
+303,Heat Wave,fire
+304,Heavy Slam,steel
+305,Helping Hand,normal
+306,Hex,ghost
+307,Hidden Power,normal
+308,High Horsepower,ground
+309,High Jump Kick,fighting
+310,Hold Back,normal
+311,Hold Hands,normal
+312,Hone Claws,dark
+313,Horn Attack,normal
+314,Horn Drill,normal
+315,Horn Leech,grass
+316,Howl,normal
+317,Hurricane,flying
+318,Hydro Cannon,water
+319,Hydro Pump,water
+320,Hyper Beam,normal
+321,Hyper Fang,normal
+322,Hyper Voice,normal
+323,Hyperspace Fury,dark
+324,Hyperspace Hole,psychic
+325,Hypnosis,psychic
+326,Ice Ball,ice
+327,Ice Beam,ice
+328,Ice Burn,ice
+329,Ice Fang,ice
+330,Ice Hammer,ice
+331,Ice Punch,ice
+332,Ice Shard,ice
+333,Icicle Crash,ice
+334,Icicle Spear,ice
+335,Icy Wind,ice
+336,Imprison,psychic
+337,Incinerate,fire
+338,Inferno,fire
+339,Infestation,bug
+340,Ingrain,grass
+341,Instruct,psychic
+342,Ion Deluge,electric
+343,Iron Defense,steel
+344,Iron Head,steel
+345,Iron Tail,steel
+346,Jaw Lock,dark
+347,Judgment,normal
+348,Jump Kick,fighting
+349,Jungle Healing,grass
+350,Karate Chop,fighting
+351,Kinesis,psychic
+352,King'S Shield,steel
+353,Knock Off,dark
+354,Land'S Wrath,ground
+355,Laser Focus,normal
+356,Lash Out,dark
+357,Last Resort,normal
+358,Lava Plume,fire
+359,Leaf Blade,grass
+360,Leaf Storm,grass
+361,Leaf Tornado,grass
+362,Leafage,grass
+363,Leech Life,bug
+364,Leech Seed,grass
+365,Leer,normal
+366,Lick,ghost
+367,Life Dew,water
+368,Light Of Ruin,fairy
+369,Light Screen,psychic
+370,Light That Burns The Sky,psychic
+371,Liquidation,water
+372,Lock On,normal
+373,Lovely Kiss,normal
+374,Low Kick,fighting
+375,Low Sweep,fighting
+376,Lucky Chant,normal
+377,Lunar Dance,psychic
+378,Lunge,bug
+379,Luster Purge,psychic
+380,Mach Punch,fighting
+381,Magic Coat,psychic
+382,Magic Powder,psychic
+383,Magic Room,psychic
+384,Magical Leaf,grass
+385,Magma Storm,fire
+386,Magnet Bomb,steel
+387,Magnet Rise,electric
+388,Magnetic Flux,electric
+389,Magnitude,ground
+390,Malicious Moonsault,dark
+391,Mat Block,fighting
+392,Max Airstream,flying
+393,Max Darkness,dark
+394,Max Flare,fire
+395,Max Flutterby,bug
+396,Max Geyser,water
+397,Max Guard,normal
+398,Max Hailstorm,ice
+399,Max Knuckle,fighting
+400,Max Lightning,electric
+401,Max Mindstorm,psychic
+402,Max Ooze,poison
+403,Max Overgrowth,grass
+404,Max Phantasm,ghost
+405,Max Quake,ground
+406,Max Rockfall,rock
+407,Max Starfall,fairy
+408,Max Steelspike,steel
+409,Max Strike,normal
+410,Max Wyrmwind,dragon
+411,Me First,normal
+412,Mean Look,normal
+413,Meditate,psychic
+414,Mega Drain,grass
+415,Mega Kick,normal
+416,Mega Punch,normal
+417,Megahorn,bug
+418,Memento,dark
+419,Menacing Moonraze Maelstrom,ghost
+420,Metal Burst,steel
+421,Metal Claw,steel
+422,Metal Sound,steel
+423,Meteor Assault,fighting
+424,Meteor Beam,rock
+425,Meteor Mash,steel
+426,Metronome,normal
+427,Milk Drink,normal
+428,Mimic,normal
+429,Mind Blown,fire
+430,Mind Reader,normal
+431,Minimize,normal
+432,Miracle Eye,psychic
+433,Mirror Coat,psychic
+434,Mirror Move,flying
+435,Mirror Shot,steel
+436,Mist,ice
+437,Mist Ball,psychic
+438,Misty Explosion,fairy
+439,Misty Terrain,fairy
+440,Moonblast,fairy
+441,Moongeist Beam,ghost
+442,Moonlight,fairy
+443,Morning Sun,normal
+444,Mud Bomb,ground
+445,Mud Shot,ground
+446,Mud Slap,ground
+447,Mud Sport,ground
+448,Muddy Water,water
+449,Multi Attack,normal
+450,Mystical Fire,fire
+451,Nasty Plot,dark
+452,Natural Gift,normal
+453,Nature Power,normal
+454,Nature'S Madness,fairy
+455,Needle Arm,grass
+456,Night Daze,dark
+457,Night Shade,ghost
+458,Night Slash,dark
+459,Nightmare,ghost
+460,No Retreat,fighting
+461,Noble Roar,normal
+462,Nuzzle,electric
+463,Oblivion Wing,flying
+464,Obstruct,dark
+465,Oceanic Operetta,water
+466,Octazooka,water
+467,Octolock,fighting
+468,Odor Sleuth,normal
+469,Ominous Wind,ghost
+470,Origin Pulse,water
+471,Outrage,dragon
+472,Overdrive,electric
+473,Overheat,fire
+474,Pain Split,normal
+475,Parabolic Charge,electric
+476,Parting Shot,dark
+477,Pay Day,normal
+478,Payback,dark
+479,Peck,flying
+480,Perish Song,normal
+481,Petal Blizzard,grass
+482,Petal Dance,grass
+483,Phantom Force,ghost
+484,Photon Geyser,psychic
+485,Pika Papow,electric
+486,Pin Missile,bug
+487,Plasma Fists,electric
+488,Play Nice,normal
+489,Play Rough,fairy
+490,Pluck,flying
+491,Poison Fang,poison
+492,Poison Gas,poison
+493,Poison Jab,poison
+494,Poison Powder,poison
+495,Poison Sting,poison
+496,Poison Tail,poison
+497,Pollen Puff,bug
+498,Poltergeist,ghost
+499,Pound,normal
+500,Powder,bug
+501,Powder Snow,ice
+502,Power Gem,rock
+503,Power Split,psychic
+504,Power Swap,psychic
+505,Power Trick,psychic
+506,Power Trip,dark
+507,Power Up Punch,fighting
+508,Power Whip,grass
+509,Precipice Blades,ground
+510,Present,normal
+511,Prismatic Laser,psychic
+512,Protect,normal
+513,Psybeam,psychic
+514,Psych Up,normal
+515,Psychic,psychic
+516,Psychic Fangs,psychic
+517,Psychic Terrain,psychic
+518,Psycho Boost,psychic
+519,Psycho Cut,psychic
+520,Psycho Shift,psychic
+521,Psyshock,psychic
+522,Psystrike,psychic
+523,Psywave,psychic
+524,Pulverizing Pancake,normal
+525,Punishment,dark
+526,Purify,poison
+527,Pursuit,dark
+528,Pyro Ball,fire
+529,Quash,dark
+530,Quick Attack,normal
+531,Quick Guard,fighting
+532,Quiver Dance,bug
+533,Rage,normal
+534,Rage Powder,bug
+535,Rain Dance,water
+536,Rapid Spin,normal
+537,Razor Leaf,grass
+538,Razor Shell,water
+539,Razor Wind,normal
+540,Recover,normal
+541,Recycle,normal
+542,Reflect,psychic
+543,Reflect Type,normal
+544,Refresh,normal
+545,Relic Song,normal
+546,Rest,psychic
+547,Retaliate,normal
+548,Return,normal
+549,Revelation Dance,normal
+550,Revenge,fighting
+551,Reversal,fighting
+552,Rising Voltage,electric
+553,Roar,normal
+554,Roar Of Time,dragon
+555,Rock Blast,rock
+556,Rock Climb,normal
+557,Rock Polish,rock
+558,Rock Slide,rock
+559,Rock Smash,fighting
+560,Rock Throw,rock
+561,Rock Tomb,rock
+562,Rock Wrecker,rock
+563,Role Play,psychic
+564,Rolling Kick,fighting
+565,Rollout,rock
+566,Roost,flying
+567,Rototiller,ground
+568,Round,normal
+569,Sacred Fire,fire
+570,Sacred Sword,fighting
+571,Safeguard,normal
+572,Sand Attack,ground
+573,Sand Tomb,ground
+574,Sandstorm,rock
+575,Sappy Seed,grass
+576,Scald,water
+577,Scale Shot,dragon
+578,Scary Face,normal
+579,Scorching Sands,ground
+580,Scratch,normal
+581,Screech,normal
+582,Searing Shot,fire
+583,Searing Sunraze Smash,steel
+584,Secret Power,normal
+585,Secret Sword,fighting
+586,Seed Bomb,grass
+587,Seed Flare,grass
+588,Seismic Toss,fighting
+589,Self Destruct,normal
+590,Shadow Ball,ghost
+591,Shadow Bone,ghost
+592,Shadow Claw,ghost
+593,Shadow Force,ghost
+594,Shadow Punch,ghost
+595,Shadow Sneak,ghost
+596,Sharpen,normal
+597,Sheer Cold,ice
+598,Shell Side Arm,poison
+599,Shell Smash,normal
+600,Shell Trap,fire
+601,Shift Gear,steel
+602,Shock Wave,electric
+603,Shore Up,ground
+604,Signal Beam,bug
+605,Silver Wind,bug
+606,Simple Beam,normal
+607,Sing,normal
+608,Sinister Arrow Raid,ghost
+609,Sizzly Slide,fire
+610,Sketch,normal
+611,Skill Swap,psychic
+612,Skitter Smack,bug
+613,Skull Bash,normal
+614,Sky Attack,flying
+615,Sky Drop,flying
+616,Sky Uppercut,fighting
+617,Slack Off,normal
+618,Slam,normal
+619,Slash,normal
+620,Sleep Powder,grass
+621,Sleep Talk,normal
+622,Sludge,poison
+623,Sludge Bomb,poison
+624,Sludge Wave,poison
+625,Smack Down,rock
+626,Smart Strike,steel
+627,Smelling Salts,normal
+628,Smog,poison
+629,Smokescreen,normal
+630,Snap Trap,grass
+631,Snarl,dark
+632,Snatch,dark
+633,Snipe Shot,water
+634,Snore,normal
+635,Soak,water
+636,Soft Boiled,normal
+637,Solar Beam,grass
+638,Solar Blade,grass
+639,Sonic Boom,normal
+640,Soul Stealing 7 Star Strike,ghost
+641,Spacial Rend,dragon
+642,Spark,electric
+643,Sparkling Aria,water
+644,Sparkly Swirl,fairy
+645,Spectral Thief,ghost
+646,Speed Swap,psychic
+647,Spider Web,bug
+648,Spike Cannon,normal
+649,Spikes,ground
+650,Spiky Shield,grass
+651,Spirit Break,fairy
+652,Spirit Shackle,ghost
+653,Spit Up,normal
+654,Spite,ghost
+655,Splash,normal
+656,Splintered Stormshards,rock
+657,Splishy Splash,water
+658,Spore,grass
+659,Spotlight,normal
+660,Stealth Rock,rock
+661,Steam Eruption,water
+662,Steamroller,bug
+663,Steel Beam,steel
+664,Steel Roller,steel
+665,Steel Wing,steel
+666,Sticky Web,bug
+667,Stockpile,normal
+668,Stoked Sparksurfer,electric
+669,Stomp,normal
+670,Stomping Tantrum,ground
+671,Stone Edge,rock
+672,Stored Power,psychic
+673,Storm Throw,fighting
+674,Strange Steam,fairy
+675,Strength,normal
+676,Strength Sap,grass
+677,String Shot,bug
+678,Struggle,normal
+679,Struggle Bug,bug
+680,Stuff Cheeks,normal
+681,Stun Spore,grass
+682,Submission,fighting
+683,Substitute,normal
+684,Sucker Punch,dark
+685,Sunny Day,fire
+686,Sunsteel Strike,steel
+687,Super Fang,normal
+688,Superpower,fighting
+689,Supersonic,normal
+690,Surf,water
+691,Surging Strikes,water
+692,Swagger,normal
+693,Swallow,normal
+694,Sweet Kiss,fairy
+695,Sweet Scent,normal
+696,Swift,normal
+697,Switcheroo,dark
+698,Swords Dance,normal
+699,Synchronoise,psychic
+700,Synthesis,grass
+701,Tackle,normal
+702,Tail Glow,bug
+703,Tail Slap,normal
+704,Tail Whip,normal
+705,Tailwind,flying
+706,Take Down,normal
+707,Tar Shot,rock
+708,Taunt,dark
+709,Tearful Look,normal
+710,Teatime,normal
+711,Techno Blast,normal
+712,Teeter Dance,normal
+713,Telekinesis,psychic
+714,Teleport,psychic
+715,Terrain Pulse,normal
+716,Thief,dark
+717,Thousand Arrows,ground
+718,Thousand Waves,ground
+719,Thrash,normal
+720,Throat Chop,dark
+721,Thunder,electric
+722,Thunder Cage,electric
+723,Thunder Fang,electric
+724,Thunder Punch,electric
+725,Thunder Shock,electric
+726,Thunder Wave,electric
+727,Thunderbolt,electric
+728,Thunderous Kick,fighting
+729,Tickle,normal
+730,Topsy Turvy,dark
+731,Torment,dark
+732,Toxic,poison
+733,Toxic Spikes,poison
+734,Toxic Thread,poison
+735,Transform,normal
+736,Tri Attack,normal
+737,Trick,psychic
+738,Trick Or Treat,ghost
+739,Trick Room,psychic
+740,Triple Axel,ice
+741,Triple Kick,fighting
+742,Trop Kick,grass
+743,Trump Card,normal
+744,Twineedle,bug
+745,Twister,dragon
+746,U Turn,bug
+747,Uproar,normal
+748,V Create,fire
+749,Vacuum Wave,fighting
+750,Veevee Volley,normal
+751,Venom Drench,poison
+752,Venoshock,poison
+753,Vine Whip,grass
+754,Vise Grip,normal
+755,Vital Throw,fighting
+756,Volt Switch,electric
+757,Volt Tackle,electric
+758,Wake Up Slap,fighting
+759,Water Gun,water
+760,Water Pledge,water
+761,Water Pulse,water
+762,Water Shuriken,water
+763,Water Sport,water
+764,Water Spout,water
+765,Waterfall,water
+766,Weather Ball,normal
+767,Whirlpool,water
+768,Whirlwind,normal
+769,Wicked Blow,dark
+770,Wide Guard,rock
+771,Wild Charge,electric
+772,Will O Wisp,fire
+773,Wing Attack,flying
+774,Wish,normal
+775,Withdraw,water
+776,Wonder Room,psychic
+777,Wood Hammer,grass
+778,Work Up,normal
+779,Worry Seed,grass
+780,Wrap,normal
+781,Wring Out,normal
+782,X Scissor,bug
+783,Yawn,normal
+784,Zap Cannon,electric
+785,Zen Headbutt,psychic
+786,Zing Zap,electric
+787,Zippy Zap,electric
+788,G-Max Vine Lash,grass
+789,G-Max Wildfire,fire
+790,G-Max Cannonade,water
+791,G-Max Befuddle,bug
+792,G-Max Volt Crash,electric
+793,G-Max Gold Rush,normal
+794,G-Max Chi Strike,fighting
+795,G-Max Terror,ghost
+796,G-Max Foam Burst,water
+797,G-Max Resonance,ice
+798,G-Max Cuddle,normal
+799,G-Max Replenish,normal
+800,G-Max Malodor,poison
+801,G-Max Meltdown,steel
+802,G-Max Drum Solo,grass
+803,G-Max Fireball,fire
+804,G-Max Hydrosnipe,water
+805,G-Max Wind Rage,flying
+806,G-Max Gravitas,psychic
+807,G-Max Stonesurge,water
+808,G-Max Volcalith,rock
+809,G-Max Tartness,grass
+810,G-Max Sweetness,grass
+811,G-Max Sandblast,ground
+812,G-Max Stun Shock,electric
+813,G-Max Centiferno,fire
+814,G-Max Smite,fairy
+815,G-Max Snooze,dark
+816,G-Max Finale,fairy
+817,G-Max Steelsurge,steel
+818,G-Max Depletion,dragon
+819,G-Max One Blow,dark
+820,G-Max Rapid Flow,water

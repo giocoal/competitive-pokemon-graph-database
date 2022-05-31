@@ -1,0 +1,2176 @@
+,Ability,Hidden,Pokemon
+0,Adaptability,0,Eevee
+1,Anticipation,1,Eevee
+2,Run Away,0,Eevee
+3,Adaptability,1,Corphish
+4,Hyper Cutter,0,Corphish
+5,Shell Armor,0,Corphish
+6,Adaptability,1,Crawdaunt
+7,Hyper Cutter,0,Crawdaunt
+8,Shell Armor,0,Crawdaunt
+9,Adaptability,1,Feebas
+10,Oblivious,0,Feebas
+11,Swift Swim,0,Feebas
+12,Adaptability,1,Skrelp
+13,Poison Point,0,Skrelp
+14,Poison Touch,0,Skrelp
+15,Adaptability,1,Dragalge
+16,Poison Point,0,Dragalge
+17,Poison Touch,0,Dragalge
+18,Adaptability,1,Yungoos
+19,Stakeout,0,Yungoos
+20,Strong Jaw,0,Yungoos
+21,Adaptability,1,Gumshoos
+22,Stakeout,0,Gumshoos
+23,Strong Jaw,0,Gumshoos
+24,Adaptability,0,Mega Lucario
+25,Adaptability,0,Mega Beedrill
+26,Aerilate,0,Mega Pinsir
+27,Aerilate,0,Mega Salamence
+28,Aftermath,1,Voltorb
+29,Soundproof,0,Voltorb
+30,Static,0,Voltorb
+31,Aftermath,1,Electrode
+32,Soundproof,0,Electrode
+33,Static,0,Electrode
+34,Aftermath,0,Drifloon
+35,Flare Boost,1,Drifloon
+36,Unburden,0,Drifloon
+37,Aftermath,0,Drifblim
+38,Flare Boost,1,Drifblim
+39,Unburden,0,Drifblim
+40,Aftermath,0,Stunky
+41,Keen Eye,1,Stunky
+42,Stench,0,Stunky
+43,Aftermath,0,Skuntank
+44,Keen Eye,1,Skuntank
+45,Stench,0,Skuntank
+46,Aftermath,1,Trubbish
+47,Stench,0,Trubbish
+48,Sticky Hold,0,Trubbish
+49,Aftermath,1,Garbodor
+50,Stench,0,Garbodor
+51,Weak Armor,0,Garbodor
+52,Air Lock,0,Rayquaza
+53,Analytic,1,Magnemite
+54,Magnet Pull,0,Magnemite
+55,Sturdy,0,Magnemite
+56,Analytic,1,Magneton
+57,Magnet Pull,0,Magneton
+58,Sturdy,0,Magneton
+59,Analytic,1,Staryu
+60,Illuminate,0,Staryu
+61,Natural Cure,0,Staryu
+62,Analytic,1,Starmie
+63,Illuminate,0,Starmie
+64,Natural Cure,0,Starmie
+65,Analytic,1,Porygon
+66,Download,0,Porygon
+67,Trace,0,Porygon
+68,Analytic,1,Porygon2
+69,Download,0,Porygon2
+70,Trace,0,Porygon2
+71,Analytic,1,Magnezone
+72,Magnet Pull,0,Magnezone
+73,Sturdy,0,Magnezone
+74,Analytic,1,Patrat
+75,Keen Eye,0,Patrat
+76,Run Away,0,Patrat
+77,Analytic,1,Watchog
+78,Illuminate,0,Watchog
+79,Keen Eye,0,Watchog
+80,Analytic,1,Elgyem
+81,Synchronize,0,Elgyem
+82,Telepathy,0,Elgyem
+83,Analytic,1,Beheeyem
+84,Synchronize,0,Beheeyem
+85,Telepathy,0,Beheeyem
+86,Anger Point,0,Mankey
+87,Defiant,1,Mankey
+88,Vital Spirit,0,Mankey
+89,Anger Point,0,Primeape
+90,Defiant,1,Primeape
+91,Vital Spirit,0,Primeape
+92,Anger Point,0,Tauros
+93,Intimidate,0,Tauros
+94,Sheer Force,1,Tauros
+95,Anger Point,1,Camerupt
+96,Magma Armor,0,Camerupt
+97,Solid Rock,0,Camerupt
+98,Anger Point,1,Sandile
+99,Intimidate,0,Sandile
+100,Moxie,0,Sandile
+101,Anger Point,1,Krokorok
+102,Intimidate,0,Krokorok
+103,Moxie,0,Krokorok
+104,Anger Point,1,Krookodile
+105,Intimidate,0,Krookodile
+106,Moxie,0,Krookodile
+107,Anger Point,1,Crabrawler
+108,Hyper Cutter,0,Crabrawler
+109,Iron Fist,0,Crabrawler
+110,Anger Point,1,Crabominable
+111,Hyper Cutter,0,Crabominable
+112,Iron Fist,0,Crabominable
+113,Anticipation,0,Barboach
+114,Hydration,1,Barboach
+115,Oblivious,0,Barboach
+116,Anticipation,0,Whiscash
+117,Hydration,1,Whiscash
+118,Oblivious,0,Whiscash
+119,Anticipation,0,Croagunk
+120,Dry Skin,0,Croagunk
+121,Poison Touch,1,Croagunk
+122,Anticipation,0,Toxicroak
+123,Dry Skin,0,Toxicroak
+124,Poison Touch,1,Toxicroak
+125,Anticipation,1,Ferrothorn
+126,Iron Barbs,0,Ferrothorn
+127,Anticipation,0,Hatenna
+128,Healer,0,Hatenna
+129,Magic Bounce,1,Hatenna
+130,Anticipation,0,Hattrem
+131,Healer,0,Hattrem
+132,Magic Bounce,1,Hattrem
+133,Anticipation,0,Hatterene
+134,Healer,0,Hatterene
+135,Magic Bounce,1,Hatterene
+136,Arena Trap,0,Diglett
+137,Sand Force,1,Diglett
+138,Sand Veil,0,Diglett
+139,Arena Trap,0,Dugtrio
+140,Sand Force,1,Dugtrio
+141,Sand Veil,0,Dugtrio
+142,Arena Trap,0,Trapinch
+143,Hyper Cutter,0,Trapinch
+144,Sheer Force,1,Trapinch
+145,Aroma Veil,1,Spritzee
+146,Healer,0,Spritzee
+147,Aroma Veil,1,Aromatisse
+148,Healer,0,Aromatisse
+149,Aroma Veil,1,Milcery
+150,Sweet Veil,0,Milcery
+151,Aroma Veil,1,Alcremie
+152,Sweet Veil,0,Alcremie
+153,Bad Dreams,0,Darkrai
+154,Ball Fetch,0,Yamper
+155,Rattled,1,Yamper
+156,Battery,0,Charjabug
+157,Battle Armor,1,Cubone
+158,Lightning Rod,0,Cubone
+159,Rock Head,0,Cubone
+160,Battle Armor,1,Marowak
+161,Lightning Rod,0,Marowak
+162,Rock Head,0,Marowak
+163,Battle Armor,0,Kabuto
+164,Swift Swim,0,Kabuto
+165,Weak Armor,1,Kabuto
+166,Battle Armor,0,Kabutops
+167,Swift Swim,0,Kabutops
+168,Weak Armor,1,Kabutops
+169,Battle Armor,0,Anorith
+170,Swift Swim,1,Anorith
+171,Battle Armor,0,Armaldo
+172,Swift Swim,1,Armaldo
+173,Battle Armor,0,Skorupi
+174,Keen Eye,1,Skorupi
+175,Sniper,0,Skorupi
+176,Battle Armor,0,Drapion
+177,Keen Eye,1,Drapion
+178,Sniper,0,Drapion
+179,Battle Armor,0,Perrserker
+180,Steely Spirit,1,Perrserker
+181,Tough Claws,0,Perrserker
+182,Battle Armor,0,Falinks
+183,Defiant,1,Falinks
+184,Beast Boost,0,Nihilego
+185,Beast Boost,0,Buzzwole
+186,Beast Boost,0,Pheromosa
+187,Beast Boost,0,Xurkitree
+188,Beast Boost,0,Celesteela
+189,Beast Boost,0,Kartana
+190,Beast Boost,0,Guzzlord
+191,Beast Boost,0,Poipole
+192,Beast Boost,0,Naganadel
+193,Beast Boost,0,Stakataka
+194,Beast Boost,0,Blacephalon
+195,Berserk,0,Drampa
+196,Cloud Nine,1,Drampa
+197,Sap Sipper,0,Drampa
+198,Big Pecks,1,Pidgey
+199,Keen Eye,0,Pidgey
+200,Tangled Feet,0,Pidgey
+201,Big Pecks,1,Pidgeotto
+202,Keen Eye,0,Pidgeotto
+203,Tangled Feet,0,Pidgeotto
+204,Big Pecks,1,Pidgeot
+205,Keen Eye,0,Pidgeot
+206,Tangled Feet,0,Pidgeot
+207,Big Pecks,1,Chatot
+208,Keen Eye,0,Chatot
+209,Tangled Feet,0,Chatot
+210,Big Pecks,0,Pidove
+211,Rivalry,1,Pidove
+212,Super Luck,0,Pidove
+213,Big Pecks,0,Tranquill
+214,Rivalry,1,Tranquill
+215,Super Luck,0,Tranquill
+216,Big Pecks,0,Unfezant
+217,Rivalry,1,Unfezant
+218,Super Luck,0,Unfezant
+219,Big Pecks,0,Ducklett
+220,Hydration,1,Ducklett
+221,Keen Eye,0,Ducklett
+222,Big Pecks,0,Swanna
+223,Hydration,1,Swanna
+224,Keen Eye,0,Swanna
+225,Big Pecks,0,Vullaby
+226,Overcoat,0,Vullaby
+227,Weak Armor,1,Vullaby
+228,Big Pecks,0,Mandibuzz
+229,Overcoat,0,Mandibuzz
+230,Weak Armor,1,Mandibuzz
+231,Big Pecks,0,Fletchling
+232,Gale Wings,1,Fletchling
+233,Big Pecks,1,Rookidee
+234,Keen Eye,0,Rookidee
+235,Unnerve,0,Rookidee
+236,Big Pecks,1,Corvisquire
+237,Keen Eye,0,Corvisquire
+238,Unnerve,0,Corvisquire
+239,Blaze,0,Charmander
+240,Solar Power,1,Charmander
+241,Blaze,0,Charmeleon
+242,Solar Power,1,Charmeleon
+243,Blaze,0,Charizard
+244,Solar Power,1,Charizard
+245,Blaze,0,Cyndaquil
+246,Flash Fire,1,Cyndaquil
+247,Blaze,0,Quilava
+248,Flash Fire,1,Quilava
+249,Blaze,0,Typhlosion
+250,Flash Fire,1,Typhlosion
+251,Blaze,0,Torchic
+252,Speed Boost,1,Torchic
+253,Blaze,0,Combusken
+254,Speed Boost,1,Combusken
+255,Blaze,0,Blaziken
+256,Speed Boost,1,Blaziken
+257,Blaze,0,Chimchar
+258,Iron Fist,1,Chimchar
+259,Blaze,0,Monferno
+260,Iron Fist,1,Monferno
+261,Blaze,0,Infernape
+262,Iron Fist,1,Infernape
+263,Blaze,0,Tepig
+264,Thick Fat,1,Tepig
+265,Blaze,0,Pignite
+266,Thick Fat,1,Pignite
+267,Blaze,0,Emboar
+268,Reckless,1,Emboar
+269,Blaze,1,Pansear
+270,Gluttony,0,Pansear
+271,Blaze,1,Simisear
+272,Gluttony,0,Simisear
+273,Blaze,0,Fennekin
+274,Magician,1,Fennekin
+275,Blaze,0,Braixen
+276,Magician,1,Braixen
+277,Blaze,0,Delphox
+278,Magician,1,Delphox
+279,Blaze,0,Litten
+280,Intimidate,1,Litten
+281,Blaze,0,Torracat
+282,Intimidate,1,Torracat
+283,Blaze,0,Incineroar
+284,Intimidate,1,Incineroar
+285,Blaze,0,Scorbunny
+286,Libero,1,Scorbunny
+287,Blaze,0,Raboot
+288,Libero,1,Raboot
+289,Blaze,0,Cinderace
+290,Libero,1,Cinderace
+291,Bulletproof,1,Chespin
+292,Overgrow,0,Chespin
+293,Bulletproof,1,Quilladin
+294,Overgrow,0,Quilladin
+295,Bulletproof,1,Chesnaught
+296,Overgrow,0,Chesnaught
+297,Bulletproof,1,Wooloo
+298,Fluffy,0,Wooloo
+299,Run Away,0,Wooloo
+300,Bulletproof,1,Dubwool
+301,Fluffy,0,Dubwool
+302,Steadfast,0,Dubwool
+303,Bulletproof,1,Applin
+304,Gluttony,0,Applin
+305,Ripen,0,Applin
+306,Cheek Pouch,0,Bunnelby
+307,Huge Power,1,Bunnelby
+308,Pickup,0,Bunnelby
+309,Cheek Pouch,0,Diggersby
+310,Huge Power,1,Diggersby
+311,Pickup,0,Diggersby
+312,Cheek Pouch,0,Dedenne
+313,Pickup,0,Dedenne
+314,Plus,1,Dedenne
+315,Cheek Pouch,0,Skwovet
+316,Gluttony,1,Skwovet
+317,Cheek Pouch,0,Greedent
+318,Gluttony,1,Greedent
+319,Chilling Neigh,0,Glastrier
+320,Chlorophyll,1,Bulbasaur
+321,Overgrow,0,Bulbasaur
+322,Chlorophyll,1,Ivysaur
+323,Overgrow,0,Ivysaur
+324,Chlorophyll,1,Venusaur
+325,Overgrow,0,Venusaur
+326,Chlorophyll,0,Oddish
+327,Run Away,1,Oddish
+328,Chlorophyll,0,Gloom
+329,Stench,1,Gloom
+330,Chlorophyll,0,Vileplume
+331,Effect Spore,1,Vileplume
+332,Chlorophyll,0,Bellsprout
+333,Gluttony,1,Bellsprout
+334,Chlorophyll,0,Weepinbell
+335,Gluttony,1,Weepinbell
+336,Chlorophyll,0,Victreebel
+337,Gluttony,1,Victreebel
+338,Chlorophyll,0,Exeggcute
+339,Harvest,1,Exeggcute
+340,Chlorophyll,0,Exeggutor
+341,Harvest,1,Exeggutor
+342,Chlorophyll,0,Tangela
+343,Leaf Guard,0,Tangela
+344,Regenerator,1,Tangela
+345,Chlorophyll,0,Bellossom
+346,Healer,1,Bellossom
+347,Chlorophyll,0,Hoppip
+348,Infiltrator,1,Hoppip
+349,Leaf Guard,0,Hoppip
+350,Chlorophyll,0,Skiploom
+351,Infiltrator,1,Skiploom
+352,Leaf Guard,0,Skiploom
+353,Chlorophyll,0,Jumpluff
+354,Infiltrator,1,Jumpluff
+355,Leaf Guard,0,Jumpluff
+356,Chlorophyll,0,Sunkern
+357,Early Bird,1,Sunkern
+358,Solar Power,0,Sunkern
+359,Chlorophyll,0,Sunflora
+360,Early Bird,1,Sunflora
+361,Solar Power,0,Sunflora
+362,Chlorophyll,0,Seedot
+363,Early Bird,0,Seedot
+364,Pickpocket,1,Seedot
+365,Chlorophyll,0,Nuzleaf
+366,Early Bird,0,Nuzleaf
+367,Pickpocket,1,Nuzleaf
+368,Chlorophyll,0,Shiftry
+369,Early Bird,0,Shiftry
+370,Pickpocket,1,Shiftry
+371,Chlorophyll,0,Tropius
+372,Harvest,1,Tropius
+373,Solar Power,0,Tropius
+374,Chlorophyll,0,Cherubi
+375,Chlorophyll,0,Tangrowth
+376,Leaf Guard,0,Tangrowth
+377,Regenerator,1,Tangrowth
+378,Chlorophyll,1,Leafeon
+379,Leaf Guard,0,Leafeon
+380,Chlorophyll,0,Sewaddle
+381,Overcoat,1,Sewaddle
+382,Swarm,0,Sewaddle
+383,Chlorophyll,0,Swadloon
+384,Leaf Guard,0,Swadloon
+385,Overcoat,1,Swadloon
+386,Chlorophyll,0,Leavanny
+387,Overcoat,1,Leavanny
+388,Swarm,0,Leavanny
+389,Chlorophyll,1,Cottonee
+390,Infiltrator,0,Cottonee
+391,Prankster,0,Cottonee
+392,Chlorophyll,1,Whimsicott
+393,Infiltrator,0,Whimsicott
+394,Prankster,0,Whimsicott
+395,Chlorophyll,0,Petilil
+396,Leaf Guard,1,Petilil
+397,Own Tempo,0,Petilil
+398,Chlorophyll,0,Lilligant
+399,Leaf Guard,1,Lilligant
+400,Own Tempo,0,Lilligant
+401,Chlorophyll,0,Maractus
+402,Storm Drain,1,Maractus
+403,Water Absorb,0,Maractus
+404,Chlorophyll,0,Deerling
+405,Sap Sipper,0,Deerling
+406,Serene Grace,1,Deerling
+407,Chlorophyll,0,Sawsbuck
+408,Sap Sipper,0,Sawsbuck
+409,Serene Grace,1,Sawsbuck
+410,Clear Body,0,Tentacool
+411,Liquid Ooze,0,Tentacool
+412,Rain Dish,1,Tentacool
+413,Clear Body,0,Tentacruel
+414,Liquid Ooze,0,Tentacruel
+415,Rain Dish,1,Tentacruel
+416,Clear Body,0,Beldum
+417,Light Metal,1,Beldum
+418,Clear Body,0,Metang
+419,Light Metal,1,Metang
+420,Clear Body,0,Metagross
+421,Light Metal,1,Metagross
+422,Clear Body,0,Regirock
+423,Sturdy,1,Regirock
+424,Clear Body,0,Regice
+425,Ice Body,1,Regice
+426,Clear Body,0,Registeel
+427,Light Metal,1,Registeel
+428,Clear Body,1,Klink
+429,Minus,0,Klink
+430,Plus,0,Klink
+431,Clear Body,1,Klang
+432,Minus,0,Klang
+433,Plus,0,Klang
+434,Clear Body,1,Klinklang
+435,Minus,0,Klinklang
+436,Plus,0,Klinklang
+437,Clear Body,0,Carbink
+438,Sturdy,1,Carbink
+439,Clear Body,0,Diancie
+440,Clear Body,0,Dreepy
+441,Cursed Body,1,Dreepy
+442,Infiltrator,0,Dreepy
+443,Clear Body,0,Drakloak
+444,Cursed Body,1,Drakloak
+445,Infiltrator,0,Drakloak
+446,Clear Body,0,Dragapult
+447,Cursed Body,1,Dragapult
+448,Infiltrator,0,Dragapult
+449,Cloud Nine,0,Psyduck
+450,Damp,0,Psyduck
+451,Swift Swim,1,Psyduck
+452,Cloud Nine,0,Golduck
+453,Damp,0,Golduck
+454,Swift Swim,1,Golduck
+455,Cloud Nine,1,Lickitung
+456,Oblivious,0,Lickitung
+457,Own Tempo,0,Lickitung
+458,Cloud Nine,1,Swablu
+459,Natural Cure,0,Swablu
+460,Cloud Nine,1,Altaria
+461,Natural Cure,0,Altaria
+462,Cloud Nine,1,Lickilicky
+463,Oblivious,0,Lickilicky
+464,Own Tempo,0,Lickilicky
+465,Color Change,0,Kecleon
+466,Protean,1,Kecleon
+467,Comatose,0,Komala
+468,Competitive,0,Jigglypuff
+469,Cute Charm,0,Jigglypuff
+470,Friend Guard,1,Jigglypuff
+471,Competitive,0,Wigglytuff
+472,Cute Charm,0,Wigglytuff
+473,Frisk,1,Wigglytuff
+474,Competitive,0,Igglybuff
+475,Cute Charm,0,Igglybuff
+476,Friend Guard,1,Igglybuff
+477,Competitive,0,Milotic
+478,Cute Charm,1,Milotic
+479,Marvel Scale,0,Milotic
+480,Competitive,0,Gothita
+481,Frisk,0,Gothita
+482,Shadow Tag,1,Gothita
+483,Competitive,0,Gothorita
+484,Frisk,0,Gothorita
+485,Shadow Tag,1,Gothorita
+486,Competitive,0,Gothitelle
+487,Frisk,0,Gothitelle
+488,Shadow Tag,1,Gothitelle
+489,Competitive,1,Boltund
+490,Strong Jaw,0,Boltund
+491,Competitive,1,Meowstic Female
+492,Infiltrator,0,Meowstic Female
+493,Keen Eye,0,Meowstic Female
+494,Compound Eyes,0,Butterfree
+495,Tinted Lens,1,Butterfree
+496,Compound Eyes,0,Venonat
+497,Run Away,1,Venonat
+498,Tinted Lens,0,Venonat
+499,Compound Eyes,0,Yanma
+500,Frisk,1,Yanma
+501,Speed Boost,0,Yanma
+502,Compound Eyes,1,Dustox
+503,Shield Dust,0,Dustox
+504,Compound Eyes,0,Nincada
+505,Run Away,1,Nincada
+506,Compound Eyes,0,Joltik
+507,Swarm,1,Joltik
+508,Unnerve,0,Joltik
+509,Compound Eyes,0,Galvantula
+510,Swarm,1,Galvantula
+511,Unnerve,0,Galvantula
+512,Compound Eyes,0,Scatterbug
+513,Friend Guard,1,Scatterbug
+514,Shield Dust,0,Scatterbug
+515,Compound Eyes,0,Vivillon
+516,Friend Guard,1,Vivillon
+517,Shield Dust,0,Vivillon
+518,Compound Eyes,0,Blipbug
+519,Swarm,0,Blipbug
+520,Telepathy,1,Blipbug
+521,Compound Eyes,0,Dottler
+522,Swarm,0,Dottler
+523,Telepathy,1,Dottler
+524,Contrary,1,Shuckle
+525,Gluttony,0,Shuckle
+526,Sturdy,0,Shuckle
+527,Contrary,1,Spinda
+528,Own Tempo,0,Spinda
+529,Tangled Feet,0,Spinda
+530,Contrary,1,Snivy
+531,Overgrow,0,Snivy
+532,Contrary,1,Servine
+533,Overgrow,0,Servine
+534,Contrary,1,Serperior
+535,Overgrow,0,Serperior
+536,Contrary,0,Inkay
+537,Infiltrator,1,Inkay
+538,Suction Cups,0,Inkay
+539,Contrary,0,Malamar
+540,Infiltrator,1,Malamar
+541,Suction Cups,0,Malamar
+542,Contrary,1,Fomantis
+543,Leaf Guard,0,Fomantis
+544,Contrary,1,Lurantis
+545,Leaf Guard,0,Lurantis
+546,Corrosion,0,Salandit
+547,Oblivious,1,Salandit
+548,Corrosion,0,Salazzle
+549,Oblivious,1,Salazzle
+550,Cotton Down,0,Gossifleur
+551,Effect Spore,1,Gossifleur
+552,Regenerator,0,Gossifleur
+553,Cotton Down,0,Eldegoss
+554,Effect Spore,1,Eldegoss
+555,Regenerator,0,Eldegoss
+556,Cursed Body,0,Gengar
+557,Cursed Body,1,Shuppet
+558,Frisk,0,Shuppet
+559,Insomnia,0,Shuppet
+560,Cursed Body,1,Banette
+561,Frisk,0,Banette
+562,Insomnia,0,Banette
+563,Cursed Body,1,Froslass
+564,Snow Cloak,0,Froslass
+565,Cursed Body,0,Frillish
+566,Damp,1,Frillish
+567,Water Absorb,0,Frillish
+568,Cursed Body,0,Jellicent
+569,Damp,1,Jellicent
+570,Water Absorb,0,Jellicent
+571,Cursed Body,1,Sinistea
+572,Weak Armor,0,Sinistea
+573,Cursed Body,1,Polteageist
+574,Weak Armor,0,Polteageist
+575,Cursed Body,0,Alolan Marowak
+576,Lightning Rod,0,Alolan Marowak
+577,Rock Head,1,Alolan Marowak
+578,Cute Charm,0,Clefairy
+579,Friend Guard,1,Clefairy
+580,Magic Guard,0,Clefairy
+581,Cute Charm,0,Clefable
+582,Magic Guard,0,Clefable
+583,Unaware,1,Clefable
+584,Cute Charm,0,Cleffa
+585,Friend Guard,1,Cleffa
+586,Magic Guard,0,Cleffa
+587,Cute Charm,0,Skitty
+588,Normalize,0,Skitty
+589,Wonder Skin,1,Skitty
+590,Cute Charm,0,Delcatty
+591,Normalize,0,Delcatty
+592,Wonder Skin,1,Delcatty
+593,Cute Charm,0,Lopunny
+594,Klutz,0,Lopunny
+595,Limber,1,Lopunny
+596,Cute Charm,0,Minccino
+597,Skill Link,1,Minccino
+598,Technician,0,Minccino
+599,Cute Charm,0,Cinccino
+600,Skill Link,1,Cinccino
+601,Technician,0,Cinccino
+602,Cute Charm,0,Sylveon
+603,Pixilate,1,Sylveon
+604,Cute Charm,1,Stufful
+605,Fluffy,0,Stufful
+606,Klutz,0,Stufful
+607,Damp,1,Paras
+608,Dry Skin,0,Paras
+609,Effect Spore,0,Paras
+610,Damp,1,Parasect
+611,Dry Skin,0,Parasect
+612,Effect Spore,0,Parasect
+613,Damp,0,Poliwag
+614,Swift Swim,1,Poliwag
+615,Water Absorb,0,Poliwag
+616,Damp,0,Poliwhirl
+617,Swift Swim,1,Poliwhirl
+618,Water Absorb,0,Poliwhirl
+619,Damp,0,Poliwrath
+620,Swift Swim,1,Poliwrath
+621,Water Absorb,0,Poliwrath
+622,Damp,1,Horsea
+623,Sniper,0,Horsea
+624,Swift Swim,0,Horsea
+625,Damp,1,Seadra
+626,Poison Point,0,Seadra
+627,Sniper,0,Seadra
+628,Damp,0,Politoed
+629,Drizzle,1,Politoed
+630,Water Absorb,0,Politoed
+631,Damp,0,Wooper
+632,Unaware,1,Wooper
+633,Water Absorb,0,Wooper
+634,Damp,0,Quagsire
+635,Unaware,1,Quagsire
+636,Water Absorb,0,Quagsire
+637,Damp,1,Kingdra
+638,Sniper,0,Kingdra
+639,Swift Swim,0,Kingdra
+640,Damp,1,Mudkip
+641,Torrent,0,Mudkip
+642,Damp,1,Marshtomp
+643,Torrent,0,Marshtomp
+644,Damp,1,Swampert
+645,Torrent,0,Swampert
+646,Dark Aura,0,Yveltal
+647,Dazzling,0,Bruxish
+648,Strong Jaw,0,Bruxish
+649,Wonder Skin,1,Bruxish
+650,Defeatist,0,Archen
+651,Defeatist,0,Archeops
+652,Defiant,1,Piplup
+653,Torrent,0,Piplup
+654,Defiant,1,Prinplup
+655,Torrent,0,Prinplup
+656,Defiant,1,Empoleon
+657,Torrent,0,Empoleon
+658,Defiant,1,Purugly
+659,Own Tempo,0,Purugly
+660,Thick Fat,0,Purugly
+661,Defiant,0,Pawniard
+662,Inner Focus,0,Pawniard
+663,Pressure,1,Pawniard
+664,Defiant,0,Bisharp
+665,Inner Focus,0,Bisharp
+666,Pressure,1,Bisharp
+667,Defiant,1,Braviary
+668,Keen Eye,0,Braviary
+669,Sheer Force,0,Braviary
+670,Defiant,1,Passimian
+671,Receiver,0,Passimian
+672,Defiant,1,Obstagoon
+673,Guts,0,Obstagoon
+674,Reckless,0,Obstagoon
+675,Delta Stream,0,Mega Rayquaza
+676,Desolate Land,0,Primal Groudon
+677,Download,0,Genesect
+678,Dragons Maw,0,Regidrago
+679,Drizzle,0,Pelipper
+680,Keen Eye,0,Pelipper
+681,Rain Dish,1,Pelipper
+682,Drizzle,0,Kyogre
+683,Drought,1,Vulpix
+684,Flash Fire,0,Vulpix
+685,Drought,1,Ninetales
+686,Flash Fire,0,Ninetales
+687,Drought,0,Torkoal
+688,Shell Armor,1,Torkoal
+689,White Smoke,0,Torkoal
+690,Drought,0,Groudon
+691,Drought,0,Mega Charizard Y
+692,Drought,0,Mega Charizard X
+693,Dry Skin,1,Jynx
+694,Forewarn,0,Jynx
+695,Oblivious,0,Jynx
+696,Dry Skin,0,Helioptile
+697,Sand Veil,0,Helioptile
+698,Solar Power,1,Helioptile
+699,Dry Skin,0,Heliolisk
+700,Sand Veil,0,Heliolisk
+701,Solar Power,1,Heliolisk
+702,Early Bird,0,Doduo
+703,Run Away,0,Doduo
+704,Tangled Feet,1,Doduo
+705,Early Bird,0,Dodrio
+706,Run Away,0,Dodrio
+707,Tangled Feet,1,Dodrio
+708,Early Bird,0,Kangaskhan
+709,Inner Focus,1,Kangaskhan
+710,Scrappy,0,Kangaskhan
+711,Early Bird,0,Ledyba
+712,Rattled,1,Ledyba
+713,Swarm,0,Ledyba
+714,Early Bird,0,Ledian
+715,Iron Fist,1,Ledian
+716,Swarm,0,Ledian
+717,Early Bird,0,Natu
+718,Magic Bounce,1,Natu
+719,Synchronize,0,Natu
+720,Early Bird,0,Xatu
+721,Magic Bounce,1,Xatu
+722,Synchronize,0,Xatu
+723,Early Bird,0,Girafarig
+724,Inner Focus,0,Girafarig
+725,Sap Sipper,1,Girafarig
+726,Early Bird,0,Houndour
+727,Flash Fire,0,Houndour
+728,Unnerve,1,Houndour
+729,Early Bird,0,Houndoom
+730,Flash Fire,0,Houndoom
+731,Unnerve,1,Houndoom
+732,Effect Spore,0,Shroomish
+733,Poison Heal,0,Shroomish
+734,Quick Feet,1,Shroomish
+735,Effect Spore,0,Breloom
+736,Poison Heal,0,Breloom
+737,Technician,1,Breloom
+738,Effect Spore,0,Foongus
+739,Regenerator,1,Foongus
+740,Effect Spore,0,Amoonguss
+741,Regenerator,1,Amoonguss
+742,Effect Spore,0,Morelull
+743,Illuminate,0,Morelull
+744,Rain Dish,1,Morelull
+745,Effect Spore,0,Shiinotic
+746,Illuminate,0,Shiinotic
+747,Rain Dish,1,Shiinotic
+748,Electric Surge,0,Tapu Koko
+749,Telepathy,1,Tapu Koko
+750,Electric Surge,1,Pincurchin
+751,Lightning Rod,0,Pincurchin
+752,Emergency Exit,0,Golisopod
+753,Fairy Aura,0,Xerneas
+754,Filter,0,Mega Aggron
+755,Flame Body,1,Ponyta
+756,Flash Fire,0,Ponyta
+757,Run Away,0,Ponyta
+758,Flame Body,1,Rapidash
+759,Flash Fire,0,Rapidash
+760,Run Away,0,Rapidash
+761,Flame Body,0,Magmar
+762,Vital Spirit,1,Magmar
+763,Flame Body,1,Moltres
+764,Pressure,0,Moltres
+765,Flame Body,0,Slugma
+766,Magma Armor,0,Slugma
+767,Weak Armor,1,Slugma
+768,Flame Body,0,Magcargo
+769,Magma Armor,0,Magcargo
+770,Weak Armor,1,Magcargo
+771,Flame Body,0,Magby
+772,Vital Spirit,1,Magby
+773,Flame Body,0,Magmortar
+774,Vital Spirit,1,Magmortar
+775,Flame Body,1,Heatran
+776,Flash Fire,0,Heatran
+777,Flame Body,0,Litwick
+778,Flash Fire,0,Litwick
+779,Infiltrator,1,Litwick
+780,Flame Body,0,Lampent
+781,Flash Fire,0,Lampent
+782,Infiltrator,1,Lampent
+783,Flame Body,0,Chandelure
+784,Flash Fire,0,Chandelure
+785,Infiltrator,1,Chandelure
+786,Flame Body,0,Larvesta
+787,Swarm,1,Larvesta
+788,Flame Body,0,Volcarona
+789,Swarm,1,Volcarona
+790,Flame Body,0,Fletchinder
+791,Gale Wings,1,Fletchinder
+792,Flame Body,0,Talonflame
+793,Gale Wings,1,Talonflame
+794,Flame Body,0,Carkol
+795,Flash Fire,1,Carkol
+796,Steam Engine,0,Carkol
+797,Flame Body,0,Coalossal
+798,Flash Fire,1,Coalossal
+799,Steam Engine,0,Coalossal
+800,Flame Body,1,Sizzlipede
+801,Flash Fire,0,Sizzlipede
+802,White Smoke,0,Sizzlipede
+803,Flame Body,1,Centiskorch
+804,Flash Fire,0,Centiskorch
+805,White Smoke,0,Centiskorch
+806,Flash Fire,0,Growlithe
+807,Intimidate,0,Growlithe
+808,Justified,1,Growlithe
+809,Flash Fire,0,Arcanine
+810,Intimidate,0,Arcanine
+811,Justified,1,Arcanine
+812,Flash Fire,0,Flareon
+813,Guts,1,Flareon
+814,Flash Fire,0,Heatmor
+815,Gluttony,0,Heatmor
+816,White Smoke,1,Heatmor
+817,Flash Fire,1,Rolycoly
+818,Heatproof,0,Rolycoly
+819,Steam Engine,0,Rolycoly
+820,Flower Gift,0,Cherrim
+821,Flower Veil,0,Flabébé
+822,Symbiosis,1,Flabébé
+823,Flower Veil,0,Floette
+824,Symbiosis,1,Floette
+825,Flower Veil,0,Florges
+826,Symbiosis,1,Florges
+827,Flower Veil,0,Comfey
+828,Natural Cure,1,Comfey
+829,Triage,0,Comfey
+830,Fluffy,0,Bewear
+831,Klutz,0,Bewear
+832,Unnerve,1,Bewear
+833,Forecast,0,Castform
+834,Forewarn,0,Drowzee
+835,Inner Focus,1,Drowzee
+836,Insomnia,0,Drowzee
+837,Forewarn,0,Hypno
+838,Inner Focus,1,Hypno
+839,Insomnia,0,Hypno
+840,Forewarn,0,Smoochum
+841,Hydration,1,Smoochum
+842,Oblivious,0,Smoochum
+843,Forewarn,0,Munna
+844,Synchronize,0,Munna
+845,Telepathy,1,Munna
+846,Forewarn,0,Musharna
+847,Synchronize,0,Musharna
+848,Telepathy,1,Musharna
+849,Friend Guard,1,Happiny
+850,Natural Cure,0,Happiny
+851,Serene Grace,0,Happiny
+852,Friend Guard,1,Spewpa
+853,Shed Skin,0,Spewpa
+854,Frisk,1,Sentret
+855,Keen Eye,0,Sentret
+856,Run Away,0,Sentret
+857,Frisk,1,Furret
+858,Keen Eye,0,Furret
+859,Run Away,0,Furret
+860,Frisk,0,Stantler
+861,Intimidate,0,Stantler
+862,Sap Sipper,1,Stantler
+863,Frisk,1,Duskull
+864,Levitate,0,Duskull
+865,Frisk,1,Dusclops
+866,Pressure,0,Dusclops
+867,Frisk,1,Yanmega
+868,Speed Boost,0,Yanmega
+869,Tinted Lens,0,Yanmega
+870,Frisk,1,Dusknoir
+871,Pressure,0,Dusknoir
+872,Frisk,0,Phantump
+873,Harvest,1,Phantump
+874,Natural Cure,0,Phantump
+875,Frisk,0,Trevenant
+876,Harvest,1,Trevenant
+877,Natural Cure,0,Trevenant
+878,Frisk,0,Noibat
+879,Infiltrator,0,Noibat
+880,Telepathy,1,Noibat
+881,Frisk,0,Noivern
+882,Infiltrator,0,Noivern
+883,Telepathy,1,Noivern
+884,Frisk,0,Orbeetle
+885,Swarm,0,Orbeetle
+886,Telepathy,1,Orbeetle
+887,Frisk,0,Impidimp
+888,Pickpocket,1,Impidimp
+889,Prankster,0,Impidimp
+890,Frisk,0,Morgrem
+891,Pickpocket,1,Morgrem
+892,Prankster,0,Morgrem
+893,Frisk,0,Grimmsnarl
+894,Pickpocket,1,Grimmsnarl
+895,Prankster,0,Grimmsnarl
+896,Frisk,0,Alolan Exeggutor
+897,Harvest,1,Alolan Exeggutor
+898,Full Metal Body,0,Solgaleo
+899,Fur Coat,0,Furfrou
+900,Fur Coat,0,Alolan Persian
+901,Rattled,1,Alolan Persian
+902,Technician,0,Alolan Persian
+903,Galvanize,1,Alolan Geodude
+904,Magnet Pull,0,Alolan Geodude
+905,Sturdy,0,Alolan Geodude
+906,Galvanize,1,Alolan Graveler
+907,Magnet Pull,0,Alolan Graveler
+908,Sturdy,0,Alolan Graveler
+909,Gluttony,1,Snorlax
+910,Immunity,0,Snorlax
+911,Thick Fat,0,Snorlax
+912,Gluttony,0,Zigzagoon
+913,Pickup,0,Zigzagoon
+914,Quick Feet,1,Zigzagoon
+915,Gluttony,0,Linoone
+916,Pickup,0,Linoone
+917,Quick Feet,1,Linoone
+918,Gluttony,1,Gulpin
+919,Liquid Ooze,0,Gulpin
+920,Sticky Hold,0,Gulpin
+921,Gluttony,1,Swalot
+922,Liquid Ooze,0,Swalot
+923,Sticky Hold,0,Swalot
+924,Gluttony,1,Spoink
+925,Own Tempo,0,Spoink
+926,Thick Fat,0,Spoink
+927,Gluttony,1,Grumpig
+928,Own Tempo,0,Grumpig
+929,Thick Fat,0,Grumpig
+930,Gluttony,1,Munchlax
+931,Pickup,0,Munchlax
+932,Thick Fat,0,Munchlax
+933,Gluttony,0,Pansage
+934,Overgrow,1,Pansage
+935,Gluttony,0,Simisage
+936,Overgrow,1,Simisage
+937,Gluttony,0,Panpour
+938,Torrent,1,Panpour
+939,Gluttony,0,Simipour
+940,Torrent,1,Simipour
+941,Gluttony,0,Flapple
+942,Hustle,1,Flapple
+943,Ripen,0,Flapple
+944,Gluttony,0,Appletun
+945,Ripen,0,Appletun
+946,Thick Fat,1,Appletun
+947,Gluttony,0,Alolan Rattata
+948,Hustle,0,Alolan Rattata
+949,Thick Fat,1,Alolan Rattata
+950,Gluttony,0,Alolan Raticate
+951,Hustle,0,Alolan Raticate
+952,Thick Fat,1,Alolan Raticate
+953,Gluttony,0,Alolan Grimer
+954,Poison Touch,0,Alolan Grimer
+955,Power Of Alchemy,1,Alolan Grimer
+956,Gooey,1,Goomy
+957,Hydration,0,Goomy
+958,Sap Sipper,0,Goomy
+959,Gooey,1,Sliggoo
+960,Hydration,0,Sliggoo
+961,Sap Sipper,0,Sliggoo
+962,Gooey,1,Goodra
+963,Hydration,0,Goodra
+964,Sap Sipper,0,Goodra
+965,Grass Pelt,1,Skiddo
+966,Sap Sipper,0,Skiddo
+967,Grass Pelt,1,Gogoat
+968,Sap Sipper,0,Gogoat
+969,Grassy Surge,0,Tapu Bulu
+970,Telepathy,1,Tapu Bulu
+971,Grassy Surge,1,Grookey
+972,Overgrow,0,Grookey
+973,Grassy Surge,1,Thwackey
+974,Overgrow,0,Thwackey
+975,Grassy Surge,1,Rillaboom
+976,Overgrow,0,Rillaboom
+977,Grim Neigh,0,Spectrier
+978,Gulp Missile,0,Cramorant
+979,Guts,0,Rattata
+980,Hustle,1,Rattata
+981,Run Away,0,Rattata
+982,Guts,0,Raticate
+983,Hustle,1,Raticate
+984,Run Away,0,Raticate
+985,Guts,0,Machop
+986,No Guard,0,Machop
+987,Steadfast,1,Machop
+988,Guts,0,Machoke
+989,No Guard,0,Machoke
+990,Steadfast,1,Machoke
+991,Guts,0,Machamp
+992,No Guard,0,Machamp
+993,Steadfast,1,Machamp
+994,Guts,0,Heracross
+995,Moxie,1,Heracross
+996,Swarm,0,Heracross
+997,Guts,0,Ursaring
+998,Quick Feet,0,Ursaring
+999,Unnerve,1,Ursaring
+1000,Guts,0,Tyrogue
+1001,Steadfast,0,Tyrogue
+1002,Vital Spirit,1,Tyrogue
+1003,Guts,0,Larvitar
+1004,Sand Veil,1,Larvitar
+1005,Guts,0,Taillow
+1006,Scrappy,1,Taillow
+1007,Guts,0,Swellow
+1008,Scrappy,1,Swellow
+1009,Guts,0,Makuhita
+1010,Sheer Force,1,Makuhita
+1011,Thick Fat,0,Makuhita
+1012,Guts,0,Hariyama
+1013,Sheer Force,1,Hariyama
+1014,Thick Fat,0,Hariyama
+1015,Guts,1,Shinx
+1016,Intimidate,0,Shinx
+1017,Rivalry,0,Shinx
+1018,Guts,1,Luxio
+1019,Intimidate,0,Luxio
+1020,Rivalry,0,Luxio
+1021,Guts,1,Luxray
+1022,Intimidate,0,Luxray
+1023,Rivalry,0,Luxray
+1024,Guts,0,Timburr
+1025,Iron Fist,1,Timburr
+1026,Sheer Force,0,Timburr
+1027,Guts,0,Gurdurr
+1028,Iron Fist,1,Gurdurr
+1029,Sheer Force,0,Gurdurr
+1030,Guts,0,Conkeldurr
+1031,Iron Fist,1,Conkeldurr
+1032,Sheer Force,0,Conkeldurr
+1033,Guts,0,Throh
+1034,Inner Focus,0,Throh
+1035,Mold Breaker,1,Throh
+1036,Healer,1,Chansey
+1037,Natural Cure,0,Chansey
+1038,Serene Grace,0,Chansey
+1039,Healer,1,Blissey
+1040,Natural Cure,0,Blissey
+1041,Serene Grace,0,Blissey
+1042,Healer,0,Audino
+1043,Klutz,1,Audino
+1044,Regenerator,0,Audino
+1045,Healer,0,Alomomola
+1046,Hydration,0,Alomomola
+1047,Regenerator,1,Alomomola
+1048,Healer,0,Mega Audino
+1049,Heatproof,0,Bronzor
+1050,Heavy Metal,1,Bronzor
+1051,Levitate,0,Bronzor
+1052,Heatproof,0,Bronzong
+1053,Heavy Metal,1,Bronzong
+1054,Levitate,0,Bronzong
+1055,Heavy Metal,1,Aron
+1056,Rock Head,0,Aron
+1057,Sturdy,0,Aron
+1058,Heavy Metal,1,Lairon
+1059,Rock Head,0,Lairon
+1060,Sturdy,0,Lairon
+1061,Heavy Metal,1,Aggron
+1062,Rock Head,0,Aggron
+1063,Sturdy,0,Aggron
+1064,Heavy Metal,1,Cufant
+1065,Sheer Force,0,Cufant
+1066,Heavy Metal,1,Copperajah
+1067,Sheer Force,0,Copperajah
+1068,Heavy Metal,0,Duraludon
+1069,Light Metal,0,Duraludon
+1070,Stalwart,1,Duraludon
+1071,Honey Gather,1,Teddiursa
+1072,Pickup,0,Teddiursa
+1073,Quick Feet,0,Teddiursa
+1074,Honey Gather,0,Combee
+1075,Hustle,1,Combee
+1076,Honey Gather,0,Cutiefly
+1077,Shield Dust,0,Cutiefly
+1078,Sweet Veil,1,Cutiefly
+1079,Honey Gather,0,Ribombee
+1080,Shield Dust,0,Ribombee
+1081,Sweet Veil,1,Ribombee
+1082,Huge Power,0,Marill
+1083,Sap Sipper,1,Marill
+1084,Thick Fat,0,Marill
+1085,Huge Power,0,Azumarill
+1086,Sap Sipper,1,Azumarill
+1087,Thick Fat,0,Azumarill
+1088,Huge Power,0,Azurill
+1089,Sap Sipper,1,Azurill
+1090,Thick Fat,0,Azurill
+1091,Huge Power,0,Mega Mawile
+1092,Hustle,1,Nidorina
+1093,Poison Point,0,Nidorina
+1094,Rivalry,0,Nidorina
+1095,Hustle,1,Nidorino
+1096,Poison Point,0,Nidorino
+1097,Rivalry,0,Nidorino
+1098,Hustle,0,Togepi
+1099,Serene Grace,0,Togepi
+1100,Super Luck,1,Togepi
+1101,Hustle,0,Togetic
+1102,Serene Grace,0,Togetic
+1103,Super Luck,1,Togetic
+1104,Hustle,0,Corsola
+1105,Natural Cure,0,Corsola
+1106,Regenerator,1,Corsola
+1107,Hustle,0,Remoraid
+1108,Moody,1,Remoraid
+1109,Sniper,0,Remoraid
+1110,Hustle,0,Delibird
+1111,Insomnia,1,Delibird
+1112,Vital Spirit,0,Delibird
+1113,Hustle,0,Togekiss
+1114,Serene Grace,0,Togekiss
+1115,Super Luck,1,Togekiss
+1116,Hustle,0,Darumaka
+1117,Inner Focus,1,Darumaka
+1118,Hustle,1,Rufflet
+1119,Keen Eye,0,Rufflet
+1120,Sheer Force,0,Rufflet
+1121,Hustle,0,Durant
+1122,Swarm,0,Durant
+1123,Truant,1,Durant
+1124,Hustle,0,Deino
+1125,Hustle,0,Zweilous
+1126,Hustle,0,Dracozolt
+1127,Sand Rush,1,Dracozolt
+1128,Volt Absorb,0,Dracozolt
+1129,Hydration,0,Seel
+1130,Ice Body,1,Seel
+1131,Thick Fat,0,Seel
+1132,Hydration,0,Dewgong
+1133,Ice Body,1,Dewgong
+1134,Thick Fat,0,Dewgong
+1135,Hydration,1,Lapras
+1136,Shell Armor,0,Lapras
+1137,Water Absorb,0,Lapras
+1138,Hydration,1,Vaporeon
+1139,Water Absorb,0,Vaporeon
+1140,Hydration,0,Wingull
+1141,Keen Eye,0,Wingull
+1142,Rain Dish,1,Wingull
+1143,Hydration,1,Gorebyss
+1144,Swift Swim,0,Gorebyss
+1145,Hydration,1,Luvdisc
+1146,Swift Swim,0,Luvdisc
+1147,Hydration,0,Phione
+1148,Hydration,0,Manaphy
+1149,Hydration,0,Tympole
+1150,Swift Swim,0,Tympole
+1151,Water Absorb,1,Tympole
+1152,Hydration,0,Palpitoad
+1153,Swift Swim,0,Palpitoad
+1154,Water Absorb,1,Palpitoad
+1155,Hydration,0,Shelmet
+1156,Overcoat,1,Shelmet
+1157,Shell Armor,0,Shelmet
+1158,Hydration,0,Accelgor
+1159,Sticky Hold,0,Accelgor
+1160,Unburden,1,Accelgor
+1161,Hyper Cutter,0,Krabby
+1162,Sheer Force,1,Krabby
+1163,Shell Armor,0,Krabby
+1164,Hyper Cutter,0,Kingler
+1165,Sheer Force,1,Kingler
+1166,Shell Armor,0,Kingler
+1167,Hyper Cutter,0,Pinsir
+1168,Mold Breaker,0,Pinsir
+1169,Moxie,1,Pinsir
+1170,Hyper Cutter,0,Gligar
+1171,Immunity,1,Gligar
+1172,Sand Veil,0,Gligar
+1173,Hyper Cutter,0,Mawile
+1174,Intimidate,0,Mawile
+1175,Sheer Force,1,Mawile
+1176,Hyper Cutter,0,Gliscor
+1177,Poison Heal,1,Gliscor
+1178,Sand Veil,0,Gliscor
+1179,Ice Body,0,Snorunt
+1180,Inner Focus,0,Snorunt
+1181,Moody,1,Snorunt
+1182,Ice Body,0,Glalie
+1183,Inner Focus,0,Glalie
+1184,Moody,1,Glalie
+1185,Ice Body,0,Spheal
+1186,Oblivious,1,Spheal
+1187,Thick Fat,0,Spheal
+1188,Ice Body,0,Sealeo
+1189,Oblivious,1,Sealeo
+1190,Thick Fat,0,Sealeo
+1191,Ice Body,0,Walrein
+1192,Oblivious,1,Walrein
+1193,Thick Fat,0,Walrein
+1194,Ice Body,1,Glaceon
+1195,Snow Cloak,0,Glaceon
+1196,Ice Body,0,Vanillite
+1197,Snow Cloak,0,Vanillite
+1198,Weak Armor,1,Vanillite
+1199,Ice Body,0,Vanillish
+1200,Snow Cloak,0,Vanillish
+1201,Weak Armor,1,Vanillish
+1202,Ice Body,0,Vanilluxe
+1203,Snow Warning,0,Vanilluxe
+1204,Weak Armor,1,Vanilluxe
+1205,Ice Body,0,Bergmite
+1206,Own Tempo,0,Bergmite
+1207,Sturdy,1,Bergmite
+1208,Ice Body,0,Avalugg
+1209,Own Tempo,0,Avalugg
+1210,Sturdy,1,Avalugg
+1211,Ice Body,0,Arctovish
+1212,Slush Rush,1,Arctovish
+1213,Water Absorb,0,Arctovish
+1214,Ice Scales,1,Snom
+1215,Shield Dust,0,Snom
+1216,Ice Scales,1,Frosmoth
+1217,Shield Dust,0,Frosmoth
+1218,Illuminate,0,Chinchou
+1219,Volt Absorb,0,Chinchou
+1220,Water Absorb,1,Chinchou
+1221,Illuminate,0,Lanturn
+1222,Volt Absorb,0,Lanturn
+1223,Water Absorb,1,Lanturn
+1224,Illuminate,0,Volbeat
+1225,Prankster,1,Volbeat
+1226,Swarm,0,Volbeat
+1227,Illusion,0,Zorua
+1228,Illusion,0,Zoroark
+1229,Immunity,0,Zangoose
+1230,Toxic Boost,1,Zangoose
+1231,Imposter,1,Ditto
+1232,Limber,0,Ditto
+1233,Infiltrator,1,Zubat
+1234,Inner Focus,0,Zubat
+1235,Infiltrator,1,Golbat
+1236,Inner Focus,0,Golbat
+1237,Infiltrator,1,Crobat
+1238,Inner Focus,0,Crobat
+1239,Infiltrator,1,Ninjask
+1240,Speed Boost,0,Ninjask
+1241,Infiltrator,1,Seviper
+1242,Shed Skin,0,Seviper
+1243,Infiltrator,1,Spiritomb
+1244,Pressure,0,Spiritomb
+1245,Infiltrator,0,Espurr
+1246,Keen Eye,0,Espurr
+1247,Own Tempo,1,Espurr
+1248,Infiltrator,0,Meowstic Male
+1249,Keen Eye,0,Meowstic Male
+1250,Prankster,1,Meowstic Male
+1251,Innards Out,0,Pyukumuku
+1252,Unaware,1,Pyukumuku
+1253,Inner Focus,0,Abra
+1254,Magic Guard,1,Abra
+1255,Synchronize,0,Abra
+1256,Inner Focus,0,Kadabra
+1257,Magic Guard,1,Kadabra
+1258,Synchronize,0,Kadabra
+1259,Inner Focus,0,Alakazam
+1260,Magic Guard,1,Alakazam
+1261,Synchronize,0,Alakazam
+1262,Inner Focus,1,Hitmonchan
+1263,Iron Fist,0,Hitmonchan
+1264,Keen Eye,0,Hitmonchan
+1265,Inner Focus,0,Dragonite
+1266,Multiscale,1,Dragonite
+1267,Inner Focus,1,Umbreon
+1268,Synchronize,0,Umbreon
+1269,Inner Focus,0,Sneasel
+1270,Keen Eye,0,Sneasel
+1271,Pickpocket,1,Sneasel
+1272,Inner Focus,1,Raikou
+1273,Pressure,0,Raikou
+1274,Inner Focus,1,Entei
+1275,Pressure,0,Entei
+1276,Inner Focus,1,Suicune
+1277,Pressure,0,Suicune
+1278,Inner Focus,0,Riolu
+1279,Prankster,1,Riolu
+1280,Steadfast,0,Riolu
+1281,Inner Focus,0,Lucario
+1282,Justified,1,Lucario
+1283,Steadfast,0,Lucario
+1284,Inner Focus,0,Sawk
+1285,Mold Breaker,1,Sawk
+1286,Sturdy,0,Sawk
+1287,Inner Focus,0,Mienfoo
+1288,Reckless,1,Mienfoo
+1289,Regenerator,0,Mienfoo
+1290,Inner Focus,0,Mienshao
+1291,Reckless,1,Mienshao
+1292,Regenerator,0,Mienshao
+1293,Inner Focus,1,Mudbray
+1294,Own Tempo,0,Mudbray
+1295,Stamina,0,Mudbray
+1296,Inner Focus,1,Mudsdale
+1297,Own Tempo,0,Mudsdale
+1298,Stamina,0,Mudsdale
+1299,Inner Focus,0,Oranguru
+1300,Symbiosis,1,Oranguru
+1301,Telepathy,0,Oranguru
+1302,Inner Focus,0,Indeedee Male
+1303,Psychic Surge,1,Indeedee Male
+1304,Synchronize,0,Indeedee Male
+1305,Inner Focus,0,Kubfu
+1306,Inner Focus,0,Mega Gallade
+1307,Insomnia,0,Hoothoot
+1308,Keen Eye,0,Hoothoot
+1309,Tinted Lens,1,Hoothoot
+1310,Insomnia,0,Noctowl
+1311,Keen Eye,0,Noctowl
+1312,Tinted Lens,1,Noctowl
+1313,Insomnia,0,Spinarak
+1314,Sniper,1,Spinarak
+1315,Swarm,0,Spinarak
+1316,Insomnia,0,Ariados
+1317,Sniper,1,Ariados
+1318,Swarm,0,Ariados
+1319,Insomnia,0,Murkrow
+1320,Prankster,1,Murkrow
+1321,Super Luck,0,Murkrow
+1322,Insomnia,0,Honchkrow
+1323,Moxie,1,Honchkrow
+1324,Super Luck,0,Honchkrow
+1325,Insomnia,0,Mega Mewtwo Y
+1326,Insomnia,0,Mega Mewtwo X
+1327,Intimidate,0,Ekans
+1328,Shed Skin,0,Ekans
+1329,Unnerve,1,Ekans
+1330,Intimidate,0,Arbok
+1331,Shed Skin,0,Arbok
+1332,Unnerve,1,Arbok
+1333,Intimidate,0,Gyarados
+1334,Moxie,1,Gyarados
+1335,Intimidate,0,Snubbull
+1336,Rattled,1,Snubbull
+1337,Run Away,0,Snubbull
+1338,Intimidate,0,Granbull
+1339,Quick Feet,0,Granbull
+1340,Rattled,1,Granbull
+1341,Intimidate,1,Qwilfish
+1342,Poison Point,0,Qwilfish
+1343,Swift Swim,0,Qwilfish
+1344,Intimidate,0,Hitmontop
+1345,Steadfast,1,Hitmontop
+1346,Technician,0,Hitmontop
+1347,Intimidate,0,Mightyena
+1348,Moxie,1,Mightyena
+1349,Quick Feet,0,Mightyena
+1350,Intimidate,0,Masquerain
+1351,Unnerve,1,Masquerain
+1352,Intimidate,0,Salamence
+1353,Moxie,1,Salamence
+1354,Intimidate,0,Staravia
+1355,Reckless,1,Staravia
+1356,Intimidate,0,Staraptor
+1357,Reckless,1,Staraptor
+1358,Intimidate,0,Herdier
+1359,Sand Rush,0,Herdier
+1360,Scrappy,1,Herdier
+1361,Intimidate,0,Stoutland
+1362,Sand Rush,0,Stoutland
+1363,Scrappy,1,Stoutland
+1364,Intimidate,1,Scraggy
+1365,Moxie,0,Scraggy
+1366,Shed Skin,0,Scraggy
+1367,Intimidate,1,Scrafty
+1368,Moxie,0,Scrafty
+1369,Shed Skin,0,Scrafty
+1370,Intimidate,0,Mega Manectric
+1371,Iron Barbs,0,Ferroseed
+1372,Iron Barbs,0,Togedemaru
+1373,Lightning Rod,0,Togedemaru
+1374,Sturdy,1,Togedemaru
+1375,Iron Fist,0,Golett
+1376,Klutz,0,Golett
+1377,No Guard,1,Golett
+1378,Iron Fist,0,Golurk
+1379,Klutz,0,Golurk
+1380,No Guard,1,Golurk
+1381,Iron Fist,0,Pancham
+1382,Mold Breaker,0,Pancham
+1383,Scrappy,1,Pancham
+1384,Iron Fist,0,Pangoro
+1385,Mold Breaker,0,Pangoro
+1386,Scrappy,1,Pangoro
+1387,Iron Fist,0,Melmetal
+1388,Justified,1,Absol
+1389,Pressure,0,Absol
+1390,Super Luck,0,Absol
+1391,Justified,1,Gallade
+1392,Steadfast,0,Gallade
+1393,Justified,0,Cobalion
+1394,Justified,0,Terrakion
+1395,Justified,0,Virizion
+1396,Keen Eye,0,Spearow
+1397,Sniper,1,Spearow
+1398,Keen Eye,0,Fearow
+1399,Sniper,1,Fearow
+1400,Keen Eye,0,Skarmory
+1401,Sturdy,0,Skarmory
+1402,Weak Armor,1,Skarmory
+1403,Keen Eye,0,Sableye
+1404,Prankster,1,Sableye
+1405,Stall,0,Sableye
+1406,Keen Eye,0,Starly
+1407,Reckless,1,Starly
+1408,Keen Eye,1,Glameow
+1409,Limber,0,Glameow
+1410,Own Tempo,0,Glameow
+1411,Keen Eye,0,Pikipek
+1412,Pickup,1,Pikipek
+1413,Skill Link,0,Pikipek
+1414,Keen Eye,0,Trumbeak
+1415,Pickup,1,Trumbeak
+1416,Skill Link,0,Trumbeak
+1417,Keen Eye,0,Toucannon
+1418,Sheer Force,1,Toucannon
+1419,Skill Link,0,Toucannon
+1420,Keen Eye,0,Rockruff
+1421,Steadfast,1,Rockruff
+1422,Vital Spirit,0,Rockruff
+1423,Klutz,0,Buneary
+1424,Limber,1,Buneary
+1425,Run Away,0,Buneary
+1426,Klutz,0,Woobat
+1427,Simple,1,Woobat
+1428,Unaware,0,Woobat
+1429,Klutz,0,Swoobat
+1430,Simple,1,Swoobat
+1431,Unaware,0,Swoobat
+1432,Klutz,1,Toxel
+1433,Rattled,0,Toxel
+1434,Static,0,Toxel
+1435,Leaf Guard,1,Chikorita
+1436,Overgrow,0,Chikorita
+1437,Leaf Guard,1,Bayleef
+1438,Overgrow,0,Bayleef
+1439,Leaf Guard,1,Meganium
+1440,Overgrow,0,Meganium
+1441,Leaf Guard,1,Roselia
+1442,Natural Cure,0,Roselia
+1443,Poison Point,0,Roselia
+1444,Leaf Guard,1,Budew
+1445,Natural Cure,0,Budew
+1446,Poison Point,0,Budew
+1447,Leaf Guard,0,Bounsweet
+1448,Oblivious,0,Bounsweet
+1449,Sweet Veil,1,Bounsweet
+1450,Leaf Guard,0,Steenee
+1451,Oblivious,0,Steenee
+1452,Sweet Veil,1,Steenee
+1453,Leaf Guard,0,Tsareena
+1454,Queenly Majesty,0,Tsareena
+1455,Sweet Veil,1,Tsareena
+1456,Leaf Guard,0,Zarude
+1457,Levitate,0,Gastly
+1458,Levitate,0,Haunter
+1459,Levitate,0,Koffing
+1460,Neutralizing Gas,0,Koffing
+1461,Stench,1,Koffing
+1462,Levitate,0,Weezing
+1463,Neutralizing Gas,0,Weezing
+1464,Stench,1,Weezing
+1465,Levitate,0,Misdreavus
+1466,Levitate,0,Unown
+1467,Levitate,0,Vibrava
+1468,Levitate,0,Flygon
+1469,Levitate,0,Lunatone
+1470,Levitate,0,Solrock
+1471,Levitate,0,Baltoy
+1472,Levitate,0,Claydol
+1473,Levitate,0,Chimecho
+1474,Levitate,0,Latias
+1475,Levitate,0,Latios
+1476,Levitate,0,Mismagius
+1477,Levitate,0,Chingling
+1478,Levitate,0,Carnivine
+1479,Levitate,0,Rotom
+1480,Levitate,0,Uxie
+1481,Levitate,0,Mesprit
+1482,Levitate,0,Azelf
+1483,Levitate,0,Cresselia
+1484,Levitate,0,Tynamo
+1485,Levitate,0,Eelektrik
+1486,Levitate,0,Eelektross
+1487,Levitate,0,Cryogonal
+1488,Levitate,0,Hydreigon
+1489,Levitate,0,Vikavolt
+1490,Levitate,0,Heat Rotom
+1491,Levitate,0,Wash Rotom
+1492,Levitate,0,Frost Rotom
+1493,Levitate,0,Fan Rotom
+1494,Levitate,0,Mow Rotom
+1495,Levitate,0,Mega Latias
+1496,Levitate,0,Mega Latios
+1497,Light Metal,1,Scizor
+1498,Swarm,0,Scizor
+1499,Technician,0,Scizor
+1500,Lightning Rod,1,Pikachu
+1501,Static,0,Pikachu
+1502,Lightning Rod,1,Raichu
+1503,Static,0,Raichu
+1504,Lightning Rod,0,Rhyhorn
+1505,Reckless,1,Rhyhorn
+1506,Rock Head,0,Rhyhorn
+1507,Lightning Rod,0,Rhydon
+1508,Reckless,1,Rhydon
+1509,Rock Head,0,Rhydon
+1510,Lightning Rod,1,Goldeen
+1511,Swift Swim,0,Goldeen
+1512,Water Veil,0,Goldeen
+1513,Lightning Rod,1,Seaking
+1514,Swift Swim,0,Seaking
+1515,Water Veil,0,Seaking
+1516,Lightning Rod,1,Pichu
+1517,Static,0,Pichu
+1518,Lightning Rod,0,Electrike
+1519,Minus,1,Electrike
+1520,Static,0,Electrike
+1521,Lightning Rod,0,Manectric
+1522,Minus,1,Manectric
+1523,Static,0,Manectric
+1524,Lightning Rod,1,Plusle
+1525,Plus,0,Plusle
+1526,Lightning Rod,0,Rhyperior
+1527,Reckless,1,Rhyperior
+1528,Solid Rock,0,Rhyperior
+1529,Lightning Rod,0,Blitzle
+1530,Motor Drive,0,Blitzle
+1531,Sap Sipper,1,Blitzle
+1532,Lightning Rod,0,Zebstrika
+1533,Motor Drive,0,Zebstrika
+1534,Sap Sipper,1,Zebstrika
+1535,Lightning Rod,0,Mega Sceptile
+1536,Limber,0,Persian
+1537,Technician,0,Persian
+1538,Unnerve,1,Persian
+1539,Limber,0,Hitmonlee
+1540,Reckless,0,Hitmonlee
+1541,Unburden,1,Hitmonlee
+1542,Limber,0,Purrloin
+1543,Prankster,1,Purrloin
+1544,Unburden,0,Purrloin
+1545,Limber,0,Liepard
+1546,Prankster,1,Liepard
+1547,Unburden,0,Liepard
+1548,Limber,0,Stunfisk
+1549,Sand Veil,1,Stunfisk
+1550,Static,0,Stunfisk
+1551,Limber,0,Hawlucha
+1552,Mold Breaker,1,Hawlucha
+1553,Unburden,0,Hawlucha
+1554,Limber,0,Mareanie
+1555,Merciless,0,Mareanie
+1556,Regenerator,1,Mareanie
+1557,Limber,0,Toxapex
+1558,Merciless,0,Toxapex
+1559,Regenerator,1,Toxapex
+1560,Limber,0,Clobbopus
+1561,Technician,1,Clobbopus
+1562,Limber,0,Grapploct
+1563,Technician,1,Grapploct
+1564,Liquid Voice,1,Popplio
+1565,Torrent,0,Popplio
+1566,Liquid Voice,1,Brionne
+1567,Torrent,0,Brionne
+1568,Liquid Voice,1,Primarina
+1569,Torrent,0,Primarina
+1570,Long Reach,1,Rowlet
+1571,Overgrow,0,Rowlet
+1572,Long Reach,1,Dartrix
+1573,Overgrow,0,Dartrix
+1574,Long Reach,1,Decidueye
+1575,Overgrow,0,Decidueye
+1576,Magic Bounce,1,Espeon
+1577,Synchronize,0,Espeon
+1578,Magic Bounce,0,Mega Absol
+1579,Magic Bounce,0,Mega Sableye
+1580,Magic Bounce,0,Mega Diancie
+1581,Magic Guard,0,Sigilyph
+1582,Tinted Lens,1,Sigilyph
+1583,Wonder Skin,0,Sigilyph
+1584,Magic Guard,0,Solosis
+1585,Overcoat,0,Solosis
+1586,Regenerator,1,Solosis
+1587,Magic Guard,0,Duosion
+1588,Overcoat,0,Duosion
+1589,Regenerator,1,Duosion
+1590,Magic Guard,0,Reuniclus
+1591,Overcoat,0,Reuniclus
+1592,Regenerator,1,Reuniclus
+1593,Magician,1,Klefki
+1594,Prankster,0,Klefki
+1595,Magician,0,Hoopa Unbound
+1596,Magnet Pull,0,Nosepass
+1597,Sand Force,1,Nosepass
+1598,Sturdy,0,Nosepass
+1599,Magnet Pull,0,Probopass
+1600,Sand Force,1,Probopass
+1601,Sturdy,0,Probopass
+1602,Magnet Pull,0,Meltan
+1603,Marvel Scale,1,Dratini
+1604,Shed Skin,0,Dratini
+1605,Marvel Scale,1,Dragonair
+1606,Shed Skin,0,Dragonair
+1607,Mega Launcher,0,Clauncher
+1608,Mega Launcher,0,Clawitzer
+1609,Mega Launcher,0,Mega Blastoise
+1610,Minus,0,Minun
+1611,Volt Absorb,1,Minun
+1612,Mirror Armor,1,Corviknight
+1613,Pressure,0,Corviknight
+1614,Unnerve,0,Corviknight
+1615,Misty Surge,0,Tapu Fini
+1616,Telepathy,1,Tapu Fini
+1617,Mold Breaker,0,Cranidos
+1618,Sheer Force,1,Cranidos
+1619,Mold Breaker,0,Rampardos
+1620,Sheer Force,1,Rampardos
+1621,Mold Breaker,1,Drilbur
+1622,Sand Force,0,Drilbur
+1623,Sand Rush,0,Drilbur
+1624,Mold Breaker,1,Excadrill
+1625,Sand Force,0,Excadrill
+1626,Sand Rush,0,Excadrill
+1627,Mold Breaker,0,Axew
+1628,Rivalry,0,Axew
+1629,Unnerve,1,Axew
+1630,Mold Breaker,0,Fraxure
+1631,Rivalry,0,Fraxure
+1632,Unnerve,1,Fraxure
+1633,Mold Breaker,0,Haxorus
+1634,Rivalry,0,Haxorus
+1635,Unnerve,1,Haxorus
+1636,Mold Breaker,1,Druddigon
+1637,Rough Skin,0,Druddigon
+1638,Sheer Force,0,Druddigon
+1639,Mold Breaker,0,Mega Gyarados
+1640,Mold Breaker,0,Mega Ampharos
+1641,Moody,1,Octillery
+1642,Sniper,0,Octillery
+1643,Suction Cups,0,Octillery
+1644,Moody,1,Smeargle
+1645,Own Tempo,0,Smeargle
+1646,Technician,0,Smeargle
+1647,Moody,1,Bidoof
+1648,Simple,0,Bidoof
+1649,Unaware,0,Bidoof
+1650,Moody,1,Bibarel
+1651,Simple,0,Bibarel
+1652,Unaware,0,Bibarel
+1653,Motor Drive,0,Electivire
+1654,Vital Spirit,1,Electivire
+1655,Motor Drive,1,Emolga
+1656,Static,0,Emolga
+1657,Moxie,1,Litleo
+1658,Rivalry,0,Litleo
+1659,Unnerve,0,Litleo
+1660,Moxie,1,Pyroar
+1661,Rivalry,0,Pyroar
+1662,Unnerve,0,Pyroar
+1663,Multiscale,1,Lugia
+1664,Pressure,0,Lugia
+1665,Multitype,0,Arceus
+1666,Mummy,0,Yamask
+1667,Mummy,0,Cofagrigus
+1668,Natural Cure,0,Celebi
+1669,Natural Cure,0,Roserade
+1670,Poison Point,0,Roserade
+1671,Technician,1,Roserade
+1672,Neuroforce,0,Ultra Necrozma
+1673,No Guard,1,Karrablast
+1674,Shed Skin,0,Karrablast
+1675,Swarm,0,Karrablast
+1676,No Guard,0,Honedge
+1677,No Guard,0,Doublade
+1678,No Guard,0,Mega Pidgeot
+1679,Oblivious,0,Slowpoke
+1680,Own Tempo,0,Slowpoke
+1681,Regenerator,1,Slowpoke
+1682,Oblivious,0,Slowbro
+1683,Own Tempo,0,Slowbro
+1684,Regenerator,1,Slowbro
+1685,Oblivious,0,Slowking
+1686,Own Tempo,0,Slowking
+1687,Regenerator,1,Slowking
+1688,Oblivious,0,Swinub
+1689,Snow Cloak,0,Swinub
+1690,Thick Fat,1,Swinub
+1691,Oblivious,0,Piloswine
+1692,Snow Cloak,0,Piloswine
+1693,Thick Fat,1,Piloswine
+1694,Oblivious,0,Illumise
+1695,Prankster,1,Illumise
+1696,Tinted Lens,0,Illumise
+1697,Oblivious,0,Wailmer
+1698,Pressure,1,Wailmer
+1699,Water Veil,0,Wailmer
+1700,Oblivious,0,Wailord
+1701,Pressure,1,Wailord
+1702,Water Veil,0,Wailord
+1703,Oblivious,0,Numel
+1704,Own Tempo,1,Numel
+1705,Simple,0,Numel
+1706,Oblivious,0,Mamoswine
+1707,Snow Cloak,0,Mamoswine
+1708,Thick Fat,1,Mamoswine
+1709,Overcoat,1,Shellder
+1710,Shell Armor,0,Shellder
+1711,Skill Link,0,Shellder
+1712,Overcoat,1,Cloyster
+1713,Shell Armor,0,Cloyster
+1714,Skill Link,0,Cloyster
+1715,Overcoat,1,Pineco
+1716,Sturdy,0,Pineco
+1717,Overcoat,1,Forretress
+1718,Sturdy,0,Forretress
+1719,Overcoat,1,Shelgon
+1720,Rock Head,0,Shelgon
+1721,Overcoat,1,Escavalier
+1722,Shell Armor,0,Escavalier
+1723,Swarm,0,Escavalier
+1724,Overgrow,0,Treecko
+1725,Unburden,1,Treecko
+1726,Overgrow,0,Grovyle
+1727,Unburden,1,Grovyle
+1728,Overgrow,0,Sceptile
+1729,Unburden,1,Sceptile
+1730,Overgrow,0,Turtwig
+1731,Shell Armor,1,Turtwig
+1732,Overgrow,0,Grotle
+1733,Shell Armor,1,Grotle
+1734,Overgrow,0,Torterra
+1735,Shell Armor,1,Torterra
+1736,Own Tempo,1,Lotad
+1737,Rain Dish,0,Lotad
+1738,Swift Swim,0,Lotad
+1739,Own Tempo,1,Lombre
+1740,Rain Dish,0,Lombre
+1741,Swift Swim,0,Lombre
+1742,Own Tempo,1,Ludicolo
+1743,Rain Dish,0,Ludicolo
+1744,Swift Swim,0,Ludicolo
+1745,Own Tempo,0,Own Tempo Rockruff
+1746,Own Tempo,0,Indeedee Female
+1747,Psychic Surge,1,Indeedee Female
+1748,Synchronize,0,Indeedee Female
+1749,Parental Bond,0,Mega Kangaskhan
+1750,Perish Body,1,Cursola
+1751,Weak Armor,0,Cursola
+1752,Pickpocket,1,Weavile
+1753,Pressure,0,Weavile
+1754,Pickpocket,1,Binacle
+1755,Sniper,0,Binacle
+1756,Tough Claws,0,Binacle
+1757,Pickpocket,1,Barbaracle
+1758,Sniper,0,Barbaracle
+1759,Tough Claws,0,Barbaracle
+1760,Pickup,0,Meowth
+1761,Technician,0,Meowth
+1762,Unnerve,1,Meowth
+1763,Pickup,0,Aipom
+1764,Run Away,0,Aipom
+1765,Skill Link,1,Aipom
+1766,Pickup,0,Phanpy
+1767,Sand Veil,1,Phanpy
+1768,Pickup,0,Pachirisu
+1769,Run Away,0,Pachirisu
+1770,Volt Absorb,1,Pachirisu
+1771,Pickup,0,Ambipom
+1772,Skill Link,1,Ambipom
+1773,Technician,0,Ambipom
+1774,Pickup,0,Lillipup
+1775,Run Away,1,Lillipup
+1776,Vital Spirit,0,Lillipup
+1777,Pickup,0,Alolan Meowth
+1778,Rattled,1,Alolan Meowth
+1779,Technician,0,Alolan Meowth
+1780,Pixilate,0,Mega Gardevoir
+1781,Pixilate,0,Mega Altaria
+1782,Plus,1,Mareep
+1783,Static,0,Mareep
+1784,Plus,1,Flaaffy
+1785,Static,0,Flaaffy
+1786,Plus,1,Ampharos
+1787,Static,0,Ampharos
+1788,Poison Point,0,Nidoqueen
+1789,Rivalry,0,Nidoqueen
+1790,Sheer Force,1,Nidoqueen
+1791,Poison Point,0,Nidoking
+1792,Rivalry,0,Nidoking
+1793,Sheer Force,1,Nidoking
+1794,Poison Point,0,Venipede
+1795,Speed Boost,1,Venipede
+1796,Swarm,0,Venipede
+1797,Poison Point,0,Whirlipede
+1798,Speed Boost,1,Whirlipede
+1799,Swarm,0,Whirlipede
+1800,Poison Point,0,Scolipede
+1801,Speed Boost,1,Scolipede
+1802,Swarm,0,Scolipede
+1803,Poison Touch,1,Grimer
+1804,Stench,0,Grimer
+1805,Sticky Hold,0,Grimer
+1806,Poison Touch,1,Muk
+1807,Stench,0,Muk
+1808,Sticky Hold,0,Muk
+1809,Poison Touch,0,Seismitoad
+1810,Swift Swim,0,Seismitoad
+1811,Water Absorb,1,Seismitoad
+1812,Power Spot,0,Stonjourner
+1813,Prankster,0,Mega Banette
+1814,Pressure,0,Aerodactyl
+1815,Rock Head,0,Aerodactyl
+1816,Unnerve,1,Aerodactyl
+1817,Pressure,0,Articuno
+1818,Snow Cloak,1,Articuno
+1819,Pressure,0,Zapdos
+1820,Static,1,Zapdos
+1821,Pressure,0,Mewtwo
+1822,Unnerve,1,Mewtwo
+1823,Pressure,0,Vespiquen
+1824,Unnerve,1,Vespiquen
+1825,Pressure,0,Dialga
+1826,Telepathy,1,Dialga
+1827,Pressure,0,Palkia
+1828,Telepathy,1,Palkia
+1829,Pressure,0,Kyurem
+1830,Pressure,0,Eternatus
+1831,Pressure,0,Eternatus Eternamax
+1832,Primordial Sea,0,Primal Kyogre
+1833,Prism Armor,0,Necrozma
+1834,Propeller Tail,1,Arrokuda
+1835,Swift Swim,0,Arrokuda
+1836,Propeller Tail,1,Barraskewda
+1837,Swift Swim,0,Barraskewda
+1838,Protean,1,Froakie
+1839,Torrent,0,Froakie
+1840,Protean,1,Frogadier
+1841,Torrent,0,Frogadier
+1842,Protean,1,Greninja
+1843,Torrent,0,Greninja
+1844,Psychic Surge,0,Tapu Lele
+1845,Telepathy,1,Tapu Lele
+1846,Pure Power,0,Meditite
+1847,Telepathy,1,Meditite
+1848,Pure Power,0,Medicham
+1849,Telepathy,1,Medicham
+1850,Pure Power,0,Mega Medicham
+1851,Quick Feet,1,Jolteon
+1852,Volt Absorb,0,Jolteon
+1853,Quick Feet,0,Poochyena
+1854,Rattled,1,Poochyena
+1855,Run Away,0,Poochyena
+1856,Rain Dish,1,Squirtle
+1857,Torrent,0,Squirtle
+1858,Rain Dish,1,Wartortle
+1859,Torrent,0,Wartortle
+1860,Rain Dish,1,Blastoise
+1861,Torrent,0,Blastoise
+1862,Rain Dish,1,Surskit
+1863,Swift Swim,0,Surskit
+1864,Rattled,1,Magikarp
+1865,Swift Swim,0,Magikarp
+1866,Rattled,1,Sudowoodo
+1867,Rock Head,0,Sudowoodo
+1868,Sturdy,0,Sudowoodo
+1869,Rattled,1,Dunsparce
+1870,Run Away,0,Dunsparce
+1871,Serene Grace,0,Dunsparce
+1872,Rattled,1,Whismur
+1873,Soundproof,0,Whismur
+1874,Rattled,1,Clamperl
+1875,Shell Armor,0,Clamperl
+1876,Rattled,1,Bonsly
+1877,Rock Head,0,Bonsly
+1878,Sturdy,0,Bonsly
+1879,Rattled,1,Cubchoo
+1880,Slush Rush,0,Cubchoo
+1881,Snow Cloak,0,Cubchoo
+1882,Reckless,0,Bouffalant
+1883,Sap Sipper,0,Bouffalant
+1884,Soundproof,1,Bouffalant
+1885,Refrigerate,0,Amaura
+1886,Snow Warning,1,Amaura
+1887,Refrigerate,0,Aurorus
+1888,Snow Warning,1,Aurorus
+1889,Refrigerate,0,Mega Glalie
+1890,Rivalry,1,Beautifly
+1891,Swarm,0,Beautifly
+1892,Rks System,0,Silvally
+1893,Rock Head,0,Geodude
+1894,Sand Veil,1,Geodude
+1895,Sturdy,0,Geodude
+1896,Rock Head,0,Graveler
+1897,Sand Veil,1,Graveler
+1898,Sturdy,0,Graveler
+1899,Rock Head,0,Golem
+1900,Sand Veil,1,Golem
+1901,Sturdy,0,Golem
+1902,Rock Head,0,Onix
+1903,Sturdy,0,Onix
+1904,Weak Armor,1,Onix
+1905,Rock Head,0,Steelix
+1906,Sheer Force,1,Steelix
+1907,Sturdy,0,Steelix
+1908,Rock Head,0,Relicanth
+1909,Sturdy,1,Relicanth
+1910,Swift Swim,0,Relicanth
+1911,Rock Head,0,Bagon
+1912,Sheer Force,1,Bagon
+1913,Rock Head,1,Tyrantrum
+1914,Strong Jaw,0,Tyrantrum
+1915,Rough Skin,0,Carvanha
+1916,Speed Boost,1,Carvanha
+1917,Rough Skin,0,Sharpedo
+1918,Speed Boost,1,Sharpedo
+1919,Rough Skin,1,Gible
+1920,Sand Veil,0,Gible
+1921,Rough Skin,1,Gabite
+1922,Sand Veil,0,Gabite
+1923,Rough Skin,1,Garchomp
+1924,Sand Veil,0,Garchomp
+1925,Run Away,1,Caterpie
+1926,Shield Dust,0,Caterpie
+1927,Run Away,1,Weedle
+1928,Shield Dust,0,Weedle
+1929,Run Away,1,Wurmple
+1930,Shield Dust,0,Wurmple
+1931,Run Away,1,Kricketot
+1932,Shed Skin,0,Kricketot
+1933,Run Away,0,Nickit
+1934,Stakeout,1,Nickit
+1935,Unburden,0,Nickit
+1936,Run Away,0,Thievul
+1937,Stakeout,1,Thievul
+1938,Unburden,0,Thievul
+1939,Sand Force,1,Shellos
+1940,Sticky Hold,0,Shellos
+1941,Storm Drain,0,Shellos
+1942,Sand Force,1,Gastrodon
+1943,Sticky Hold,0,Gastrodon
+1944,Storm Drain,0,Gastrodon
+1945,Sand Force,1,Hippopotas
+1946,Sand Stream,0,Hippopotas
+1947,Sand Force,1,Hippowdon
+1948,Sand Stream,0,Hippowdon
+1949,Sand Force,1,Roggenrola
+1950,Sturdy,0,Roggenrola
+1951,Weak Armor,0,Roggenrola
+1952,Sand Force,1,Boldore
+1953,Sturdy,0,Boldore
+1954,Weak Armor,0,Boldore
+1955,Sand Force,1,Gigalith
+1956,Sand Stream,0,Gigalith
+1957,Sturdy,0,Gigalith
+1958,Sand Force,0,Mega Garchomp
+1959,Sand Force,0,Mega Steelix
+1960,Sand Force,1,Alolan Diglett
+1961,Sand Veil,0,Alolan Diglett
+1962,Tangling Hair,0,Alolan Diglett
+1963,Sand Force,1,Alolan Dugtrio
+1964,Sand Veil,0,Alolan Dugtrio
+1965,Tangling Hair,0,Alolan Dugtrio
+1966,Sand Rush,1,Sandshrew
+1967,Sand Veil,0,Sandshrew
+1968,Sand Rush,1,Sandslash
+1969,Sand Veil,0,Sandslash
+1970,Sand Rush,1,Dracovish
+1971,Strong Jaw,0,Dracovish
+1972,Water Absorb,0,Dracovish
+1973,Sand Spit,0,Silicobra
+1974,Sand Veil,1,Silicobra
+1975,Shed Skin,0,Silicobra
+1976,Sand Spit,0,Sandaconda
+1977,Sand Veil,1,Sandaconda
+1978,Shed Skin,0,Sandaconda
+1979,Sand Stream,0,Tyranitar
+1980,Unnerve,1,Tyranitar
+1981,Sand Stream,0,Mega Tyranitar
+1982,Sand Veil,1,Donphan
+1983,Sturdy,0,Donphan
+1984,Sand Veil,0,Cacnea
+1985,Water Absorb,1,Cacnea
+1986,Sand Veil,0,Cacturne
+1987,Water Absorb,1,Cacturne
+1988,Sand Veil,1,Sandygast
+1989,Water Compaction,0,Sandygast
+1990,Sand Veil,1,Palossand
+1991,Water Compaction,0,Palossand
+1992,Sap Sipper,1,Miltank
+1993,Scrappy,0,Miltank
+1994,Thick Fat,0,Miltank
+1995,Scrappy,1,Loudred
+1996,Soundproof,0,Loudred
+1997,Scrappy,1,Exploud
+1998,Soundproof,0,Exploud
+1999,Scrappy,0,Mega Lopunny
+2000,Serene Grace,0,Jirachi
+2001,Shadow Shield,0,Lunala
+2002,Shadow Tag,0,Wobbuffet
+2003,Telepathy,1,Wobbuffet
+2004,Shadow Tag,0,Wynaut
+2005,Telepathy,1,Wynaut
+2006,Shadow Tag,0,Mega Gengar
+2007,Shed Skin,0,Metapod
+2008,Shed Skin,0,Kakuna
+2009,Shed Skin,0,Pupitar
+2010,Shed Skin,0,Silcoon
+2011,Shed Skin,0,Cascoon
+2012,Sheer Force,1,Totodile
+2013,Torrent,0,Totodile
+2014,Sheer Force,1,Croconaw
+2015,Torrent,0,Croconaw
+2016,Sheer Force,1,Feraligatr
+2017,Torrent,0,Feraligatr
+2018,Sheer Force,0,Mega Camerupt
+2019,Shell Armor,0,Omanyte
+2020,Swift Swim,0,Omanyte
+2021,Weak Armor,1,Omanyte
+2022,Shell Armor,0,Omastar
+2023,Swift Swim,0,Omastar
+2024,Weak Armor,1,Omastar
+2025,Shell Armor,1,Oshawott
+2026,Torrent,0,Oshawott
+2027,Shell Armor,1,Dewott
+2028,Torrent,0,Dewott
+2029,Shell Armor,1,Samurott
+2030,Torrent,0,Samurott
+2031,Shell Armor,0,Dwebble
+2032,Sturdy,0,Dwebble
+2033,Weak Armor,1,Dwebble
+2034,Shell Armor,0,Crustle
+2035,Sturdy,0,Crustle
+2036,Weak Armor,1,Crustle
+2037,Shell Armor,0,Turtonator
+2038,Shell Armor,0,Chewtle
+2039,Strong Jaw,0,Chewtle
+2040,Swift Swim,1,Chewtle
+2041,Shell Armor,0,Drednaw
+2042,Strong Jaw,0,Drednaw
+2043,Swift Swim,1,Drednaw
+2044,Shell Armor,0,Mega Slowbro
+2045,Shield Dust,0,Venomoth
+2046,Tinted Lens,0,Venomoth
+2047,Wonder Skin,1,Venomoth
+2048,Skill Link,0,Mega Heracross
+2049,Slow Start,0,Regigigas
+2050,Slush Rush,0,Beartic
+2051,Snow Cloak,0,Beartic
+2052,Swift Swim,1,Beartic
+2053,Slush Rush,1,Arctozolt
+2054,Static,0,Arctozolt
+2055,Volt Absorb,0,Arctozolt
+2056,Slush Rush,1,Alolan Sandshrew
+2057,Snow Cloak,0,Alolan Sandshrew
+2058,Slush Rush,1,Alolan Sandslash
+2059,Snow Cloak,0,Alolan Sandslash
+2060,Sniper,1,Beedrill
+2061,Swarm,0,Beedrill
+2062,Sniper,1,Sobble
+2063,Torrent,0,Sobble
+2064,Sniper,1,Drizzile
+2065,Torrent,0,Drizzile
+2066,Sniper,1,Inteleon
+2067,Torrent,0,Inteleon
+2068,Snow Cloak,0,Alolan Vulpix
+2069,Snow Warning,1,Alolan Vulpix
+2070,Snow Cloak,0,Alolan Ninetales
+2071,Snow Warning,1,Alolan Ninetales
+2072,Snow Warning,0,Snover
+2073,Soundproof,1,Snover
+2074,Snow Warning,0,Abomasnow
+2075,Soundproof,1,Abomasnow
+2076,Snow Warning,0,Mega Abomasnow
+2077,Solar Power,0,Mega Houndoom
+2078,Solid Rock,0,Tirtouga
+2079,Sturdy,0,Tirtouga
+2080,Swift Swim,1,Tirtouga
+2081,Solid Rock,0,Carracosta
+2082,Sturdy,0,Carracosta
+2083,Swift Swim,1,Carracosta
+2084,Soul Heart,0,Magearna
+2085,Soundproof,1,Shieldon
+2086,Sturdy,0,Shieldon
+2087,Soundproof,1,Bastiodon
+2088,Sturdy,0,Bastiodon
+2089,Speed Boost,0,Mega Blaziken
+2090,Static,0,Electabuzz
+2091,Vital Spirit,1,Electabuzz
+2092,Static,0,Elekid
+2093,Vital Spirit,1,Elekid
+2094,Steadfast,1,Scyther
+2095,Swarm,0,Scyther
+2096,Technician,0,Scyther
+2097,Steadfast,0,Mega Mewtwo Y
+2098,Steadfast,0,Mega Mewtwo X
+2099,Steelworker,0,Dhelmise
+2100,Storm Drain,1,Lileep
+2101,Suction Cups,0,Lileep
+2102,Storm Drain,1,Cradily
+2103,Suction Cups,0,Cradily
+2104,Storm Drain,0,Finneon
+2105,Swift Swim,0,Finneon
+2106,Water Veil,1,Finneon
+2107,Storm Drain,0,Lumineon
+2108,Swift Swim,0,Lumineon
+2109,Water Veil,1,Lumineon
+2110,Strong Jaw,0,Tyrunt
+2111,Sturdy,1,Tyrunt
+2112,Strong Jaw,0,Mega Sharpedo
+2113,Sturdy,0,Cosmoem
+2114,Surge Surfer,0,Alolan Raichu
+2115,Swarm,0,Kricketune
+2116,Technician,1,Kricketune
+2117,Swarm,0,Mothim
+2118,Tinted Lens,1,Mothim
+2119,Swarm,0,Grubbin
+2120,Sweet Veil,0,Swirlix
+2121,Unburden,1,Swirlix
+2122,Sweet Veil,0,Slurpuff
+2123,Unburden,1,Slurpuff
+2124,Swift Swim,0,Mantine
+2125,Water Absorb,0,Mantine
+2126,Water Veil,1,Mantine
+2127,Swift Swim,0,Huntail
+2128,Water Veil,1,Huntail
+2129,Swift Swim,0,Buizel
+2130,Water Veil,1,Buizel
+2131,Swift Swim,0,Floatzel
+2132,Water Veil,1,Floatzel
+2133,Swift Swim,0,Mantyke
+2134,Water Absorb,0,Mantyke
+2135,Water Veil,1,Mantyke
+2136,Swift Swim,0,Mega Swampert
+2137,Synchronize,0,Mew
+2138,Synchronize,0,Ralts
+2139,Telepathy,1,Ralts
+2140,Trace,0,Ralts
+2141,Synchronize,0,Kirlia
+2142,Telepathy,1,Kirlia
+2143,Trace,0,Kirlia
+2144,Synchronize,0,Gardevoir
+2145,Telepathy,1,Gardevoir
+2146,Trace,0,Gardevoir
+2147,Technician,0,Marshadow
+2148,Technician,0,Mega Scizor
+2149,Teravolt,0,Zekrom
+2150,Teravolt,0,Black Kyurem
+2151,Thick Fat,0,Mega Venusaur
+2152,Tough Claws,0,Mega Charizard Y
+2153,Tough Claws,0,Mega Charizard X
+2154,Tough Claws,0,Mega Aerodactyl
+2155,Tough Claws,0,Mega Metagross
+2156,Trace,0,Mega Alakazam
+2157,Transistor,0,Regieleki
+2158,Truant,0,Slakoth
+2159,Truant,0,Slaking
+2160,Turboblaze,0,Reshiram
+2161,Turboblaze,0,White Kyurem
+2162,Unaware,0,Cosmog
+2163,Unnerve,0,Calyrex
+2164,Victory Star,0,Victini
+2165,Vital Spirit,0,Vigoroth
+2166,Volt Absorb,0,Zeraora
+2167,Wandering Spirit,0,Runerigus
+2168,Water Absorb,0,Volcanion
+2169,Water Absorb,1,Dewpider
+2170,Water Bubble,0,Dewpider
+2171,Water Absorb,1,Araquanid
+2172,Water Bubble,0,Araquanid
+2173,Wimp Out,0,Wimpod
+2174,Wonder Guard,0,Shedinja
