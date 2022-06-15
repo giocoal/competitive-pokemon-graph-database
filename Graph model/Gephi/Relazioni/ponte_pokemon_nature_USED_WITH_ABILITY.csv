@@ -1,0 +1,773 @@
+Target;UsePercentage;Source
+Intrepid Sword;100000%;Zacian Crowned Sword
+Intimidate;99927%;Incineroar
+Blaze;0.073%;Incineroar
+Drizzle;100000%;Kyogre
+Prankster;99959%;Grimmsnarl
+Frisk;0.037%;Grimmsnarl
+Pickpocket;0.004%;Grimmsnarl
+Transistor;100000%;Regieleki
+Grassy Surge;99847%;Rillaboom
+Overgrow;0.153%;Rillaboom
+Drought;100000%;Groudon
+Defiant;73775%;Thundurus Incarnate Forme
+Prankster;26225%;Thundurus Incarnate Forme
+Intimidate;100000%;Landorus Therian Forme
+Storm Drain;99593%;Gastrodon
+Sticky Hold;0.403%;Gastrodon
+Sand Force;0.004%;Gastrodon
+Solar Power;99348%;Charizard
+Blaze;0.652%;Charizard
+Regenerator;97913%;Amoonguss
+Effect Spore;2087%;Amoonguss
+Psychic Surge;98790%;Indeedee Female
+Synchronize;0.888%;Indeedee Female
+Own Tempo;0.322%;Indeedee Female
+Prankster;99894%;Whimsicott
+Chlorophyll;0.103%;Whimsicott
+Infiltrator;0.003%;Whimsicott
+Dark Aura;100000%;Yveltal
+Pressure;85103%;Palkia
+Telepathy;14897%;Palkia
+Download;50905%;Porygon2
+Trace;28727%;Porygon2
+Analytic;20368%;Porygon2
+Prankster;99884%;Tornadus Incarnate Forme
+Defiant;0.116%;Tornadus Incarnate Forme
+Static;93843%;Zapdos
+Pressure;6157%;Zapdos
+Beast Boost;100000%;Kartana
+Torrent;86365%;Blastoise
+Rain Dish;13635%;Blastoise
+Chlorophyll;97599%;Venusaur
+Overgrow;2401%;Venusaur
+Iron Barbs;99799%;Ferrothorn
+Anticipation;0.201%;Ferrothorn
+Imposter;99969%;Ditto
+Limber;0.031%;Ditto
+Unseen Fist;100000%;Urshifu Single Strike Style
+Fairy Aura;100000%;Xerneas
+Pressure;58210%;Dialga
+Telepathy;41790%;Dialga
+Wonder Guard;100000%;Shedinja
+Full Metal Body;100000%;Solgaleo
+Frisk;98723%;Dusclops
+Pressure;1277%;Dusclops
+Drought;99988%;Torkoal
+White Smoke;0.012%;Torkoal
+Shell Armor;0.000%;Torkoal
+Swift Swim;99999%;Kingdra
+Sniper;0.001%;Kingdra
+Damp;0.000%;Kingdra
+Lightning Rod;99067%;Raichu
+Static;0.933%;Raichu
+Neutralizing Gas;99696%;Weezing
+Levitate;0.304%;Weezing
+Stench;0.000%;Weezing
+Inner Focus;99878%;Entei
+Pressure;0.122%;Entei
+Shadow Shield;100000%;Lunala
+Turboblaze;100000%;White Kyurem
+Misty Surge;99929%;Tapu Fini
+Telepathy;0.071%;Tapu Fini
+Prankster;99777%;Sableye
+Keen Eye;0.223%;Sableye
+Stall;0.000%;Sableye
+Unseen Fist;100000%;Urshifu Rapid Strike Style
+Psychic Surge;100000%;Tapu Lele
+Telepathy;0.000%;Tapu Lele
+Disguise;100000%;Mimikyu
+Shadow Tag;99614%;Gothitelle
+Competitive;0.385%;Gothitelle
+Frisk;0.000%;Gothitelle
+Swift Swim;99187%;Seismitoad
+Water Absorb;0.813%;Seismitoad
+Poison Touch;0.000%;Seismitoad
+Regenerator;97028%;Ho-oh
+Pressure;2972%;Ho-oh
+Levitate;100000%;Heat Rotom
+Pressure;100000%;Eternatus
+Slow Start;100000%;Regigigas
+Libero;99701%;Cinderace
+Blaze;0.299%;Cinderace
+Levitate;99369%;Bronzong
+Heatproof;0.625%;Bronzong
+Heavy Metal;0.006%;Bronzong
+Super Luck;76429%;Togekiss
+Serene Grace;21832%;Togekiss
+Hustle;1740%;Togekiss
+Steam Engine;99731%;Coalossal
+Flame Body;0.209%;Coalossal
+Flash Fire;0.060%;Coalossal
+Clear Body;96639%;Dragapult
+Infiltrator;1730%;Dragapult
+Cursed Body;1631%;Dragapult
+Inner Focus;98123%;Umbreon
+Synchronize;1877%;Umbreon
+Psychic Surge;99230%;Indeedee Male
+Inner Focus;0.680%;Indeedee Male
+Synchronize;0.090%;Indeedee Male
+Triage;99754%;Comfey
+Flower Veil;0.245%;Comfey
+Natural Cure;0.001%;Comfey
+Water Absorb;89324%;Lapras
+Shell Armor;8678%;Lapras
+Hydration;1998%;Lapras
+Air Lock;100000%;Rayquaza
+Grim Neigh;100000%;Spectrier
+Turboblaze;100000%;Reshiram
+Power Construct;98383%;Zygarde Complete Forme
+Aura Break;1617%;Zygarde Complete Forme
+Oblivious;99774%;Mamoswine
+Thick Fat;0.225%;Mamoswine
+Snow Cloak;0.002%;Mamoswine
+Prism Armor;100000%;Dawn Wings Necrozma
+Swift Swim;94017%;Barraskewda
+Propeller Tail;5983%;Barraskewda
+Beast Boost;100000%;Celesteela
+Clear Body;99996%;Metagross
+Light Metal;0.004%;Metagross
+Water Bubble;99627%;Araquanid
+Water Absorb;0.373%;Araquanid
+Beast Boost;100000%;Pheromosa
+Intimidate;94350%;Arcanine
+Justified;5489%;Arcanine
+Flash Fire;0.161%;Arcanine
+Dauntless Shield;100000%;Zamazenta Crowned Shield
+Friend Guard;99864%;Clefairy
+Cute Charm;0.111%;Clefairy
+Magic Guard;0.026%;Clefairy
+Inner Focus;99828%;Mienshao
+Regenerator;0.109%;Mienshao
+Reckless;0.063%;Mienshao
+Multiscale;99900%;Lugia
+Pressure;0.100%;Lugia
+Natural Cure;57598%;Chansey
+Healer;31382%;Chansey
+Serene Grace;11020%;Chansey
+Inner Focus;97747%;Suicune
+Pressure;2253%;Suicune
+Sheer Force;98745%;Landorus Incarnate Forme
+Sand Force;1255%;Landorus Incarnate Forme
+Prism Armor;100000%;Dusk Mane Necrozma
+Aroma Veil;70927%;Alcremie
+Sweet Veil;29073%;Alcremie
+Electric Surge;99958%;Tapu Koko
+Telepathy;0.042%;Tapu Koko
+Prankster;99998%;Liepard
+Limber;0.001%;Liepard
+Unburden;0.001%;Liepard
+Levitate;100000%;Hydreigon
+Pressure;96005%;Weavile
+Pickpocket;3995%;Weavile
+Queenly Majesty;96983%;Tsareena
+Sweet Veil;2643%;Tsareena
+Leaf Guard;0.373%;Tsareena
+Chilling Neigh;100000%;Glastrier
+Strong Jaw;85684%;Dracovish
+Sand Rush;7501%;Dracovish
+Water Absorb;6815%;Dracovish
+Intimidate;99935%;Hitmontop
+Technician;0.065%;Hitmontop
+Steadfast;0.000%;Hitmontop
+Gorilla Tactics;99777%;Darmanitan Galarian Standard Mode
+Zen Mode;0.223%;Darmanitan Galarian Standard Mode
+Teravolt;100000%;Zekrom
+Sturdy;99619%;Shuckle
+Contrary;0.350%;Shuckle
+Gluttony;0.031%;Shuckle
+Defiant;100000%;Galarian Zapdos
+Flame Body;99713%;Volcarona
+Swarm;0.287%;Volcarona
+Prankster;99520%;Meowstic Male
+Keen Eye;0.462%;Meowstic Male
+Competitive;0.014%;Meowstic Male
+Infiltrator;0.004%;Meowstic Male
+Fur Coat;98708%;Alolan Persian
+Rattled;1287%;Alolan Persian
+Technician;0.006%;Alolan Persian
+Thick Fat;52198%;Snorlax
+Gluttony;47525%;Snorlax
+Immunity;0.277%;Snorlax
+Beast Boost;100000%;Stakataka
+Volt Absorb;100000%;Thundurus Therian Forme
+Berserk;100000%;Galarian Moltres
+Gale Wings;99889%;Talonflame
+Flame Body;0.111%;Talonflame
+Competitive;99729%;Milotic
+Marvel Scale;0.271%;Milotic
+Cute Charm;0.000%;Milotic
+Unnerve;74627%;Mewtwo
+Pressure;25373%;Mewtwo
+Clear Body;99769%;Klinklang
+Minus;0.226%;Klinklang
+Plus;0.005%;Klinklang
+Sniper;82305%;Inteleon
+Torrent;17695%;Inteleon
+Intimidate;94950%;Salamence
+Moxie;5050%;Salamence
+Healer;50680%;Hatterene
+Magic Bounce;49320%;Hatterene
+Anticipation;0.000%;Hatterene
+Inner Focus;100000%;Sneasel
+Pickpocket;0.000%;Sneasel
+Keen Eye;0.000%;Sneasel
+Overcoat;97221%;Escavalier
+Swarm;2107%;Escavalier
+Shell Armor;0.673%;Escavalier
+Levitate;100000%;Wash Rotom
+Drizzle;99879%;Politoed
+Water Absorb;0.121%;Politoed
+Damp;0.000%;Politoed
+Swift Swim;92872%;Ludicolo
+Rain Dish;7128%;Ludicolo
+Own Tempo;0.000%;Ludicolo
+Oblivious;95974%;Slowking
+Regenerator;3927%;Slowking
+Own Tempo;0.099%;Slowking
+Torrent;94510%;Swampert
+Damp;5490%;Swampert
+Sap Sipper;77089%;Azumarill
+Huge Power;22903%;Azumarill
+Thick Fat;0.008%;Azumarill
+Technician;100000%;Scizor
+Swarm;0.000%;Scizor
+Light Metal;0.000%;Scizor
+Competitive;100000%;Galarian Articuno
+Sand Stream;99698%;Tyranitar
+Unnerve;0.302%;Tyranitar
+Lightning Rod;98783%;Pikachu
+Static;1217%;Pikachu
+Snow Warning;99852%;Alolan Ninetales
+Snow Cloak;0.148%;Alolan Ninetales
+Lightning Rod;82874%;Alolan Marowak
+Rock Head;10217%;Alolan Marowak
+Cursed Body;6910%;Alolan Marowak
+Regenerator;96131%;Slowbro
+Oblivious;3868%;Slowbro
+Own Tempo;0.001%;Slowbro
+Levitate;100000%;Giratina Origin Forme
+Regenerator;99935%;Toxapex
+Merciless;0.064%;Toxapex
+Limber;0.001%;Toxapex
+Inner Focus;97995%;Raikou
+Pressure;2005%;Raikou
+Drizzle;99816%;Pelipper
+Rain Dish;0.184%;Pelipper
+Keen Eye;0.000%;Pelipper
+Neutralizing Gas;99770%;Galarian Weezing
+Misty Surge;0.223%;Galarian Weezing
+Levitate;0.007%;Galarian Weezing
+Hyper Cutter;99990%;Kingler
+Sheer Force;0.010%;Kingler
+Shell Armor;0.000%;Kingler
+Telepathy;47056%;Oranguru
+Inner Focus;34194%;Oranguru
+Symbiosis;18750%;Oranguru
+Beast Boost;100000%;Nihilego
+Lightning Rod;94650%;Togedemaru
+Sturdy;4155%;Togedemaru
+Iron Barbs;1194%;Togedemaru
+Intimidate;89587%;Gyarados
+Moxie;10413%;Gyarados
+Rough Skin;83814%;Garchomp
+Sand Veil;16186%;Garchomp
+Dry Skin;86216%;Heliolisk
+Solar Power;11701%;Heliolisk
+Sand Veil;2084%;Heliolisk
+Grassy Surge;99915%;Tapu Bulu
+Telepathy;0.085%;Tapu Bulu
+Scrappy;99569%;Kangaskhan
+Inner Focus;0.431%;Kangaskhan
+Early Bird;0.000%;Kangaskhan
+Flame Body;99878%;Moltres
+Pressure;0.122%;Moltres
+Anger Point;45194%;Krookodile
+Intimidate;35456%;Krookodile
+Moxie;19349%;Krookodile
+Unburden;99957%;Drifblim
+Aftermath;0.028%;Drifblim
+Flare Boost;0.015%;Drifblim
+Sand Rush;55376%;Excadrill
+Mold Breaker;44601%;Excadrill
+Sand Force;0.023%;Excadrill
+Liquid Voice;89378%;Primarina
+Torrent;10622%;Primarina
+Chlorophyll;100000%;Shiftry
+Early Bird;0.000%;Shiftry
+Pickpocket;0.000%;Shiftry
+Flash Fire;96273%;Chandelure
+Infiltrator;3642%;Chandelure
+Flame Body;0.085%;Chandelure
+Dry Skin;97862%;Toxicroak
+Anticipation;1887%;Toxicroak
+Poison Touch;0.250%;Toxicroak
+Hustle;68885%;Dracozolt
+Sand Rush;29760%;Dracozolt
+Volt Absorb;1355%;Dracozolt
+Unburden;95001%;Sceptile
+Overgrow;4999%;Sceptile
+Electric Surge;98667%;Pincurchin
+Lightning Rod;1333%;Pincurchin
+Stance Change;100000%;Aegislash Shield Forme
+White Smoke;99043%;Centiskorch
+Flash Fire;0.957%;Centiskorch
+Flame Body;0.000%;Centiskorch
+Cheek Pouch;100000%;Greedent
+Gluttony;0.000%;Greedent
+Adaptability;99959%;Porygon-Z
+Analytic;0.028%;Porygon-Z
+Download;0.013%;Porygon-Z
+Compound Eyes;99334%;Butterfree
+Tinted Lens;0.666%;Butterfree
+Inner Focus;83157%;Lucario
+Justified;16457%;Lucario
+Steadfast;0.385%;Lucario
+Inner Focus;40005%;Mudsdale
+Own Tempo;36643%;Mudsdale
+Stamina;23352%;Mudsdale
+Flower Gift;100000%;Cherrim
+Harvest;82502%;Exeggutor
+Chlorophyll;17498%;Exeggutor
+Cloud Nine;99797%;Altaria
+Natural Cure;0.203%;Altaria
+Prankster;100000%;Klefki
+Magician;0.000%;Klefki
+Cursed Body;98382%;Froslass
+Snow Cloak;1618%;Froslass
+Sand Stream;97928%;Gigalith
+Sand Force;1874%;Gigalith
+Sturdy;0.198%;Gigalith
+Water Absorb;94582%;Jellicent
+Cursed Body;5418%;Jellicent
+Damp;0.000%;Jellicent
+Prankster;99996%;Riolu
+Steadfast;0.004%;Riolu
+Inner Focus;0.000%;Riolu
+Overcoat;62594%;Mandibuzz
+Weak Armor;37405%;Mandibuzz
+Big Pecks;0.001%;Mandibuzz
+Contrary;99998%;Lurantis
+Leaf Guard;0.002%;Lurantis
+Levitate;100000%;Latias
+Frisk;58873%;Alolan Exeggutor
+Harvest;41127%;Alolan Exeggutor
+Multiscale;68634%;Dragonite
+Inner Focus;31366%;Dragonite
+Sheer Force;99903%;Darmanitan Standard Mode
+Zen Mode;0.097%;Darmanitan Standard Mode
+Storm Drain;99993%;Cradily
+Suction Cups;0.007%;Cradily
+Defiant;92337%;Obstagoon
+Guts;7593%;Obstagoon
+Reckless;0.070%;Obstagoon
+Intimidate;99995%;Scrafty
+Shed Skin;0.004%;Scrafty
+Moxie;0.000%;Scrafty
+Unnerve;74095%;Aerodactyl
+Rock Head;14632%;Aerodactyl
+Pressure;11273%;Aerodactyl
+Weak Armor;87176%;Kabutops
+Swift Swim;12822%;Kabutops
+Battle Armor;0.002%;Kabutops
+Snow Cloak;55412%;Articuno
+Pressure;44588%;Articuno
+Beast Boost;100000%;Blacephalon
+Stalwart;92912%;Duraludon
+Light Metal;6695%;Duraludon
+Heavy Metal;0.393%;Duraludon
+Frisk;97728%;Trevenant
+Harvest;2271%;Trevenant
+Natural Cure;0.001%;Trevenant
+Swift Swim;99997%;Drednaw
+Strong Jaw;0.003%;Drednaw
+Shell Armor;0.000%;Drednaw
+Flash Fire;97556%;Heatran
+Flame Body;2444%;Heatran
+Unaware;88634%;Clefable
+Magic Guard;8446%;Clefable
+Cute Charm;2920%;Clefable
+Thick Fat;95609%;Appletun
+Ripen;4382%;Appletun
+Gluttony;0.009%;Appletun
+Defiant;97829%;Bisharp
+Inner Focus;2171%;Bisharp
+Pressure;0.000%;Bisharp
+Clear Body;97969%;Registeel
+Light Metal;2031%;Registeel
+Solid Rock;58073%;Rhyperior
+Lightning Rod;41908%;Rhyperior
+Reckless;0.019%;Rhyperior
+Power Spot;100000%;Stonjourner
+Motor Drive;99953%;Electivire
+Vital Spirit;0.047%;Electivire
+Chlorophyll;99788%;Leafeon
+Leaf Guard;0.212%;Leafeon
+Snow Warning;99999%;Abomasnow
+Soundproof;0.001%;Abomasnow
+Huge Power;100000%;Diggersby
+Pickup;0.000%;Diggersby
+Cheek Pouch;0.000%;Diggersby
+Pressure;71964%;Giratina Altered Forme
+Telepathy;28036%;Giratina Altered Forme
+Simple;99902%;Swoobat
+Unaware;0.097%;Swoobat
+Klutz;0.001%;Swoobat
+Mirror Armor;97174%;Corviknight
+Pressure;2274%;Corviknight
+Unnerve;0.551%;Corviknight
+Levitate;100000%;Vikavolt
+Hustle;99831%;Durant
+Swarm;0.133%;Durant
+Truant;0.036%;Durant
+Levitate;100000%;Cresselia
+Screen Cleaner;98763%;Mr. Rime
+Ice Body;1033%;Mr. Rime
+Tangled Feet;0.204%;Mr. Rime
+Schooling;100000%;Wishiwashi Solo Form
+Guts;72659%;Conkeldurr
+Iron Fist;25850%;Conkeldurr
+Sheer Force;1491%;Conkeldurr
+Competitive;99574%;Boltund
+Strong Jaw;0.426%;Boltund
+Justified;100000%;Terrakion
+Justified;100000%;Cobalion
+Teravolt;100000%;Black Kyurem
+Swift Swim;99842%;Mantine
+Water Absorb;0.158%;Mantine
+No Guard;94555%;Machamp
+Steadfast;4020%;Machamp
+Guts;1425%;Machamp
+Sap Sipper;86732%;Goodra
+Hydration;11135%;Goodra
+Gooey;2134%;Goodra
+Unburden;70479%;Accelgor
+Sticky Hold;23132%;Accelgor
+Hydration;6390%;Accelgor
+Beast Boost;100000%;Xurkitree
+Anger Point;95520%;Tauros
+Sheer Force;2347%;Tauros
+Intimidate;2133%;Tauros
+Weak Armor;99792%;Garbodor
+Aftermath;0.184%;Garbodor
+Stench;0.024%;Garbodor
+Guts;86430%;Luxray
+Intimidate;13570%;Luxray
+Rivalry;0.000%;Luxray
+Arena Trap;97967%;Dugtrio
+Sand Veil;2026%;Dugtrio
+Sand Force;0.007%;Dugtrio
+Levitate;100000%;Mow Rotom
+Cursed Body;100000%;Gengar
+Snow Cloak;98784%;Glaceon
+Ice Body;1216%;Glaceon
+Lightning Rod;98309%;Manectric
+Minus;1691%;Manectric
+Static;0.000%;Manectric
+Water Compaction;100000%;Palossand
+Sand Veil;0.000%;Palossand
+Magic Bounce;99567%;Espeon
+Synchronize;0.433%;Espeon
+Inner Focus;79033%;Crobat
+Infiltrator;20967%;Crobat
+Rock Head;99866%;Tyrantrum
+Strong Jaw;0.134%;Tyrantrum
+Skill Link;89304%;Cinccino
+Technician;10696%;Cinccino
+Cute Charm;0.000%;Cinccino
+Overcoat;52187%;Kommo-o
+Soundproof;47810%;Kommo-o
+Bulletproof;0.003%;Kommo-o
+Serene Grace;69948%;Blissey
+Natural Cure;26999%;Blissey
+Healer;3054%;Blissey
+Skill Link;99960%;Cloyster
+Overcoat;0.039%;Cloyster
+Shell Armor;0.001%;Cloyster
+Speed Boost;99990%;Blaziken
+Blaze;0.010%;Blaziken
+Cloud Nine;87480%;Drampa
+Sap Sipper;8813%;Drampa
+Berserk;3707%;Drampa
+Unburden;86197%;Hawlucha
+Mold Breaker;13704%;Hawlucha
+Limber;0.099%;Hawlucha
+Vital Spirit;50430%;Mime Galarian Mr. Mime
+Screen Cleaner;49553%;Mime Galarian Mr. Mime
+Ice Body;0.017%;Mime Galarian Mr. Mime
+Limber;85148%;Grapploct
+Technician;14852%;Grapploct
+Illusion;100000%;Zoroark
+Chlorophyll;99545%;Lilligant
+Own Tempo;0.453%;Lilligant
+Leaf Guard;0.002%;Lilligant
+Mega Launcher;100000%;Clawitzer
+Intimidate;99325%;Qwilfish
+Swift Swim;0.669%;Qwilfish
+Poison Point;0.006%;Qwilfish
+Mold Breaker;97616%;Haxorus
+Unnerve;2301%;Haxorus
+Rivalry;0.083%;Haxorus
+Steelworker;100000%;Dhelmise
+Wandering Spirit;100000%;Runerigus
+Defiant;99876%;Braviary
+Keen Eye;0.104%;Braviary
+Sheer Force;0.020%;Braviary
+Justified;100000%;Virizion
+Serene Grace;69448%;Togetic
+Super Luck;21452%;Togetic
+Hustle;9100%;Togetic
+Surge Surfer;100000%;Alolan Raichu
+Slush Rush;76245%;Beartic
+Swift Swim;23592%;Beartic
+Snow Cloak;0.162%;Beartic
+Sheer Force;85824%;Copperajah
+Heavy Metal;14176%;Copperajah
+Hustle;93710%;Flapple
+Ripen;6289%;Flapple
+Gluttony;0.001%;Flapple
+Pixilate;99281%;Sylveon
+Cute Charm;0.719%;Sylveon
+Unburden;99986%;Slurpuff
+Sweet Veil;0.014%;Slurpuff
+Ice Face;100000%;Eiscue Ice Face
+Sand Stream;92875%;Hippowdon
+Sand Force;7125%;Hippowdon
+Magic Guard;81760%;Alakazam
+Inner Focus;14202%;Alakazam
+Synchronize;4039%;Alakazam
+Intimidate;99998%;Torracat
+Blaze;0.002%;Torracat
+Unburden;99565%;Thievul
+Stakeout;0.435%;Thievul
+Run Away;0.001%;Thievul
+Volt Absorb;93586%;Arctozolt
+Static;6414%;Arctozolt
+Mummy;100000%;Cofagrigus
+Natural Cure;65201%;Starmie
+Analytic;31130%;Starmie
+Illuminate;3669%;Starmie
+Shell Armor;100000%;Turtonator
+Speed Boost;99057%;Sharpedo
+Rough Skin;0.943%;Sharpedo
+Corrosion;52985%;Salazzle
+Oblivious;47015%;Salazzle
+Drought;99868%;Ninetales
+Flash Fire;0.132%;Ninetales
+Scrappy;99328%;Sirfetch'd
+Steadfast;0.672%;Sirfetch'd
+Motor Drive;77116%;Emolga
+Static;22884%;Emolga
+Shield Dust;54465%;Ribombee
+Sweet Veil;44542%;Ribombee
+Honey Gather;0.993%;Ribombee
+Battery;100000%;Charjabug
+Punk Rock;99781%;Toxtricity Low Key Form
+Plus;0.109%;Toxtricity Low Key Form
+Technician;0.074%;Toxtricity Low Key Form
+Minus;0.036%;Toxtricity Low Key Form
+Water Absorb;97966%;Vaporeon
+Hydration;2034%;Vaporeon
+Soundproof;60628%;Mr. Mime
+Filter;36799%;Mr. Mime
+Technician;2573%;Mr. Mime
+Sturdy;64126%;Magnezone
+Analytic;31935%;Magnezone
+Magnet Pull;3939%;Magnezone
+Justified;85462%;Gallade
+Steadfast;14538%;Gallade
+Klutz;47612%;Lopunny
+Cute Charm;27258%;Lopunny
+Limber;25130%;Lopunny
+Frisk;98646%;Gourgeist Small Size
+Pickup;1354%;Gourgeist Small Size
+Contrary;99952%;Malamar
+Infiltrator;0.048%;Malamar
+Suction Cups;0.000%;Malamar
+Emergency Exit;100000%;Golisopod
+Cloud Nine;86812%;Golduck
+Swift Swim;12989%;Golduck
+Damp;0.199%;Golduck
+Effect Spore;87374%;Shiinotic
+Rain Dish;11580%;Shiinotic
+Illuminate;1046%;Shiinotic
+Tough Claws;100000%;Lycanroc Dusk Form
+Super Luck;99652%;Unfezant
+Big Pecks;0.348%;Unfezant
+Rivalry;0.000%;Unfezant
+Steely Spirit;71525%;Perrserker
+Tough Claws;28448%;Perrserker
+Battle Armor;0.028%;Perrserker
+Quick Draw;83932%;Galarian Slowbro
+Regenerator;13946%;Galarian Slowbro
+Own Tempo;2121%;Galarian Slowbro
+Sap Sipper;99032%;Bouffalant
+Soundproof;0.550%;Bouffalant
+Reckless;0.419%;Bouffalant
+Levitate;100000%;Frost Rotom
+Natural Cure;90973%;Roserade
+Poison Point;8690%;Roserade
+Technician;0.338%;Roserade
+Regenerator;92203%;Tangrowth
+Chlorophyll;7721%;Tangrowth
+Leaf Guard;0.077%;Tangrowth
+Shed Skin;55896%;Sandaconda
+Sand Spit;33014%;Sandaconda
+Sand Veil;11090%;Sandaconda
+Weak Armor;65833%;Polteageist
+Cursed Body;34167%;Polteageist
+Regenerator;97040%;Tangela
+Chlorophyll;2941%;Tangela
+Leaf Guard;0.019%;Tangela
+Hunger Switch;100000%;Morpeko Full Belly Mode
+Cotton Down;92851%;Eldegoss
+Regenerator;6593%;Eldegoss
+Effect Spore;0.556%;Eldegoss
+Aroma Veil;87030%;Aromatisse
+Healer;12970%;Aromatisse
+Sap Sipper;88596%;Miltank
+Scrappy;8060%;Miltank
+Thick Fat;3344%;Miltank
+Frisk;96738%;Gourgeist Super Size
+Insomnia;3163%;Gourgeist Super Size
+Pickup;0.099%;Gourgeist Super Size
+Adaptability;91071%;Crawdaunt
+Hyper Cutter;8929%;Crawdaunt
+Shell Armor;0.000%;Crawdaunt
+Moxie;51673%;Heracross
+Guts;47992%;Heracross
+Swarm;0.336%;Heracross
+Analytic;69106%;Magneton
+Magnet Pull;20648%;Magneton
+Sturdy;10246%;Magneton
+Sand Rush;80760%;Stoutland
+Intimidate;18933%;Stoutland
+Scrappy;0.307%;Stoutland
+Frisk;75346%;Noivern
+Infiltrator;16234%;Noivern
+Telepathy;8420%;Noivern
+Levitate;100000%;Claydol
+Volt Absorb;86987%;Jolteon
+Quick Feet;13013%;Jolteon
+Chlorophyll;92915%;Vileplume
+Effect Spore;7085%;Vileplume
+Perish Body;81619%;Cursola
+Weak Armor;18381%;Cursola
+Defiant;96910%;Falinks
+Battle Armor;3090%;Falinks
+Cheek Pouch;67092%;Dedenne
+Pickup;20966%;Dedenne
+Plus;11943%;Dedenne
+Levitate;100000%;Flygon
+Weak Armor;86481%;Crustle
+Sturdy;13509%;Crustle
+Shell Armor;0.010%;Crustle
+Magic Guard;50299%;Reuniclus
+Overcoat;47848%;Reuniclus
+Regenerator;1853%;Reuniclus
+Frisk;94745%;Dusknoir
+Pressure;5255%;Dusknoir
+Battle Armor;80102%;Drapion
+Sniper;19843%;Drapion
+Keen Eye;0.055%;Drapion
+Soundproof;61751%;Exploud
+Scrappy;38249%;Exploud
+Competitive;98753%;Wigglytuff
+Frisk;0.916%;Wigglytuff
+Cute Charm;0.331%;Wigglytuff
+Trace;92987%;Gardevoir
+Telepathy;3627%;Gardevoir
+Synchronize;3386%;Gardevoir
+Cursed Body;99197%;Galarian Corsola
+Weak Armor;0.803%;Galarian Corsola
+Snow Warning;99989%;Vanilluxe
+Weak Armor;0.011%;Vanilluxe
+Ice Body;0.000%;Vanilluxe
+Lightning Rod;98592%;Seaking
+Swift Swim;1408%;Seaking
+Water Veil;0.000%;Seaking
+Magic Guard;69132%;Sigilyph
+Wonder Skin;17863%;Sigilyph
+Tinted Lens;13004%;Sigilyph
+Overgrow;72437%;Decidueye
+Long Reach;27563%;Decidueye
+Compound Eyes;99552%;Galvantula
+Unnerve;0.448%;Galvantula
+Swarm;0.000%;Galvantula
+Water Absorb;99977%;Arctovish
+Ice Body;0.023%;Arctovish
+Storm Drain;85498%;Maractus
+Water Absorb;13502%;Maractus
+Chlorophyll;1000%;Maractus
+Frisk;89856%;Orbeetle
+Telepathy;8055%;Orbeetle
+Swarm;2089%;Orbeetle
+Defiant;60536%;Passimian
+Receiver;39464%;Passimian
+Speed Boost;98908%;Ninjask
+Infiltrator;1092%;Ninjask
+Rough Skin;92085%;Druddigon
+Sheer Force;6207%;Druddigon
+Mold Breaker;1708%;Druddigon
+Sand Rush;97601%;Lycanroc Midday Form
+Steadfast;1991%;Lycanroc Midday Form
+Keen Eye;0.408%;Lycanroc Midday Form
+Analytic;93409%;Beheeyem
+Telepathy;5687%;Beheeyem
+Synchronize;0.904%;Beheeyem
+Lightning Rod;96593%;Marowak
+Battle Armor;3302%;Marowak
+Rock Head;0.105%;Marowak
+Clear Body;97048%;Tentacruel
+Rain Dish;2605%;Tentacruel
+Liquid Ooze;0.347%;Tentacruel
+Adaptability;99169%;Dragalge
+Poison Point;0.805%;Dragalge
+Poison Touch;0.025%;Dragalge
+Guts;94976%;Flareon
+Flash Fire;5024%;Flareon
+Fluffy;99822%;Bewear
+Unnerve;0.176%;Bewear
+Klutz;0.002%;Bewear
+Technician;99161%;Scyther
+Swarm;0.492%;Scyther
+Steadfast;0.346%;Scyther
+Slush Rush;99585%;Alolan Sandslash
+Snow Cloak;0.415%;Alolan Sandslash
+Swift Swim;95257%;Poliwrath
+Water Absorb;4742%;Poliwrath
+Damp;0.001%;Poliwrath
+No Guard;79701%;Lycanroc Midnight Form
+Vital Spirit;20287%;Lycanroc Midnight Form
+Keen Eye;0.012%;Lycanroc Midnight Form
+No Guard;70410%;Golurk
+Iron Fist;28228%;Golurk
+Klutz;1362%;Golurk
+Cloud Nine;69135%;Lickilicky
+Own Tempo;30243%;Lickilicky
+Oblivious;0.621%;Lickilicky
+Levitate;100000%;Fan Rotom
+Unburden;99204%;Hitmonlee
+Reckless;0.795%;Hitmonlee
+Limber;0.001%;Hitmonlee
+Speed Boost;99826%;Scolipede
+Poison Point;0.173%;Scolipede
+Swarm;0.001%;Scolipede
+Serene Grace;55668%;Dunsparce
+Rattled;44332%;Dunsparce
+Run Away;0.000%;Dunsparce
+Sand Rush;99760%;Sandslash
+Sand Veil;0.240%;Sandslash
+Sturdy;82896%;Steelix
+Sheer Force;14225%;Steelix
+Rock Head;2878%;Steelix
+Tinted Lens;97481%;Noctowl
+Insomnia;2519%;Noctowl
+Keen Eye;0.000%;Noctowl
+Hustle;100000%;Corsola
+Regenerator;0.000%;Corsola
+Soundproof;99870%;Mime Jr.
+Filter;0.130%;Mime Jr.
+Technician;0.000%;Mime Jr.
+Frisk;100000%;Gourgeist Large Size
+Pickup;0.000%;Gourgeist Large Size
