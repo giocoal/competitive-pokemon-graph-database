@@ -1,0 +1,401 @@
+,No.,Name,Abilities,HP,Att,Def,S.Att,S.Def,Spd,sprite_url
+0,#001,Grookeyサルノリ,Overgrow Grassy Surge,50,65,50,40,40,65,https://www.serebii.net//swordshield/pokemon/small/810.png
+1,#002,Thwackeyバチンキー,Overgrow Grassy Surge,70,85,70,55,60,80,https://www.serebii.net//swordshield/pokemon/small/811.png
+2,#003,Rillaboomゴリランダー,Overgrow Grassy Surge,100,125,90,60,70,85,https://www.serebii.net//swordshield/pokemon/small/812.png
+3,#004,Scorbunnyヒバニー,Blaze Libero,50,71,40,40,40,69,https://www.serebii.net//swordshield/pokemon/small/813.png
+4,#005,Rabootラビフット,Blaze Libero,65,86,60,55,60,94,https://www.serebii.net//swordshield/pokemon/small/814.png
+5,#006,Cinderaceエースバーン,Blaze Libero,80,116,75,65,75,119,https://www.serebii.net//swordshield/pokemon/small/815.png
+6,#007,Sobbleメッソン,Torrent Sniper,50,40,40,70,40,70,https://www.serebii.net//swordshield/pokemon/small/816.png
+7,#008,Drizzileジメレオン,Torrent Sniper,65,60,55,95,55,90,https://www.serebii.net//swordshield/pokemon/small/817.png
+8,#009,Inteleonインテレオン,Torrent Sniper,70,85,65,125,65,120,https://www.serebii.net//swordshield/pokemon/small/818.png
+9,#010,Blipbugサッチムシ,Swarm Compoundeyes Telepathy,25,20,20,25,45,45,https://www.serebii.net//swordshield/pokemon/small/824.png
+10,#011,Dottlerレドームシ,Swarm Compoundeyes Telepathy,50,35,80,50,90,30,https://www.serebii.net//swordshield/pokemon/small/825.png
+11,#012,Orbeetleイオルブ,Swarm Frisk Telepathy,60,45,110,80,120,90,https://www.serebii.net//swordshield/pokemon/small/826.png
+12,#013,Caterpieキャタピー,Shield Dust Run Away,45,30,35,20,20,45,https://www.serebii.net//swordshield/pokemon/small/010.png
+13,#014,Metapodトランセル,Shed Skin,50,20,55,25,25,30,https://www.serebii.net//swordshield/pokemon/small/011.png
+14,#015,Butterfreeバタフリー,Compoundeyes Tinted Lens,60,45,50,90,80,70,https://www.serebii.net//swordshield/pokemon/small/012.png
+15,#016,Grubbinアゴジムシ,Swarm,47,62,45,55,45,46,https://www.serebii.net//swordshield/pokemon/small/736.png
+16,#017,Charjabugデンヂムシ,Battery,57,82,95,55,75,36,https://www.serebii.net//swordshield/pokemon/small/737.png
+17,#018,Vikavoltクワガノン,Levitate,77,70,90,145,75,43,https://www.serebii.net//swordshield/pokemon/small/738.png
+18,#019,Hoothootホーホー,Insomnia Keen Eye Tinted Lens,60,30,30,36,56,50,https://www.serebii.net//swordshield/pokemon/small/163.png
+19,#020,Noctowlヨルノズク,Insomnia Keen Eye Tinted Lens,100,50,50,86,96,70,https://www.serebii.net//swordshield/pokemon/small/164.png
+20,#021,Rookideeココガラ,Keen Eye Unnerve Big Pecks,38,47,35,33,35,57,https://www.serebii.net//swordshield/pokemon/small/821.png
+21,#022,Corvisquireアオガラス,Keen Eye Unnerve Big Pecks,68,67,55,43,55,77,https://www.serebii.net//swordshield/pokemon/small/822.png
+22,#023,Corviknightアーマーガア,Pressure Unnerve Mirror Armor,98,87,105,53,85,67,https://www.serebii.net//swordshield/pokemon/small/823.png
+23,#024,Skwovetホシガリス,Cheek Pouch Gluttony,70,55,55,35,35,25,https://www.serebii.net//swordshield/pokemon/small/819.png
+24,#025,Greedentヨクバリス,Cheek Pouch Gluttony,120,95,95,55,75,20,https://www.serebii.net//swordshield/pokemon/small/820.png
+25,#026,Pidoveマメパト,Big Pecks Super Luck Rivalry,50,55,50,36,30,43,https://www.serebii.net//swordshield/pokemon/small/519.png
+26,#027,Tranquillハトーボー,Big Pecks Super Luck Rivalry,62,77,62,50,42,65,https://www.serebii.net//swordshield/pokemon/small/520.png
+27,#028,Unfezantケンホロウ,Big Pecks Super Luck Rivalry,80,115,80,65,55,93,https://www.serebii.net//swordshield/pokemon/small/521.png
+28,#029,Nickitクスネ,Run Away Unburden Stakeout,40,28,28,47,52,50,https://www.serebii.net//swordshield/pokemon/small/827.png
+29,#030,Thievulフォクスライ,Run Away Unburden Stakeout,70,58,58,87,92,90,https://www.serebii.net//swordshield/pokemon/small/828.png
+30,#031,Zigzagoonジグザグマ,Pickup Gluttony Quick Feet,38,30,41,30,41,60,https://www.serebii.net//swordshield/pokemon/small/263-g.png
+31,#032,Linooneマッスグマ,Pickup Gluttony Quick Feet,78,70,61,50,61,100,https://www.serebii.net//swordshield/pokemon/small/264-g.png
+32,#033,Obstagoonタチフサグマ,Reckless Guts Defiant,93,90,101,60,81,95,https://www.serebii.net//swordshield/pokemon/small/862.png
+33,#034,Woolooウールー,Fluffy Run Away Bulletproof,42,40,55,40,45,48,https://www.serebii.net//swordshield/pokemon/small/831.png
+34,#035,Dubwoolバイウールー,Fluffy Steadfast Bulletproof,72,80,100,60,90,88,https://www.serebii.net//swordshield/pokemon/small/832.png
+35,#036,Lotadハスボー,Swift Swim Rain Dish Own Tempo,40,30,30,40,50,30,https://www.serebii.net//swordshield/pokemon/small/270.png
+36,#037,Lombreハスブレロ,Swift Swim Rain Dish Own Tempo,60,50,50,60,70,50,https://www.serebii.net//swordshield/pokemon/small/271.png
+37,#038,Ludicoloルンパッパ,Swift Swim Rain Dish Own Tempo,80,70,70,90,100,70,https://www.serebii.net//swordshield/pokemon/small/272.png
+38,#039,Seedotタネボー,Chlorophyll Early Bird Pickpocket,40,40,50,30,30,30,https://www.serebii.net//swordshield/pokemon/small/273.png
+39,#040,Nuzleafコノハナ,Chlorophyll Early Bird Pickpocket,70,70,40,60,40,60,https://www.serebii.net//swordshield/pokemon/small/274.png
+40,#041,Shiftryダーテング,Chlorophyll Early Bird Pickpocket,90,100,60,90,60,80,https://www.serebii.net//swordshield/pokemon/small/275.png
+41,#042,Chewtleカムカメ,Strong Jaw Shell Armor Swift Swim,50,64,50,38,38,44,https://www.serebii.net//swordshield/pokemon/small/833.png
+42,#043,Drednawカジリガメ,Strong Jaw Shell Armor Swift Swim,90,115,90,48,68,74,https://www.serebii.net//swordshield/pokemon/small/834.png
+43,#044,Purrloinチョロネコ,Limber Unburden Prankster,41,50,37,50,37,66,https://www.serebii.net//swordshield/pokemon/small/509.png
+44,#045,Liepardレパルダス,Limber Unburden Prankster,64,88,50,88,50,106,https://www.serebii.net//swordshield/pokemon/small/510.png
+45,#046,Yamperワンパチ,Ball Fetch Rattled,59,45,50,40,50,26,https://www.serebii.net//swordshield/pokemon/small/835.png
+46,#047,Boltundパルスワン,Strong Jaw Competitive,69,90,60,90,60,121,https://www.serebii.net//swordshield/pokemon/small/836.png
+47,#048,Bunnelbyホルビー,Pickup Cheek Pouch Huge Power,38,36,38,32,36,57,https://www.serebii.net//swordshield/pokemon/small/659.png
+48,#049,Diggersbyホルード,Pickup Cheek Pouch Huge Power,85,56,77,50,77,78,https://www.serebii.net//swordshield/pokemon/small/660.png
+49,#050,Minccinoチラーミィ,Cute Charm Technician Skill Link,55,50,40,40,40,75,https://www.serebii.net//swordshield/pokemon/small/572.png
+50,#051,Cinccinoチラチーノ,Cute Charm Technician Skill Link,75,95,60,65,60,115,https://www.serebii.net//swordshield/pokemon/small/573.png
+51,#052,Bounsweetアマカジ,Leaf Guard Oblivious Sweet Veil,42,30,38,30,38,32,https://www.serebii.net//swordshield/pokemon/small/761.png
+52,#053,Steeneeアママイコ,Leaf Guard Oblivious Sweet Veil,52,40,48,40,48,62,https://www.serebii.net//swordshield/pokemon/small/762.png
+53,#054,Tsareenaアマージョ,Leaf Guard Queenly Majesty Sweet Veil,72,120,98,50,98,72,https://www.serebii.net//swordshield/pokemon/small/763.png
+54,#055,Oddishナゾノクサ,Chlorophyll Run Away,45,50,55,75,65,30,https://www.serebii.net//swordshield/pokemon/small/043.png
+55,#056,Gloomクサイハナ,Chlorophyll Stench,60,65,70,85,75,40,https://www.serebii.net//swordshield/pokemon/small/044.png
+56,#057,Vileplumeラフレシア,Chlorophyll Effect Spore,75,80,85,110,90,50,https://www.serebii.net//swordshield/pokemon/small/045.png
+57,#058,Bellossomキレイハナ,Chlorophyll Healer,75,80,95,90,100,50,https://www.serebii.net//swordshield/pokemon/small/182.png
+58,#059,Budewスボミー,Natural Cure Poison Point Leaf Guard,40,30,35,50,70,55,https://www.serebii.net//swordshield/pokemon/small/406.png
+59,#060,Roseliaロゼリア,Natural Cure Poison Point Leaf Guard,50,60,45,100,80,65,https://www.serebii.net//swordshield/pokemon/small/315.png
+60,#061,Roseradeロズレイド,Natural Cure Poison Point Technician,60,70,65,125,105,90,https://www.serebii.net//swordshield/pokemon/small/407.png
+61,#062,Wingullキャモメ,Keen Eye Hydration Rain Dish,40,30,30,55,30,85,https://www.serebii.net//swordshield/pokemon/small/278.png
+62,#063,Pelipperペリッパー,Keen Eye Drizzle Rain Dish,60,50,100,95,70,65,https://www.serebii.net//swordshield/pokemon/small/279.png
+63,#064,Joltikバチュル,Compoundeyes Unnerve Swarm,50,47,50,57,50,65,https://www.serebii.net//swordshield/pokemon/small/595.png
+64,#065,Galvantulaデンチュラ,Compoundeyes Unnerve Swarm,70,77,60,97,60,108,https://www.serebii.net//swordshield/pokemon/small/596.png
+65,#066,Electrikeラクライ,Static Lightning Rod Minus,40,45,40,65,40,65,https://www.serebii.net//swordshield/pokemon/small/309.png
+66,#067,Manectricライボルト,Static Lightning Rod Minus,70,75,60,105,60,105,https://www.serebii.net//swordshield/pokemon/small/310.png
+67,#068,Vulpixロコン,Flash Fire Drought,38,41,40,50,65,65,https://www.serebii.net//swordshield/pokemon/small/037.png
+68,#069,Ninetalesキュウコン,Flash Fire Drought,73,76,75,81,100,100,https://www.serebii.net//swordshield/pokemon/small/038.png
+69,#070,Growlitheガーディ,Intimidate Flash Fire Justified,55,70,45,70,50,60,https://www.serebii.net//swordshield/pokemon/small/058.png
+70,#071,Arcanineウインディ,Intimidate Flash Fire Justified,90,110,80,100,80,95,https://www.serebii.net//swordshield/pokemon/small/059.png
+71,#072,Vanilliteバニプッチ,Ice Body Snow Cloak Weak Armor,36,50,50,65,60,44,https://www.serebii.net//swordshield/pokemon/small/582.png
+72,#073,Vanillishバニリッチ,Ice Body Snow Cloak Weak Armor,51,65,65,80,75,59,https://www.serebii.net//swordshield/pokemon/small/583.png
+73,#074,Vanilluxeバイバニラ,Ice Body Snow Warning Weak Armor,71,95,85,110,95,79,https://www.serebii.net//swordshield/pokemon/small/584.png
+74,#075,Swinubウリムー,Oblivious Snow Cloak Thick Fat,50,50,40,30,30,50,https://www.serebii.net//swordshield/pokemon/small/220.png
+75,#076,Piloswineイノムー,Oblivious Snow Cloak Thick Fat,100,100,80,60,60,50,https://www.serebii.net//swordshield/pokemon/small/221.png
+76,#077,Mamoswineマンムー,Oblivious Snow Cloak Thick Fat,110,130,80,70,60,80,https://www.serebii.net//swordshield/pokemon/small/473.png
+77,#078,Delibirdデリバード,Vital Spirit Hustle Insomnia,45,55,45,65,45,75,https://www.serebii.net//swordshield/pokemon/small/225.png
+78,#079,Snoruntユキワラシ,Inner Focus Ice Body Moody,50,50,50,50,50,50,https://www.serebii.net//swordshield/pokemon/small/361.png
+79,#080,Glalieオニゴーリ,Inner Focus Ice Body Moody,80,80,80,80,80,80,https://www.serebii.net//swordshield/pokemon/small/362.png
+80,#081,Froslassユキメノコ,Snow Cloak Cursed Body,70,80,70,80,70,110,https://www.serebii.net//swordshield/pokemon/small/478.png
+81,#082,Baltoyヤジロン,Levitate,40,40,55,40,70,55,https://www.serebii.net//swordshield/pokemon/small/343.png
+82,#083,Claydolネンドール,Levitate,60,70,105,70,120,75,https://www.serebii.net//swordshield/pokemon/small/344.png
+83,#084,Mudbrayドロバンコ,Own Tempo Stamina Inner Focus,70,100,70,45,55,45,https://www.serebii.net//swordshield/pokemon/small/749.png
+84,#085,Mudsdaleバンバドロ,Own Tempo Stamina Inner Focus,100,125,100,55,85,35,https://www.serebii.net//swordshield/pokemon/small/750.png
+85,#086,Dwebbleイシズマイ,Sturdy Shell Armor Weak Armor,50,65,85,35,35,55,https://www.serebii.net//swordshield/pokemon/small/557.png
+86,#087,Crustleイワパレス,Sturdy Shell Armor Weak Armor,70,105,125,65,75,45,https://www.serebii.net//swordshield/pokemon/small/558.png
+87,#088,Golettゴビット,Iron Fist Klutz No Guard,59,74,50,35,50,35,https://www.serebii.net//swordshield/pokemon/small/622.png
+88,#089,Golurkゴルーグ,Iron Fist Klutz No Guard,89,124,80,55,80,55,https://www.serebii.net//swordshield/pokemon/small/623.png
+89,#090,Munnaムンナ,Forewarn Synchronize Telepathy,76,25,45,67,55,24,https://www.serebii.net//swordshield/pokemon/small/517.png
+90,#091,Musharnaムシャーナ,Forewarn Synchronize Telepathy,116,55,85,107,95,29,https://www.serebii.net//swordshield/pokemon/small/518.png
+91,#092,Natuネイティ,Synchronize Early Bird Magic Bounce,40,50,45,70,45,70,https://www.serebii.net//swordshield/pokemon/small/177.png
+92,#093,Xatuネイティオ,Synchronize Early Bird Magic Bounce,65,75,70,95,70,95,https://www.serebii.net//swordshield/pokemon/small/178.png
+93,#094,Stuffulヌイコグマ,Fluffy Klutz Cute Charm,70,75,50,45,50,50,https://www.serebii.net//swordshield/pokemon/small/759.png
+94,#095,Bewearキテルグマ,Fluffy Klutz Unnerve,120,125,80,55,60,60,https://www.serebii.net//swordshield/pokemon/small/760.png
+95,#096,Snoverユキカブリ,Snow Warning Soundproof,60,62,50,62,60,40,https://www.serebii.net//swordshield/pokemon/small/459.png
+96,#097,Abomasnowユキノオー,Snow Warning Soundproof,90,92,75,92,85,60,https://www.serebii.net//swordshield/pokemon/small/460.png
+97,#098,Krabbyクラブ,Hyper Cutter Shell Armor Sheer Force,30,105,90,25,25,50,https://www.serebii.net//swordshield/pokemon/small/098.png
+98,#099,Kinglerキングラー,Hyper Cutter Shell Armor Sheer Force,55,130,115,50,50,75,https://www.serebii.net//swordshield/pokemon/small/099.png
+99,#100,Wooperウパー,Damp Water Absorb Unaware,55,45,45,25,25,15,https://www.serebii.net//swordshield/pokemon/small/194.png
+100,#101,Quagsireヌオー,Damp Water Absorb Unaware,95,85,85,65,65,35,https://www.serebii.net//swordshield/pokemon/small/195.png
+101,#102,Corphishヘイガニ,Hyper Cutter Shell Armor Adaptability,43,80,65,50,35,35,https://www.serebii.net//swordshield/pokemon/small/341.png
+102,#103,Crawdauntシザリガー,Hyper Cutter Shell Armor Adaptability,63,120,85,90,55,55,https://www.serebii.net//swordshield/pokemon/small/342.png
+103,#104,Nincadaツチニン,Compoundeyes Run Away,31,45,90,30,30,40,https://www.serebii.net//swordshield/pokemon/small/290.png
+104,#105,Ninjaskテッカニン,Speed Boost Infiltrator,61,90,45,50,50,160,https://www.serebii.net//swordshield/pokemon/small/291.png
+105,#106,Shedinjaヌケニン,Wonder Guard,1,90,45,30,30,40,https://www.serebii.net//swordshield/pokemon/small/292.png
+106,#107,Tyrogueバルキー,Guts Steadfast Vital Spirit,35,35,35,35,35,35,https://www.serebii.net//swordshield/pokemon/small/236.png
+107,#108,Hitmonleeサワムラー,Limber Reckless Unburden,50,120,53,35,110,87,https://www.serebii.net//swordshield/pokemon/small/106.png
+108,#109,Hitmonchanエビワラー,Keen Eye Iron Fist Inner Focus,50,105,79,35,110,76,https://www.serebii.net//swordshield/pokemon/small/107.png
+109,#110,Hitmontopカポエラー,Intimidate Technician Steadfast,50,95,95,35,110,70,https://www.serebii.net//swordshield/pokemon/small/237.png
+110,#111,Panchamヤンチャム,Iron Fist Mold Breaker Scrappy,67,82,62,46,48,43,https://www.serebii.net//swordshield/pokemon/small/674.png
+111,#112,Pangoroゴロンダ,Iron Fist Mold Breaker Scrappy,95,124,78,69,71,58,https://www.serebii.net//swordshield/pokemon/small/675.png
+112,#113,Klinkギアル,Plus Minus Clear Body,40,55,70,45,60,30,https://www.serebii.net//swordshield/pokemon/small/599.png
+113,#114,Klangギギアル,Plus Minus Clear Body,60,80,95,70,85,50,https://www.serebii.net//swordshield/pokemon/small/600.png
+114,#115,Klinklangギギギアル,Plus Minus Clear Body,60,100,115,70,85,90,https://www.serebii.net//swordshield/pokemon/small/601.png
+115,#116,Combeeミツハニー,Honey Gather Hustle,30,30,42,30,42,70,https://www.serebii.net//swordshield/pokemon/small/415.png
+116,#117,Vespiquenビークイン,Pressure Unnerve,70,80,102,80,102,40,https://www.serebii.net//swordshield/pokemon/small/416.png
+117,#118,Bronzorドーミラー,Levitate Heatproof Heavy Metal,57,24,86,24,86,23,https://www.serebii.net//swordshield/pokemon/small/436.png
+118,#119,Bronzongドータクン,Levitate Heatproof Heavy Metal,67,89,116,79,116,33,https://www.serebii.net//swordshield/pokemon/small/437.png
+119,#120,Raltsラルトス,Synchronize Trace Telepathy,28,25,25,45,35,40,https://www.serebii.net//swordshield/pokemon/small/280.png
+120,#121,Kirliaキルリア,Synchronize Trace Telepathy,38,35,35,65,55,50,https://www.serebii.net//swordshield/pokemon/small/281.png
+121,#122,Gardevoirサーナイト,Synchronize Trace Telepathy,68,65,65,125,115,80,https://www.serebii.net//swordshield/pokemon/small/282.png
+122,#123,Galladeエルレイド,Steadfast Justified,68,125,65,65,115,80,https://www.serebii.net//swordshield/pokemon/small/475.png
+123,#124,Drifloonフワンテ,Aftermath Unburden Flare Boost,90,50,34,60,44,70,https://www.serebii.net//swordshield/pokemon/small/425.png
+124,#125,Drifblimフワライド,Aftermath Unburden Flare Boost,150,80,44,90,54,80,https://www.serebii.net//swordshield/pokemon/small/426.png
+125,#126,Gossifleurヒメンカ,Cotton Down Regenerator Effect Spore,40,40,60,40,60,10,https://www.serebii.net//swordshield/pokemon/small/829.png
+126,#127,Eldegossワタシラガ,Cotton Down Regenerator Effect Spore,60,50,90,80,120,60,https://www.serebii.net//swordshield/pokemon/small/830.png
+127,#128,Cherubiチェリンボ,Chlorophyll,45,35,45,62,53,35,https://www.serebii.net//swordshield/pokemon/small/420.png
+128,#129,Cherrimチェリム,Flower Gift,70,60,70,87,78,85,https://www.serebii.net//swordshield/pokemon/small/421.png
+129,#130,Stunkyスカンプー,Stench Aftermath Keen Eye,63,63,47,41,41,74,https://www.serebii.net//swordshield/pokemon/small/434.png
+130,#131,Skuntankスカタンク,Stench Aftermath Keen Eye,103,93,67,71,61,84,https://www.serebii.net//swordshield/pokemon/small/435.png
+131,#132,Tympoleオタマロ,Swift Swim Hydration Water Absorb,50,50,40,50,40,64,https://www.serebii.net//swordshield/pokemon/small/535.png
+132,#133,Palpitoadガマガル,Swift Swim Hydration Water Absorb,75,65,55,65,55,69,https://www.serebii.net//swordshield/pokemon/small/536.png
+133,#134,Seismitoadガマゲロゲ,Swift Swim Poison Touch Water Absorb,105,95,75,85,75,74,https://www.serebii.net//swordshield/pokemon/small/537.png
+134,#135,Duskullヨマワル,Levitate Frisk,20,40,90,30,90,25,https://www.serebii.net//swordshield/pokemon/small/355.png
+135,#136,Dusclopsサマヨール,Pressure Frisk,40,70,130,60,130,25,https://www.serebii.net//swordshield/pokemon/small/356.png
+136,#137,Dusknoirヨノワール,Pressure Frisk,45,100,135,65,135,45,https://www.serebii.net//swordshield/pokemon/small/477.png
+137,#138,Machopワンリキー,Guts No Guard Steadfast,70,80,50,35,35,35,https://www.serebii.net//swordshield/pokemon/small/066.png
+138,#139,Machokeゴーリキー,Guts No Guard Steadfast,80,100,70,50,60,45,https://www.serebii.net//swordshield/pokemon/small/067.png
+139,#140,Machampカイリキー,Guts No Guard Steadfast,90,130,80,65,85,55,https://www.serebii.net//swordshield/pokemon/small/068.png
+140,#141,Gastlyゴース,Levitate,30,35,30,100,35,80,https://www.serebii.net//swordshield/pokemon/small/092.png
+141,#142,Haunterゴースト,Levitate,45,50,45,115,55,95,https://www.serebii.net//swordshield/pokemon/small/093.png
+142,#143,Gengarゲンガー,Cursed Body,60,65,60,130,75,110,https://www.serebii.net//swordshield/pokemon/small/094.png
+143,#144,Magikarpコイキング,Swift Swim Rattled,20,10,55,15,20,80,https://www.serebii.net//swordshield/pokemon/small/129.png
+144,#145,Gyaradosギャラドス,Intimidate Moxie,95,125,79,60,100,81,https://www.serebii.net//swordshield/pokemon/small/130.png
+145,#146,Goldeenトサキント,Swift Swim Water Veil Lightning Rod,45,67,60,35,50,63,https://www.serebii.net//swordshield/pokemon/small/118.png
+146,#147,Seakingアズマオウ,Swift Swim Water Veil Lightning Rod,80,92,65,65,80,68,https://www.serebii.net//swordshield/pokemon/small/119.png
+147,#148,Remoraidテッポウオ,Hustle Sniper Moody,35,65,35,65,35,65,https://www.serebii.net//swordshield/pokemon/small/223.png
+148,#149,Octilleryオクタン,Suction Cups Sniper Moody,75,105,75,105,75,45,https://www.serebii.net//swordshield/pokemon/small/224.png
+149,#150,Shellderシェルダー,Shell Armor Skill Link Overcoat,30,65,100,45,25,40,https://www.serebii.net//swordshield/pokemon/small/090.png
+150,#151,Cloysterパルシェン,Shell Armor Skill Link Overcoat,50,95,180,85,45,70,https://www.serebii.net//swordshield/pokemon/small/091.png
+151,#152,Feebasヒンバス,Swift Swim Oblivious Adaptability,20,15,20,10,55,80,https://www.serebii.net//swordshield/pokemon/small/349.png
+152,#153,Miloticミロカロス,Marvel Scale Competitive Cute Charm,95,60,79,100,125,81,https://www.serebii.net//swordshield/pokemon/small/350.png
+153,#154,Basculinバスラオ,Reckless Adaptability Mold Breaker,70,92,65,80,55,98,https://www.serebii.net//swordshield/pokemon/small/550.png
+154,#155,Wishiwashiヨワシ,Schooling,45,20,20,25,25,40,https://www.serebii.net//swordshield/pokemon/small/746.png
+155,#156,Pyukumukuナマコブシ,Innards Out Unaware,55,60,130,30,130,5,https://www.serebii.net//swordshield/pokemon/small/771.png
+156,#157,Trubbishヤブクロン,Stench Sticky Hold Aftermath,50,50,62,40,62,65,https://www.serebii.net//swordshield/pokemon/small/568.png
+157,#158,Garbodorダストダス,Stench Weak Armor Aftermath,80,95,82,60,82,75,https://www.serebii.net//swordshield/pokemon/small/569.png
+158,#159,Sizzlipedeヤクデ,Flash Fire White Smoke Flame Body,50,65,45,50,50,45,https://www.serebii.net//swordshield/pokemon/small/850.png
+159,#160,Centiskorchマルヤクデ,Flash Fire White Smoke Flame Body,100,115,65,90,90,65,https://www.serebii.net//swordshield/pokemon/small/851.png
+160,#161,Rolycolyタンドン,Steam Engine Heatproof Flash Fire,30,40,50,40,50,30,https://www.serebii.net//swordshield/pokemon/small/837.png
+161,#162,Carkolトロッゴン,Steam Engine Flame Body Flash Fire,80,60,90,60,70,50,https://www.serebii.net//swordshield/pokemon/small/838.png
+162,#163,Coalossalセキタンザン,Steam Engine Flame Body Flash Fire,110,80,120,80,90,30,https://www.serebii.net//swordshield/pokemon/small/839.png
+163,#164,Diglettディグダ,Sand Veil Arena Trap Sand Force,10,55,25,35,45,95,https://www.serebii.net//swordshield/pokemon/small/050.png
+164,#165,Dugtrioダグトリオ,Sand Veil Arena Trap Sand Force,35,100,50,50,70,120,https://www.serebii.net//swordshield/pokemon/small/051.png
+165,#166,Drilburモグリュー,Sand Rush Sand Force Mold Breaker,60,85,40,30,45,68,https://www.serebii.net//swordshield/pokemon/small/529.png
+166,#167,Excadrillドリュウズ,Sand Rush Sand Force Mold Breaker,110,135,60,50,65,88,https://www.serebii.net//swordshield/pokemon/small/530.png
+167,#168,Roggenrolaダンゴロ,Sturdy Weak Armor Sand Force,55,75,85,25,25,15,https://www.serebii.net//swordshield/pokemon/small/524.png
+168,#169,Boldoreガントル,Sturdy Weak Armor Sand Force,70,105,105,50,40,20,https://www.serebii.net//swordshield/pokemon/small/525.png
+169,#170,Gigalithギガイアス,Sturdy Sand Stream Sand Force,85,135,130,60,80,25,https://www.serebii.net//swordshield/pokemon/small/526.png
+170,#171,Timburrドッコラー,Guts Sheer Force Iron Fist,75,80,55,25,35,35,https://www.serebii.net//swordshield/pokemon/small/532.png
+171,#172,Gurdurrドテッコツ,Guts Sheer Force Iron Fist,85,105,85,40,50,40,https://www.serebii.net//swordshield/pokemon/small/533.png
+172,#173,Conkeldurrローブシン,Guts Sheer Force Iron Fist,105,140,95,55,65,45,https://www.serebii.net//swordshield/pokemon/small/534.png
+173,#174,Woobatコロモリ,Unaware Klutz Simple,65,45,43,55,43,72,https://www.serebii.net//swordshield/pokemon/small/527.png
+174,#175,Swoobatココロモリ,Unaware Klutz Simple,67,57,55,77,55,114,https://www.serebii.net//swordshield/pokemon/small/528.png
+175,#176,Noibatオンバット,Frisk Infiltrator Telepathy,40,30,35,45,40,55,https://www.serebii.net//swordshield/pokemon/small/714.png
+176,#177,Noivernオンバーン,Frisk Infiltrator Telepathy,85,70,80,97,80,123,https://www.serebii.net//swordshield/pokemon/small/715.png
+177,#178,Onixイワーク,Rock Head Sturdy Weak Armor,35,45,160,30,45,70,https://www.serebii.net//swordshield/pokemon/small/095.png
+178,#179,Steelixハガネール,Rock Head Sturdy Sheer Force,75,85,200,55,65,30,https://www.serebii.net//swordshield/pokemon/small/208.png
+179,#180,Arrokudaサシカマス,Swift Swim Propeller Tail,41,63,40,40,30,66,https://www.serebii.net//swordshield/pokemon/small/846.png
+180,#181,Barraskewdaカマスジョー,Swift Swim Propeller Tail,61,123,60,60,50,136,https://www.serebii.net//swordshield/pokemon/small/847.png
+181,#182,Meowthニャース,Pickup Tough Claws Unnerve,50,65,55,40,40,40,https://www.serebii.net//swordshield/pokemon/small/052-g.png
+182,#183,Perrserkerニャイキング,Battle Armor Tough Claws Steely Spirit,70,110,100,50,60,50,https://www.serebii.net//swordshield/pokemon/small/863.png
+183,#184,Persianペルシアン,Limber Technician Unnerve,65,70,60,65,65,115,https://www.serebii.net//swordshield/pokemon/small/053.png
+184,#185,Milceryマホミル,Sweet Veil Aroma Veil,45,40,40,50,61,34,https://www.serebii.net//swordshield/pokemon/small/868.png
+185,#186,Alcremieマホイップ,Sweet Veil Aroma Veil,65,60,75,110,121,64,https://www.serebii.net//swordshield/pokemon/small/869.png
+186,#187,Cutieflyアブリー,Honey Gather Shield Dust Sweet Veil,40,45,40,55,40,84,https://www.serebii.net//swordshield/pokemon/small/742.png
+187,#188,Ribombeeアブリボン,Honey Gather Shield Dust Sweet Veil,60,55,60,95,70,124,https://www.serebii.net//swordshield/pokemon/small/743.png
+188,#189,Ferroseedテッシード,Iron Barbs,44,50,91,24,86,10,https://www.serebii.net//swordshield/pokemon/small/597.png
+189,#190,Ferrothornナットレイ,Iron Barbs Anticipation,74,94,131,54,116,20,https://www.serebii.net//swordshield/pokemon/small/598.png
+190,#191,Pumpkabooバケッチャ,Pickup Frisk Insomnia,49,66,70,44,55,51,https://www.serebii.net//swordshield/pokemon/small/710.png
+191,#192,Gourgeistパンプジン,Pickup Frisk Insomnia,65,90,122,58,75,84,https://www.serebii.net//swordshield/pokemon/small/711.png
+192,#193,Pichuピチュー,Static Lightning Rod,20,40,15,35,35,60,https://www.serebii.net//swordshield/pokemon/small/172.png
+193,#194,Pikachuピカチュウ,Static Lightning Rod,35,55,40,50,50,90,https://www.serebii.net//swordshield/pokemon/small/025.png
+194,#195,Raichuライチュウ,Static Lightning Rod,60,90,55,90,80,110,https://www.serebii.net//swordshield/pokemon/small/026.png
+195,#196,Eeveeイーブイ,Run Away Adaptability Anticipation,55,55,50,45,65,55,https://www.serebii.net//swordshield/pokemon/small/133.png
+196,#197,Vaporeonシャワーズ,Water Absorb Hydration,130,65,60,110,95,65,https://www.serebii.net//swordshield/pokemon/small/134.png
+197,#198,Jolteonサンダース,Volt Absorb Quick Feet,65,65,60,110,95,130,https://www.serebii.net//swordshield/pokemon/small/135.png
+198,#199,Flareonブースター,Flash Fire Guts,65,130,60,95,110,65,https://www.serebii.net//swordshield/pokemon/small/136.png
+199,#200,Espeonエーフィ,Synchronize Magic Bounce,65,65,60,130,95,110,https://www.serebii.net//swordshield/pokemon/small/196.png
+200,#201,Umbreonブラッキー,Synchronize Inner Focus,95,65,110,60,130,65,https://www.serebii.net//swordshield/pokemon/small/197.png
+201,#202,Leafeonリーフィア,Leaf Guard Chlorophyll,65,110,130,60,65,95,https://www.serebii.net//swordshield/pokemon/small/470.png
+202,#203,Glaceonグレイシア,Snow Cloak Ice Body,65,60,110,130,95,65,https://www.serebii.net//swordshield/pokemon/small/471.png
+203,#204,Sylveonニンフィア,Cute Charm Pixilate,95,65,65,110,130,60,https://www.serebii.net//swordshield/pokemon/small/700.png
+204,#205,Applinカジッチュ,Ripen Gluttony Bulletproof,40,40,80,40,40,20,https://www.serebii.net//swordshield/pokemon/small/840.png
+205,#206,Flappleアップリュー,Ripen Gluttony Hustle,70,110,80,95,60,70,https://www.serebii.net//swordshield/pokemon/small/841.png
+206,#207,Appletunタルップル,Ripen Gluttony Thick Fat,110,85,80,100,80,30,https://www.serebii.net//swordshield/pokemon/small/842.png
+207,#208,Espurrニャスパー,Keen Eye Infiltrator Own Tempo,62,48,54,63,60,68,https://www.serebii.net//swordshield/pokemon/small/677.png
+208,#209,Meowsticニャオニクス,Keen Eye Infiltrator Prankster,74,48,76,83,81,104,https://www.serebii.net//swordshield/pokemon/small/678.png
+209,#210,Swirlixペロッパフ,Sweet Veil Unburden,62,48,66,59,57,49,https://www.serebii.net//swordshield/pokemon/small/684.png
+210,#211,Slurpuffペロリーム,Sweet Veil Unburden,82,80,86,85,75,72,https://www.serebii.net//swordshield/pokemon/small/685.png
+211,#212,Spritzeeシュシュプ,Healer Aroma Veil,78,52,60,63,65,23,https://www.serebii.net//swordshield/pokemon/small/682.png
+212,#213,Aromatisseフレフワン,Healer Aroma Veil,101,72,72,99,89,29,https://www.serebii.net//swordshield/pokemon/small/683.png
+213,#214,Dewpiderシズクモ,Water Bubble Water Absorb,38,40,52,40,72,27,https://www.serebii.net//swordshield/pokemon/small/751.png
+214,#215,Araquanidオニシズクモ,Water Bubble Water Absorb,68,70,92,50,132,42,https://www.serebii.net//swordshield/pokemon/small/752.png
+215,#216,Wynautソーナノ,Shadow Tag Telepathy,95,23,48,23,48,23,https://www.serebii.net//swordshield/pokemon/small/360.png
+216,#217,Wobbuffetソーナンス,Shadow Tag Telepathy,190,33,58,33,58,33,https://www.serebii.net//swordshield/pokemon/small/202.png
+217,#218,Farfetch'dカモネギ,Steadfast Scrappy,52,95,55,58,62,55,https://www.serebii.net//swordshield/pokemon/small/083-g.png
+218,#219,Sirfetch'dネギガナイト,Steadfast Scrappy,62,135,95,68,82,65,https://www.serebii.net//swordshield/pokemon/small/865.png
+219,#220,Chinchouチョンチー,Volt Absorb Illuminate Water Absorb,75,38,38,56,56,67,https://www.serebii.net//swordshield/pokemon/small/170.png
+220,#221,Lanturnランターン,Volt Absorb Illuminate Water Absorb,125,58,58,76,76,67,https://www.serebii.net//swordshield/pokemon/small/171.png
+221,#222,Croagunkグレッグル,Anticipation Dry Skin Poison Touch,48,61,40,61,40,50,https://www.serebii.net//swordshield/pokemon/small/453.png
+222,#223,Toxicroakドクロッグ,Anticipation Dry Skin Poison Touch,83,106,65,86,65,85,https://www.serebii.net//swordshield/pokemon/small/454.png
+223,#224,Scraggyズルッグ,Shed Skin Moxie Intimidate,50,75,70,35,70,48,https://www.serebii.net//swordshield/pokemon/small/559.png
+224,#225,Scraftyズルズキン,Shed Skin Moxie Intimidate,65,90,115,45,115,58,https://www.serebii.net//swordshield/pokemon/small/560.png
+225,#226,Stunfiskマッギョ,Mimicry,109,81,99,66,84,32,https://www.serebii.net//swordshield/pokemon/small/618-g.png
+226,#227,Shuckleツボツボ,Sturdy Gluttony Contrary,20,10,230,10,230,5,https://www.serebii.net//swordshield/pokemon/small/213.png
+227,#228,Barboachドジョッチ,Oblivious Anticipation Hydration,50,48,43,46,41,60,https://www.serebii.net//swordshield/pokemon/small/339.png
+228,#229,Whiscashナマズン,Oblivious Anticipation Hydration,110,78,73,76,71,60,https://www.serebii.net//swordshield/pokemon/small/340.png
+229,#230,Shellosカラナクシ,Sticky Hold Storm Drain Sand Force,76,48,48,57,62,34,https://www.serebii.net//swordshield/pokemon/small/422.png
+230,#231,Gastrodonトリトドン,Sticky Hold Storm Drain Sand Force,111,83,68,92,82,39,https://www.serebii.net//swordshield/pokemon/small/423.png
+231,#232,Wimpodコソクムシ,Wimp Out,25,35,40,20,30,80,https://www.serebii.net//swordshield/pokemon/small/767.png
+232,#233,Golisopodグソクムシャ,Emergency Exit,75,125,140,60,90,40,https://www.serebii.net//swordshield/pokemon/small/768.png
+233,#234,Binacleカメテテ,Tough Claws Sniper Pickpocket,42,52,67,39,56,50,https://www.serebii.net//swordshield/pokemon/small/688.png
+234,#235,Barbaracleガメノデス,Tough Claws Sniper Pickpocket,72,105,115,54,86,68,https://www.serebii.net//swordshield/pokemon/small/689.png
+235,#236,Corsolaサニーゴ,Weak Armor Cursed Body,60,55,100,65,100,30,https://www.serebii.net//swordshield/pokemon/small/222-g.png
+236,#237,Cursolaサニゴーン,Weak Armor Perish Body,60,95,50,145,130,30,https://www.serebii.net//swordshield/pokemon/small/864.png
+237,#238,Impidimpベロバー,Prankster Frisk Pickpocket,45,45,30,55,40,50,https://www.serebii.net//swordshield/pokemon/small/859.png
+238,#239,Morgremギモー,Prankster Frisk Pickpocket,65,60,45,75,55,70,https://www.serebii.net//swordshield/pokemon/small/860.png
+239,#240,Grimmsnarlオーロンゲ,Prankster Frisk Pickpocket,95,120,65,95,75,60,https://www.serebii.net//swordshield/pokemon/small/861.png
+240,#241,Hatennaミブリム,Healer Anticipation Magic Bounce,42,30,45,56,53,39,https://www.serebii.net//swordshield/pokemon/small/856.png
+241,#242,Hattremテブリム,Healer Anticipation Magic Bounce,57,40,65,86,73,49,https://www.serebii.net//swordshield/pokemon/small/857.png
+242,#243,Hattereneブリムオン,Healer Anticipation Magic Bounce,57,90,95,136,103,29,https://www.serebii.net//swordshield/pokemon/small/858.png
+243,#244,Salanditヤトウモリ,Corrosion Oblivious,48,44,40,71,40,77,https://www.serebii.net//swordshield/pokemon/small/757.png
+244,#245,Salazzleエンニュート,Corrosion Oblivious,68,64,60,111,60,117,https://www.serebii.net//swordshield/pokemon/small/758.png
+245,#246,Pawniardコマタナ,Defiant Inner Focus Pressure,45,85,70,40,40,60,https://www.serebii.net//swordshield/pokemon/small/624.png
+246,#247,Bisharpキリキザン,Defiant Inner Focus Pressure,65,125,100,60,70,70,https://www.serebii.net//swordshield/pokemon/small/625.png
+247,#248,Throhナゲキ,Guts Inner Focus Mold Breaker,120,100,85,30,85,45,https://www.serebii.net//swordshield/pokemon/small/538.png
+248,#249,Sawkダゲキ,Sturdy Inner Focus Mold Breaker,75,125,75,30,75,85,https://www.serebii.net//swordshield/pokemon/small/539.png
+249,#250,Koffingドガース,Levitate Neutralizing Gas Stench,40,65,95,60,45,35,https://www.serebii.net//swordshield/pokemon/small/109.png
+250,#251,Weezingマタドガス,Levitate Neutralizing Gas Misty Surge,65,90,120,85,70,60,https://www.serebii.net//swordshield/pokemon/small/110-g.png
+251,#252,Bonslyウソハチ,Sturdy Rock Head Rattled,50,80,95,10,45,10,https://www.serebii.net//swordshield/pokemon/small/438.png
+252,#253,Sudowoodoウソッキー,Sturdy Rock Head Rattled,70,100,115,30,65,30,https://www.serebii.net//swordshield/pokemon/small/185.png
+253,#254,Cleffaピィ,Cute Charm Magic Guard Friend Guard,50,25,28,45,55,15,https://www.serebii.net//swordshield/pokemon/small/173.png
+254,#255,Clefairyピッピ,Cute Charm Magic Guard Friend Guard,70,45,48,60,65,35,https://www.serebii.net//swordshield/pokemon/small/035.png
+255,#256,Clefableピクシー,Cute Charm Magic Guard Unaware,95,70,73,95,90,60,https://www.serebii.net//swordshield/pokemon/small/036.png
+256,#257,Togepiトゲピー,Hustle Serene Grace Super Luck,35,20,65,40,65,20,https://www.serebii.net//swordshield/pokemon/small/175.png
+257,#258,Togeticトゲチック,Hustle Serene Grace Super Luck,55,40,85,80,105,40,https://www.serebii.net//swordshield/pokemon/small/176.png
+258,#259,Togekissトゲキッス,Hustle Serene Grace Super Luck,85,50,95,120,115,80,https://www.serebii.net//swordshield/pokemon/small/468.png
+259,#260,Munchlaxゴンベ,Pickup Thick Fat Gluttony,135,85,40,40,85,5,https://www.serebii.net//swordshield/pokemon/small/446.png
+260,#261,Snorlaxカビゴン,Immunity Thick Fat Gluttony,160,110,65,65,110,30,https://www.serebii.net//swordshield/pokemon/small/143.png
+261,#262,Cottoneeモンメン,Prankster Infiltrator Chlorophyll,40,27,60,37,50,66,https://www.serebii.net//swordshield/pokemon/small/546.png
+262,#263,Whimsicottエルフーン,Prankster Infiltrator Chlorophyll,60,67,85,77,75,116,https://www.serebii.net//swordshield/pokemon/small/547.png
+263,#264,Rhyhornサイホーン,Lightning Rod Rock Head Reckless,80,85,95,30,30,25,https://www.serebii.net//swordshield/pokemon/small/111.png
+264,#265,Rhydonサイドン,Lightning Rod Rock Head Reckless,105,130,120,45,45,40,https://www.serebii.net//swordshield/pokemon/small/112.png
+265,#266,Rhyperiorドサイドン,Lightning Rod Solid Rock Reckless,115,140,130,55,55,40,https://www.serebii.net//swordshield/pokemon/small/464.png
+266,#267,Gothitaゴチム,Frisk Competitive Shadow Tag,45,30,50,55,65,45,https://www.serebii.net//swordshield/pokemon/small/574.png
+267,#268,Gothoritaゴチミル,Frisk Competitive Shadow Tag,60,45,70,75,85,55,https://www.serebii.net//swordshield/pokemon/small/575.png
+268,#269,Gothitelleゴチルゼル,Frisk Competitive Shadow Tag,70,55,95,95,110,65,https://www.serebii.net//swordshield/pokemon/small/576.png
+269,#270,Solosisユニラン,Overcoat Magic Guard Regenerator,45,30,40,105,50,20,https://www.serebii.net//swordshield/pokemon/small/577.png
+270,#271,Duosionダブラン,Overcoat Magic Guard Regenerator,65,40,50,125,60,30,https://www.serebii.net//swordshield/pokemon/small/578.png
+271,#272,Reuniclusランクルス,Overcoat Magic Guard Regenerator,110,65,75,125,85,30,https://www.serebii.net//swordshield/pokemon/small/579.png
+272,#273,Karrablastカブルモ,Swarm Shed Skin No Guard,50,75,45,40,45,60,https://www.serebii.net//swordshield/pokemon/small/588.png
+273,#274,Escavalierシュバルゴ,Swarm Shell Armor Overcoat,70,135,105,60,105,20,https://www.serebii.net//swordshield/pokemon/small/589.png
+274,#275,Shelmetチョボマキ,Hydration Shell Armor Overcoat,50,40,85,40,65,25,https://www.serebii.net//swordshield/pokemon/small/616.png
+275,#276,Accelgorアギルダー,Hydration Sticky Hold Unburden,80,70,40,100,60,145,https://www.serebii.net//swordshield/pokemon/small/617.png
+276,#277,Elgyemリグレー,Telepathy Synchronize Analytic,55,55,55,85,55,30,https://www.serebii.net//swordshield/pokemon/small/605.png
+277,#278,Beheeyemオーベム,Telepathy Synchronize Analytic,75,75,75,125,95,40,https://www.serebii.net//swordshield/pokemon/small/606.png
+278,#279,Cubchooクマシュン,Snow Cloak Slush Rush Rattled,55,70,40,60,40,40,https://www.serebii.net//swordshield/pokemon/small/613.png
+279,#280,Bearticツンベアー,Snow Cloak Slush Rush Swift Swim,95,130,80,70,80,50,https://www.serebii.net//swordshield/pokemon/small/614.png
+280,#281,Ruffletワシボン,Keen Eye Sheer Force Hustle,70,83,50,37,50,60,https://www.serebii.net//swordshield/pokemon/small/627.png
+281,#282,Braviaryウォーグル,Keen Eye Sheer Force Defiant,100,123,75,57,75,80,https://www.serebii.net//swordshield/pokemon/small/628.png
+282,#283,Vullabyバルチャイ,Big Pecks Overcoat Weak Armor,70,55,75,45,65,60,https://www.serebii.net//swordshield/pokemon/small/629.png
+283,#284,Mandibuzzバルジーナ,Big Pecks Overcoat Weak Armor,110,65,105,55,95,80,https://www.serebii.net//swordshield/pokemon/small/630.png
+284,#285,Skorupiスコルピ,Battle Armor Sniper Keen Eye,40,50,90,30,55,65,https://www.serebii.net//swordshield/pokemon/small/451.png
+285,#286,Drapionドラピオン,Battle Armor Sniper Keen Eye,70,90,110,60,75,95,https://www.serebii.net//swordshield/pokemon/small/452.png
+286,#287,Litwickヒトモシ,Flash Fire Flame Body Infiltrator,50,30,55,65,55,20,https://www.serebii.net//swordshield/pokemon/small/607.png
+287,#288,Lampentランプラー,Flash Fire Flame Body Infiltrator,60,40,60,95,60,55,https://www.serebii.net//swordshield/pokemon/small/608.png
+288,#289,Chandelureシャンデラ,Flash Fire Flame Body Infiltrator,60,55,90,145,90,80,https://www.serebii.net//swordshield/pokemon/small/609.png
+289,#290,Inkayマーイーカ,Contrary Suction Cups Infiltrator,53,54,53,37,46,45,https://www.serebii.net//swordshield/pokemon/small/686.png
+290,#291,Malamarカラマネロ,Contrary Suction Cups Infiltrator,86,92,88,68,75,73,https://www.serebii.net//swordshield/pokemon/small/687.png
+291,#292,Sneaselニューラ,Inner Focus Keen Eye Pickpocket,55,95,55,35,75,115,https://www.serebii.net//swordshield/pokemon/small/215.png
+292,#293,Weavileマニューラ,Pressure Pickpocket,70,120,65,45,85,125,https://www.serebii.net//swordshield/pokemon/small/461.png
+293,#294,Sableyeヤミラミ,Keen Eye Stall Prankster,50,75,75,65,65,50,https://www.serebii.net//swordshield/pokemon/small/302.png
+294,#295,Mawileクチート,Hyper Cutter Intimidate Sheer Force,50,85,85,55,55,50,https://www.serebii.net//swordshield/pokemon/small/303.png
+295,#296,Maractusマラカッチ,Water Absorb Chlorophyll Storm Drain,75,86,67,106,67,60,https://www.serebii.net//swordshield/pokemon/small/556.png
+296,#297,Sigilyphシンボラー,Wonder Skin Magic Guard Tinted Lens,72,58,80,103,80,97,https://www.serebii.net//swordshield/pokemon/small/561.png
+297,#298,Rioluリオル,Steadfast Inner Focus Prankster,40,70,40,35,40,60,https://www.serebii.net//swordshield/pokemon/small/447.png
+298,#299,Lucarioルカリオ,Steadfast Inner Focus Justified,70,110,70,115,70,90,https://www.serebii.net//swordshield/pokemon/small/448.png
+299,#300,Torkoalコータス,White Smoke Drought Shell Armor,70,85,140,85,70,20,https://www.serebii.net//swordshield/pokemon/small/324.png
+300,#301,Mimikyuミミッキュ,Disguise,55,90,80,50,105,96,https://www.serebii.net//swordshield/pokemon/small/778.png
+301,#302,Cufantゾウドウ,Sheer Force Heavy Metal,72,80,49,40,49,40,https://www.serebii.net//swordshield/pokemon/small/878.png
+302,#303,Copperajahダイオウドウ,Sheer Force Heavy Metal,122,130,69,80,69,30,https://www.serebii.net//swordshield/pokemon/small/879.png
+303,#304,Qwilfishハリーセン,Poison Point Swift Swim Intimidate,65,95,85,55,55,85,https://www.serebii.net//swordshield/pokemon/small/211.png
+304,#305,Frillishプルリル,Water Absorb Cursed Body Damp,55,40,50,65,85,40,https://www.serebii.net//swordshield/pokemon/small/592.png
+305,#306,Jellicentブルンゲル,Water Absorb Cursed Body Damp,100,60,70,85,105,60,https://www.serebii.net//swordshield/pokemon/small/593.png
+306,#307,Mareanieヒドイデ,Merciless Limber Regenerator,50,53,62,43,52,45,https://www.serebii.net//swordshield/pokemon/small/747.png
+307,#308,Toxapexドヒドイデ,Merciless Limber Regenerator,50,63,152,53,142,35,https://www.serebii.net//swordshield/pokemon/small/748.png
+308,#309,Cramorantウッウ,Gulp Missile,70,85,55,85,95,85,https://www.serebii.net//swordshield/pokemon/small/845.png
+309,#310,Toxelエレズン,Rattled Static Klutz,40,38,35,54,35,40,https://www.serebii.net//swordshield/pokemon/small/848.png
+310,#311,Toxtricityストリンダー,Punk Rock Plus Technician,75,98,70,114,70,75,https://www.serebii.net//swordshield/pokemon/small/849.png
+311,#312,Silicobraスナヘビ,Sand Spit Shed Skin Sand Veil,52,57,75,35,50,46,https://www.serebii.net//swordshield/pokemon/small/843.png
+312,#313,Sandacondaサダイジャ,Sand Spit Shed Skin Sand Veil,72,107,125,65,70,71,https://www.serebii.net//swordshield/pokemon/small/844.png
+313,#314,Hippopotasヒポポタス,Sand Stream Sand Force,68,72,78,38,42,32,https://www.serebii.net//swordshield/pokemon/small/449.png
+314,#315,Hippowdonカバルドン,Sand Stream Sand Force,108,112,118,68,72,47,https://www.serebii.net//swordshield/pokemon/small/450.png
+315,#316,Durantアイアント,Swarm Hustle Truant,58,109,112,48,48,109,https://www.serebii.net//swordshield/pokemon/small/632.png
+316,#317,Heatmorクイタラン,Gluttony Flash Fire White Smoke,85,97,66,105,66,65,https://www.serebii.net//swordshield/pokemon/small/631.png
+317,#318,Helioptileエリキテル,Dry Skin Sand Veil Solar Power,44,38,33,61,43,70,https://www.serebii.net//swordshield/pokemon/small/694.png
+318,#319,Helioliskエレザード,Dry Skin Sand Veil Solar Power,62,55,52,109,94,109,https://www.serebii.net//swordshield/pokemon/small/695.png
+319,#320,Hawluchaルチャブル,Limber Unburden Mold Breaker,78,92,75,74,63,118,https://www.serebii.net//swordshield/pokemon/small/701.png
+320,#321,Trapinchナックラー,Hyper Cutter Arena Trap Sheer Force,45,100,45,45,45,10,https://www.serebii.net//swordshield/pokemon/small/328.png
+321,#322,Vibravaビブラーバ,Levitate,50,70,50,50,50,70,https://www.serebii.net//swordshield/pokemon/small/329.png
+322,#323,Flygonフライゴン,Levitate,80,100,80,80,80,100,https://www.serebii.net//swordshield/pokemon/small/330.png
+323,#324,Axewキバゴ,Rivalry Mold Breaker Unnerve,46,87,60,30,40,57,https://www.serebii.net//swordshield/pokemon/small/610.png
+324,#325,Fraxureオノンド,Rivalry Mold Breaker Unnerve,66,117,70,40,50,67,https://www.serebii.net//swordshield/pokemon/small/611.png
+325,#326,Haxorusオノノクス,Rivalry Mold Breaker Unnerve,76,147,90,60,70,97,https://www.serebii.net//swordshield/pokemon/small/612.png
+326,#327,Yamaskデスマス,Wandering Spirit,38,55,85,30,65,30,https://www.serebii.net//swordshield/pokemon/small/562-g.png
+327,#328,Runerigusデスバーン,Wandering Spirit,58,95,145,50,105,30,https://www.serebii.net//swordshield/pokemon/small/867.png
+328,#329,Cofagrigusデスカーン,Mummy,58,50,145,95,105,30,https://www.serebii.net//swordshield/pokemon/small/563.png
+329,#330,Honedgeヒトツキ,No Guard,45,80,100,35,37,28,https://www.serebii.net//swordshield/pokemon/small/679.png
+330,#331,Doubladeニダンギル,No Guard,59,110,150,45,49,35,https://www.serebii.net//swordshield/pokemon/small/680.png
+331,#332,Aegislashギルガルド,Stance Change,60,50,140,50,140,60,https://www.serebii.net//swordshield/pokemon/small/681.png
+332,#333,Ponytaポニータ,Run Away Pastel Veil Anticipation,50,85,55,65,65,90,https://www.serebii.net//swordshield/pokemon/small/077-g.png
+333,#334,Rapidashギャロップ,Run Away Pastel Veil Anticipation,65,100,70,80,80,105,https://www.serebii.net//swordshield/pokemon/small/078-g.png
+334,#335,Sinisteaヤバチャ,Weak Armor Cursed Body,40,45,45,74,54,50,https://www.serebii.net//swordshield/pokemon/small/854.png
+335,#336,Polteageistポットデス,Weak Armor Cursed Body,60,65,65,134,114,70,https://www.serebii.net//swordshield/pokemon/small/855.png
+336,#337,Indeedeeイエッサン,Inner Focus Synchronize Psychic Surge,60,65,55,105,95,95,https://www.serebii.net//swordshield/pokemon/small/876.png
+337,#338,Phantumpボクレー,Natural Cure Frisk Harvest,43,70,48,50,60,38,https://www.serebii.net//swordshield/pokemon/small/708.png
+338,#339,Trevenantオーロット,Natural Cure Frisk Harvest,85,110,76,65,82,56,https://www.serebii.net//swordshield/pokemon/small/709.png
+339,#340,Morelullネマシュ,Illuminate Effect Spore Rain Dish,40,35,55,65,75,15,https://www.serebii.net//swordshield/pokemon/small/755.png
+340,#341,Shiinoticマシェード,Illuminate Effect Spore Rain Dish,60,45,80,90,100,30,https://www.serebii.net//swordshield/pokemon/small/756.png
+341,#342,Oranguruヤレユータン,Inner Focus Telepathy Symbiosis,90,60,80,90,110,60,https://www.serebii.net//swordshield/pokemon/small/765.png
+342,#343,Passimianナゲツケサル,Receiver Defiant,100,120,90,40,60,80,https://www.serebii.net//swordshield/pokemon/small/766.png
+343,#344,Morpekoモルペコ,Hunger Switch,58,95,58,70,58,97,https://www.serebii.net//swordshield/pokemon/small/877.png
+344,#345,Falinksタイレーツ,Battle Armor Defiant,65,100,100,70,60,75,https://www.serebii.net//swordshield/pokemon/small/870.png
+345,#346,Drampaジジーロン,Berserk Sap Sipper Cloud Nine,78,60,85,135,91,36,https://www.serebii.net//swordshield/pokemon/small/780.png
+346,#347,Turtonatorバクガメス,Shell Armor,60,78,135,91,85,36,https://www.serebii.net//swordshield/pokemon/small/776.png
+347,#348,Togedemaruトゲデマル,Iron Barbs Lightning Rod Sturdy,65,98,63,40,73,96,https://www.serebii.net//swordshield/pokemon/small/777.png
+348,#349,Snomユキハミ,Shield Dust Ice Scales,30,25,35,45,30,20,https://www.serebii.net//swordshield/pokemon/small/872.png
+349,#350,Frosmothモスノウ,Shield Dust Ice Scales,70,65,60,125,90,65,https://www.serebii.net//swordshield/pokemon/small/873.png
+350,#351,Clobbopusタタッコ,Limber Technician,50,68,60,50,50,32,https://www.serebii.net//swordshield/pokemon/small/852.png
+351,#352,Grapploctオトスパス,Limber Technician,80,118,90,70,80,42,https://www.serebii.net//swordshield/pokemon/small/853.png
+352,#353,Pincurchinバチンウニ,Lightning Rod Electric Surge,48,101,95,91,85,15,https://www.serebii.net//swordshield/pokemon/small/871.png
+353,#354,Mantykeタマンタ,Swift Swim Water Absorb Water Veil,45,20,50,60,120,50,https://www.serebii.net//swordshield/pokemon/small/458.png
+354,#355,Mantineマンタイン,Swift Swim Water Absorb Water Veil,85,40,70,80,140,70,https://www.serebii.net//swordshield/pokemon/small/226.png
+355,#356,Wailmerホエルコ,Water Veil Oblivious Pressure,130,70,35,70,35,60,https://www.serebii.net//swordshield/pokemon/small/320.png
+356,#357,Wailordホエルオー,Water Veil Oblivious Pressure,170,90,45,90,45,60,https://www.serebii.net//swordshield/pokemon/small/321.png
+357,#358,Bergmiteカチコール,Own Tempo Ice Body Sturdy,55,69,85,32,35,28,https://www.serebii.net//swordshield/pokemon/small/712.png
+358,#359,Avaluggクレベース,Own Tempo Ice Body Sturdy,95,117,184,44,46,28,https://www.serebii.net//swordshield/pokemon/small/713.png
+359,#360,Dhelmiseダダリン,Steelworker,70,131,100,86,90,40,https://www.serebii.net//swordshield/pokemon/small/781.png
+360,#361,Laprasラプラス,Water Absorb Shell Armor Hydration,130,85,80,85,95,60,https://www.serebii.net//swordshield/pokemon/small/131.png
+361,#362,Lunatoneルナトーン,Levitate,90,55,65,95,85,70,https://www.serebii.net//swordshield/pokemon/small/337.png
+362,#363,Solrockソルロック,Levitate,90,95,85,55,65,70,https://www.serebii.net//swordshield/pokemon/small/338.png
+363,#364,Mime,Soundproof Filter Technician,20,25,45,70,90,60,https://www.serebii.net//swordshield/pokemon/small/439.png
+364,#365,Mr.,Vital Spirit Screen Cleaner Ice Body,50,65,65,90,90,100,https://www.serebii.net//swordshield/pokemon/small/122-g.png
+365,#366,Mr.,Tangled Feet Screen Cleaner Ice Body,80,85,75,110,100,70,https://www.serebii.net//swordshield/pokemon/small/866.png
+366,#367,Darumakaダルマッカ,Hustle Inner Focus,70,90,45,15,45,50,https://www.serebii.net//swordshield/pokemon/small/554-g.png
+367,#368,Darmanitanヒヒダルマ,Gorilla Tactics Zen Mode,105,140,55,30,55,95,https://www.serebii.net//swordshield/pokemon/small/555-g.png
+368,#369,Stonjournerイシヘンジン,Power Spot,100,125,135,20,20,70,https://www.serebii.net//swordshield/pokemon/small/874.png
+369,#370,Eiscueコオリッポ,Ice Face,75,80,110,65,90,50,https://www.serebii.net//swordshield/pokemon/small/875.png
+370,#371,Duraludonジュラルドン,Light Metal Heavy Metal Stalwart,70,95,115,120,50,85,https://www.serebii.net//swordshield/pokemon/small/884.png
+371,#372,Rotomロトム,Levitate,50,50,77,95,77,91,https://www.serebii.net//swordshield/pokemon/small/479.png
+372,#373,Dittoメタモン,Limber Imposter,48,48,48,48,48,48,https://www.serebii.net//swordshield/pokemon/small/132.png
+373,#374,Dracozoltパッチラゴン,Volt Absorb Hustle Sand Rush,90,100,90,80,70,75,https://www.serebii.net//swordshield/pokemon/small/880.png
+374,#375,Arctozoltパッチルドン,Volt Absorb Static Slush Rush,90,100,90,90,80,55,https://www.serebii.net//swordshield/pokemon/small/881.png
+375,#376,Dracovishウオノラゴン,Water Absorb Strong Jaw Sand Rush,90,90,100,70,80,75,https://www.serebii.net//swordshield/pokemon/small/882.png
+376,#377,Arctovishウオチルドン,Water Absorb Ice Body Slush Rush,90,90,100,80,90,55,https://www.serebii.net//swordshield/pokemon/small/883.png
+377,#378,Charmanderヒトカゲ,Blaze Solar Power,39,52,43,60,50,65,https://www.serebii.net//swordshield/pokemon/small/004.png
+378,#379,Charmeleonリザード,Blaze Solar Power,58,64,58,80,65,80,https://www.serebii.net//swordshield/pokemon/small/005.png
+379,#380,Charizardリザードン,Blaze Solar Power,78,84,78,109,85,100,https://www.serebii.net//swordshield/pokemon/small/006.png
+380,#381,Type:,Battle Armor,95,95,95,95,95,59,https://www.serebii.net//swordshield/pokemon/small/772.png
+381,#382,Silvallyシルヴァディ,RKS System,95,95,95,95,95,95,https://www.serebii.net//swordshield/pokemon/small/773.png
+382,#383,Larvitarヨーギラス,Guts Sand Veil,50,64,50,45,50,41,https://www.serebii.net//swordshield/pokemon/small/246.png
+383,#384,Pupitarサナギラス,Shed Skin,70,84,70,65,70,51,https://www.serebii.net//swordshield/pokemon/small/247.png
+384,#385,Tyranitarバンギラス,Sand Stream Unnerve,100,134,110,95,100,61,https://www.serebii.net//swordshield/pokemon/small/248.png
+385,#386,Deinoモノズ,Hustle,52,65,50,45,50,38,https://www.serebii.net//swordshield/pokemon/small/633.png
+386,#387,Zweilousジヘッド,Hustle,72,85,70,65,70,58,https://www.serebii.net//swordshield/pokemon/small/634.png
+387,#388,Hydreigonサザンドラ,Levitate,92,105,90,125,90,98,https://www.serebii.net//swordshield/pokemon/small/635.png
+388,#389,Goomyヌメラ,Sap Sipper Hydration Gooey,45,50,35,55,75,40,https://www.serebii.net//swordshield/pokemon/small/704.png
+389,#390,Sliggooヌメイル,Sap Sipper Hydration Gooey,68,75,53,83,113,60,https://www.serebii.net//swordshield/pokemon/small/705.png
+390,#391,Goodraヌメルゴン,Sap Sipper Hydration Gooey,90,100,70,110,150,80,https://www.serebii.net//swordshield/pokemon/small/706.png
+391,#392,Jangmo-oジャラコ,Bulletproof Soundproof Overcoat,45,55,65,45,45,45,https://www.serebii.net//swordshield/pokemon/small/782.png
+392,#393,Hakamo-oジャランゴ,Bulletproof Soundproof Overcoat,55,75,90,65,70,65,https://www.serebii.net//swordshield/pokemon/small/783.png
+393,#394,Kommo-oジャラランガ,Bulletproof Soundproof Overcoat,75,110,125,100,105,85,https://www.serebii.net//swordshield/pokemon/small/784.png
+394,#395,Dreepyドラメシヤ,Clear Body Infiltrator Cursed Body,28,60,30,40,30,82,https://www.serebii.net//swordshield/pokemon/small/885.png
+395,#396,Drakloakドロンチ,Clear Body Infiltrator Cursed Body,68,80,50,60,50,102,https://www.serebii.net//swordshield/pokemon/small/886.png
+396,#397,Dragapultドラパルト,Clear Body Infiltrator Cursed Body,88,120,75,100,75,142,https://www.serebii.net//swordshield/pokemon/small/887.png
+397,#398,Zacianザシアン,Intrepid Sword,92,130,115,80,115,138,https://www.serebii.net//swordshield/pokemon/small/888.png
+398,#399,Zamazentaザマゼンタ,Dauntless Shield,92,130,115,80,115,138,https://www.serebii.net//swordshield/pokemon/small/889.png
+399,#400,Eternatusムゲンダイナ,Pressure,140,85,95,145,95,130,https://www.serebii.net//swordshield/pokemon/small/890.png

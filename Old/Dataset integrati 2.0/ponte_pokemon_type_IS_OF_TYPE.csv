@@ -1,0 +1,1687 @@
+Name,Type
+Bulbasaur,Grass
+Bulbasaur,Poison
+Ivysaur,Grass
+Ivysaur,Poison
+Venusaur,Grass
+Venusaur,Poison
+Mega Venusaur,Grass
+Mega Venusaur,Poison
+Venusaur Gigantamax,Grass
+Venusaur Gigantamax,Poison
+Charmander,Fire
+Charmeleon,Fire
+Mega Charizard Y,Fire
+Mega Charizard Y,Flying
+Charizard Gigantamax,Fire
+Charizard Gigantamax,Flying
+Mega Charizard X,Fire
+Mega Charizard X,Dragon
+Charizard,Fire
+Charizard,Flying
+Squirtle,Water
+Wartortle,Water
+Blastoise Gigantamax,Water
+Blastoise,Water
+Mega Blastoise,Water
+Caterpie,Bug
+Metapod,Bug
+Butterfree Gigantamax,Bug
+Butterfree Gigantamax,Flying
+Butterfree,Bug
+Butterfree,Flying
+Weedle,Bug
+Weedle,Poison
+Kakuna,Bug
+Kakuna,Poison
+Beedrill,Bug
+Beedrill,Poison
+Mega Beedrill,Bug
+Mega Beedrill,Poison
+Pidgey,Normal
+Pidgey,Flying
+Pidgeotto,Normal
+Pidgeotto,Flying
+Pidgeot,Normal
+Pidgeot,Flying
+Mega Pidgeot,Normal
+Mega Pidgeot,Flying
+Rattata,Normal
+Alolan Rattata,Dark
+Alolan Rattata,Normal
+Raticate,Normal
+Alolan Raticate,Dark
+Alolan Raticate,Normal
+Spearow,Normal
+Spearow,Flying
+Fearow,Normal
+Fearow,Flying
+Ekans,Poison
+Arbok,Poison
+Pikachu Gigantamax,Electric
+Pikachu,Electric
+Partner Pikachu,Electric
+Alolan Raichu,Electric
+Alolan Raichu,Psychic
+Raichu,Electric
+Alolan Sandshrew,Ice
+Alolan Sandshrew,Steel
+Sandshrew,Ground
+Sandslash,Ground
+Alolan Sandslash,Ice
+Alolan Sandslash,Steel
+Nidoran♀,Poison
+Nidorina,Poison
+Nidoqueen,Poison
+Nidoqueen,Ground
+Nidoran♂,Poison
+Nidorino,Poison
+Nidoking,Poison
+Nidoking,Ground
+Clefairy,Fairy
+Clefable,Fairy
+Vulpix,Fire
+Alolan Vulpix,Ice
+Ninetales,Fire
+Alolan Ninetales,Ice
+Alolan Ninetales,Fairy
+Jigglypuff,Normal
+Jigglypuff,Fairy
+Wigglytuff,Normal
+Wigglytuff,Fairy
+Zubat,Poison
+Zubat,Flying
+Golbat,Poison
+Golbat,Flying
+Oddish,Grass
+Oddish,Poison
+Gloom,Grass
+Gloom,Poison
+Vileplume,Grass
+Vileplume,Poison
+Paras,Bug
+Paras,Grass
+Parasect,Bug
+Parasect,Grass
+Venonat,Bug
+Venonat,Poison
+Venomoth,Bug
+Venomoth,Poison
+Alolan Diglett,Ground
+Alolan Diglett,Steel
+Diglett,Ground
+Alolan Dugtrio,Ground
+Alolan Dugtrio,Steel
+Dugtrio,Ground
+Meowth,Normal
+Alolan Meowth,Dark
+Galarian Meowth,Steel
+Meowth Gigantamax,Normal
+Persian,Normal
+Alolan Persian,Dark
+Psyduck,Water
+Golduck,Water
+Mankey,Fighting
+Primeape,Fighting
+Hisuian Growlithe,Fire
+Hisuian Growlithe,Rock
+Growlithe,Fire
+Hisuian Arcanine,Fire
+Hisuian Arcanine,Rock
+Arcanine,Fire
+Poliwag,Water
+Poliwhirl,Water
+Poliwrath,Water
+Poliwrath,Fighting
+Abra,Psychic
+Kadabra,Psychic
+Alakazam,Psychic
+Mega Alakazam,Psychic
+Machop,Fighting
+Machoke,Fighting
+Machamp Gigantamax,Fighting
+Machamp,Fighting
+Bellsprout,Grass
+Bellsprout,Poison
+Weepinbell,Grass
+Weepinbell,Poison
+Victreebel,Grass
+Victreebel,Poison
+Tentacool,Water
+Tentacool,Poison
+Tentacruel,Water
+Tentacruel,Poison
+Geodude,Rock
+Geodude,Ground
+Alolan Geodude,Rock
+Alolan Geodude,Electric
+Graveler,Rock
+Graveler,Ground
+Alolan Graveler,Rock
+Alolan Graveler,Electric
+Golem,Rock
+Golem,Ground
+Alolan Golem,Rock
+Alolan Golem,Electric
+Ponyta,Fire
+Galarian Ponyta,Psychic
+Rapidash,Fire
+Galarian Rapidash,Psychic
+Galarian Rapidash,Fairy
+Galarian Slowpoke,Psychic
+Slowpoke,Water
+Slowpoke,Psychic
+Mega Slowbro,Water
+Mega Slowbro,Psychic
+Galarian Slowbro,Poison
+Galarian Slowbro,Psychic
+Slowbro,Water
+Slowbro,Psychic
+Magnemite,Electric
+Magnemite,Steel
+Magneton,Electric
+Magneton,Steel
+Farfetch'd,Normal
+Farfetch'd,Flying
+Galarian Farfetch'd,Fighting
+Doduo,Normal
+Doduo,Flying
+Dodrio,Normal
+Dodrio,Flying
+Seel,Water
+Dewgong,Water
+Dewgong,Ice
+Grimer,Poison
+Alolan Grimer,Poison
+Alolan Grimer,Dark
+Alolan Muk,Poison
+Alolan Muk,Dark
+Muk,Poison
+Shellder,Water
+Cloyster,Water
+Cloyster,Ice
+Gastly,Ghost
+Gastly,Poison
+Haunter,Ghost
+Haunter,Poison
+Gengar,Ghost
+Gengar,Poison
+Gengar Gigantamax,Ghost
+Gengar Gigantamax,Poison
+Mega Gengar,Ghost
+Mega Gengar,Poison
+Onix,Rock
+Onix,Ground
+Drowzee,Psychic
+Hypno,Psychic
+Krabby,Water
+Kingler Gigantamax,Water
+Kingler,Water
+Hisuian Voltorb,Electric
+Hisuian Voltorb,Grass
+Voltorb,Electric
+Hisuian Electrode,Electric
+Hisuian Electrode,Grass
+Electrode,Electric
+Exeggcute,Grass
+Exeggcute,Psychic
+Alolan Exeggutor,Grass
+Alolan Exeggutor,Dragon
+Exeggutor,Grass
+Exeggutor,Psychic
+Cubone,Ground
+Alolan Marowak,Fire
+Alolan Marowak,Ghost
+Marowak,Ground
+Hitmonlee,Fighting
+Hitmonchan,Fighting
+Lickitung,Normal
+Koffing,Poison
+Weezing,Poison
+Galarian Weezing,Poison
+Galarian Weezing,Fairy
+Rhyhorn,Ground
+Rhyhorn,Rock
+Rhydon,Ground
+Rhydon,Rock
+Chansey,Normal
+Tangela,Grass
+Kangaskhan,Normal
+Mega Kangaskhan,Normal
+Horsea,Water
+Seadra,Water
+Goldeen,Water
+Seaking,Water
+Staryu,Water
+Starmie,Water
+Starmie,Psychic
+Mime Galarian Mr. Mime,Ice
+Mime Galarian Mr. Mime,Psychic
+Mr. Mime,Psychic
+Mr. Mime,Fairy
+Scyther,Bug
+Scyther,Flying
+Jynx,Ice
+Jynx,Psychic
+Electabuzz,Electric
+Magmar,Fire
+Mega Pinsir,Bug
+Mega Pinsir,Flying
+Pinsir,Bug
+Tauros,Normal
+Magikarp,Water
+Mega Gyarados,Water
+Mega Gyarados,Dark
+Gyarados,Water
+Gyarados,Flying
+Lapras Gigantamax,Water
+Lapras Gigantamax,Ice
+Lapras,Water
+Lapras,Ice
+Ditto,Normal
+Partner Eevee,Normal
+Eevee Gigantamax,Normal
+Eevee,Normal
+Vaporeon,Water
+Jolteon,Electric
+Flareon,Fire
+Porygon,Normal
+Omanyte,Rock
+Omanyte,Water
+Omastar,Rock
+Omastar,Water
+Kabuto,Rock
+Kabuto,Water
+Kabutops,Rock
+Kabutops,Water
+Aerodactyl,Rock
+Aerodactyl,Flying
+Mega Aerodactyl,Rock
+Mega Aerodactyl,Flying
+Snorlax Gigantamax,Normal
+Snorlax,Normal
+Galarian Articuno,Psychic
+Galarian Articuno,Flying
+Articuno,Ice
+Articuno,Flying
+Galarian Zapdos,Fighting
+Galarian Zapdos,Flying
+Zapdos,Electric
+Zapdos,Flying
+Galarian Moltres,Dark
+Galarian Moltres,Flying
+Moltres,Fire
+Moltres,Flying
+Dratini,Dragon
+Dragonair,Dragon
+Dragonite,Dragon
+Dragonite,Flying
+Mega Mewtwo Y,Psychic
+Mega Mewtwo X,Psychic
+Mega Mewtwo X,Fighting
+Mewtwo,Psychic
+Mew,Psychic
+Chikorita,Grass
+Bayleef,Grass
+Meganium,Grass
+Cyndaquil,Fire
+Quilava,Fire
+Hisuian Typhlosion,Fire
+Hisuian Typhlosion,Ghost
+Typhlosion,Fire
+Totodile,Water
+Croconaw,Water
+Feraligatr,Water
+Sentret,Normal
+Furret,Normal
+Hoothoot,Normal
+Hoothoot,Flying
+Noctowl,Normal
+Noctowl,Flying
+Ledyba,Bug
+Ledyba,Flying
+Ledian,Bug
+Ledian,Flying
+Spinarak,Bug
+Spinarak,Poison
+Ariados,Bug
+Ariados,Poison
+Crobat,Poison
+Crobat,Flying
+Chinchou,Water
+Chinchou,Electric
+Lanturn,Water
+Lanturn,Electric
+Pichu,Electric
+Cleffa,Fairy
+Igglybuff,Normal
+Igglybuff,Fairy
+Togepi,Fairy
+Togetic,Fairy
+Togetic,Flying
+Natu,Psychic
+Natu,Flying
+Xatu,Psychic
+Xatu,Flying
+Mareep,Electric
+Flaaffy,Electric
+Ampharos,Electric
+Mega Ampharos,Electric
+Mega Ampharos,Dragon
+Bellossom,Grass
+Marill,Water
+Marill,Fairy
+Azumarill,Water
+Azumarill,Fairy
+Sudowoodo,Rock
+Politoed,Water
+Hoppip,Grass
+Hoppip,Flying
+Skiploom,Grass
+Skiploom,Flying
+Jumpluff,Grass
+Jumpluff,Flying
+Aipom,Normal
+Sunkern,Grass
+Sunflora,Grass
+Yanma,Bug
+Yanma,Flying
+Wooper,Water
+Wooper,Ground
+Quagsire,Water
+Quagsire,Ground
+Espeon,Psychic
+Umbreon,Dark
+Murkrow,Dark
+Murkrow,Flying
+Slowking,Water
+Slowking,Psychic
+Galarian Slowking,Poison
+Galarian Slowking,Psychic
+Misdreavus,Ghost
+Unown,Psychic
+Wobbuffet,Psychic
+Girafarig,Normal
+Girafarig,Psychic
+Pineco,Bug
+Forretress,Bug
+Forretress,Steel
+Dunsparce,Normal
+Gligar,Ground
+Gligar,Flying
+Steelix,Steel
+Steelix,Ground
+Mega Steelix,Steel
+Mega Steelix,Ground
+Snubbull,Fairy
+Granbull,Fairy
+Hisuian Qwilfish,Dark
+Hisuian Qwilfish,Poison
+Qwilfish,Water
+Qwilfish,Poison
+Mega Scizor,Bug
+Mega Scizor,Steel
+Scizor,Bug
+Scizor,Steel
+Shuckle,Bug
+Shuckle,Rock
+Heracross,Bug
+Heracross,Fighting
+Mega Heracross,Bug
+Mega Heracross,Fighting
+Hisuian Sneasel,Poison
+Hisuian Sneasel,Fighting
+Sneasel,Dark
+Sneasel,Ice
+Teddiursa,Normal
+Ursaring,Normal
+Slugma,Fire
+Magcargo,Fire
+Magcargo,Rock
+Swinub,Ice
+Swinub,Ground
+Piloswine,Ice
+Piloswine,Ground
+Corsola,Water
+Corsola,Rock
+Galarian Corsola,Ghost
+Remoraid,Water
+Octillery,Water
+Delibird,Ice
+Delibird,Flying
+Mantine,Water
+Mantine,Flying
+Skarmory,Steel
+Skarmory,Flying
+Houndour,Dark
+Houndour,Fire
+Houndoom,Dark
+Houndoom,Fire
+Mega Houndoom,Dark
+Mega Houndoom,Fire
+Kingdra,Water
+Kingdra,Dragon
+Phanpy,Ground
+Donphan,Ground
+Porygon2,Normal
+Stantler,Normal
+Smeargle,Normal
+Tyrogue,Fighting
+Hitmontop,Fighting
+Smoochum,Ice
+Smoochum,Psychic
+Elekid,Electric
+Magby,Fire
+Miltank,Normal
+Blissey,Normal
+Raikou,Electric
+Entei,Fire
+Suicune,Water
+Larvitar,Rock
+Larvitar,Ground
+Pupitar,Rock
+Pupitar,Ground
+Mega Tyranitar,Rock
+Mega Tyranitar,Dark
+Tyranitar,Rock
+Tyranitar,Dark
+Lugia,Psychic
+Lugia,Flying
+Ho-oh,Fire
+Ho-oh,Flying
+Celebi,Psychic
+Celebi,Grass
+Treecko,Grass
+Grovyle,Grass
+Mega Sceptile,Grass
+Mega Sceptile,Dragon
+Sceptile,Grass
+Torchic,Fire
+Combusken,Fire
+Combusken,Fighting
+Blaziken,Fire
+Blaziken,Fighting
+Mega Blaziken,Fire
+Mega Blaziken,Fighting
+Mudkip,Water
+Marshtomp,Water
+Marshtomp,Ground
+Mega Swampert,Water
+Mega Swampert,Ground
+Swampert,Water
+Swampert,Ground
+Poochyena,Dark
+Mightyena,Dark
+Zigzagoon,Normal
+Galarian Zigzagoon,Dark
+Galarian Zigzagoon,Normal
+Linoone,Normal
+Galarian Linoone,Dark
+Galarian Linoone,Normal
+Wurmple,Bug
+Silcoon,Bug
+Beautifly,Bug
+Beautifly,Flying
+Cascoon,Bug
+Dustox,Bug
+Dustox,Poison
+Lotad,Water
+Lotad,Grass
+Lombre,Water
+Lombre,Grass
+Ludicolo,Water
+Ludicolo,Grass
+Seedot,Grass
+Nuzleaf,Grass
+Nuzleaf,Dark
+Shiftry,Grass
+Shiftry,Dark
+Taillow,Normal
+Taillow,Flying
+Swellow,Normal
+Swellow,Flying
+Wingull,Water
+Wingull,Flying
+Pelipper,Water
+Pelipper,Flying
+Ralts,Psychic
+Ralts,Fairy
+Kirlia,Psychic
+Kirlia,Fairy
+Gardevoir,Psychic
+Gardevoir,Fairy
+Mega Gardevoir,Psychic
+Mega Gardevoir,Fairy
+Surskit,Bug
+Surskit,Water
+Masquerain,Bug
+Masquerain,Flying
+Shroomish,Grass
+Breloom,Grass
+Breloom,Fighting
+Slakoth,Normal
+Vigoroth,Normal
+Slaking,Normal
+Nincada,Bug
+Nincada,Ground
+Ninjask,Bug
+Ninjask,Flying
+Shedinja,Bug
+Shedinja,Ghost
+Whismur,Normal
+Loudred,Normal
+Exploud,Normal
+Makuhita,Fighting
+Hariyama,Fighting
+Azurill,Normal
+Azurill,Fairy
+Nosepass,Rock
+Skitty,Normal
+Delcatty,Normal
+Mega Sableye,Dark
+Mega Sableye,Ghost
+Sableye,Dark
+Sableye,Ghost
+Mawile,Steel
+Mawile,Fairy
+Mega Mawile,Steel
+Mega Mawile,Fairy
+Aron,Steel
+Aron,Rock
+Lairon,Steel
+Lairon,Rock
+Aggron,Steel
+Aggron,Rock
+Mega Aggron,Steel
+Meditite,Fighting
+Meditite,Psychic
+Medicham,Fighting
+Medicham,Psychic
+Mega Medicham,Fighting
+Mega Medicham,Psychic
+Electrike,Electric
+Manectric,Electric
+Mega Manectric,Electric
+Plusle,Electric
+Minun,Electric
+Volbeat,Bug
+Illumise,Bug
+Roselia,Grass
+Roselia,Poison
+Gulpin,Poison
+Swalot,Poison
+Carvanha,Water
+Carvanha,Dark
+Mega Sharpedo,Water
+Mega Sharpedo,Dark
+Sharpedo,Water
+Sharpedo,Dark
+Wailmer,Water
+Wailord,Water
+Numel,Fire
+Numel,Ground
+Camerupt,Fire
+Camerupt,Ground
+Mega Camerupt,Fire
+Mega Camerupt,Ground
+Torkoal,Fire
+Spoink,Psychic
+Grumpig,Psychic
+Spinda,Normal
+Trapinch,Ground
+Vibrava,Ground
+Vibrava,Dragon
+Flygon,Ground
+Flygon,Dragon
+Cacnea,Grass
+Cacturne,Grass
+Cacturne,Dark
+Swablu,Normal
+Swablu,Flying
+Altaria,Dragon
+Altaria,Flying
+Mega Altaria,Dragon
+Mega Altaria,Fairy
+Zangoose,Normal
+Seviper,Poison
+Lunatone,Rock
+Lunatone,Psychic
+Solrock,Rock
+Solrock,Psychic
+Barboach,Water
+Barboach,Ground
+Whiscash,Water
+Whiscash,Ground
+Corphish,Water
+Crawdaunt,Water
+Crawdaunt,Dark
+Baltoy,Ground
+Baltoy,Psychic
+Claydol,Ground
+Claydol,Psychic
+Lileep,Rock
+Lileep,Grass
+Cradily,Rock
+Cradily,Grass
+Anorith,Rock
+Anorith,Bug
+Armaldo,Rock
+Armaldo,Bug
+Feebas,Water
+Milotic,Water
+Castform,Normal
+Castform Sunny Form,Fire
+Castform Rainy Form,Water
+Castform Snowy Form,Ice
+Kecleon,Normal
+Shuppet,Ghost
+Mega Banette,Ghost
+Banette,Ghost
+Duskull,Ghost
+Dusclops,Ghost
+Tropius,Grass
+Tropius,Flying
+Chimecho,Psychic
+Absol,Dark
+Mega Absol,Dark
+Wynaut,Psychic
+Snorunt,Ice
+Mega Glalie,Ice
+Glalie,Ice
+Spheal,Ice
+Spheal,Water
+Sealeo,Ice
+Sealeo,Water
+Walrein,Ice
+Walrein,Water
+Clamperl,Water
+Huntail,Water
+Gorebyss,Water
+Relicanth,Water
+Relicanth,Rock
+Luvdisc,Water
+Bagon,Dragon
+Shelgon,Dragon
+Mega Salamence,Dragon
+Mega Salamence,Flying
+Salamence,Dragon
+Salamence,Flying
+Beldum,Steel
+Beldum,Psychic
+Metang,Steel
+Metang,Psychic
+Mega Metagross,Steel
+Mega Metagross,Psychic
+Metagross,Steel
+Metagross,Psychic
+Regirock,Rock
+Regice,Ice
+Registeel,Steel
+Mega Latias,Dragon
+Mega Latias,Psychic
+Latias,Dragon
+Latias,Psychic
+Latios,Dragon
+Latios,Psychic
+Mega Latios,Dragon
+Mega Latios,Psychic
+Primal Kyogre,Water
+Kyogre,Water
+Primal Groudon,Ground
+Primal Groudon,Fire
+Groudon,Ground
+Mega Rayquaza,Dragon
+Mega Rayquaza,Flying
+Rayquaza,Dragon
+Rayquaza,Flying
+Jirachi,Steel
+Jirachi,Psychic
+Deoxys Defense Forme,Psychic
+Deoxys Attack Forme,Psychic
+Deoxys Normal Forme,Psychic
+Deoxys Speed Forme,Psychic
+Turtwig,Grass
+Grotle,Grass
+Torterra,Grass
+Torterra,Ground
+Chimchar,Fire
+Monferno,Fire
+Monferno,Fighting
+Infernape,Fire
+Infernape,Fighting
+Piplup,Water
+Prinplup,Water
+Empoleon,Water
+Empoleon,Steel
+Starly,Normal
+Starly,Flying
+Staravia,Normal
+Staravia,Flying
+Staraptor,Normal
+Staraptor,Flying
+Bidoof,Normal
+Bibarel,Normal
+Bibarel,Water
+Kricketot,Bug
+Kricketune,Bug
+Shinx,Electric
+Luxio,Electric
+Luxray,Electric
+Budew,Grass
+Budew,Poison
+Roserade,Grass
+Roserade,Poison
+Cranidos,Rock
+Rampardos,Rock
+Shieldon,Rock
+Shieldon,Steel
+Bastiodon,Rock
+Bastiodon,Steel
+Burmy Plant Cloak,Bug
+Burmy Sandy Cloak,Bug
+Burmy Trash Cloak,Bug
+Wormadam Plant Cloak,Bug
+Wormadam Plant Cloak,Grass
+Wormadam Sandy Cloak,Bug
+Wormadam Sandy Cloak,Ground
+Wormadam Trash Cloak,Bug
+Wormadam Trash Cloak,Steel
+Mothim,Bug
+Mothim,Flying
+Combee,Bug
+Combee,Flying
+Vespiquen,Bug
+Vespiquen,Flying
+Pachirisu,Electric
+Buizel,Water
+Floatzel,Water
+Cherubi,Grass
+Cherrim,Grass
+Shellos,Water
+Gastrodon,Water
+Gastrodon,Ground
+Ambipom,Normal
+Drifloon,Ghost
+Drifloon,Flying
+Drifblim,Ghost
+Drifblim,Flying
+Buneary,Normal
+Mega Lopunny,Normal
+Mega Lopunny,Fighting
+Lopunny,Normal
+Mismagius,Ghost
+Honchkrow,Dark
+Honchkrow,Flying
+Glameow,Normal
+Purugly,Normal
+Chingling,Psychic
+Stunky,Poison
+Stunky,Dark
+Skuntank,Poison
+Skuntank,Dark
+Bronzor,Steel
+Bronzor,Psychic
+Bronzong,Steel
+Bronzong,Psychic
+Bonsly,Rock
+Mime Jr.,Psychic
+Mime Jr.,Fairy
+Happiny,Normal
+Chatot,Normal
+Chatot,Flying
+Spiritomb,Ghost
+Spiritomb,Dark
+Gible,Dragon
+Gible,Ground
+Gabite,Dragon
+Gabite,Ground
+Garchomp,Dragon
+Garchomp,Ground
+Mega Garchomp,Dragon
+Mega Garchomp,Ground
+Munchlax,Normal
+Riolu,Fighting
+Mega Lucario,Fighting
+Mega Lucario,Steel
+Lucario,Fighting
+Lucario,Steel
+Hippopotas,Ground
+Hippowdon,Ground
+Skorupi,Poison
+Skorupi,Bug
+Drapion,Poison
+Drapion,Dark
+Croagunk,Poison
+Croagunk,Fighting
+Toxicroak,Poison
+Toxicroak,Fighting
+Carnivine,Grass
+Finneon,Water
+Lumineon,Water
+Mantyke,Water
+Mantyke,Flying
+Snover,Grass
+Snover,Ice
+Abomasnow,Grass
+Abomasnow,Ice
+Mega Abomasnow,Grass
+Mega Abomasnow,Ice
+Weavile,Dark
+Weavile,Ice
+Magnezone,Electric
+Magnezone,Steel
+Lickilicky,Normal
+Rhyperior,Ground
+Rhyperior,Rock
+Tangrowth,Grass
+Electivire,Electric
+Magmortar,Fire
+Togekiss,Fairy
+Togekiss,Flying
+Yanmega,Bug
+Yanmega,Flying
+Leafeon,Grass
+Glaceon,Ice
+Gliscor,Ground
+Gliscor,Flying
+Mamoswine,Ice
+Mamoswine,Ground
+Porygon-Z,Normal
+Gallade,Psychic
+Gallade,Fighting
+Mega Gallade,Psychic
+Mega Gallade,Fighting
+Probopass,Rock
+Probopass,Steel
+Dusknoir,Ghost
+Froslass,Ice
+Froslass,Ghost
+Fan Rotom,Electric
+Fan Rotom,Flying
+Frost Rotom,Electric
+Frost Rotom,Ice
+Wash Rotom,Electric
+Wash Rotom,Water
+Heat Rotom,Electric
+Heat Rotom,Fire
+Rotom,Electric
+Rotom,Ghost
+Mow Rotom,Electric
+Mow Rotom,Grass
+Uxie,Psychic
+Mesprit,Psychic
+Azelf,Psychic
+Dialga,Steel
+Dialga,Dragon
+Dialga Origin Forme,Steel
+Dialga Origin Forme,Dragon
+Palkia Origin Forme,Water
+Palkia Origin Forme,Dragon
+Palkia,Water
+Palkia,Dragon
+Heatran,Fire
+Heatran,Steel
+Regigigas,Normal
+Giratina Origin Forme,Ghost
+Giratina Origin Forme,Dragon
+Giratina Altered Forme,Ghost
+Giratina Altered Forme,Dragon
+Cresselia,Psychic
+Phione,Water
+Manaphy,Water
+Darkrai,Dark
+Shaymin Land Forme,Grass
+Shaymin Sky Forme,Grass
+Shaymin Sky Forme,Flying
+Arceus,Normal
+Victini,Psychic
+Victini,Fire
+Snivy,Grass
+Servine,Grass
+Serperior,Grass
+Tepig,Fire
+Pignite,Fire
+Pignite,Fighting
+Emboar,Fire
+Emboar,Fighting
+Oshawott,Water
+Dewott,Water
+Samurott,Water
+Hisuian Samurott,Water
+Hisuian Samurott,Dark
+Patrat,Normal
+Watchog,Normal
+Lillipup,Normal
+Herdier,Normal
+Stoutland,Normal
+Purrloin,Dark
+Liepard,Dark
+Pansage,Grass
+Simisage,Grass
+Pansear,Fire
+Simisear,Fire
+Panpour,Water
+Simipour,Water
+Munna,Psychic
+Musharna,Psychic
+Pidove,Normal
+Pidove,Flying
+Tranquill,Normal
+Tranquill,Flying
+Unfezant,Normal
+Unfezant,Flying
+Blitzle,Electric
+Zebstrika,Electric
+Roggenrola,Rock
+Boldore,Rock
+Gigalith,Rock
+Woobat,Psychic
+Woobat,Flying
+Swoobat,Psychic
+Swoobat,Flying
+Drilbur,Ground
+Excadrill,Ground
+Excadrill,Steel
+Mega Audino,Normal
+Mega Audino,Fairy
+Audino,Normal
+Timburr,Fighting
+Gurdurr,Fighting
+Conkeldurr,Fighting
+Tympole,Water
+Palpitoad,Water
+Palpitoad,Ground
+Seismitoad,Water
+Seismitoad,Ground
+Throh,Fighting
+Sawk,Fighting
+Sewaddle,Bug
+Sewaddle,Grass
+Swadloon,Bug
+Swadloon,Grass
+Leavanny,Bug
+Leavanny,Grass
+Venipede,Bug
+Venipede,Poison
+Whirlipede,Bug
+Whirlipede,Poison
+Scolipede,Bug
+Scolipede,Poison
+Cottonee,Grass
+Cottonee,Fairy
+Whimsicott,Grass
+Whimsicott,Fairy
+Petilil,Grass
+Hisuian Lilligant,Grass
+Hisuian Lilligant,Fighting
+Lilligant,Grass
+Basculin White-Striped Form,Water
+Basculin Blue-Striped Form,Water
+Basculin Red-Striped Form,Water
+Sandile,Ground
+Sandile,Dark
+Krokorok,Ground
+Krokorok,Dark
+Krookodile,Ground
+Krookodile,Dark
+Galarian Darumaka,Ice
+Darumaka,Fire
+Darmanitan Standard Mode,Fire
+Darmanitan Galarian Zen Mode,Ice
+Darmanitan Galarian Zen Mode,Fire
+Darmanitan Galarian Standard Mode,Ice
+Darmanitan Zen Mode,Fire
+Darmanitan Zen Mode,Psychic
+Maractus,Grass
+Dwebble,Bug
+Dwebble,Rock
+Crustle,Bug
+Crustle,Rock
+Scraggy,Dark
+Scraggy,Fighting
+Scrafty,Dark
+Scrafty,Fighting
+Sigilyph,Psychic
+Sigilyph,Flying
+Galarian Yamask,Ground
+Galarian Yamask,Ghost
+Yamask,Ghost
+Cofagrigus,Ghost
+Tirtouga,Water
+Tirtouga,Rock
+Carracosta,Water
+Carracosta,Rock
+Archen,Rock
+Archen,Flying
+Archeops,Rock
+Archeops,Flying
+Trubbish,Poison
+Garbodor Gigantamax,Poison
+Garbodor,Poison
+Zorua,Dark
+Hisuian Zorua,Normal
+Hisuian Zorua,Ghost
+Zoroark,Dark
+Hisuian Zoroark,Normal
+Hisuian Zoroark,Ghost
+Minccino,Normal
+Cinccino,Normal
+Gothita,Psychic
+Gothorita,Psychic
+Gothitelle,Psychic
+Solosis,Psychic
+Duosion,Psychic
+Reuniclus,Psychic
+Ducklett,Water
+Ducklett,Flying
+Swanna,Water
+Swanna,Flying
+Vanillite,Ice
+Vanillish,Ice
+Vanilluxe,Ice
+Deerling,Normal
+Deerling,Grass
+Sawsbuck,Normal
+Sawsbuck,Grass
+Emolga,Electric
+Emolga,Flying
+Karrablast,Bug
+Escavalier,Bug
+Escavalier,Steel
+Foongus,Grass
+Foongus,Poison
+Amoonguss,Grass
+Amoonguss,Poison
+Frillish,Water
+Frillish,Ghost
+Jellicent,Water
+Jellicent,Ghost
+Alomomola,Water
+Joltik,Bug
+Joltik,Electric
+Galvantula,Bug
+Galvantula,Electric
+Ferroseed,Grass
+Ferroseed,Steel
+Ferrothorn,Grass
+Ferrothorn,Steel
+Klink,Steel
+Klang,Steel
+Klinklang,Steel
+Tynamo,Electric
+Eelektrik,Electric
+Eelektross,Electric
+Elgyem,Psychic
+Beheeyem,Psychic
+Litwick,Ghost
+Litwick,Fire
+Lampent,Ghost
+Lampent,Fire
+Chandelure,Ghost
+Chandelure,Fire
+Axew,Dragon
+Fraxure,Dragon
+Haxorus,Dragon
+Cubchoo,Ice
+Beartic,Ice
+Cryogonal,Ice
+Shelmet,Bug
+Accelgor,Bug
+Stunfisk,Ground
+Stunfisk,Electric
+Galarian Stunfisk,Ground
+Galarian Stunfisk,Steel
+Mienfoo,Fighting
+Mienshao,Fighting
+Druddigon,Dragon
+Golett,Ground
+Golett,Ghost
+Golurk,Ground
+Golurk,Ghost
+Pawniard,Dark
+Pawniard,Steel
+Bisharp,Dark
+Bisharp,Steel
+Bouffalant,Normal
+Rufflet,Normal
+Rufflet,Flying
+Hisuian Braviary,Psychic
+Hisuian Braviary,Flying
+Braviary,Normal
+Braviary,Flying
+Vullaby,Dark
+Vullaby,Flying
+Mandibuzz,Dark
+Mandibuzz,Flying
+Heatmor,Fire
+Durant,Bug
+Durant,Steel
+Deino,Dark
+Deino,Dragon
+Zweilous,Dark
+Zweilous,Dragon
+Hydreigon,Dark
+Hydreigon,Dragon
+Larvesta,Bug
+Larvesta,Fire
+Volcarona,Bug
+Volcarona,Fire
+Cobalion,Steel
+Cobalion,Fighting
+Terrakion,Rock
+Terrakion,Fighting
+Virizion,Grass
+Virizion,Fighting
+Tornadus Incarnate Forme,Flying
+Tornadus Therian Forme,Flying
+Thundurus Therian Forme,Electric
+Thundurus Therian Forme,Flying
+Thundurus Incarnate Forme,Electric
+Thundurus Incarnate Forme,Flying
+Reshiram,Dragon
+Reshiram,Fire
+Zekrom,Dragon
+Zekrom,Electric
+Landorus Incarnate Forme,Ground
+Landorus Incarnate Forme,Flying
+Landorus Therian Forme,Ground
+Landorus Therian Forme,Flying
+Kyurem,Dragon
+Kyurem,Ice
+Black Kyurem,Dragon
+Black Kyurem,Ice
+White Kyurem,Dragon
+White Kyurem,Ice
+Keldeo Resolute Form,Water
+Keldeo Resolute Form,Fighting
+Keldeo Ordinary Form,Water
+Keldeo Ordinary Form,Fighting
+Meloetta Pirouette Forme,Normal
+Meloetta Pirouette Forme,Fighting
+Meloetta Aria Forme,Normal
+Meloetta Aria Forme,Psychic
+Genesect,Bug
+Genesect,Steel
+Chespin,Grass
+Quilladin,Grass
+Chesnaught,Grass
+Chesnaught,Fighting
+Fennekin,Fire
+Braixen,Fire
+Delphox,Fire
+Delphox,Psychic
+Froakie,Water
+Frogadier,Water
+Greninja,Water
+Greninja,Dark
+Ash-Greninja,Water
+Ash-Greninja,Dark
+Bunnelby,Normal
+Diggersby,Normal
+Diggersby,Ground
+Fletchling,Normal
+Fletchling,Flying
+Fletchinder,Fire
+Fletchinder,Flying
+Talonflame,Fire
+Talonflame,Flying
+Scatterbug,Bug
+Spewpa,Bug
+Vivillon,Bug
+Vivillon,Flying
+Litleo,Fire
+Litleo,Normal
+Pyroar,Fire
+Pyroar,Normal
+Flabébé,Fairy
+Floette,Fairy
+Florges,Fairy
+Skiddo,Grass
+Gogoat,Grass
+Pancham,Fighting
+Pangoro,Fighting
+Pangoro,Dark
+Furfrou,Normal
+Espurr,Psychic
+Meowstic Female,Psychic
+Meowstic Male,Psychic
+Honedge,Steel
+Honedge,Ghost
+Doublade,Steel
+Doublade,Ghost
+Aegislash Blade Forme,Steel
+Aegislash Blade Forme,Ghost
+Aegislash Shield Forme,Steel
+Aegislash Shield Forme,Ghost
+Spritzee,Fairy
+Aromatisse,Fairy
+Swirlix,Fairy
+Slurpuff,Fairy
+Inkay,Dark
+Inkay,Psychic
+Malamar,Dark
+Malamar,Psychic
+Binacle,Rock
+Binacle,Water
+Barbaracle,Rock
+Barbaracle,Water
+Skrelp,Poison
+Skrelp,Water
+Dragalge,Poison
+Dragalge,Dragon
+Clauncher,Water
+Clawitzer,Water
+Helioptile,Electric
+Helioptile,Normal
+Heliolisk,Electric
+Heliolisk,Normal
+Tyrunt,Rock
+Tyrunt,Dragon
+Tyrantrum,Rock
+Tyrantrum,Dragon
+Amaura,Rock
+Amaura,Ice
+Aurorus,Rock
+Aurorus,Ice
+Sylveon,Fairy
+Hawlucha,Fighting
+Hawlucha,Flying
+Dedenne,Electric
+Dedenne,Fairy
+Carbink,Rock
+Carbink,Fairy
+Goomy,Dragon
+Hisuian Sliggoo,Dragon
+Hisuian Sliggoo,Steel
+Sliggoo,Dragon
+Goodra,Dragon
+Hisuian Goodra,Dragon
+Hisuian Goodra,Steel
+Klefki,Steel
+Klefki,Fairy
+Phantump,Ghost
+Phantump,Grass
+Trevenant,Ghost
+Trevenant,Grass
+Pumpkaboo Super Size,Ghost
+Pumpkaboo Super Size,Grass
+Pumpkaboo Large Size,Ghost
+Pumpkaboo Large Size,Grass
+Pumpkaboo Small Size,Ghost
+Pumpkaboo Small Size,Grass
+Pumpkaboo Average Size,Ghost
+Pumpkaboo Average Size,Grass
+Gourgeist Super Size,Ghost
+Gourgeist Super Size,Grass
+Gourgeist Large Size,Ghost
+Gourgeist Large Size,Grass
+Gourgeist Small Size,Ghost
+Gourgeist Small Size,Grass
+Gourgeist Average Size,Ghost
+Gourgeist Average Size,Grass
+Bergmite,Ice
+Hisuian Avalugg,Ice
+Hisuian Avalugg,Rock
+Avalugg,Ice
+Noibat,Flying
+Noibat,Dragon
+Noivern,Flying
+Noivern,Dragon
+Xerneas,Fairy
+Yveltal,Dark
+Yveltal,Flying
+Zygarde Complete Forme,Dragon
+Zygarde Complete Forme,Ground
+Zygarde 10% Forme,Dragon
+Zygarde 10% Forme,Ground
+Zygarde 50% Forme,Dragon
+Zygarde 50% Forme,Ground
+Mega Diancie,Rock
+Mega Diancie,Fairy
+Diancie,Rock
+Diancie,Fairy
+Hoopa Unbound,Psychic
+Hoopa Unbound,Dark
+Hoopa Confined,Psychic
+Hoopa Confined,Ghost
+Volcanion,Fire
+Volcanion,Water
+Rowlet,Grass
+Rowlet,Flying
+Dartrix,Grass
+Dartrix,Flying
+Hisuian Decidueye,Grass
+Hisuian Decidueye,Fighting
+Decidueye,Grass
+Decidueye,Ghost
+Litten,Fire
+Torracat,Fire
+Incineroar,Fire
+Incineroar,Dark
+Popplio,Water
+Brionne,Water
+Primarina,Water
+Primarina,Fairy
+Pikipek,Normal
+Pikipek,Flying
+Trumbeak,Normal
+Trumbeak,Flying
+Toucannon,Normal
+Toucannon,Flying
+Yungoos,Normal
+Gumshoos,Normal
+Grubbin,Bug
+Charjabug,Bug
+Charjabug,Electric
+Vikavolt,Bug
+Vikavolt,Electric
+Crabrawler,Fighting
+Crabominable,Fighting
+Crabominable,Ice
+Oricorio Pa'u Style,Psychic
+Oricorio Pa'u Style,Flying
+Oricorio Pom-Pom Style,Electric
+Oricorio Pom-Pom Style,Flying
+Oricorio Sensu Style,Ghost
+Oricorio Sensu Style,Flying
+Oricorio Baile Style,Fire
+Oricorio Baile Style,Flying
+Cutiefly,Bug
+Cutiefly,Fairy
+Ribombee,Bug
+Ribombee,Fairy
+Rockruff,Rock
+Own Tempo Rockruff,Rock
+Lycanroc Midday Form,Rock
+Lycanroc Midnight Form,Rock
+Lycanroc Dusk Form,Rock
+Wishiwashi Solo Form,Water
+Wishiwashi School Form,Water
+Mareanie,Poison
+Mareanie,Water
+Toxapex,Poison
+Toxapex,Water
+Mudbray,Ground
+Mudsdale,Ground
+Dewpider,Water
+Dewpider,Bug
+Araquanid,Water
+Araquanid,Bug
+Fomantis,Grass
+Lurantis,Grass
+Morelull,Grass
+Morelull,Fairy
+Shiinotic,Grass
+Shiinotic,Fairy
+Salandit,Poison
+Salandit,Fire
+Salazzle,Poison
+Salazzle,Fire
+Stufful,Normal
+Stufful,Fighting
+Bewear,Normal
+Bewear,Fighting
+Bounsweet,Grass
+Steenee,Grass
+Tsareena,Grass
+Comfey,Fairy
+Oranguru,Normal
+Oranguru,Psychic
+Passimian,Fighting
+Wimpod,Bug
+Wimpod,Water
+Golisopod,Bug
+Golisopod,Water
+Sandygast,Ghost
+Sandygast,Ground
+Palossand,Ghost
+Palossand,Ground
+Pyukumuku,Water
+Type: Null,Normal
+Silvally,Normal
+Minior Meteor Form,Rock
+Minior Meteor Form,Flying
+Minior Core Form,Rock
+Minior Core Form,Flying
+Komala,Normal
+Turtonator,Fire
+Turtonator,Dragon
+Togedemaru,Electric
+Togedemaru,Steel
+Mimikyu,Ghost
+Mimikyu,Fairy
+Bruxish,Water
+Bruxish,Psychic
+Drampa,Normal
+Drampa,Dragon
+Dhelmise,Ghost
+Dhelmise,Grass
+Jangmo-o,Dragon
+Hakamo-o,Dragon
+Hakamo-o,Fighting
+Kommo-o,Dragon
+Kommo-o,Fighting
+Tapu Koko,Electric
+Tapu Koko,Fairy
+Tapu Lele,Psychic
+Tapu Lele,Fairy
+Tapu Bulu,Grass
+Tapu Bulu,Fairy
+Tapu Fini,Water
+Tapu Fini,Fairy
+Cosmog,Psychic
+Cosmoem,Psychic
+Solgaleo,Psychic
+Solgaleo,Steel
+Lunala,Psychic
+Lunala,Ghost
+Nihilego,Rock
+Nihilego,Poison
+Buzzwole,Bug
+Buzzwole,Fighting
+Pheromosa,Bug
+Pheromosa,Fighting
+Xurkitree,Electric
+Celesteela,Steel
+Celesteela,Flying
+Kartana,Grass
+Kartana,Steel
+Guzzlord,Dark
+Guzzlord,Dragon
+Dusk Mane Necrozma,Psychic
+Dusk Mane Necrozma,Steel
+Necrozma,Psychic
+Dawn Wings Necrozma,Psychic
+Dawn Wings Necrozma,Ghost
+Ultra Necrozma,Psychic
+Ultra Necrozma,Dragon
+Magearna,Steel
+Magearna,Fairy
+Marshadow,Fighting
+Marshadow,Ghost
+Poipole,Poison
+Naganadel,Poison
+Naganadel,Dragon
+Stakataka,Rock
+Stakataka,Steel
+Blacephalon,Fire
+Blacephalon,Ghost
+Zeraora,Electric
+Meltan,Steel
+Melmetal Gigantamax,Steel
+Melmetal,Steel
+Grookey,Grass
+Thwackey,Grass
+Rillaboom Gigantamax,Grass
+Rillaboom,Grass
+Scorbunny,Fire
+Raboot,Fire
+Cinderace Gigantamax,Fire
+Cinderace,Fire
+Sobble,Water
+Drizzile,Water
+Inteleon Gigantamax,Water
+Inteleon,Water
+Skwovet,Normal
+Greedent,Normal
+Rookidee,Flying
+Corvisquire,Flying
+Corviknight,Flying
+Corviknight,Steel
+Corviknight Gigantamax,Flying
+Corviknight Gigantamax,Steel
+Blipbug,Bug
+Dottler,Bug
+Dottler,Psychic
+Orbeetle,Bug
+Orbeetle,Psychic
+Orbeetle Gigantamax,Bug
+Orbeetle Gigantamax,Psychic
+Nickit,Dark
+Thievul,Dark
+Gossifleur,Grass
+Eldegoss,Grass
+Wooloo,Normal
+Dubwool,Normal
+Chewtle,Water
+Drednaw Gigantamax,Water
+Drednaw Gigantamax,Rock
+Drednaw,Water
+Drednaw,Rock
+Yamper,Electric
+Boltund,Electric
+Rolycoly,Rock
+Carkol,Rock
+Carkol,Fire
+Coalossal Gigantamax,Rock
+Coalossal Gigantamax,Fire
+Coalossal,Rock
+Coalossal,Fire
+Applin,Grass
+Applin,Dragon
+Flapple,Grass
+Flapple,Dragon
+Flapple Gigantamax,Grass
+Flapple Gigantamax,Dragon
+Appletun,Grass
+Appletun,Dragon
+Appletun Gigantamax,Grass
+Appletun Gigantamax,Dragon
+Silicobra,Ground
+Sandaconda Gigantamax,Ground
+Sandaconda,Ground
+Cramorant,Flying
+Cramorant,Water
+Arrokuda,Water
+Barraskewda,Water
+Toxel,Electric
+Toxel,Poison
+Toxtricity Amped Form,Electric
+Toxtricity Amped Form,Poison
+Toxtricity Low Key Form,Electric
+Toxtricity Low Key Form,Poison
+Sizzlipede,Fire
+Sizzlipede,Bug
+Centiskorch Gigantamax,Fire
+Centiskorch Gigantamax,Bug
+Centiskorch,Fire
+Centiskorch,Bug
+Clobbopus,Fighting
+Grapploct,Fighting
+Sinistea,Ghost
+Polteageist,Ghost
+Hatenna,Psychic
+Hattrem,Psychic
+Hatterene,Psychic
+Hatterene,Fairy
+Hatterene Gigantamax,Psychic
+Hatterene Gigantamax,Fairy
+Impidimp,Dark
+Impidimp,Fairy
+Morgrem,Dark
+Morgrem,Fairy
+Grimmsnarl Gigantamax,Dark
+Grimmsnarl Gigantamax,Fairy
+Grimmsnarl,Dark
+Grimmsnarl,Fairy
+Obstagoon,Dark
+Obstagoon,Normal
+Perrserker,Steel
+Cursola,Ghost
+Sirfetch'd,Fighting
+Mr. Rime,Ice
+Mr. Rime,Psychic
+Runerigus,Ground
+Runerigus,Ghost
+Milcery,Fairy
+Alcremie,Fairy
+Alcremie Gigantamax,Fairy
+Falinks,Fighting
+Pincurchin,Electric
+Snom,Ice
+Snom,Bug
+Frosmoth,Ice
+Frosmoth,Bug
+Stonjourner,Rock
+Eiscue Noice Face,Ice
+Eiscue Ice Face,Ice
+Indeedee Female,Psychic
+Indeedee Female,Normal
+Indeedee Male,Psychic
+Indeedee Male,Normal
+Morpeko Hangry Mode,Electric
+Morpeko Hangry Mode,Dark
+Morpeko Full Belly Mode,Electric
+Morpeko Full Belly Mode,Dark
+Cufant,Steel
+Copperajah Gigantamax,Steel
+Copperajah,Steel
+Dracozolt,Electric
+Dracozolt,Dragon
+Arctozolt,Electric
+Arctozolt,Ice
+Dracovish,Water
+Dracovish,Dragon
+Arctovish,Water
+Arctovish,Ice
+Duraludon,Steel
+Duraludon,Dragon
+Duraludon Gigantamax,Steel
+Duraludon Gigantamax,Dragon
+Dreepy,Dragon
+Dreepy,Ghost
+Drakloak,Dragon
+Drakloak,Ghost
+Dragapult,Dragon
+Dragapult,Ghost
+Zacian Hero of Many Battles,Fairy
+Zacian Crowned Sword,Fairy
+Zacian Crowned Sword,Steel
+Zamazenta Crowned Shield,Fighting
+Zamazenta Crowned Shield,Steel
+Zamazenta Hero of Many Battles,Fighting
+Eternatus Eternamax,Poison
+Eternatus Eternamax,Dragon
+Eternatus,Poison
+Eternatus,Dragon
+Kubfu,Fighting
+Urshifu (Single Strike) Gigantamax,Fighting
+Urshifu (Single Strike) Gigantamax,Dark
+Urshifu (Rapid Strike) Gigantamax,Fighting
+Urshifu (Rapid Strike) Gigantamax,Water
+Urshifu Single Strike Style,Fighting
+Urshifu Single Strike Style,Dark
+Urshifu Rapid Strike Style,Fighting
+Urshifu Rapid Strike Style,Water
+Zarude,Dark
+Zarude,Grass
+Regieleki,Electric
+Regidrago,Dragon
+Glastrier,Ice
+Spectrier,Ghost
+Calyrex,Psychic
+Calyrex,Grass
+Calyrex Shadow Rider,Psychic
+Calyrex Shadow Rider,Ghost
+Calyrex Ice Rider,Psychic
+Calyrex Ice Rider,Ice

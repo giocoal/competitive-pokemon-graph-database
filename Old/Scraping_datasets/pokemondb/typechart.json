@@ -1,0 +1,176 @@
+[
+    {
+        "Atk_Type/Pokemon_Type": "Normal",
+        "Rock": "½",
+        "Ghost": "0",
+        "Steel": "½"
+    },
+    {
+        "Atk_Type/Pokemon_Type": "Fire",
+        "Fire": "½",
+        "Water": "½",
+        "Grass": "2",
+        "Ice": "2",
+        "Bug": "2",
+        "Rock": "½",
+        "Dragon": "½",
+        "Steel": "2"
+    },
+    {
+        "Atk_Type/Pokemon_Type": "Water",
+        "Fire": "2",
+        "Water": "½",
+        "Grass": "½",
+        "Ground": "2",
+        "Rock": "2",
+        "Dragon": "½"
+    },
+    {
+        "Atk_Type/Pokemon_Type": "Electric",
+        "Water": "2",
+        "Electric": "½",
+        "Grass": "½",
+        "Ground": "0",
+        "Flying": "2",
+        "Dragon": "½"
+    },
+    {
+        "Atk_Type/Pokemon_Type": "Grass",
+        "Fire": "½",
+        "Water": "2",
+        "Grass": "½",
+        "Poison": "½",
+        "Ground": "2",
+        "Flying": "½",
+        "Bug": "½",
+        "Rock": "2",
+        "Dragon": "½",
+        "Steel": "½"
+    },
+    {
+        "Atk_Type/Pokemon_Type": "Ice",
+        "Fire": "½",
+        "Water": "½",
+        "Grass": "2",
+        "Ice": "½",
+        "Ground": "2",
+        "Flying": "2",
+        "Dragon": "2",
+        "Steel": "½"
+    },
+    {
+        "Atk_Type/Pokemon_Type": "Fighting",
+        "Normal": 2.0,
+        "Ice": "2",
+        "Poison": "½",
+        "Flying": "½",
+        "Psychic": "½",
+        "Bug": "½",
+        "Rock": "2",
+        "Ghost": "0",
+        "Dark": "2",
+        "Steel": "2",
+        "Fairy": "½"
+    },
+    {
+        "Atk_Type/Pokemon_Type": "Poison",
+        "Grass": "2",
+        "Poison": "½",
+        "Ground": "½",
+        "Rock": "½",
+        "Ghost": "½",
+        "Steel": "0",
+        "Fairy": "2"
+    },
+    {
+        "Atk_Type/Pokemon_Type": "Ground",
+        "Fire": "2",
+        "Electric": "2",
+        "Grass": "½",
+        "Poison": "2",
+        "Flying": "0",
+        "Bug": "½",
+        "Rock": "2",
+        "Steel": "2"
+    },
+    {
+        "Atk_Type/Pokemon_Type": "Flying",
+        "Electric": "½",
+        "Grass": "2",
+        "Fighting": "2",
+        "Bug": "2",
+        "Rock": "½",
+        "Steel": "½"
+    },
+    {
+        "Atk_Type/Pokemon_Type": "Psychic",
+        "Fighting": "2",
+        "Poison": "2",
+        "Psychic": "½",
+        "Dark": "0",
+        "Steel": "½"
+    },
+    {
+        "Atk_Type/Pokemon_Type": "Bug",
+        "Fire": "½",
+        "Grass": "2",
+        "Fighting": "½",
+        "Poison": "½",
+        "Flying": "½",
+        "Psychic": "2",
+        "Ghost": "½",
+        "Dark": "2",
+        "Steel": "½",
+        "Fairy": "½"
+    },
+    {
+        "Atk_Type/Pokemon_Type": "Rock",
+        "Fire": "2",
+        "Ice": "2",
+        "Fighting": "½",
+        "Ground": "½",
+        "Flying": "2",
+        "Bug": "2",
+        "Steel": "½"
+    },
+    {
+        "Atk_Type/Pokemon_Type": "Ghost",
+        "Normal": 0.0,
+        "Psychic": "2",
+        "Ghost": "2",
+        "Dark": "½"
+    },
+    {
+        "Atk_Type/Pokemon_Type": "Dragon",
+        "Dragon": "2",
+        "Steel": "½",
+        "Fairy": "0"
+    },
+    {
+        "Atk_Type/Pokemon_Type": "Dark",
+        "Fighting": "½",
+        "Psychic": "2",
+        "Ghost": "2",
+        "Dark": "½",
+        "Fairy": "½"
+    },
+    {
+        "Atk_Type/Pokemon_Type": "Steel",
+        "Fire": "½",
+        "Water": "½",
+        "Electric": "½",
+        "Ice": "2",
+        "Rock": "2",
+        "Steel": "½",
+        "Fairy": "2"
+    },
+    {
+        "Atk_Type/Pokemon_Type": "Fairy",
+        "Fire": "½",
+        "Fighting": "2",
+        "Poison": "½",
+        "Dragon": "2",
+        "Dark": "2",
+        "Steel": "½"
+    }
+]

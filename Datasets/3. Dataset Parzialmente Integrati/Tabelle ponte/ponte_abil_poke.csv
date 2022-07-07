@@ -1,0 +1,2534 @@
+,Ability,Pokemon,Hidden
+0,Adaptability,eevee,False
+1,Adaptability,corphish,True
+2,Adaptability,crawdaunt,True
+3,Adaptability,feebas,True
+4,Adaptability,porygon-z,False
+5,Adaptability,basculin-red-striped,False
+6,Adaptability,skrelp,True
+7,Adaptability,dragalge,True
+8,Adaptability,yungoos,True
+9,Adaptability,gumshoos,True
+10,Adaptability,basculin-blue-striped,False
+11,Adaptability,lucario-mega,False
+12,Adaptability,beedrill-mega,False
+13,Adaptability,gumshoos-totem,True
+14,Adaptability,eevee-starter,False
+15,Adaptability,eevee-gmax,False
+16,Aerilate,pinsir-mega,False
+17,Aerilate,salamence-mega,False
+18,Aftermath,voltorb,True
+19,Aftermath,electrode,True
+20,Aftermath,drifloon,False
+21,Aftermath,drifblim,False
+22,Aftermath,stunky,False
+23,Aftermath,skuntank,False
+24,Aftermath,trubbish,True
+25,Aftermath,garbodor,True
+26,Aftermath,garbodor-gmax,True
+27,Air Lock,rayquaza,False
+28,Analytic,magnemite,True
+29,Analytic,magneton,True
+30,Analytic,staryu,True
+31,Analytic,starmie,True
+32,Analytic,porygon,True
+33,Analytic,porygon2,True
+34,Analytic,magnezone,True
+35,Analytic,porygon-z,True
+36,Analytic,patrat,True
+37,Analytic,watchog,True
+38,Analytic,elgyem,True
+39,Analytic,beheeyem,True
+40,Anger Point,mankey,False
+41,Anger Point,primeape,False
+42,Anger Point,tauros,False
+43,Anger Point,camerupt,True
+44,Anger Point,sandile,True
+45,Anger Point,krokorok,True
+46,Anger Point,krookodile,True
+47,Anger Point,crabrawler,True
+48,Anger Point,crabominable,True
+49,Anticipation,eevee,True
+50,Anticipation,barboach,False
+51,Anticipation,whiscash,False
+52,Anticipation,wormadam-plant,False
+53,Anticipation,croagunk,False
+54,Anticipation,toxicroak,False
+55,Anticipation,ferrothorn,True
+56,Anticipation,hatenna,False
+57,Anticipation,hattrem,False
+58,Anticipation,hatterene,False
+59,Anticipation,wormadam-sandy,False
+60,Anticipation,wormadam-trash,False
+61,Anticipation,eevee-starter,True
+62,Anticipation,ponyta-galar,True
+63,Anticipation,rapidash-galar,True
+64,Anticipation,eevee-gmax,True
+65,Anticipation,hatterene-gmax,False
+66,Arena Trap,diglett,False
+67,Arena Trap,dugtrio,False
+68,Arena Trap,trapinch,False
+69,Aroma Veil,spritzee,True
+70,Aroma Veil,aromatisse,True
+71,Aroma Veil,milcery,True
+72,Aroma Veil,alcremie,True
+73,Aroma Veil,alcremie-gmax,True
+74,As One Glastrier,calyrex-ice,False
+75,As One Spectrier,calyrex-shadow,False
+76,Aura Break,zygarde-50,False
+77,Aura Break,zygarde-10,False
+78,Bad Dreams,darkrai,False
+79,Ball Fetch,yamper,False
+80,Battery,charjabug,False
+81,Battle Armor,cubone,True
+82,Battle Armor,marowak,True
+83,Battle Armor,kabuto,False
+84,Battle Armor,kabutops,False
+85,Battle Armor,anorith,False
+86,Battle Armor,armaldo,False
+87,Battle Armor,skorupi,False
+88,Battle Armor,drapion,False
+89,Battle Armor,type-null,False
+90,Battle Armor,perrserker,False
+91,Battle Armor,falinks,False
+92,Battle Bond,greninja-battle-bond,False
+93,Battle Bond,greninja-ash,False
+94,Beast Boost,nihilego,False
+95,Beast Boost,buzzwole,False
+96,Beast Boost,pheromosa,False
+97,Beast Boost,xurkitree,False
+98,Beast Boost,celesteela,False
+99,Beast Boost,kartana,False
+100,Beast Boost,guzzlord,False
+101,Beast Boost,poipole,False
+102,Beast Boost,naganadel,False
+103,Beast Boost,stakataka,False
+104,Beast Boost,blacephalon,False
+105,Berserk,drampa,False
+106,Berserk,moltres-galar,False
+107,Big Pecks,pidgey,True
+108,Big Pecks,pidgeotto,True
+109,Big Pecks,pidgeot,True
+110,Big Pecks,chatot,True
+111,Big Pecks,pidove,False
+112,Big Pecks,tranquill,False
+113,Big Pecks,unfezant,False
+114,Big Pecks,ducklett,False
+115,Big Pecks,swanna,False
+116,Big Pecks,vullaby,False
+117,Big Pecks,mandibuzz,False
+118,Big Pecks,fletchling,False
+119,Big Pecks,rookidee,True
+120,Big Pecks,corvisquire,True
+121,Blaze,charmander,False
+122,Blaze,charmeleon,False
+123,Blaze,charizard,False
+124,Blaze,cyndaquil,False
+125,Blaze,quilava,False
+126,Blaze,typhlosion,False
+127,Blaze,torchic,False
+128,Blaze,combusken,False
+129,Blaze,blaziken,False
+130,Blaze,chimchar,False
+131,Blaze,monferno,False
+132,Blaze,infernape,False
+133,Blaze,tepig,False
+134,Blaze,pignite,False
+135,Blaze,emboar,False
+136,Blaze,pansear,True
+137,Blaze,simisear,True
+138,Blaze,fennekin,False
+139,Blaze,braixen,False
+140,Blaze,delphox,False
+141,Blaze,litten,False
+142,Blaze,torracat,False
+143,Blaze,incineroar,False
+144,Blaze,scorbunny,False
+145,Blaze,raboot,False
+146,Blaze,cinderace,False
+147,Blaze,charizard-gmax,False
+148,Blaze,cinderace-gmax,False
+149,Bulletproof,chespin,True
+150,Bulletproof,quilladin,True
+151,Bulletproof,chesnaught,True
+152,Bulletproof,jangmo-o,False
+153,Bulletproof,hakamo-o,False
+154,Bulletproof,kommo-o,False
+155,Bulletproof,wooloo,True
+156,Bulletproof,dubwool,True
+157,Bulletproof,applin,True
+158,Bulletproof,kommo-o-totem,False
+159,Cheek Pouch,bunnelby,False
+160,Cheek Pouch,diggersby,False
+161,Cheek Pouch,dedenne,False
+162,Cheek Pouch,skwovet,False
+163,Cheek Pouch,greedent,False
+164,Chilling Neigh,glastrier,False
+165,Chlorophyll,bulbasaur,True
+166,Chlorophyll,ivysaur,True
+167,Chlorophyll,venusaur,True
+168,Chlorophyll,oddish,False
+169,Chlorophyll,gloom,False
+170,Chlorophyll,vileplume,False
+171,Chlorophyll,bellsprout,False
+172,Chlorophyll,weepinbell,False
+173,Chlorophyll,victreebel,False
+174,Chlorophyll,exeggcute,False
+175,Chlorophyll,exeggutor,False
+176,Chlorophyll,tangela,False
+177,Chlorophyll,bellossom,False
+178,Chlorophyll,hoppip,False
+179,Chlorophyll,skiploom,False
+180,Chlorophyll,jumpluff,False
+181,Chlorophyll,sunkern,False
+182,Chlorophyll,sunflora,False
+183,Chlorophyll,seedot,False
+184,Chlorophyll,nuzleaf,False
+185,Chlorophyll,shiftry,False
+186,Chlorophyll,tropius,False
+187,Chlorophyll,cherubi,False
+188,Chlorophyll,tangrowth,False
+189,Chlorophyll,leafeon,True
+190,Chlorophyll,sewaddle,False
+191,Chlorophyll,swadloon,False
+192,Chlorophyll,leavanny,False
+193,Chlorophyll,cottonee,True
+194,Chlorophyll,whimsicott,True
+195,Chlorophyll,petilil,False
+196,Chlorophyll,lilligant,False
+197,Chlorophyll,maractus,False
+198,Chlorophyll,deerling,False
+199,Chlorophyll,sawsbuck,False
+200,Chlorophyll,venusaur-gmax,True
+201,Clear Body,tentacool,False
+202,Clear Body,tentacruel,False
+203,Clear Body,beldum,False
+204,Clear Body,metang,False
+205,Clear Body,metagross,False
+206,Clear Body,regirock,False
+207,Clear Body,regice,False
+208,Clear Body,registeel,False
+209,Clear Body,klink,True
+210,Clear Body,klang,True
+211,Clear Body,klinklang,True
+212,Clear Body,carbink,False
+213,Clear Body,diancie,False
+214,Clear Body,dreepy,False
+215,Clear Body,drakloak,False
+216,Clear Body,dragapult,False
+217,Cloud Nine,psyduck,False
+218,Cloud Nine,golduck,False
+219,Cloud Nine,lickitung,True
+220,Cloud Nine,swablu,True
+221,Cloud Nine,altaria,True
+222,Cloud Nine,lickilicky,True
+223,Cloud Nine,drampa,True
+224,Color Change,kecleon,False
+225,Comatose,komala,False
+226,Competitive,jigglypuff,False
+227,Competitive,wigglytuff,False
+228,Competitive,igglybuff,False
+229,Competitive,milotic,False
+230,Competitive,gothita,False
+231,Competitive,gothorita,False
+232,Competitive,gothitelle,False
+233,Competitive,boltund,True
+234,Competitive,meowstic-female,True
+235,Competitive,articuno-galar,False
+236,Compound Eyes,butterfree,False
+237,Compound Eyes,venonat,False
+238,Compound Eyes,yanma,False
+239,Compound Eyes,dustox,True
+240,Compound Eyes,nincada,False
+241,Compound Eyes,joltik,False
+242,Compound Eyes,galvantula,False
+243,Compound Eyes,scatterbug,False
+244,Compound Eyes,vivillon,False
+245,Compound Eyes,blipbug,False
+246,Compound Eyes,dottler,False
+247,Compound Eyes,butterfree-gmax,False
+248,Contrary,shuckle,True
+249,Contrary,spinda,True
+250,Contrary,snivy,True
+251,Contrary,servine,True
+252,Contrary,serperior,True
+253,Contrary,inkay,False
+254,Contrary,malamar,False
+255,Contrary,fomantis,True
+256,Contrary,lurantis,True
+257,Contrary,lurantis-totem,True
+258,Corrosion,salandit,False
+259,Corrosion,salazzle,False
+260,Corrosion,salazzle-totem,False
+261,Cotton Down,gossifleur,False
+262,Cotton Down,eldegoss,False
+263,Curious Medicine,slowking-galar,False
+264,Cursed Body,gengar,False
+265,Cursed Body,shuppet,True
+266,Cursed Body,banette,True
+267,Cursed Body,froslass,True
+268,Cursed Body,frillish,False
+269,Cursed Body,jellicent,False
+270,Cursed Body,sinistea,True
+271,Cursed Body,polteageist,True
+272,Cursed Body,dreepy,True
+273,Cursed Body,drakloak,True
+274,Cursed Body,dragapult,True
+275,Cursed Body,marowak-alola,False
+276,Cursed Body,marowak-totem,False
+277,Cursed Body,corsola-galar,True
+278,Cursed Body,gengar-gmax,False
+279,Cute Charm,clefairy,False
+280,Cute Charm,clefable,False
+281,Cute Charm,jigglypuff,False
+282,Cute Charm,wigglytuff,False
+283,Cute Charm,cleffa,False
+284,Cute Charm,igglybuff,False
+285,Cute Charm,skitty,False
+286,Cute Charm,delcatty,False
+287,Cute Charm,milotic,True
+288,Cute Charm,lopunny,False
+289,Cute Charm,minccino,False
+290,Cute Charm,cinccino,False
+291,Cute Charm,sylveon,False
+292,Cute Charm,stufful,True
+293,Damp,paras,True
+294,Damp,parasect,True
+295,Damp,psyduck,False
+296,Damp,golduck,False
+297,Damp,poliwag,False
+298,Damp,poliwhirl,False
+299,Damp,poliwrath,False
+300,Damp,horsea,True
+301,Damp,seadra,True
+302,Damp,politoed,False
+303,Damp,wooper,False
+304,Damp,quagsire,False
+305,Damp,kingdra,True
+306,Damp,mudkip,True
+307,Damp,marshtomp,True
+308,Damp,swampert,True
+309,Damp,frillish,True
+310,Damp,jellicent,True
+311,Dancer,oricorio-baile,False
+312,Dancer,oricorio-pom-pom,False
+313,Dancer,oricorio-pau,False
+314,Dancer,oricorio-sensu,False
+315,Dark Aura,yveltal,False
+316,Dauntless Shield,zamazenta,False
+317,Dauntless Shield,zamazenta-crowned,False
+318,Dazzling,bruxish,False
+319,Defeatist,archen,False
+320,Defeatist,archeops,False
+321,Defiant,mankey,True
+322,Defiant,primeape,True
+323,Defiant,farfetchd,True
+324,Defiant,piplup,True
+325,Defiant,prinplup,True
+326,Defiant,empoleon,True
+327,Defiant,purugly,True
+328,Defiant,pawniard,False
+329,Defiant,bisharp,False
+330,Defiant,braviary,True
+331,Defiant,tornadus-incarnate,True
+332,Defiant,thundurus-incarnate,True
+333,Defiant,passimian,True
+334,Defiant,obstagoon,True
+335,Defiant,falinks,True
+336,Defiant,zapdos-galar,False
+337,Delta Stream,rayquaza-mega,False
+338,Desolate Land,groudon-primal,False
+339,Disguise,mimikyu-disguised,False
+340,Disguise,mimikyu-busted,False
+341,Disguise,mimikyu-totem-disguised,False
+342,Disguise,mimikyu-totem-busted,False
+343,Download,porygon,False
+344,Download,porygon2,False
+345,Download,porygon-z,False
+346,Download,genesect,False
+347,Dragons Maw,regidrago,False
+348,Drizzle,politoed,True
+349,Drizzle,pelipper,False
+350,Drizzle,kyogre,False
+351,Drought,vulpix,True
+352,Drought,ninetales,True
+353,Drought,torkoal,False
+354,Drought,groudon,False
+355,Drought,charizard-mega-y,False
+356,Dry Skin,paras,False
+357,Dry Skin,parasect,False
+358,Dry Skin,jynx,True
+359,Dry Skin,croagunk,False
+360,Dry Skin,toxicroak,False
+361,Dry Skin,helioptile,False
+362,Dry Skin,heliolisk,False
+363,Early Bird,doduo,False
+364,Early Bird,dodrio,False
+365,Early Bird,kangaskhan,False
+366,Early Bird,ledyba,False
+367,Early Bird,ledian,False
+368,Early Bird,natu,False
+369,Early Bird,xatu,False
+370,Early Bird,sunkern,True
+371,Early Bird,sunflora,True
+372,Early Bird,girafarig,False
+373,Early Bird,houndour,False
+374,Early Bird,houndoom,False
+375,Early Bird,seedot,False
+376,Early Bird,nuzleaf,False
+377,Early Bird,shiftry,False
+378,Effect Spore,vileplume,True
+379,Effect Spore,paras,False
+380,Effect Spore,parasect,False
+381,Effect Spore,shroomish,False
+382,Effect Spore,breloom,False
+383,Effect Spore,foongus,False
+384,Effect Spore,amoonguss,False
+385,Effect Spore,morelull,False
+386,Effect Spore,shiinotic,False
+387,Effect Spore,gossifleur,True
+388,Effect Spore,eldegoss,True
+389,Electric Surge,tapu-koko,False
+390,Electric Surge,pincurchin,True
+391,Emergency Exit,golisopod,False
+392,Fairy Aura,xerneas,False
+393,Filter,mr-mime,False
+394,Filter,mime-jr,False
+395,Filter,aggron-mega,False
+396,Flame Body,ponyta,True
+397,Flame Body,rapidash,True
+398,Flame Body,magmar,False
+399,Flame Body,moltres,True
+400,Flame Body,slugma,False
+401,Flame Body,magcargo,False
+402,Flame Body,magby,False
+403,Flame Body,magmortar,False
+404,Flame Body,heatran,True
+405,Flame Body,litwick,False
+406,Flame Body,lampent,False
+407,Flame Body,chandelure,False
+408,Flame Body,larvesta,False
+409,Flame Body,volcarona,False
+410,Flame Body,fletchinder,False
+411,Flame Body,talonflame,False
+412,Flame Body,carkol,False
+413,Flame Body,coalossal,False
+414,Flame Body,sizzlipede,True
+415,Flame Body,centiskorch,True
+416,Flame Body,coalossal-gmax,False
+417,Flame Body,centiskorch-gmax,True
+418,Flare Boost,drifloon,True
+419,Flare Boost,drifblim,True
+420,Flash Fire,vulpix,False
+421,Flash Fire,ninetales,False
+422,Flash Fire,growlithe,False
+423,Flash Fire,arcanine,False
+424,Flash Fire,ponyta,False
+425,Flash Fire,rapidash,False
+426,Flash Fire,flareon,False
+427,Flash Fire,cyndaquil,True
+428,Flash Fire,quilava,True
+429,Flash Fire,typhlosion,True
+430,Flash Fire,houndour,False
+431,Flash Fire,houndoom,False
+432,Flash Fire,heatran,False
+433,Flash Fire,litwick,False
+434,Flash Fire,lampent,False
+435,Flash Fire,chandelure,False
+436,Flash Fire,heatmor,False
+437,Flash Fire,rolycoly,True
+438,Flash Fire,carkol,True
+439,Flash Fire,coalossal,True
+440,Flash Fire,sizzlipede,False
+441,Flash Fire,centiskorch,False
+442,Flash Fire,coalossal-gmax,True
+443,Flash Fire,centiskorch-gmax,False
+444,Flower Gift,cherrim,False
+445,Flower Veil,flabebe,False
+446,Flower Veil,floette,False
+447,Flower Veil,florges,False
+448,Flower Veil,comfey,False
+449,Flower Veil,floette-eternal,False
+450,Fluffy,stufful,False
+451,Fluffy,bewear,False
+452,Fluffy,wooloo,False
+453,Fluffy,dubwool,False
+454,Forecast,castform,False
+455,Forecast,castform-sunny,False
+456,Forecast,castform-rainy,False
+457,Forecast,castform-snowy,False
+458,Forewarn,drowzee,False
+459,Forewarn,hypno,False
+460,Forewarn,jynx,False
+461,Forewarn,smoochum,False
+462,Forewarn,munna,False
+463,Forewarn,musharna,False
+464,Friend Guard,clefairy,True
+465,Friend Guard,jigglypuff,True
+466,Friend Guard,cleffa,True
+467,Friend Guard,igglybuff,True
+468,Friend Guard,happiny,True
+469,Friend Guard,scatterbug,True
+470,Friend Guard,spewpa,True
+471,Friend Guard,vivillon,True
+472,Frisk,wigglytuff,True
+473,Frisk,sentret,True
+474,Frisk,furret,True
+475,Frisk,yanma,True
+476,Frisk,stantler,False
+477,Frisk,shuppet,False
+478,Frisk,banette,False
+479,Frisk,duskull,True
+480,Frisk,dusclops,True
+481,Frisk,yanmega,True
+482,Frisk,dusknoir,True
+483,Frisk,gothita,False
+484,Frisk,gothorita,False
+485,Frisk,gothitelle,False
+486,Frisk,phantump,False
+487,Frisk,trevenant,False
+488,Frisk,pumpkaboo-average,False
+489,Frisk,gourgeist-average,False
+490,Frisk,noibat,False
+491,Frisk,noivern,False
+492,Frisk,orbeetle,False
+493,Frisk,impidimp,False
+494,Frisk,morgrem,False
+495,Frisk,grimmsnarl,False
+496,Frisk,pumpkaboo-small,False
+497,Frisk,pumpkaboo-large,False
+498,Frisk,pumpkaboo-super,False
+499,Frisk,gourgeist-small,False
+500,Frisk,gourgeist-large,False
+501,Frisk,gourgeist-super,False
+502,Frisk,exeggutor-alola,False
+503,Frisk,orbeetle-gmax,False
+504,Frisk,grimmsnarl-gmax,False
+505,Full Metal Body,solgaleo,False
+506,Fur Coat,furfrou,False
+507,Fur Coat,persian-alola,False
+508,Gale Wings,fletchling,True
+509,Gale Wings,fletchinder,True
+510,Gale Wings,talonflame,True
+511,Galvanize,geodude-alola,True
+512,Galvanize,graveler-alola,True
+513,Galvanize,golem-alola,True
+514,Gluttony,bellsprout,True
+515,Gluttony,weepinbell,True
+516,Gluttony,victreebel,True
+517,Gluttony,snorlax,True
+518,Gluttony,shuckle,False
+519,Gluttony,zigzagoon,False
+520,Gluttony,linoone,False
+521,Gluttony,gulpin,True
+522,Gluttony,swalot,True
+523,Gluttony,spoink,True
+524,Gluttony,grumpig,True
+525,Gluttony,munchlax,True
+526,Gluttony,pansage,False
+527,Gluttony,simisage,False
+528,Gluttony,pansear,False
+529,Gluttony,simisear,False
+530,Gluttony,panpour,False
+531,Gluttony,simipour,False
+532,Gluttony,heatmor,False
+533,Gluttony,skwovet,True
+534,Gluttony,greedent,True
+535,Gluttony,applin,False
+536,Gluttony,flapple,False
+537,Gluttony,appletun,False
+538,Gluttony,rattata-alola,False
+539,Gluttony,raticate-alola,False
+540,Gluttony,raticate-totem-alola,False
+541,Gluttony,grimer-alola,False
+542,Gluttony,muk-alola,False
+543,Gluttony,slowpoke-galar,False
+544,Gluttony,zigzagoon-galar,False
+545,Gluttony,linoone-galar,False
+546,Gluttony,snorlax-gmax,True
+547,Gluttony,flapple-gmax,False
+548,Gluttony,appletun-gmax,False
+549,Gooey,goomy,True
+550,Gooey,sliggoo,True
+551,Gooey,goodra,True
+552,Gorilla Tactics,darmanitan-galar-standard,False
+553,Gorilla Tactics,darmanitan-galar-zen,False
+554,Grass Pelt,skiddo,True
+555,Grass Pelt,gogoat,True
+556,Grassy Surge,tapu-bulu,False
+557,Grassy Surge,grookey,True
+558,Grassy Surge,thwackey,True
+559,Grassy Surge,rillaboom,True
+560,Grassy Surge,rillaboom-gmax,True
+561,Grim Neigh,spectrier,False
+562,Gulp Missile,cramorant,False
+563,Gulp Missile,cramorant-gulping,False
+564,Gulp Missile,cramorant-gorging,False
+565,Guts,rattata,False
+566,Guts,raticate,False
+567,Guts,machop,False
+568,Guts,machoke,False
+569,Guts,machamp,False
+570,Guts,flareon,True
+571,Guts,heracross,False
+572,Guts,ursaring,False
+573,Guts,tyrogue,False
+574,Guts,larvitar,False
+575,Guts,taillow,False
+576,Guts,swellow,False
+577,Guts,makuhita,False
+578,Guts,hariyama,False
+579,Guts,shinx,True
+580,Guts,luxio,True
+581,Guts,luxray,True
+582,Guts,timburr,False
+583,Guts,gurdurr,False
+584,Guts,conkeldurr,False
+585,Guts,throh,False
+586,Guts,obstagoon,False
+587,Guts,machamp-gmax,False
+588,Harvest,exeggcute,True
+589,Harvest,exeggutor,True
+590,Harvest,tropius,True
+591,Harvest,phantump,True
+592,Harvest,trevenant,True
+593,Harvest,exeggutor-alola,True
+594,Healer,chansey,True
+595,Healer,bellossom,True
+596,Healer,blissey,True
+597,Healer,audino,False
+598,Healer,alomomola,False
+599,Healer,spritzee,False
+600,Healer,aromatisse,False
+601,Healer,hatenna,False
+602,Healer,hattrem,False
+603,Healer,hatterene,False
+604,Healer,audino-mega,False
+605,Healer,hatterene-gmax,False
+606,Heatproof,bronzor,False
+607,Heatproof,bronzong,False
+608,Heatproof,rolycoly,False
+609,Heavy Metal,aron,True
+610,Heavy Metal,lairon,True
+611,Heavy Metal,aggron,True
+612,Heavy Metal,bronzor,True
+613,Heavy Metal,bronzong,True
+614,Heavy Metal,cufant,True
+615,Heavy Metal,copperajah,True
+616,Heavy Metal,duraludon,False
+617,Heavy Metal,copperajah-gmax,True
+618,Heavy Metal,duraludon-gmax,False
+619,Honey Gather,teddiursa,True
+620,Honey Gather,combee,False
+621,Honey Gather,cutiefly,False
+622,Honey Gather,ribombee,False
+623,Honey Gather,ribombee-totem,False
+624,Huge Power,marill,False
+625,Huge Power,azumarill,False
+626,Huge Power,azurill,False
+627,Huge Power,bunnelby,True
+628,Huge Power,diggersby,True
+629,Huge Power,mawile-mega,False
+630,Hunger Switch,morpeko-full-belly,False
+631,Hunger Switch,morpeko-hangry,False
+632,Hustle,rattata,True
+633,Hustle,raticate,True
+634,Hustle,nidoran-f,True
+635,Hustle,nidorina,True
+636,Hustle,nidoran-m,True
+637,Hustle,nidorino,True
+638,Hustle,togepi,False
+639,Hustle,togetic,False
+640,Hustle,corsola,False
+641,Hustle,remoraid,False
+642,Hustle,delibird,False
+643,Hustle,combee,True
+644,Hustle,togekiss,False
+645,Hustle,darumaka,False
+646,Hustle,rufflet,True
+647,Hustle,durant,False
+648,Hustle,deino,False
+649,Hustle,zweilous,False
+650,Hustle,flapple,True
+651,Hustle,dracozolt,False
+652,Hustle,rattata-alola,False
+653,Hustle,raticate-alola,False
+654,Hustle,raticate-totem-alola,False
+655,Hustle,darumaka-galar,False
+656,Hustle,flapple-gmax,True
+657,Hydration,seel,False
+658,Hydration,dewgong,False
+659,Hydration,lapras,True
+660,Hydration,vaporeon,True
+661,Hydration,smoochum,True
+662,Hydration,wingull,False
+663,Hydration,barboach,True
+664,Hydration,whiscash,True
+665,Hydration,gorebyss,True
+666,Hydration,luvdisc,True
+667,Hydration,phione,False
+668,Hydration,manaphy,False
+669,Hydration,tympole,False
+670,Hydration,palpitoad,False
+671,Hydration,ducklett,True
+672,Hydration,swanna,True
+673,Hydration,alomomola,False
+674,Hydration,shelmet,False
+675,Hydration,accelgor,False
+676,Hydration,goomy,False
+677,Hydration,sliggoo,False
+678,Hydration,goodra,False
+679,Hydration,lapras-gmax,True
+680,Hyper Cutter,krabby,False
+681,Hyper Cutter,kingler,False
+682,Hyper Cutter,pinsir,False
+683,Hyper Cutter,gligar,False
+684,Hyper Cutter,mawile,False
+685,Hyper Cutter,trapinch,False
+686,Hyper Cutter,corphish,False
+687,Hyper Cutter,crawdaunt,False
+688,Hyper Cutter,gliscor,False
+689,Hyper Cutter,crabrawler,False
+690,Hyper Cutter,crabominable,False
+691,Hyper Cutter,kingler-gmax,False
+692,Ice Body,seel,True
+693,Ice Body,dewgong,True
+694,Ice Body,snorunt,False
+695,Ice Body,glalie,False
+696,Ice Body,spheal,False
+697,Ice Body,sealeo,False
+698,Ice Body,walrein,False
+699,Ice Body,regice,True
+700,Ice Body,glaceon,True
+701,Ice Body,vanillite,False
+702,Ice Body,vanillish,False
+703,Ice Body,vanilluxe,False
+704,Ice Body,bergmite,False
+705,Ice Body,avalugg,False
+706,Ice Body,mr-rime,True
+707,Ice Body,arctovish,False
+708,Ice Body,mr-mime-galar,True
+709,Ice Face,eiscue-ice,False
+710,Ice Face,eiscue-noice,False
+711,Ice Scales,snom,True
+712,Ice Scales,frosmoth,True
+713,Illuminate,staryu,False
+714,Illuminate,starmie,False
+715,Illuminate,chinchou,False
+716,Illuminate,lanturn,False
+717,Illuminate,volbeat,False
+718,Illuminate,watchog,False
+719,Illuminate,morelull,False
+720,Illuminate,shiinotic,False
+721,Illusion,zorua,False
+722,Illusion,zoroark,False
+723,Immunity,snorlax,False
+724,Immunity,gligar,True
+725,Immunity,zangoose,False
+726,Immunity,snorlax-gmax,False
+727,Imposter,ditto,True
+728,Infiltrator,zubat,True
+729,Infiltrator,golbat,True
+730,Infiltrator,crobat,True
+731,Infiltrator,hoppip,True
+732,Infiltrator,skiploom,True
+733,Infiltrator,jumpluff,True
+734,Infiltrator,ninjask,True
+735,Infiltrator,seviper,True
+736,Infiltrator,spiritomb,True
+737,Infiltrator,cottonee,False
+738,Infiltrator,whimsicott,False
+739,Infiltrator,litwick,True
+740,Infiltrator,lampent,True
+741,Infiltrator,chandelure,True
+742,Infiltrator,espurr,False
+743,Infiltrator,meowstic-male,False
+744,Infiltrator,inkay,True
+745,Infiltrator,malamar,True
+746,Infiltrator,noibat,False
+747,Infiltrator,noivern,False
+748,Infiltrator,dreepy,False
+749,Infiltrator,drakloak,False
+750,Infiltrator,dragapult,False
+751,Infiltrator,meowstic-female,False
+752,Innards Out,pyukumuku,False
+753,Inner Focus,zubat,False
+754,Inner Focus,golbat,False
+755,Inner Focus,abra,False
+756,Inner Focus,kadabra,False
+757,Inner Focus,alakazam,False
+758,Inner Focus,farfetchd,False
+759,Inner Focus,drowzee,True
+760,Inner Focus,hypno,True
+761,Inner Focus,hitmonchan,True
+762,Inner Focus,kangaskhan,True
+763,Inner Focus,dragonite,False
+764,Inner Focus,crobat,False
+765,Inner Focus,umbreon,True
+766,Inner Focus,girafarig,False
+767,Inner Focus,sneasel,False
+768,Inner Focus,raikou,True
+769,Inner Focus,entei,True
+770,Inner Focus,suicune,True
+771,Inner Focus,snorunt,False
+772,Inner Focus,glalie,False
+773,Inner Focus,riolu,False
+774,Inner Focus,lucario,False
+775,Inner Focus,throh,False
+776,Inner Focus,sawk,False
+777,Inner Focus,darumaka,True
+778,Inner Focus,mienfoo,False
+779,Inner Focus,mienshao,False
+780,Inner Focus,pawniard,False
+781,Inner Focus,bisharp,False
+782,Inner Focus,mudbray,True
+783,Inner Focus,mudsdale,True
+784,Inner Focus,oranguru,False
+785,Inner Focus,indeedee-male,False
+786,Inner Focus,kubfu,False
+787,Inner Focus,gallade-mega,False
+788,Inner Focus,darumaka-galar,True
+789,Insomnia,drowzee,False
+790,Insomnia,hypno,False
+791,Insomnia,hoothoot,False
+792,Insomnia,noctowl,False
+793,Insomnia,spinarak,False
+794,Insomnia,ariados,False
+795,Insomnia,murkrow,False
+796,Insomnia,delibird,True
+797,Insomnia,shuppet,False
+798,Insomnia,banette,False
+799,Insomnia,honchkrow,False
+800,Insomnia,pumpkaboo-average,True
+801,Insomnia,gourgeist-average,True
+802,Insomnia,pumpkaboo-small,True
+803,Insomnia,pumpkaboo-large,True
+804,Insomnia,pumpkaboo-super,True
+805,Insomnia,gourgeist-small,True
+806,Insomnia,gourgeist-large,True
+807,Insomnia,gourgeist-super,True
+808,Insomnia,mewtwo-mega-y,False
+809,Intimidate,ekans,False
+810,Intimidate,arbok,False
+811,Intimidate,growlithe,False
+812,Intimidate,arcanine,False
+813,Intimidate,tauros,False
+814,Intimidate,gyarados,False
+815,Intimidate,snubbull,False
+816,Intimidate,granbull,False
+817,Intimidate,qwilfish,True
+818,Intimidate,stantler,False
+819,Intimidate,hitmontop,False
+820,Intimidate,mightyena,False
+821,Intimidate,masquerain,False
+822,Intimidate,mawile,False
+823,Intimidate,salamence,False
+824,Intimidate,staravia,False
+825,Intimidate,staraptor,False
+826,Intimidate,shinx,False
+827,Intimidate,luxio,False
+828,Intimidate,luxray,False
+829,Intimidate,herdier,False
+830,Intimidate,stoutland,False
+831,Intimidate,sandile,False
+832,Intimidate,krokorok,False
+833,Intimidate,krookodile,False
+834,Intimidate,scraggy,True
+835,Intimidate,scrafty,True
+836,Intimidate,litten,True
+837,Intimidate,torracat,True
+838,Intimidate,incineroar,True
+839,Intimidate,landorus-therian,False
+840,Intimidate,manectric-mega,False
+841,Intrepid Sword,zacian,False
+842,Intrepid Sword,zacian-crowned,False
+843,Iron Barbs,ferroseed,False
+844,Iron Barbs,ferrothorn,False
+845,Iron Barbs,togedemaru,False
+846,Iron Barbs,togedemaru-totem,False
+847,Iron Fist,hitmonchan,False
+848,Iron Fist,ledian,True
+849,Iron Fist,chimchar,True
+850,Iron Fist,monferno,True
+851,Iron Fist,infernape,True
+852,Iron Fist,timburr,True
+853,Iron Fist,gurdurr,True
+854,Iron Fist,conkeldurr,True
+855,Iron Fist,golett,False
+856,Iron Fist,golurk,False
+857,Iron Fist,pancham,False
+858,Iron Fist,pangoro,False
+859,Iron Fist,crabrawler,False
+860,Iron Fist,crabominable,False
+861,Iron Fist,melmetal,False
+862,Iron Fist,melmetal-gmax,False
+863,Justified,growlithe,True
+864,Justified,arcanine,True
+865,Justified,absol,True
+866,Justified,lucario,True
+867,Justified,gallade,True
+868,Justified,cobalion,False
+869,Justified,terrakion,False
+870,Justified,virizion,False
+871,Justified,keldeo-ordinary,False
+872,Justified,keldeo-resolute,False
+873,Keen Eye,pidgey,False
+874,Keen Eye,pidgeotto,False
+875,Keen Eye,pidgeot,False
+876,Keen Eye,spearow,False
+877,Keen Eye,fearow,False
+878,Keen Eye,farfetchd,False
+879,Keen Eye,hitmonchan,False
+880,Keen Eye,sentret,False
+881,Keen Eye,furret,False
+882,Keen Eye,hoothoot,False
+883,Keen Eye,noctowl,False
+884,Keen Eye,sneasel,False
+885,Keen Eye,skarmory,False
+886,Keen Eye,wingull,False
+887,Keen Eye,pelipper,False
+888,Keen Eye,sableye,False
+889,Keen Eye,starly,False
+890,Keen Eye,glameow,True
+891,Keen Eye,stunky,True
+892,Keen Eye,skuntank,True
+893,Keen Eye,chatot,False
+894,Keen Eye,skorupi,True
+895,Keen Eye,drapion,True
+896,Keen Eye,patrat,False
+897,Keen Eye,watchog,False
+898,Keen Eye,ducklett,False
+899,Keen Eye,swanna,False
+900,Keen Eye,rufflet,False
+901,Keen Eye,braviary,False
+902,Keen Eye,espurr,False
+903,Keen Eye,meowstic-male,False
+904,Keen Eye,pikipek,False
+905,Keen Eye,trumbeak,False
+906,Keen Eye,toucannon,False
+907,Keen Eye,rockruff,False
+908,Keen Eye,lycanroc-midday,False
+909,Keen Eye,rookidee,False
+910,Keen Eye,corvisquire,False
+911,Keen Eye,meowstic-female,False
+912,Keen Eye,lycanroc-midnight,False
+913,Klutz,buneary,False
+914,Klutz,lopunny,False
+915,Klutz,woobat,False
+916,Klutz,swoobat,False
+917,Klutz,audino,True
+918,Klutz,golett,False
+919,Klutz,golurk,False
+920,Klutz,stufful,False
+921,Klutz,bewear,False
+922,Klutz,toxel,True
+923,Leaf Guard,tangela,False
+924,Leaf Guard,chikorita,True
+925,Leaf Guard,bayleef,True
+926,Leaf Guard,meganium,True
+927,Leaf Guard,hoppip,False
+928,Leaf Guard,skiploom,False
+929,Leaf Guard,jumpluff,False
+930,Leaf Guard,roselia,True
+931,Leaf Guard,budew,True
+932,Leaf Guard,tangrowth,False
+933,Leaf Guard,leafeon,False
+934,Leaf Guard,swadloon,False
+935,Leaf Guard,petilil,True
+936,Leaf Guard,lilligant,True
+937,Leaf Guard,fomantis,False
+938,Leaf Guard,lurantis,False
+939,Leaf Guard,bounsweet,False
+940,Leaf Guard,steenee,False
+941,Leaf Guard,tsareena,False
+942,Leaf Guard,zarude,False
+943,Leaf Guard,lurantis-totem,False
+944,Leaf Guard,zarude-dada,False
+945,Levitate,gastly,False
+946,Levitate,haunter,False
+947,Levitate,koffing,False
+948,Levitate,weezing,False
+949,Levitate,misdreavus,False
+950,Levitate,unown,False
+951,Levitate,vibrava,False
+952,Levitate,flygon,False
+953,Levitate,lunatone,False
+954,Levitate,solrock,False
+955,Levitate,baltoy,False
+956,Levitate,claydol,False
+957,Levitate,duskull,False
+958,Levitate,chimecho,False
+959,Levitate,latias,False
+960,Levitate,latios,False
+961,Levitate,mismagius,False
+962,Levitate,chingling,False
+963,Levitate,bronzor,False
+964,Levitate,bronzong,False
+965,Levitate,carnivine,False
+966,Levitate,rotom,False
+967,Levitate,uxie,False
+968,Levitate,mesprit,False
+969,Levitate,azelf,False
+970,Levitate,cresselia,False
+971,Levitate,tynamo,False
+972,Levitate,eelektrik,False
+973,Levitate,eelektross,False
+974,Levitate,cryogonal,False
+975,Levitate,hydreigon,False
+976,Levitate,vikavolt,False
+977,Levitate,giratina-origin,False
+978,Levitate,rotom-heat,False
+979,Levitate,rotom-wash,False
+980,Levitate,rotom-frost,False
+981,Levitate,rotom-fan,False
+982,Levitate,rotom-mow,False
+983,Levitate,latias-mega,False
+984,Levitate,latios-mega,False
+985,Levitate,vikavolt-totem,False
+986,Levitate,weezing-galar,False
+987,Libero,scorbunny,True
+988,Libero,raboot,True
+989,Libero,cinderace,True
+990,Libero,cinderace-gmax,True
+991,Light Metal,scizor,True
+992,Light Metal,beldum,True
+993,Light Metal,metang,True
+994,Light Metal,metagross,True
+995,Light Metal,registeel,True
+996,Light Metal,duraludon,False
+997,Light Metal,duraludon-gmax,False
+998,Lightning Rod,pikachu,True
+999,Lightning Rod,raichu,True
+1000,Lightning Rod,cubone,False
+1001,Lightning Rod,marowak,False
+1002,Lightning Rod,rhyhorn,False
+1003,Lightning Rod,rhydon,False
+1004,Lightning Rod,goldeen,True
+1005,Lightning Rod,seaking,True
+1006,Lightning Rod,pichu,True
+1007,Lightning Rod,electrike,False
+1008,Lightning Rod,manectric,False
+1009,Lightning Rod,plusle,True
+1010,Lightning Rod,rhyperior,False
+1011,Lightning Rod,blitzle,False
+1012,Lightning Rod,zebstrika,False
+1013,Lightning Rod,togedemaru,False
+1014,Lightning Rod,pincurchin,False
+1015,Lightning Rod,sceptile-mega,False
+1016,Lightning Rod,pikachu-rock-star,True
+1017,Lightning Rod,pikachu-belle,True
+1018,Lightning Rod,pikachu-pop-star,True
+1019,Lightning Rod,pikachu-phd,True
+1020,Lightning Rod,pikachu-libre,True
+1021,Lightning Rod,pikachu-cosplay,True
+1022,Lightning Rod,pikachu-original-cap,True
+1023,Lightning Rod,pikachu-hoenn-cap,True
+1024,Lightning Rod,pikachu-sinnoh-cap,True
+1025,Lightning Rod,pikachu-unova-cap,True
+1026,Lightning Rod,pikachu-kalos-cap,True
+1027,Lightning Rod,pikachu-alola-cap,True
+1028,Lightning Rod,marowak-alola,False
+1029,Lightning Rod,pikachu-partner-cap,True
+1030,Lightning Rod,marowak-totem,False
+1031,Lightning Rod,togedemaru-totem,False
+1032,Lightning Rod,pikachu-starter,True
+1033,Lightning Rod,pikachu-world-cap,True
+1034,Lightning Rod,pikachu-gmax,True
+1035,Limber,persian,False
+1036,Limber,hitmonlee,False
+1037,Limber,ditto,False
+1038,Limber,buneary,True
+1039,Limber,lopunny,True
+1040,Limber,glameow,False
+1041,Limber,purrloin,False
+1042,Limber,liepard,False
+1043,Limber,stunfisk,False
+1044,Limber,hawlucha,False
+1045,Limber,mareanie,False
+1046,Limber,toxapex,False
+1047,Limber,clobbopus,False
+1048,Limber,grapploct,False
+1049,Liquid Ooze,tentacool,False
+1050,Liquid Ooze,tentacruel,False
+1051,Liquid Ooze,gulpin,False
+1052,Liquid Ooze,swalot,False
+1053,Liquid Voice,popplio,True
+1054,Liquid Voice,brionne,True
+1055,Liquid Voice,primarina,True
+1056,Long Reach,rowlet,True
+1057,Long Reach,dartrix,True
+1058,Long Reach,decidueye,True
+1059,Magic Bounce,natu,True
+1060,Magic Bounce,xatu,True
+1061,Magic Bounce,espeon,True
+1062,Magic Bounce,hatenna,True
+1063,Magic Bounce,hattrem,True
+1064,Magic Bounce,hatterene,True
+1065,Magic Bounce,absol-mega,False
+1066,Magic Bounce,sableye-mega,False
+1067,Magic Bounce,diancie-mega,False
+1068,Magic Bounce,hatterene-gmax,True
+1069,Magic Guard,clefairy,False
+1070,Magic Guard,clefable,False
+1071,Magic Guard,abra,True
+1072,Magic Guard,kadabra,True
+1073,Magic Guard,alakazam,True
+1074,Magic Guard,cleffa,False
+1075,Magic Guard,sigilyph,False
+1076,Magic Guard,solosis,False
+1077,Magic Guard,duosion,False
+1078,Magic Guard,reuniclus,False
+1079,Magician,fennekin,True
+1080,Magician,braixen,True
+1081,Magician,delphox,True
+1082,Magician,klefki,True
+1083,Magician,hoopa,False
+1084,Magician,hoopa-unbound,False
+1085,Magma Armor,slugma,False
+1086,Magma Armor,magcargo,False
+1087,Magma Armor,camerupt,False
+1088,Magnet Pull,magnemite,False
+1089,Magnet Pull,magneton,False
+1090,Magnet Pull,nosepass,False
+1091,Magnet Pull,magnezone,False
+1092,Magnet Pull,probopass,False
+1093,Magnet Pull,meltan,False
+1094,Magnet Pull,geodude-alola,False
+1095,Magnet Pull,graveler-alola,False
+1096,Magnet Pull,golem-alola,False
+1097,Marvel Scale,dratini,True
+1098,Marvel Scale,dragonair,True
+1099,Marvel Scale,milotic,False
+1100,Mega Launcher,clauncher,False
+1101,Mega Launcher,clawitzer,False
+1102,Mega Launcher,blastoise-mega,False
+1103,Merciless,mareanie,False
+1104,Merciless,toxapex,False
+1105,Mimicry,stunfisk-galar,False
+1106,Minus,electrike,True
+1107,Minus,manectric,True
+1108,Minus,minun,False
+1109,Minus,klink,False
+1110,Minus,klang,False
+1111,Minus,klinklang,False
+1112,Minus,toxtricity-low-key,False
+1113,Minus,toxtricity-low-key-gmax,False
+1114,Mirror Armor,corviknight,True
+1115,Mirror Armor,corviknight-gmax,True
+1116,Misty Surge,tapu-fini,False
+1117,Misty Surge,weezing-galar,True
+1118,Mold Breaker,pinsir,False
+1119,Mold Breaker,cranidos,False
+1120,Mold Breaker,rampardos,False
+1121,Mold Breaker,drilbur,True
+1122,Mold Breaker,excadrill,True
+1123,Mold Breaker,throh,True
+1124,Mold Breaker,sawk,True
+1125,Mold Breaker,basculin-red-striped,True
+1126,Mold Breaker,axew,False
+1127,Mold Breaker,fraxure,False
+1128,Mold Breaker,haxorus,False
+1129,Mold Breaker,druddigon,True
+1130,Mold Breaker,pancham,False
+1131,Mold Breaker,pangoro,False
+1132,Mold Breaker,hawlucha,True
+1133,Mold Breaker,basculin-blue-striped,True
+1134,Mold Breaker,gyarados-mega,False
+1135,Mold Breaker,ampharos-mega,False
+1136,Moody,remoraid,True
+1137,Moody,octillery,True
+1138,Moody,smeargle,True
+1139,Moody,snorunt,True
+1140,Moody,glalie,True
+1141,Moody,bidoof,True
+1142,Moody,bibarel,True
+1143,Motor Drive,electivire,False
+1144,Motor Drive,blitzle,False
+1145,Motor Drive,zebstrika,False
+1146,Motor Drive,emolga,True
+1147,Moxie,pinsir,True
+1148,Moxie,gyarados,True
+1149,Moxie,heracross,True
+1150,Moxie,mightyena,True
+1151,Moxie,salamence,True
+1152,Moxie,honchkrow,True
+1153,Moxie,sandile,False
+1154,Moxie,krokorok,False
+1155,Moxie,krookodile,False
+1156,Moxie,scraggy,False
+1157,Moxie,scrafty,False
+1158,Moxie,litleo,True
+1159,Moxie,pyroar,True
+1160,Multiscale,dragonite,True
+1161,Multiscale,lugia,True
+1162,Multitype,arceus,False
+1163,Mummy,yamask,False
+1164,Mummy,cofagrigus,False
+1165,Natural Cure,chansey,False
+1166,Natural Cure,staryu,False
+1167,Natural Cure,starmie,False
+1168,Natural Cure,corsola,False
+1169,Natural Cure,blissey,False
+1170,Natural Cure,celebi,False
+1171,Natural Cure,roselia,False
+1172,Natural Cure,swablu,False
+1173,Natural Cure,altaria,False
+1174,Natural Cure,budew,False
+1175,Natural Cure,roserade,False
+1176,Natural Cure,happiny,False
+1177,Natural Cure,shaymin-land,False
+1178,Natural Cure,phantump,False
+1179,Natural Cure,trevenant,False
+1180,Natural Cure,comfey,True
+1181,Neuroforce,necrozma-ultra,False
+1182,Neutralizing Gas,koffing,False
+1183,Neutralizing Gas,weezing,False
+1184,Neutralizing Gas,weezing-galar,False
+1185,No Guard,machop,False
+1186,No Guard,machoke,False
+1187,No Guard,machamp,False
+1188,No Guard,karrablast,True
+1189,No Guard,golett,True
+1190,No Guard,golurk,True
+1191,No Guard,honedge,False
+1192,No Guard,doublade,False
+1193,No Guard,pidgeot-mega,False
+1194,No Guard,lycanroc-midnight,True
+1195,No Guard,machamp-gmax,False
+1196,Normalize,skitty,False
+1197,Normalize,delcatty,False
+1198,Oblivious,slowpoke,False
+1199,Oblivious,slowbro,False
+1200,Oblivious,lickitung,False
+1201,Oblivious,jynx,False
+1202,Oblivious,slowking,False
+1203,Oblivious,swinub,False
+1204,Oblivious,piloswine,False
+1205,Oblivious,smoochum,False
+1206,Oblivious,illumise,False
+1207,Oblivious,wailmer,False
+1208,Oblivious,wailord,False
+1209,Oblivious,numel,False
+1210,Oblivious,barboach,False
+1211,Oblivious,whiscash,False
+1212,Oblivious,feebas,False
+1213,Oblivious,spheal,True
+1214,Oblivious,sealeo,True
+1215,Oblivious,walrein,True
+1216,Oblivious,lickilicky,False
+1217,Oblivious,mamoswine,False
+1218,Oblivious,salandit,True
+1219,Oblivious,salazzle,True
+1220,Oblivious,bounsweet,False
+1221,Oblivious,steenee,False
+1222,Oblivious,salazzle-totem,True
+1223,Overcoat,shellder,True
+1224,Overcoat,cloyster,True
+1225,Overcoat,pineco,True
+1226,Overcoat,forretress,True
+1227,Overcoat,shelgon,True
+1228,Overcoat,burmy,True
+1229,Overcoat,wormadam-plant,True
+1230,Overcoat,sewaddle,True
+1231,Overcoat,swadloon,True
+1232,Overcoat,leavanny,True
+1233,Overcoat,solosis,False
+1234,Overcoat,duosion,False
+1235,Overcoat,reuniclus,False
+1236,Overcoat,escavalier,True
+1237,Overcoat,shelmet,True
+1238,Overcoat,vullaby,False
+1239,Overcoat,mandibuzz,False
+1240,Overcoat,jangmo-o,True
+1241,Overcoat,hakamo-o,True
+1242,Overcoat,kommo-o,True
+1243,Overcoat,wormadam-sandy,True
+1244,Overcoat,wormadam-trash,True
+1245,Overcoat,kommo-o-totem,True
+1246,Overgrow,bulbasaur,False
+1247,Overgrow,ivysaur,False
+1248,Overgrow,venusaur,False
+1249,Overgrow,chikorita,False
+1250,Overgrow,bayleef,False
+1251,Overgrow,meganium,False
+1252,Overgrow,treecko,False
+1253,Overgrow,grovyle,False
+1254,Overgrow,sceptile,False
+1255,Overgrow,turtwig,False
+1256,Overgrow,grotle,False
+1257,Overgrow,torterra,False
+1258,Overgrow,snivy,False
+1259,Overgrow,servine,False
+1260,Overgrow,serperior,False
+1261,Overgrow,pansage,True
+1262,Overgrow,simisage,True
+1263,Overgrow,chespin,False
+1264,Overgrow,quilladin,False
+1265,Overgrow,chesnaught,False
+1266,Overgrow,rowlet,False
+1267,Overgrow,dartrix,False
+1268,Overgrow,decidueye,False
+1269,Overgrow,grookey,False
+1270,Overgrow,thwackey,False
+1271,Overgrow,rillaboom,False
+1272,Overgrow,venusaur-gmax,False
+1273,Overgrow,rillaboom-gmax,False
+1274,Own Tempo,slowpoke,False
+1275,Own Tempo,slowbro,False
+1276,Own Tempo,lickitung,False
+1277,Own Tempo,slowking,False
+1278,Own Tempo,smeargle,False
+1279,Own Tempo,lotad,True
+1280,Own Tempo,lombre,True
+1281,Own Tempo,ludicolo,True
+1282,Own Tempo,numel,True
+1283,Own Tempo,spoink,False
+1284,Own Tempo,grumpig,False
+1285,Own Tempo,spinda,False
+1286,Own Tempo,glameow,False
+1287,Own Tempo,purugly,False
+1288,Own Tempo,lickilicky,False
+1289,Own Tempo,petilil,False
+1290,Own Tempo,lilligant,False
+1291,Own Tempo,espurr,True
+1292,Own Tempo,bergmite,False
+1293,Own Tempo,avalugg,False
+1294,Own Tempo,mudbray,False
+1295,Own Tempo,mudsdale,False
+1296,Own Tempo,rockruff-own-tempo,False
+1297,Own Tempo,slowpoke-galar,False
+1298,Own Tempo,slowbro-galar,False
+1299,Own Tempo,slowking-galar,False
+1300,Own Tempo,indeedee-female,False
+1301,Parental Bond,kangaskhan-mega,False
+1302,Pastel Veil,ponyta-galar,False
+1303,Pastel Veil,rapidash-galar,False
+1304,Perish Body,cursola,True
+1305,Pickpocket,sneasel,True
+1306,Pickpocket,seedot,True
+1307,Pickpocket,nuzleaf,True
+1308,Pickpocket,shiftry,True
+1309,Pickpocket,weavile,True
+1310,Pickpocket,binacle,True
+1311,Pickpocket,barbaracle,True
+1312,Pickpocket,impidimp,True
+1313,Pickpocket,morgrem,True
+1314,Pickpocket,grimmsnarl,True
+1315,Pickpocket,grimmsnarl-gmax,True
+1316,Pickup,meowth,False
+1317,Pickup,aipom,False
+1318,Pickup,teddiursa,False
+1319,Pickup,phanpy,False
+1320,Pickup,zigzagoon,False
+1321,Pickup,linoone,False
+1322,Pickup,pachirisu,False
+1323,Pickup,ambipom,False
+1324,Pickup,munchlax,False
+1325,Pickup,lillipup,False
+1326,Pickup,bunnelby,False
+1327,Pickup,diggersby,False
+1328,Pickup,dedenne,False
+1329,Pickup,pumpkaboo-average,False
+1330,Pickup,gourgeist-average,False
+1331,Pickup,pikipek,True
+1332,Pickup,trumbeak,True
+1333,Pickup,pumpkaboo-small,False
+1334,Pickup,pumpkaboo-large,False
+1335,Pickup,pumpkaboo-super,False
+1336,Pickup,gourgeist-small,False
+1337,Pickup,gourgeist-large,False
+1338,Pickup,gourgeist-super,False
+1339,Pickup,meowth-alola,False
+1340,Pickup,meowth-galar,False
+1341,Pickup,zigzagoon-galar,False
+1342,Pickup,linoone-galar,False
+1343,Pickup,meowth-gmax,False
+1344,Pixilate,sylveon,True
+1345,Pixilate,gardevoir-mega,False
+1346,Pixilate,altaria-mega,False
+1347,Plus,mareep,True
+1348,Plus,flaaffy,True
+1349,Plus,ampharos,True
+1350,Plus,plusle,False
+1351,Plus,klink,False
+1352,Plus,klang,False
+1353,Plus,klinklang,False
+1354,Plus,dedenne,True
+1355,Plus,toxtricity-amped,False
+1356,Plus,toxtricity-amped-gmax,False
+1357,Poison Heal,shroomish,False
+1358,Poison Heal,breloom,False
+1359,Poison Heal,gliscor,True
+1360,Poison Point,nidoran-f,False
+1361,Poison Point,nidorina,False
+1362,Poison Point,nidoqueen,False
+1363,Poison Point,nidoran-m,False
+1364,Poison Point,nidorino,False
+1365,Poison Point,nidoking,False
+1366,Poison Point,seadra,False
+1367,Poison Point,qwilfish,False
+1368,Poison Point,roselia,False
+1369,Poison Point,budew,False
+1370,Poison Point,roserade,False
+1371,Poison Point,venipede,False
+1372,Poison Point,whirlipede,False
+1373,Poison Point,scolipede,False
+1374,Poison Point,skrelp,False
+1375,Poison Point,dragalge,False
+1376,Poison Touch,grimer,True
+1377,Poison Touch,muk,True
+1378,Poison Touch,croagunk,True
+1379,Poison Touch,toxicroak,True
+1380,Poison Touch,seismitoad,False
+1381,Poison Touch,skrelp,False
+1382,Poison Touch,dragalge,False
+1383,Poison Touch,grimer-alola,False
+1384,Poison Touch,muk-alola,False
+1385,Power Construct,zygarde-10-power-construct,False
+1386,Power Construct,zygarde-50-power-construct,False
+1387,Power Construct,zygarde-complete,False
+1388,Power Of Alchemy,grimer-alola,True
+1389,Power Of Alchemy,muk-alola,True
+1390,Power Spot,stonjourner,False
+1391,Prankster,murkrow,True
+1392,Prankster,sableye,True
+1393,Prankster,volbeat,True
+1394,Prankster,illumise,True
+1395,Prankster,riolu,True
+1396,Prankster,purrloin,True
+1397,Prankster,liepard,True
+1398,Prankster,cottonee,False
+1399,Prankster,whimsicott,False
+1400,Prankster,tornadus-incarnate,False
+1401,Prankster,thundurus-incarnate,False
+1402,Prankster,meowstic-male,True
+1403,Prankster,klefki,False
+1404,Prankster,impidimp,False
+1405,Prankster,morgrem,False
+1406,Prankster,grimmsnarl,False
+1407,Prankster,banette-mega,False
+1408,Prankster,grimmsnarl-gmax,False
+1409,Pressure,aerodactyl,False
+1410,Pressure,articuno,False
+1411,Pressure,zapdos,False
+1412,Pressure,moltres,False
+1413,Pressure,mewtwo,False
+1414,Pressure,raikou,False
+1415,Pressure,entei,False
+1416,Pressure,suicune,False
+1417,Pressure,lugia,False
+1418,Pressure,ho-oh,False
+1419,Pressure,wailmer,True
+1420,Pressure,wailord,True
+1421,Pressure,dusclops,False
+1422,Pressure,absol,False
+1423,Pressure,deoxys-normal,False
+1424,Pressure,vespiquen,False
+1425,Pressure,spiritomb,False
+1426,Pressure,weavile,False
+1427,Pressure,dusknoir,False
+1428,Pressure,dialga,False
+1429,Pressure,palkia,False
+1430,Pressure,giratina-altered,False
+1431,Pressure,pawniard,True
+1432,Pressure,bisharp,True
+1433,Pressure,kyurem,False
+1434,Pressure,corviknight,False
+1435,Pressure,eternatus,False
+1436,Pressure,deoxys-attack,False
+1437,Pressure,deoxys-defense,False
+1438,Pressure,deoxys-speed,False
+1439,Pressure,eternatus-eternamax,False
+1440,Pressure,corviknight-gmax,False
+1441,Primordial Sea,kyogre-primal,False
+1442,Prism Armor,necrozma,False
+1443,Prism Armor,necrozma-dusk,False
+1444,Prism Armor,necrozma-dawn,False
+1445,Propeller Tail,arrokuda,True
+1446,Propeller Tail,barraskewda,True
+1447,Protean,kecleon,True
+1448,Protean,froakie,True
+1449,Protean,frogadier,True
+1450,Protean,greninja,True
+1451,Psychic Surge,tapu-lele,False
+1452,Psychic Surge,indeedee-male,True
+1453,Psychic Surge,indeedee-female,True
+1454,Punk Rock,toxtricity-amped,False
+1455,Punk Rock,toxtricity-low-key,False
+1456,Punk Rock,toxtricity-amped-gmax,False
+1457,Punk Rock,toxtricity-low-key-gmax,False
+1458,Pure Power,meditite,False
+1459,Pure Power,medicham,False
+1460,Pure Power,medicham-mega,False
+1461,Queenly Majesty,tsareena,False
+1462,Quick Draw,slowbro-galar,False
+1463,Quick Feet,jolteon,True
+1464,Quick Feet,granbull,False
+1465,Quick Feet,teddiursa,False
+1466,Quick Feet,ursaring,False
+1467,Quick Feet,poochyena,False
+1468,Quick Feet,mightyena,False
+1469,Quick Feet,zigzagoon,True
+1470,Quick Feet,linoone,True
+1471,Quick Feet,shroomish,True
+1472,Quick Feet,zigzagoon-galar,True
+1473,Quick Feet,linoone-galar,True
+1474,Rain Dish,squirtle,True
+1475,Rain Dish,wartortle,True
+1476,Rain Dish,blastoise,True
+1477,Rain Dish,tentacool,True
+1478,Rain Dish,tentacruel,True
+1479,Rain Dish,lotad,False
+1480,Rain Dish,lombre,False
+1481,Rain Dish,ludicolo,False
+1482,Rain Dish,wingull,True
+1483,Rain Dish,pelipper,True
+1484,Rain Dish,surskit,True
+1485,Rain Dish,morelull,True
+1486,Rain Dish,shiinotic,True
+1487,Rain Dish,blastoise-gmax,True
+1488,Rattled,magikarp,True
+1489,Rattled,ledyba,True
+1490,Rattled,sudowoodo,True
+1491,Rattled,dunsparce,True
+1492,Rattled,snubbull,True
+1493,Rattled,granbull,True
+1494,Rattled,poochyena,True
+1495,Rattled,whismur,True
+1496,Rattled,clamperl,True
+1497,Rattled,bonsly,True
+1498,Rattled,cubchoo,True
+1499,Rattled,yamper,True
+1500,Rattled,toxel,False
+1501,Rattled,meowth-alola,True
+1502,Rattled,persian-alola,True
+1503,Receiver,passimian,False
+1504,Reckless,hitmonlee,False
+1505,Reckless,rhyhorn,True
+1506,Reckless,rhydon,True
+1507,Reckless,starly,True
+1508,Reckless,staravia,True
+1509,Reckless,staraptor,True
+1510,Reckless,rhyperior,True
+1511,Reckless,emboar,True
+1512,Reckless,basculin-red-striped,False
+1513,Reckless,mienfoo,True
+1514,Reckless,mienshao,True
+1515,Reckless,bouffalant,False
+1516,Reckless,obstagoon,False
+1517,Refrigerate,amaura,False
+1518,Refrigerate,aurorus,False
+1519,Refrigerate,glalie-mega,False
+1520,Regenerator,slowpoke,True
+1521,Regenerator,slowbro,True
+1522,Regenerator,tangela,True
+1523,Regenerator,slowking,True
+1524,Regenerator,corsola,True
+1525,Regenerator,ho-oh,True
+1526,Regenerator,tangrowth,True
+1527,Regenerator,audino,False
+1528,Regenerator,solosis,True
+1529,Regenerator,duosion,True
+1530,Regenerator,reuniclus,True
+1531,Regenerator,foongus,True
+1532,Regenerator,amoonguss,True
+1533,Regenerator,alomomola,True
+1534,Regenerator,mienfoo,False
+1535,Regenerator,mienshao,False
+1536,Regenerator,mareanie,True
+1537,Regenerator,toxapex,True
+1538,Regenerator,gossifleur,False
+1539,Regenerator,eldegoss,False
+1540,Regenerator,tornadus-therian,False
+1541,Regenerator,slowpoke-galar,True
+1542,Regenerator,slowbro-galar,True
+1543,Regenerator,slowking-galar,True
+1544,Ripen,applin,False
+1545,Ripen,flapple,False
+1546,Ripen,appletun,False
+1547,Ripen,flapple-gmax,False
+1548,Ripen,appletun-gmax,False
+1549,Rivalry,nidoran-f,False
+1550,Rivalry,nidorina,False
+1551,Rivalry,nidoqueen,False
+1552,Rivalry,nidoran-m,False
+1553,Rivalry,nidorino,False
+1554,Rivalry,nidoking,False
+1555,Rivalry,beautifly,True
+1556,Rivalry,shinx,False
+1557,Rivalry,luxio,False
+1558,Rivalry,luxray,False
+1559,Rivalry,pidove,True
+1560,Rivalry,tranquill,True
+1561,Rivalry,unfezant,True
+1562,Rivalry,axew,False
+1563,Rivalry,fraxure,False
+1564,Rivalry,haxorus,False
+1565,Rivalry,litleo,False
+1566,Rivalry,pyroar,False
+1567,Rks System,silvally,False
+1568,Rock Head,geodude,False
+1569,Rock Head,graveler,False
+1570,Rock Head,golem,False
+1571,Rock Head,onix,False
+1572,Rock Head,cubone,False
+1573,Rock Head,marowak,False
+1574,Rock Head,rhyhorn,False
+1575,Rock Head,rhydon,False
+1576,Rock Head,aerodactyl,False
+1577,Rock Head,sudowoodo,False
+1578,Rock Head,steelix,False
+1579,Rock Head,aron,False
+1580,Rock Head,lairon,False
+1581,Rock Head,aggron,False
+1582,Rock Head,relicanth,False
+1583,Rock Head,bagon,False
+1584,Rock Head,shelgon,False
+1585,Rock Head,bonsly,False
+1586,Rock Head,tyrantrum,True
+1587,Rock Head,basculin-blue-striped,False
+1588,Rock Head,marowak-alola,True
+1589,Rock Head,marowak-totem,True
+1590,Rough Skin,carvanha,False
+1591,Rough Skin,sharpedo,False
+1592,Rough Skin,gible,True
+1593,Rough Skin,gabite,True
+1594,Rough Skin,garchomp,True
+1595,Rough Skin,druddigon,False
+1596,Run Away,caterpie,True
+1597,Run Away,weedle,True
+1598,Run Away,rattata,False
+1599,Run Away,raticate,False
+1600,Run Away,oddish,True
+1601,Run Away,venonat,True
+1602,Run Away,ponyta,False
+1603,Run Away,rapidash,False
+1604,Run Away,doduo,False
+1605,Run Away,dodrio,False
+1606,Run Away,eevee,False
+1607,Run Away,sentret,False
+1608,Run Away,furret,False
+1609,Run Away,aipom,False
+1610,Run Away,dunsparce,False
+1611,Run Away,snubbull,False
+1612,Run Away,poochyena,False
+1613,Run Away,wurmple,True
+1614,Run Away,nincada,True
+1615,Run Away,kricketot,True
+1616,Run Away,pachirisu,False
+1617,Run Away,buneary,False
+1618,Run Away,patrat,False
+1619,Run Away,lillipup,True
+1620,Run Away,nickit,False
+1621,Run Away,thievul,False
+1622,Run Away,wooloo,False
+1623,Run Away,eevee-starter,False
+1624,Run Away,ponyta-galar,False
+1625,Run Away,rapidash-galar,False
+1626,Run Away,eevee-gmax,False
+1627,Sand Force,diglett,True
+1628,Sand Force,dugtrio,True
+1629,Sand Force,nosepass,True
+1630,Sand Force,shellos,True
+1631,Sand Force,gastrodon,True
+1632,Sand Force,hippopotas,True
+1633,Sand Force,hippowdon,True
+1634,Sand Force,probopass,True
+1635,Sand Force,roggenrola,True
+1636,Sand Force,boldore,True
+1637,Sand Force,gigalith,True
+1638,Sand Force,drilbur,False
+1639,Sand Force,excadrill,False
+1640,Sand Force,landorus-incarnate,False
+1641,Sand Force,garchomp-mega,False
+1642,Sand Force,steelix-mega,False
+1643,Sand Force,diglett-alola,True
+1644,Sand Force,dugtrio-alola,True
+1645,Sand Rush,sandshrew,True
+1646,Sand Rush,sandslash,True
+1647,Sand Rush,herdier,False
+1648,Sand Rush,stoutland,False
+1649,Sand Rush,drilbur,False
+1650,Sand Rush,excadrill,False
+1651,Sand Rush,lycanroc-midday,False
+1652,Sand Rush,dracozolt,True
+1653,Sand Rush,dracovish,True
+1654,Sand Spit,silicobra,False
+1655,Sand Spit,sandaconda,False
+1656,Sand Spit,sandaconda-gmax,False
+1657,Sand Stream,tyranitar,False
+1658,Sand Stream,hippopotas,False
+1659,Sand Stream,hippowdon,False
+1660,Sand Stream,gigalith,False
+1661,Sand Stream,tyranitar-mega,False
+1662,Sand Veil,sandshrew,False
+1663,Sand Veil,sandslash,False
+1664,Sand Veil,diglett,False
+1665,Sand Veil,dugtrio,False
+1666,Sand Veil,geodude,True
+1667,Sand Veil,graveler,True
+1668,Sand Veil,golem,True
+1669,Sand Veil,gligar,False
+1670,Sand Veil,phanpy,True
+1671,Sand Veil,donphan,True
+1672,Sand Veil,larvitar,True
+1673,Sand Veil,cacnea,False
+1674,Sand Veil,cacturne,False
+1675,Sand Veil,gible,False
+1676,Sand Veil,gabite,False
+1677,Sand Veil,garchomp,False
+1678,Sand Veil,gliscor,False
+1679,Sand Veil,stunfisk,True
+1680,Sand Veil,helioptile,False
+1681,Sand Veil,heliolisk,False
+1682,Sand Veil,sandygast,True
+1683,Sand Veil,palossand,True
+1684,Sand Veil,silicobra,True
+1685,Sand Veil,sandaconda,True
+1686,Sand Veil,diglett-alola,False
+1687,Sand Veil,dugtrio-alola,False
+1688,Sand Veil,sandaconda-gmax,True
+1689,Sap Sipper,marill,True
+1690,Sap Sipper,azumarill,True
+1691,Sap Sipper,girafarig,True
+1692,Sap Sipper,stantler,True
+1693,Sap Sipper,miltank,True
+1694,Sap Sipper,azurill,True
+1695,Sap Sipper,blitzle,True
+1696,Sap Sipper,zebstrika,True
+1697,Sap Sipper,deerling,False
+1698,Sap Sipper,sawsbuck,False
+1699,Sap Sipper,bouffalant,False
+1700,Sap Sipper,skiddo,False
+1701,Sap Sipper,gogoat,False
+1702,Sap Sipper,goomy,False
+1703,Sap Sipper,sliggoo,False
+1704,Sap Sipper,goodra,False
+1705,Sap Sipper,drampa,False
+1706,Schooling,wishiwashi-solo,False
+1707,Schooling,wishiwashi-school,False
+1708,Scrappy,kangaskhan,False
+1709,Scrappy,miltank,False
+1710,Scrappy,taillow,True
+1711,Scrappy,swellow,True
+1712,Scrappy,loudred,True
+1713,Scrappy,exploud,True
+1714,Scrappy,herdier,True
+1715,Scrappy,stoutland,True
+1716,Scrappy,pancham,True
+1717,Scrappy,pangoro,True
+1718,Scrappy,sirfetchd,True
+1719,Scrappy,lopunny-mega,False
+1720,Scrappy,farfetchd-galar,True
+1721,Screen Cleaner,mr-rime,False
+1722,Screen Cleaner,mr-mime-galar,False
+1723,Serene Grace,chansey,False
+1724,Serene Grace,togepi,False
+1725,Serene Grace,togetic,False
+1726,Serene Grace,dunsparce,False
+1727,Serene Grace,blissey,False
+1728,Serene Grace,jirachi,False
+1729,Serene Grace,happiny,False
+1730,Serene Grace,togekiss,False
+1731,Serene Grace,deerling,True
+1732,Serene Grace,sawsbuck,True
+1733,Serene Grace,meloetta-aria,False
+1734,Serene Grace,shaymin-sky,False
+1735,Serene Grace,meloetta-pirouette,False
+1736,Shadow Shield,lunala,False
+1737,Shadow Tag,wobbuffet,False
+1738,Shadow Tag,wynaut,False
+1739,Shadow Tag,gothita,True
+1740,Shadow Tag,gothorita,True
+1741,Shadow Tag,gothitelle,True
+1742,Shadow Tag,gengar-mega,False
+1743,Shed Skin,metapod,False
+1744,Shed Skin,kakuna,False
+1745,Shed Skin,ekans,False
+1746,Shed Skin,arbok,False
+1747,Shed Skin,dratini,False
+1748,Shed Skin,dragonair,False
+1749,Shed Skin,pupitar,False
+1750,Shed Skin,silcoon,False
+1751,Shed Skin,cascoon,False
+1752,Shed Skin,seviper,False
+1753,Shed Skin,kricketot,False
+1754,Shed Skin,burmy,False
+1755,Shed Skin,scraggy,False
+1756,Shed Skin,scrafty,False
+1757,Shed Skin,karrablast,False
+1758,Shed Skin,spewpa,False
+1759,Shed Skin,silicobra,False
+1760,Shed Skin,sandaconda,False
+1761,Shed Skin,sandaconda-gmax,False
+1762,Sheer Force,nidoqueen,True
+1763,Sheer Force,nidoking,True
+1764,Sheer Force,krabby,True
+1765,Sheer Force,kingler,True
+1766,Sheer Force,tauros,True
+1767,Sheer Force,totodile,True
+1768,Sheer Force,croconaw,True
+1769,Sheer Force,feraligatr,True
+1770,Sheer Force,steelix,True
+1771,Sheer Force,makuhita,True
+1772,Sheer Force,hariyama,True
+1773,Sheer Force,mawile,True
+1774,Sheer Force,trapinch,True
+1775,Sheer Force,bagon,True
+1776,Sheer Force,cranidos,True
+1777,Sheer Force,rampardos,True
+1778,Sheer Force,timburr,False
+1779,Sheer Force,gurdurr,False
+1780,Sheer Force,conkeldurr,False
+1781,Sheer Force,darmanitan-standard,False
+1782,Sheer Force,druddigon,False
+1783,Sheer Force,rufflet,False
+1784,Sheer Force,braviary,False
+1785,Sheer Force,landorus-incarnate,True
+1786,Sheer Force,toucannon,True
+1787,Sheer Force,cufant,False
+1788,Sheer Force,copperajah,False
+1789,Sheer Force,darmanitan-zen,False
+1790,Sheer Force,camerupt-mega,False
+1791,Sheer Force,kingler-gmax,True
+1792,Sheer Force,copperajah-gmax,False
+1793,Shell Armor,shellder,False
+1794,Shell Armor,cloyster,False
+1795,Shell Armor,krabby,False
+1796,Shell Armor,kingler,False
+1797,Shell Armor,lapras,False
+1798,Shell Armor,omanyte,False
+1799,Shell Armor,omastar,False
+1800,Shell Armor,torkoal,True
+1801,Shell Armor,corphish,False
+1802,Shell Armor,crawdaunt,False
+1803,Shell Armor,clamperl,False
+1804,Shell Armor,turtwig,True
+1805,Shell Armor,grotle,True
+1806,Shell Armor,torterra,True
+1807,Shell Armor,oshawott,True
+1808,Shell Armor,dewott,True
+1809,Shell Armor,samurott,True
+1810,Shell Armor,dwebble,False
+1811,Shell Armor,crustle,False
+1812,Shell Armor,escavalier,False
+1813,Shell Armor,shelmet,False
+1814,Shell Armor,turtonator,False
+1815,Shell Armor,chewtle,False
+1816,Shell Armor,drednaw,False
+1817,Shell Armor,slowbro-mega,False
+1818,Shell Armor,kingler-gmax,False
+1819,Shell Armor,lapras-gmax,False
+1820,Shell Armor,drednaw-gmax,False
+1821,Shield Dust,caterpie,False
+1822,Shield Dust,weedle,False
+1823,Shield Dust,venomoth,False
+1824,Shield Dust,wurmple,False
+1825,Shield Dust,dustox,False
+1826,Shield Dust,scatterbug,False
+1827,Shield Dust,vivillon,False
+1828,Shield Dust,cutiefly,False
+1829,Shield Dust,ribombee,False
+1830,Shield Dust,snom,False
+1831,Shield Dust,frosmoth,False
+1832,Shield Dust,ribombee-totem,False
+1833,Shields Down,minior-red-meteor,False
+1834,Shields Down,minior-orange-meteor,False
+1835,Shields Down,minior-yellow-meteor,False
+1836,Shields Down,minior-green-meteor,False
+1837,Shields Down,minior-blue-meteor,False
+1838,Shields Down,minior-indigo-meteor,False
+1839,Shields Down,minior-violet-meteor,False
+1840,Shields Down,minior-red,False
+1841,Shields Down,minior-orange,False
+1842,Shields Down,minior-yellow,False
+1843,Shields Down,minior-green,False
+1844,Shields Down,minior-blue,False
+1845,Shields Down,minior-indigo,False
+1846,Shields Down,minior-violet,False
+1847,Simple,numel,False
+1848,Simple,bidoof,False
+1849,Simple,bibarel,False
+1850,Simple,woobat,True
+1851,Simple,swoobat,True
+1852,Skill Link,shellder,False
+1853,Skill Link,cloyster,False
+1854,Skill Link,aipom,True
+1855,Skill Link,ambipom,True
+1856,Skill Link,minccino,True
+1857,Skill Link,cinccino,True
+1858,Skill Link,pikipek,False
+1859,Skill Link,trumbeak,False
+1860,Skill Link,toucannon,False
+1861,Skill Link,heracross-mega,False
+1862,Slow Start,regigigas,False
+1863,Slush Rush,cubchoo,False
+1864,Slush Rush,beartic,False
+1865,Slush Rush,arctozolt,True
+1866,Slush Rush,arctovish,True
+1867,Slush Rush,sandshrew-alola,True
+1868,Slush Rush,sandslash-alola,True
+1869,Sniper,beedrill,True
+1870,Sniper,spearow,True
+1871,Sniper,fearow,True
+1872,Sniper,horsea,False
+1873,Sniper,seadra,False
+1874,Sniper,spinarak,True
+1875,Sniper,ariados,True
+1876,Sniper,remoraid,False
+1877,Sniper,octillery,False
+1878,Sniper,kingdra,False
+1879,Sniper,skorupi,False
+1880,Sniper,drapion,False
+1881,Sniper,binacle,False
+1882,Sniper,barbaracle,False
+1883,Sniper,sobble,True
+1884,Sniper,drizzile,True
+1885,Sniper,inteleon,True
+1886,Sniper,inteleon-gmax,True
+1887,Snow Cloak,articuno,True
+1888,Snow Cloak,swinub,False
+1889,Snow Cloak,piloswine,False
+1890,Snow Cloak,glaceon,False
+1891,Snow Cloak,mamoswine,False
+1892,Snow Cloak,froslass,False
+1893,Snow Cloak,vanillite,False
+1894,Snow Cloak,vanillish,False
+1895,Snow Cloak,cubchoo,False
+1896,Snow Cloak,beartic,False
+1897,Snow Cloak,sandshrew-alola,False
+1898,Snow Cloak,sandslash-alola,False
+1899,Snow Cloak,vulpix-alola,False
+1900,Snow Cloak,ninetales-alola,False
+1901,Snow Warning,snover,False
+1902,Snow Warning,abomasnow,False
+1903,Snow Warning,vanilluxe,False
+1904,Snow Warning,amaura,True
+1905,Snow Warning,aurorus,True
+1906,Snow Warning,abomasnow-mega,False
+1907,Snow Warning,vulpix-alola,True
+1908,Snow Warning,ninetales-alola,True
+1909,Solar Power,charmander,True
+1910,Solar Power,charmeleon,True
+1911,Solar Power,charizard,True
+1912,Solar Power,sunkern,False
+1913,Solar Power,sunflora,False
+1914,Solar Power,tropius,False
+1915,Solar Power,helioptile,True
+1916,Solar Power,heliolisk,True
+1917,Solar Power,houndoom-mega,False
+1918,Solar Power,charizard-gmax,True
+1919,Solid Rock,camerupt,False
+1920,Solid Rock,rhyperior,False
+1921,Solid Rock,tirtouga,False
+1922,Solid Rock,carracosta,False
+1923,Soul Heart,magearna,False
+1924,Soul Heart,magearna-original,False
+1925,Soundproof,voltorb,False
+1926,Soundproof,electrode,False
+1927,Soundproof,mr-mime,False
+1928,Soundproof,whismur,False
+1929,Soundproof,loudred,False
+1930,Soundproof,exploud,False
+1931,Soundproof,shieldon,True
+1932,Soundproof,bastiodon,True
+1933,Soundproof,mime-jr,False
+1934,Soundproof,snover,True
+1935,Soundproof,abomasnow,True
+1936,Soundproof,bouffalant,True
+1937,Soundproof,jangmo-o,False
+1938,Soundproof,hakamo-o,False
+1939,Soundproof,kommo-o,False
+1940,Soundproof,kommo-o-totem,False
+1941,Speed Boost,yanma,False
+1942,Speed Boost,torchic,True
+1943,Speed Boost,combusken,True
+1944,Speed Boost,blaziken,True
+1945,Speed Boost,ninjask,False
+1946,Speed Boost,carvanha,True
+1947,Speed Boost,sharpedo,True
+1948,Speed Boost,yanmega,False
+1949,Speed Boost,venipede,True
+1950,Speed Boost,whirlipede,True
+1951,Speed Boost,scolipede,True
+1952,Speed Boost,blaziken-mega,False
+1953,Stakeout,yungoos,False
+1954,Stakeout,gumshoos,False
+1955,Stakeout,nickit,True
+1956,Stakeout,thievul,True
+1957,Stakeout,gumshoos-totem,False
+1958,Stall,sableye,False
+1959,Stalwart,duraludon,True
+1960,Stalwart,duraludon-gmax,True
+1961,Stamina,mudbray,False
+1962,Stamina,mudsdale,False
+1963,Stance Change,aegislash-shield,False
+1964,Stance Change,aegislash-blade,False
+1965,Static,pikachu,False
+1966,Static,raichu,False
+1967,Static,voltorb,False
+1968,Static,electrode,False
+1969,Static,electabuzz,False
+1970,Static,zapdos,True
+1971,Static,pichu,False
+1972,Static,mareep,False
+1973,Static,flaaffy,False
+1974,Static,ampharos,False
+1975,Static,elekid,False
+1976,Static,electrike,False
+1977,Static,manectric,False
+1978,Static,emolga,False
+1979,Static,stunfisk,False
+1980,Static,toxel,False
+1981,Static,arctozolt,False
+1982,Static,pikachu-rock-star,False
+1983,Static,pikachu-belle,False
+1984,Static,pikachu-pop-star,False
+1985,Static,pikachu-phd,False
+1986,Static,pikachu-libre,False
+1987,Static,pikachu-cosplay,False
+1988,Static,pikachu-original-cap,False
+1989,Static,pikachu-hoenn-cap,False
+1990,Static,pikachu-sinnoh-cap,False
+1991,Static,pikachu-unova-cap,False
+1992,Static,pikachu-kalos-cap,False
+1993,Static,pikachu-alola-cap,False
+1994,Static,pikachu-partner-cap,False
+1995,Static,pikachu-starter,False
+1996,Static,pikachu-world-cap,False
+1997,Static,pikachu-gmax,False
+1998,Steadfast,machop,True
+1999,Steadfast,machoke,True
+2000,Steadfast,machamp,True
+2001,Steadfast,scyther,True
+2002,Steadfast,tyrogue,False
+2003,Steadfast,hitmontop,True
+2004,Steadfast,riolu,False
+2005,Steadfast,lucario,False
+2006,Steadfast,gallade,False
+2007,Steadfast,rockruff,True
+2008,Steadfast,lycanroc-midday,True
+2009,Steadfast,dubwool,False
+2010,Steadfast,sirfetchd,False
+2011,Steadfast,mewtwo-mega-x,False
+2012,Steadfast,farfetchd-galar,False
+2013,Steadfast,machamp-gmax,True
+2014,Steam Engine,rolycoly,False
+2015,Steam Engine,carkol,False
+2016,Steam Engine,coalossal,False
+2017,Steam Engine,coalossal-gmax,False
+2018,Steelworker,dhelmise,False
+2019,Steely Spirit,perrserker,True
+2020,Stench,gloom,True
+2021,Stench,grimer,False
+2022,Stench,muk,False
+2023,Stench,koffing,True
+2024,Stench,weezing,True
+2025,Stench,stunky,False
+2026,Stench,skuntank,False
+2027,Stench,trubbish,False
+2028,Stench,garbodor,False
+2029,Stench,garbodor-gmax,False
+2030,Sticky Hold,grimer,False
+2031,Sticky Hold,muk,False
+2032,Sticky Hold,gulpin,False
+2033,Sticky Hold,swalot,False
+2034,Sticky Hold,shellos,False
+2035,Sticky Hold,gastrodon,False
+2036,Sticky Hold,trubbish,False
+2037,Sticky Hold,accelgor,False
+2038,Storm Drain,lileep,True
+2039,Storm Drain,cradily,True
+2040,Storm Drain,shellos,False
+2041,Storm Drain,gastrodon,False
+2042,Storm Drain,finneon,False
+2043,Storm Drain,lumineon,False
+2044,Storm Drain,maractus,True
+2045,Strong Jaw,tyrunt,False
+2046,Strong Jaw,tyrantrum,False
+2047,Strong Jaw,yungoos,False
+2048,Strong Jaw,gumshoos,False
+2049,Strong Jaw,bruxish,False
+2050,Strong Jaw,chewtle,False
+2051,Strong Jaw,drednaw,False
+2052,Strong Jaw,boltund,False
+2053,Strong Jaw,dracovish,False
+2054,Strong Jaw,sharpedo-mega,False
+2055,Strong Jaw,gumshoos-totem,False
+2056,Strong Jaw,drednaw-gmax,False
+2057,Sturdy,geodude,False
+2058,Sturdy,graveler,False
+2059,Sturdy,golem,False
+2060,Sturdy,magnemite,False
+2061,Sturdy,magneton,False
+2062,Sturdy,onix,False
+2063,Sturdy,sudowoodo,False
+2064,Sturdy,pineco,False
+2065,Sturdy,forretress,False
+2066,Sturdy,steelix,False
+2067,Sturdy,shuckle,False
+2068,Sturdy,skarmory,False
+2069,Sturdy,donphan,False
+2070,Sturdy,nosepass,False
+2071,Sturdy,aron,False
+2072,Sturdy,lairon,False
+2073,Sturdy,aggron,False
+2074,Sturdy,relicanth,True
+2075,Sturdy,regirock,True
+2076,Sturdy,shieldon,False
+2077,Sturdy,bastiodon,False
+2078,Sturdy,bonsly,False
+2079,Sturdy,magnezone,False
+2080,Sturdy,probopass,False
+2081,Sturdy,roggenrola,False
+2082,Sturdy,boldore,False
+2083,Sturdy,gigalith,False
+2084,Sturdy,sawk,False
+2085,Sturdy,dwebble,False
+2086,Sturdy,crustle,False
+2087,Sturdy,tirtouga,False
+2088,Sturdy,carracosta,False
+2089,Sturdy,tyrunt,True
+2090,Sturdy,carbink,True
+2091,Sturdy,bergmite,True
+2092,Sturdy,avalugg,True
+2093,Sturdy,togedemaru,True
+2094,Sturdy,cosmoem,False
+2095,Sturdy,geodude-alola,False
+2096,Sturdy,graveler-alola,False
+2097,Sturdy,golem-alola,False
+2098,Sturdy,togedemaru-totem,True
+2099,Suction Cups,octillery,False
+2100,Suction Cups,lileep,False
+2101,Suction Cups,cradily,False
+2102,Suction Cups,inkay,False
+2103,Suction Cups,malamar,False
+2104,Super Luck,togepi,True
+2105,Super Luck,togetic,True
+2106,Super Luck,murkrow,False
+2107,Super Luck,absol,False
+2108,Super Luck,honchkrow,False
+2109,Super Luck,togekiss,True
+2110,Super Luck,pidove,False
+2111,Super Luck,tranquill,False
+2112,Super Luck,unfezant,False
+2113,Surge Surfer,raichu-alola,False
+2114,Swarm,beedrill,False
+2115,Swarm,scyther,False
+2116,Swarm,ledyba,False
+2117,Swarm,ledian,False
+2118,Swarm,spinarak,False
+2119,Swarm,ariados,False
+2120,Swarm,scizor,False
+2121,Swarm,heracross,False
+2122,Swarm,beautifly,False
+2123,Swarm,volbeat,False
+2124,Swarm,kricketune,False
+2125,Swarm,mothim,False
+2126,Swarm,sewaddle,False
+2127,Swarm,leavanny,False
+2128,Swarm,venipede,False
+2129,Swarm,whirlipede,False
+2130,Swarm,scolipede,False
+2131,Swarm,karrablast,False
+2132,Swarm,escavalier,False
+2133,Swarm,joltik,True
+2134,Swarm,galvantula,True
+2135,Swarm,durant,False
+2136,Swarm,larvesta,True
+2137,Swarm,volcarona,True
+2138,Swarm,grubbin,False
+2139,Swarm,blipbug,False
+2140,Swarm,dottler,False
+2141,Swarm,orbeetle,False
+2142,Swarm,orbeetle-gmax,False
+2143,Sweet Veil,swirlix,False
+2144,Sweet Veil,slurpuff,False
+2145,Sweet Veil,cutiefly,True
+2146,Sweet Veil,ribombee,True
+2147,Sweet Veil,bounsweet,True
+2148,Sweet Veil,steenee,True
+2149,Sweet Veil,tsareena,True
+2150,Sweet Veil,milcery,False
+2151,Sweet Veil,alcremie,False
+2152,Sweet Veil,ribombee-totem,True
+2153,Sweet Veil,alcremie-gmax,False
+2154,Swift Swim,psyduck,True
+2155,Swift Swim,golduck,True
+2156,Swift Swim,poliwag,True
+2157,Swift Swim,poliwhirl,True
+2158,Swift Swim,poliwrath,True
+2159,Swift Swim,horsea,False
+2160,Swift Swim,goldeen,False
+2161,Swift Swim,seaking,False
+2162,Swift Swim,magikarp,False
+2163,Swift Swim,omanyte,False
+2164,Swift Swim,omastar,False
+2165,Swift Swim,kabuto,False
+2166,Swift Swim,kabutops,False
+2167,Swift Swim,qwilfish,False
+2168,Swift Swim,mantine,False
+2169,Swift Swim,kingdra,False
+2170,Swift Swim,lotad,False
+2171,Swift Swim,lombre,False
+2172,Swift Swim,ludicolo,False
+2173,Swift Swim,surskit,False
+2174,Swift Swim,anorith,True
+2175,Swift Swim,armaldo,True
+2176,Swift Swim,feebas,False
+2177,Swift Swim,huntail,False
+2178,Swift Swim,gorebyss,False
+2179,Swift Swim,relicanth,False
+2180,Swift Swim,luvdisc,False
+2181,Swift Swim,buizel,False
+2182,Swift Swim,floatzel,False
+2183,Swift Swim,finneon,False
+2184,Swift Swim,lumineon,False
+2185,Swift Swim,mantyke,False
+2186,Swift Swim,tympole,False
+2187,Swift Swim,palpitoad,False
+2188,Swift Swim,seismitoad,False
+2189,Swift Swim,tirtouga,True
+2190,Swift Swim,carracosta,True
+2191,Swift Swim,beartic,True
+2192,Swift Swim,chewtle,True
+2193,Swift Swim,drednaw,True
+2194,Swift Swim,arrokuda,False
+2195,Swift Swim,barraskewda,False
+2196,Swift Swim,swampert-mega,False
+2197,Swift Swim,drednaw-gmax,True
+2198,Symbiosis,flabebe,True
+2199,Symbiosis,floette,True
+2200,Symbiosis,florges,True
+2201,Symbiosis,oranguru,True
+2202,Symbiosis,floette-eternal,True
+2203,Synchronize,abra,False
+2204,Synchronize,kadabra,False
+2205,Synchronize,alakazam,False
+2206,Synchronize,mew,False
+2207,Synchronize,natu,False
+2208,Synchronize,xatu,False
+2209,Synchronize,espeon,False
+2210,Synchronize,umbreon,False
+2211,Synchronize,ralts,False
+2212,Synchronize,kirlia,False
+2213,Synchronize,gardevoir,False
+2214,Synchronize,munna,False
+2215,Synchronize,musharna,False
+2216,Synchronize,elgyem,False
+2217,Synchronize,beheeyem,False
+2218,Synchronize,indeedee-male,False
+2219,Synchronize,indeedee-female,False
+2220,Tangled Feet,pidgey,False
+2221,Tangled Feet,pidgeotto,False
+2222,Tangled Feet,pidgeot,False
+2223,Tangled Feet,doduo,True
+2224,Tangled Feet,dodrio,True
+2225,Tangled Feet,spinda,False
+2226,Tangled Feet,chatot,False
+2227,Tangled Feet,mr-rime,False
+2228,Tangling Hair,diglett-alola,False
+2229,Tangling Hair,dugtrio-alola,False
+2230,Technician,meowth,False
+2231,Technician,persian,False
+2232,Technician,mr-mime,True
+2233,Technician,scyther,False
+2234,Technician,scizor,False
+2235,Technician,smeargle,False
+2236,Technician,hitmontop,False
+2237,Technician,breloom,True
+2238,Technician,kricketune,True
+2239,Technician,roserade,True
+2240,Technician,ambipom,False
+2241,Technician,mime-jr,True
+2242,Technician,minccino,False
+2243,Technician,cinccino,False
+2244,Technician,marshadow,False
+2245,Technician,toxtricity-amped,True
+2246,Technician,clobbopus,True
+2247,Technician,grapploct,True
+2248,Technician,scizor-mega,False
+2249,Technician,meowth-alola,False
+2250,Technician,persian-alola,False
+2251,Technician,toxtricity-low-key,True
+2252,Technician,meowth-gmax,False
+2253,Technician,toxtricity-amped-gmax,True
+2254,Technician,toxtricity-low-key-gmax,True
+2255,Telepathy,wobbuffet,True
+2256,Telepathy,ralts,True
+2257,Telepathy,kirlia,True
+2258,Telepathy,gardevoir,True
+2259,Telepathy,meditite,True
+2260,Telepathy,medicham,True
+2261,Telepathy,wynaut,True
+2262,Telepathy,dialga,True
+2263,Telepathy,palkia,True
+2264,Telepathy,giratina-altered,True
+2265,Telepathy,munna,True
+2266,Telepathy,musharna,True
+2267,Telepathy,elgyem,False
+2268,Telepathy,beheeyem,False
+2269,Telepathy,noibat,True
+2270,Telepathy,noivern,True
+2271,Telepathy,oranguru,False
+2272,Telepathy,tapu-koko,True
+2273,Telepathy,tapu-lele,True
+2274,Telepathy,tapu-bulu,True
+2275,Telepathy,tapu-fini,True
+2276,Telepathy,blipbug,True
+2277,Telepathy,dottler,True
+2278,Telepathy,orbeetle,True
+2279,Telepathy,orbeetle-gmax,True
+2280,Teravolt,zekrom,False
+2281,Teravolt,kyurem-black,False
+2282,Thick Fat,seel,False
+2283,Thick Fat,dewgong,False
+2284,Thick Fat,snorlax,False
+2285,Thick Fat,marill,False
+2286,Thick Fat,azumarill,False
+2287,Thick Fat,swinub,True
+2288,Thick Fat,piloswine,True
+2289,Thick Fat,miltank,False
+2290,Thick Fat,makuhita,False
+2291,Thick Fat,hariyama,False
+2292,Thick Fat,azurill,False
+2293,Thick Fat,spoink,False
+2294,Thick Fat,grumpig,False
+2295,Thick Fat,spheal,False
+2296,Thick Fat,sealeo,False
+2297,Thick Fat,walrein,False
+2298,Thick Fat,purugly,False
+2299,Thick Fat,munchlax,False
+2300,Thick Fat,mamoswine,True
+2301,Thick Fat,tepig,True
+2302,Thick Fat,pignite,True
+2303,Thick Fat,appletun,True
+2304,Thick Fat,venusaur-mega,False
+2305,Thick Fat,rattata-alola,True
+2306,Thick Fat,raticate-alola,True
+2307,Thick Fat,raticate-totem-alola,True
+2308,Thick Fat,snorlax-gmax,False
+2309,Thick Fat,appletun-gmax,True
+2310,Tinted Lens,butterfree,True
+2311,Tinted Lens,venonat,False
+2312,Tinted Lens,venomoth,False
+2313,Tinted Lens,hoothoot,True
+2314,Tinted Lens,noctowl,True
+2315,Tinted Lens,illumise,False
+2316,Tinted Lens,mothim,True
+2317,Tinted Lens,yanmega,False
+2318,Tinted Lens,sigilyph,True
+2319,Tinted Lens,butterfree-gmax,True
+2320,Torrent,squirtle,False
+2321,Torrent,wartortle,False
+2322,Torrent,blastoise,False
+2323,Torrent,totodile,False
+2324,Torrent,croconaw,False
+2325,Torrent,feraligatr,False
+2326,Torrent,mudkip,False
+2327,Torrent,marshtomp,False
+2328,Torrent,swampert,False
+2329,Torrent,piplup,False
+2330,Torrent,prinplup,False
+2331,Torrent,empoleon,False
+2332,Torrent,oshawott,False
+2333,Torrent,dewott,False
+2334,Torrent,samurott,False
+2335,Torrent,panpour,True
+2336,Torrent,simipour,True
+2337,Torrent,froakie,False
+2338,Torrent,frogadier,False
+2339,Torrent,greninja,False
+2340,Torrent,popplio,False
+2341,Torrent,brionne,False
+2342,Torrent,primarina,False
+2343,Torrent,sobble,False
+2344,Torrent,drizzile,False
+2345,Torrent,inteleon,False
+2346,Torrent,blastoise-gmax,False
+2347,Torrent,inteleon-gmax,False
+2348,Tough Claws,binacle,False
+2349,Tough Claws,barbaracle,False
+2350,Tough Claws,perrserker,False
+2351,Tough Claws,charizard-mega-x,False
+2352,Tough Claws,aerodactyl-mega,False
+2353,Tough Claws,metagross-mega,False
+2354,Tough Claws,lycanroc-dusk,False
+2355,Tough Claws,meowth-galar,False
+2356,Toxic Boost,zangoose,True
+2357,Trace,porygon,False
+2358,Trace,porygon2,False
+2359,Trace,ralts,False
+2360,Trace,kirlia,False
+2361,Trace,gardevoir,False
+2362,Trace,alakazam-mega,False
+2363,Transistor,regieleki,False
+2364,Triage,comfey,False
+2365,Truant,slakoth,False
+2366,Truant,slaking,False
+2367,Truant,durant,True
+2368,Turboblaze,reshiram,False
+2369,Turboblaze,kyurem-white,False
+2370,Unaware,clefable,True
+2371,Unaware,wooper,True
+2372,Unaware,quagsire,True
+2373,Unaware,bidoof,False
+2374,Unaware,bibarel,False
+2375,Unaware,woobat,False
+2376,Unaware,swoobat,False
+2377,Unaware,pyukumuku,True
+2378,Unaware,cosmog,False
+2379,Unburden,hitmonlee,True
+2380,Unburden,treecko,True
+2381,Unburden,grovyle,True
+2382,Unburden,sceptile,True
+2383,Unburden,drifloon,False
+2384,Unburden,drifblim,False
+2385,Unburden,purrloin,False
+2386,Unburden,liepard,False
+2387,Unburden,accelgor,True
+2388,Unburden,swirlix,True
+2389,Unburden,slurpuff,True
+2390,Unburden,hawlucha,False
+2391,Unburden,nickit,False
+2392,Unburden,thievul,False
+2393,Unnerve,ekans,True
+2394,Unnerve,arbok,True
+2395,Unnerve,meowth,True
+2396,Unnerve,persian,True
+2397,Unnerve,aerodactyl,True
+2398,Unnerve,mewtwo,True
+2399,Unnerve,ursaring,True
+2400,Unnerve,houndour,True
+2401,Unnerve,houndoom,True
+2402,Unnerve,tyranitar,True
+2403,Unnerve,masquerain,True
+2404,Unnerve,vespiquen,True
+2405,Unnerve,joltik,False
+2406,Unnerve,galvantula,False
+2407,Unnerve,axew,True
+2408,Unnerve,fraxure,True
+2409,Unnerve,haxorus,True
+2410,Unnerve,litleo,False
+2411,Unnerve,pyroar,False
+2412,Unnerve,bewear,True
+2413,Unnerve,rookidee,False
+2414,Unnerve,corvisquire,False
+2415,Unnerve,corviknight,False
+2416,Unnerve,calyrex,False
+2417,Unnerve,meowth-galar,True
+2418,Unnerve,meowth-gmax,True
+2419,Unnerve,corviknight-gmax,False
+2420,Unseen Fist,urshifu-single-strike,False
+2421,Unseen Fist,urshifu-rapid-strike,False
+2422,Unseen Fist,urshifu-single-strike-gmax,False
+2423,Unseen Fist,urshifu-rapid-strike-gmax,False
+2424,Victory Star,victini,False
+2425,Vital Spirit,mankey,False
+2426,Vital Spirit,primeape,False
+2427,Vital Spirit,electabuzz,True
+2428,Vital Spirit,magmar,True
+2429,Vital Spirit,delibird,False
+2430,Vital Spirit,tyrogue,True
+2431,Vital Spirit,elekid,True
+2432,Vital Spirit,magby,True
+2433,Vital Spirit,vigoroth,False
+2434,Vital Spirit,electivire,True
+2435,Vital Spirit,magmortar,True
+2436,Vital Spirit,lillipup,False
+2437,Vital Spirit,rockruff,False
+2438,Vital Spirit,lycanroc-midnight,False
+2439,Vital Spirit,mr-mime-galar,False
+2440,Volt Absorb,jolteon,False
+2441,Volt Absorb,chinchou,False
+2442,Volt Absorb,lanturn,False
+2443,Volt Absorb,minun,True
+2444,Volt Absorb,pachirisu,True
+2445,Volt Absorb,zeraora,False
+2446,Volt Absorb,dracozolt,False
+2447,Volt Absorb,arctozolt,False
+2448,Volt Absorb,thundurus-therian,False
+2449,Wandering Spirit,runerigus,False
+2450,Wandering Spirit,yamask-galar,False
+2451,Water Absorb,poliwag,False
+2452,Water Absorb,poliwhirl,False
+2453,Water Absorb,poliwrath,False
+2454,Water Absorb,lapras,False
+2455,Water Absorb,vaporeon,False
+2456,Water Absorb,chinchou,True
+2457,Water Absorb,lanturn,True
+2458,Water Absorb,politoed,False
+2459,Water Absorb,wooper,False
+2460,Water Absorb,quagsire,False
+2461,Water Absorb,mantine,False
+2462,Water Absorb,cacnea,True
+2463,Water Absorb,cacturne,True
+2464,Water Absorb,mantyke,False
+2465,Water Absorb,tympole,True
+2466,Water Absorb,palpitoad,True
+2467,Water Absorb,seismitoad,True
+2468,Water Absorb,maractus,False
+2469,Water Absorb,frillish,False
+2470,Water Absorb,jellicent,False
+2471,Water Absorb,volcanion,False
+2472,Water Absorb,dewpider,True
+2473,Water Absorb,araquanid,True
+2474,Water Absorb,dracovish,False
+2475,Water Absorb,arctovish,False
+2476,Water Absorb,araquanid-totem,True
+2477,Water Absorb,lapras-gmax,False
+2478,Water Bubble,dewpider,False
+2479,Water Bubble,araquanid,False
+2480,Water Bubble,araquanid-totem,False
+2481,Water Compaction,sandygast,False
+2482,Water Compaction,palossand,False
+2483,Water Veil,goldeen,False
+2484,Water Veil,seaking,False
+2485,Water Veil,mantine,True
+2486,Water Veil,wailmer,False
+2487,Water Veil,wailord,False
+2488,Water Veil,huntail,True
+2489,Water Veil,buizel,True
+2490,Water Veil,floatzel,True
+2491,Water Veil,finneon,True
+2492,Water Veil,lumineon,True
+2493,Water Veil,mantyke,True
+2494,Weak Armor,onix,True
+2495,Weak Armor,omanyte,True
+2496,Weak Armor,omastar,True
+2497,Weak Armor,kabuto,True
+2498,Weak Armor,kabutops,True
+2499,Weak Armor,slugma,True
+2500,Weak Armor,magcargo,True
+2501,Weak Armor,skarmory,True
+2502,Weak Armor,roggenrola,False
+2503,Weak Armor,boldore,False
+2504,Weak Armor,dwebble,True
+2505,Weak Armor,crustle,True
+2506,Weak Armor,garbodor,False
+2507,Weak Armor,vanillite,True
+2508,Weak Armor,vanillish,True
+2509,Weak Armor,vanilluxe,True
+2510,Weak Armor,vullaby,True
+2511,Weak Armor,mandibuzz,True
+2512,Weak Armor,sinistea,False
+2513,Weak Armor,polteageist,False
+2514,Weak Armor,cursola,False
+2515,Weak Armor,corsola-galar,False
+2516,Weak Armor,garbodor-gmax,False
+2517,White Smoke,torkoal,False
+2518,White Smoke,heatmor,True
+2519,White Smoke,sizzlipede,False
+2520,White Smoke,centiskorch,False
+2521,White Smoke,centiskorch-gmax,False
+2522,Wimp Out,wimpod,False
+2523,Wonder Guard,shedinja,False
+2524,Wonder Skin,venomoth,True
+2525,Wonder Skin,skitty,True
+2526,Wonder Skin,delcatty,True
+2527,Wonder Skin,sigilyph,False
+2528,Wonder Skin,bruxish,True
+2529,Zen Mode,darmanitan-standard,True
+2530,Zen Mode,darmanitan-zen,True
+2531,Zen Mode,darmanitan-galar-standard,True
+2532,Zen Mode,darmanitan-galar-zen,True
